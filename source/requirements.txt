@@ -1,0 +1,2 @@
+furo==2024.04.27
+git+https://github.com/bonartm/sphinxcontrib-quizdown

@@ -14,18 +14,19 @@ release = '2025.08.25'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinxcontrib.quizdown'
+    ]
 
 templates_path = ['_templates']
-exclude_patterns = []
-
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 html_theme_options = {
     # 'logo_only': True,

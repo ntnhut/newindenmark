@@ -15,7 +15,8 @@ release = '2025.08.25'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'sphinxcontrib.quizdown'
+    'sphinxcontrib.quizdown',
+    'myst_parser',
     ]
 
 templates_path = ['_templates']
@@ -26,6 +27,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
+html_logo = "logo.png"
 # html_static_path = ['_static']
 
 html_theme_options = {
@@ -33,4 +35,9 @@ html_theme_options = {
     "sidebar_hide_name": True,
     # 'nosidebar': True,
     "announcement": "Support my work by <a href='https://buymeacoffee.com/nhutnguyen'  target='_blank'>buying me a coffee</a>!", 
+}
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
 }

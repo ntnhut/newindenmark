@@ -8,6 +8,6 @@ Welcome to New In Denmark!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Previous Tests
 
+   docs/index
    sample_test

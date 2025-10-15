@@ -1,4 +1,4 @@
-LÆREMATERIALE TIL INDFØDSRETSPRØVEN 
+Læremateriale Til Indfødsretsprøven 
 =====================================
 
 .. toctree::

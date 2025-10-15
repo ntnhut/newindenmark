@@ -8,6 +8,7 @@ Welcome to New In Denmark!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Indfødsretsprøven
 
    docs/index
    tests/index

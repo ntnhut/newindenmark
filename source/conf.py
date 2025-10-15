@@ -9,7 +9,6 @@
 project = 'New In Denmark'
 copyright = '2025, Nhut Nguyen'
 author = 'Nhut Nguyen'
-release = '2025.08.25'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

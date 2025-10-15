@@ -1,0 +1,33 @@
+Indfødsretsprøven 2021 November
+==========================================
+
+Hjælpemidler: Ingen
+
+Tid: 45 minutter
+
+Spørgsmål til Indfødsretsprøven
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## 1. Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?
+    
+    1. [x] Christian den 4.
+    2. [ ] Christian den 7.
+        > is not the correct answer. Learn more in section 1.4.2.
+    3. [ ] Christian den 10.
+        > is not the correct answer. Learn more in section 1.4.2.
+
+    ## 2. Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?
+
+    1. [x] Ja
+    2. [ ] Nej
+        > is not the correct answer. Learn more about mindretalsregering in section 2.2.2. REGERINGEN
+

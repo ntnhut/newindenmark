@@ -10,4 +10,4 @@ Welcome to New In Denmark!
    :maxdepth: 2
 
    docs/index
-   sample_test
+   tests/index

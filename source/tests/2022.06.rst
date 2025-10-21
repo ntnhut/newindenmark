@@ -1,0 +1,354 @@
+Indfødsretsprøven 2022 Juni
+==========================================
+
+Hjælpemidler: Ingen
+
+Tid: 45 minutter
+
+Spørgsmål til Indfødsretsprøven
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad har regionerne ansvaret for driften af?
+    1. [ ] Politi
+        > is incorrect; learn more in Section 3.2.3.
+    2. [ ] Børnehaver
+        > is incorrect; learn more in Section 3.2.3.
+    3. [x] Sygehuse
+        > Sygehuse are managed by the five regions. Learn more in Section 3.2.3.
+
+    ## Hvilken dansk forfatter har skrevet bogen Den Afrikanske Farm?
+    1. [x] Karen Blixen
+        > Karen Blixen (1885-1962) skrev 'Den Afrikanske Farm' (Out of Africa) i 1937. Learn more in Section 5.2.
+    2. [ ] H.C. Andersen
+        > is incorrect; learn more in Section 5.2.
+    3. [ ] Tove Ditlevsen
+        > is incorrect; learn more in Section 5.2.2.
+
+    ## Hvornår fik Danmark økonomisk hjælp fra USA i forbindelse med Marshall-planen?
+    1. [ ] Omkring 1920
+        > is incorrect; learn more in Section 1.9.3.
+    2. [x] Omkring 1950
+        > Marshall Aid blev givet i årene 1948-51. Learn more in Section 1.11.1.
+    3. [ ] Omkring 1980
+        > is incorrect; learn more in Section 1.12.3.
+
+    ## For hvilken film vandt Gabriel Axel en Oscar i 1988?
+    1. [ ] Druk
+        > is incorrect; learn more in Section 5.7.
+    2. [ ] Italiensk for begyndere
+        > is incorrect; learn more in Section 5.7.
+    3. [x] Babettes gæstebud
+        > Gabriel Axel vandt en Oscar i 1988 for 'Babettes Gæstebud' (Babette's Feast). Learn more in Section 5.7.
+
+    ## Hvilket parti stemte arbejdere typisk på i midten af 1900-tallet?
+    1. [ ] Venstre
+        > is incorrect; learn more in Section 2.2.6.
+    2. [x] Socialdemokratiet
+        > Arbejdere stemte typisk på Socialdemokratiet. Learn more in Section 2.2.6.
+    3. [ ] Radikale Venstre
+        > is incorrect; learn more in Section 2.2.6.
+
+    ## Hvor mange indbyggere har Grønland?
+    1. [x] Cirka 55.000
+        > Grønland har cirka 57.000 indbyggere. Learn more in Section 6.6.1.
+    2. [ ] Cirka 255.000
+        > is incorrect; learn more in Section 6.6.1.
+    3. [ ] Cirka 455.000
+        > is incorrect; learn more in Section 6.6.1.
+
+    ## Hvilke af følgende landområder mistede Danmark i 1658?
+    1. [x] Skåne, Halland og Blekinge
+        > Danmark måtte afstå disse områder til Sverige i 1658 ved Roskilde-freden. Learn more in Section 1.4.3.
+    2. [ ] Shetlandsøerne og Orkneyøerne
+        > is incorrect; learn more in Section 1.4.3.
+    3. [ ] De Vestindiske Øer
+        > is incorrect; learn more in Section 1.5.
+
+    ## Hvad er NATO?
+    1. [ ] Et internationalt frihandelsområde
+        > is incorrect; learn more in Section 4.4.1.
+    2. [x] En international forsvarsalliance
+        > NATO (Den Nordatlantiske Traktat-organisation) er en forsvarsalliance. Learn more in Section 1.11.1.
+    3. [ ] Et internationalt flygtningesamarbejde
+        > is incorrect; learn more in Section 4.3.1.
+
+    ## Hvornår blev der indført fri abort i Danmark?
+    1. [ ] 1935
+        > is incorrect; learn more in Section 1.12.4.
+    2. [ ] 1951
+        > is incorrect; learn more in Section 1.12.4.
+    3. [x] 1973
+        > Fri abort blev indført i 1973. Learn more in Section 1.12.4.
+
+    ## Er flertallet af lønmodtagere på det danske arbejdsmarked medlem af en fagforening?
+    1. [x] Ja
+        > Næsten to ud af tre (65 procent) af lønmodtagerne er medlem af en fagforening. Learn more in Section 3.4.1.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 3.4.1.
+
+    ## Kan en regering bestemme, hvordan en dommer skal dømme i en retssag?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 2.3.2.
+    2. [x] Nej
+        > De danske domstole er uafhængige, og regeringen kan ikke bestemme, hvordan dommerne skal dømme. Learn more in Section 2.3.2.
+
+    ## I hvilket årti blev Danmark ramt af en flerårig økonomisk krise, som blev udløst af store prisstigninger på olie?
+    1. [ ] 1930’erne
+        > is incorrect; learn more in Section 1.9.4.
+    2. [ ] 1950’erne
+        > is incorrect; learn more in Section 1.11.2.
+    3. [x] 1970’erne
+        > Danmark blev ramt af oliekrisen, der startede i 1974, efter store prisstigninger på olie i 1973. Learn more in Section 1.12.2.
+
+    ## Hvilket af følgende lande har flest indvandrere og efterkommere i Danmark oprindelse i?
+    1. [ ] Pakistan
+        > is incorrect; learn more in Section 6.5.
+    2. [ ] Iran
+        > is incorrect; learn more in Section 6.5.
+    3. [x] Tyrkiet
+        > Tyrkiet har flest indvandrere og efterkommere i Danmark (68.000 pr. januar 2025). Learn more in Section 6.5.
+
+    ## Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?
+    1. [ ] Grundlovsændringen i 1866
+        > is incorrect; learn more in Section 1.8.4.
+    2. [x] Grundlovsændringen i 1915
+        > Kvinder fik valgret til Rigsdagen (Folketinget og Landstinget) med grundlovsændringen i 1915. Learn more in Section 1.8.4.
+    3. [ ] Grundlovsændringen i 1953
+        > is incorrect; learn more in Section 1.11.1.
+
+    ## Hvad er Danmark og en række andre lande især forpligtet til ifølge Paris-aftalen fra 2015?
+    1. [x] At reducere udslippet af drivhusgasser i atmosfæren
+        > Paris-aftalen (2015) forpligter landene til at reducere det globale udslip af drivhusgasser. Learn more in Section 6.17.
+    2. [ ] At bruge flere penge på forsvaret
+        > is incorrect; learn more in Section 4.4.3.
+    3. [ ] At samarbejde om forebyggelse af grænseoverskridende kriminalitet
+        > is incorrect; learn more in Section 4.2.1.
+
+    ## Hvilket parti tilhørte Poul Schlüter, som var statsminister i perioden 1982-93?
+    1. [ ] Socialdemokratiet
+        > is incorrect; learn more in Section 1.12.3.
+    2. [ ] Radikale Venstre
+        > is incorrect; learn more in Section 1.12.3.
+    3. [x] Det Konservative Folkeparti
+        > Poul Schlüter var Danmarks første og hidtil eneste statsminister fra Det Konservative Folkeparti. Learn more in Section 1.12.3.
+
+    ## Var Danmark besat af tyske tropper under 1. Verdenskrig?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 1.9.1.
+    2. [x] Nej
+        > Det neutrale Danmark blev ikke direkte berørt af 1. Verdenskrig (1914-1918). Learn more in Section 1.9.1.
+
+    ## Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?
+    1. [ ] Stat og kommuner
+        > is incorrect; learn more in Section 3.4.2.
+    2. [ ] Regering og embedsmænd
+        > is incorrect; learn more in Section 3.4.2.
+    3. [x] Fagforeninger og arbejdsgiverorganisationer
+        > Kollektive overenskomster indgås mellem fagforeninger og arbejdsgiverorganisationer. Learn more in Section 3.4.2.
+
+    ## Hvem har som udgangspunkt forældremyndigheden, når en far og en mor, der er gift med hinanden, har et fælles barn?
+    1. [x] Faren og moren i fællesskab
+        > I et ægteskab har moderen og faderen fælles forældremyndighed over deres fælles børn. Learn more in Section 6.13.
+    2. [ ] Faren
+        > is incorrect; learn more in Section 6.13.
+    3. [ ] Moren
+        > is incorrect; learn more in Section 6.13.
+
+    ## Hvor mange kommuner er der i Danmark?
+    1. [ ] 38
+        > is incorrect; learn more in Section 2.2.5.
+    2. [ ] 68
+        > is incorrect; learn more in Section 2.2.5.
+    3. [x] 98
+        > En strukturreform i 2007 reducerede antallet af kommuner til 98. Learn more in Section 2.2.5.
+
+    ## Hvilken religion var den mest udbredte i Danmark i middelalderen (cirka 1050-1500)?
+    1. [x] Katolsk kristendom
+        > I middelalderen var den danske kirke en del af den katolske kirke under paven i Rom. Learn more in Section 1.3.1.
+    2. [ ] Protestantisk kristendom
+        > is incorrect; learn more in Section 1.4.1.
+    3. [ ] Ortodoks kristendom
+        > is incorrect; learn more in Section 6.9.
+
+    ## Hvornår blev Enhedslisten valgt til Folketinget første gang?
+    1. [ ] 1973
+        > is incorrect; learn more in Section 1.12.1.
+    2. [x] 1994
+        > Enhedslisten (De Rød-Grønne) blev valgt til Folketinget første gang i 1994. Learn more in Section 1.13.2.
+    3. [ ] 2011
+        > is incorrect; learn more in Section 1.13.7.
+
+    ## Hvor længe varede Danmarks officielle militære modstand, da Tyskland angreb Danmark den 9. april 1940?
+    1. [x] Mindre end en dag
+        > Militær modstand mod det tyske angreb den 9. april 1940 varede kun i ganske få timer. Learn more in Section 1.10.1.
+    2. [ ] Cirka en måned
+        > is incorrect; learn more in Section 1.10.1.
+    3. [ ] Mere end et år
+        > is incorrect; learn more in Section 1.10.1.
+
+    ## Er der flest mænd eller kvinder, der fuldfører en videregående uddannelse?
+    1. [ ] Mænd
+        > is incorrect; learn more in Section 6.15.
+    2. [x] Kvinder
+        > I 2023 fuldførte ca. 64% af kvinderne en videregående uddannelse mod 45% af mændene. Learn more in Section 6.15.
+
+    ## Hvornår blev andelsbevægelsen grundlagt i Danmark med oprettelsen af de første brugsforeninger og andelsmejerier?
+    1. [ ] I 1700-tallet
+        > is incorrect; learn more in Section 1.8.2.
+    2. [x] I 1800-tallet
+        > Andelsbevægelsen kom til Danmark i midten af 1800-tallet og førte til oprettelsen af andelsmejerier og brugsforeninger. Learn more in Section 1.8.2.
+    3. [ ] I 1900-tallet
+        > is incorrect; learn more in Section 1.8.2.
+
+    ## Hvilket år blev Margrethe d. 2. dronning af Danmark?
+    1. [x] 1972
+        > Margrethe II overtog tronen den 14. januar 1972 efter sin far, Frederik IX's, død. Learn more in Section 6.4.
+    2. [ ] 1982
+        > is incorrect; learn more in Section 6.4.
+    3. [ ] 1992
+        > is incorrect; learn more in Section 6.4.
+
+    ## Hvem har skrevet et stort antal af salmerne i Den Danske Salmebog?
+    1. [ ] Herman Bang
+        > is incorrect; learn more in Section 5.2.
+    2. [ ] Ludvig Holberg
+        > is incorrect; learn more in Section 5.2.
+    3. [x] N.F.S. Grundtvig
+        > N.F.S. Grundtvig skrev mere end 1.500 salmer og fædrelandssange i løbet af sin levetid. Learn more in Section 6.11.
+
+    ## Hvad er Anna Ancher og Michael Ancher særligt kendt for?
+    1. [ ] De var komponister
+        > is incorrect; learn more in Section 5.3.
+    2. [ ] De var filminstruktører
+        > is incorrect; learn more in Section 5.7.
+    3. [x] De var kunstmalere
+        > Anna Ancher og Michael Ancher tilhørte kredsen af de såkaldte Skagensmalere. Learn more in Section 5.3.
+
+    ## I hvilke årtier udspiller det meste af tv-serien Matador sig?
+    1. [ ] 1880’erne og 1890’erne
+        > is incorrect; learn more in Section 5.7.
+    2. [x] 1930’erne og 1940’erne
+        > Tv-serien Matador udspiller sig i 1930'ernes og 1940'ernes Danmark. Learn more in Section 5.7.
+    3. [ ] 1960’erne og 1970’erne
+        > is incorrect; learn more in Section 5.7.
+
+    ## Hvad hedder den danske EU-kommissær?
+    1. [x] Margrethe Vestager
+        > Margrethe Vestager (Radikale Venstre) var den danske EU-kommissær fra 2014-2024. Learn more in Section 4.2.1.
+    2. [ ] Margrete Auken
+        > is incorrect; learn more in Section 4.2.1.
+    3. [ ] Helle Thorning-Schmidt
+        > is incorrect; learn more in Section 1.13.5.
+
+    ## Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?
+    1. [x] De er faldet
+        > Medlemstallet i politiske partier er faldet markant siden 1950. Learn more in Section 2.2.6.
+    2. [ ] De er steget
+        > is incorrect; learn more in Section 2.2.6.
+
+    ## Hvilken organisation blev Danmark medlem af i 1945?
+    1. [ ] Verdenshandelsorganisationen (WTO)
+        > is incorrect; learn more in Section 4.3.
+    2. [ ] Den Europæiske Union (EU)
+        > is incorrect; learn more in Section 4.2.1.
+    3. [x] De Forenede Nationer (FN)
+        > Danmark har været medlem af FN siden stiftelsen i 1945. Learn more in Section 4.3.1.
+
+    ## Hvilken dag er det grundlovsdag i Danmark?
+    1. [x] Den 5. juni
+        > Grundlovsdag fejres den 5. juni som en markering af Danmarks første demokratiske grundlov i 1849. Learn more in Section 2.2.1.
+    2. [ ] Den 15. juni
+        > is incorrect; learn more in Section 2.2.1.
+    3. [ ] Den 23. juni
+        > is incorrect; learn more in Section 6.10.
+
+    ## Betaler alle skattepligtige borgere kirkeskat?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.9.
+    2. [x] Nej
+        > Kun medlemmer af folkekirken betaler kirkeskat. Learn more in Section 6.9.
+
+    ## Hvortil kan man anke en afgørelse fra byretten?
+    1. [x] Landsretten
+        > En sag, der starter i byretten, kan som hovedregel appelleres til landsretten. Learn more in Section 2.3.2.
+    2. [ ] Højesteret
+        > is incorrect; learn more in Section 2.3.2.
+
+    ## Hvor stor en andel af Danmarks befolkning er blevet vaccineret mindst to gange mod coronavirus?
+    1. [ ] Cirka 30 procent
+        > is incorrect; learn more in Section 1.13.6.
+    2. [ ] Cirka 50 procent
+        > is incorrect; learn more in Section 1.13.6.
+    3. [x] Cirka 80 procent
+        > Siden vaccineudrulningen er de fleste (cirka 90%) af befolkningen blevet vaccineret mindst to gange. Learn more in Section 1.13.6.
+
+    ## Hvem blev valgt som ny formand for Dansk Folkeparti i januar 2022?
+    1. [ ] Pia Kjærsgaard
+        > is incorrect.
+    2. [x] Morten Messerschmidt
+        > Morten Messerschmidt blev valgt som ny formand for Dansk Folkeparti i januar 2022.
+    3. [ ] Kristian Thulesen Dahl
+        > is incorrect.
+
+    ## Hvilke partier anbefaler vælgerne at stemme nej til, at Danmark afskaffer EU-forsvarsforbeholdet ved folkeafstemningen den 1. juni?
+    1. [ ] Socialdemokratiet, Radikale Venstre og Socialistisk Folkeparti
+        > is incorrect; learn more in Section 4.2.1.
+    2. [ ] Venstre, Det Konservative Folkeparti og Liberal Alliance
+        > is incorrect; learn more in Section 4.2.1.
+    3. [x] Dansk Folkeparti, Enhedslisten og Nye Borgerlige
+        > Disse partier anbefalede vælgerne at stemme nej ved folkeafstemningen om EU-forsvarsforbeholdet. Learn more in Section 4.2.1.
+
+    ## Hvilken fodboldspiller spillede igen for landsholdet i marts 2022 efter 9 måneders fravær på grund af et hjertestop?
+    1. [ ] Simon Kjær
+        > is incorrect.
+    2. [x] Christian Eriksen
+        > Christian Eriksen spillede igen for landsholdet i marts 2022 efter et hjertestop i juni 2021.
+    3. [ ] Kasper Schmeichel
+        > is incorrect.
+
+    ## Hvilken domstol dømte tidligere udlændinge- og integrationsminister Inger Støjberg for ulovligt at have adskilt asylsøgende par?
+    1. [ ] Landsretten
+        > is incorrect; learn more in Section 2.2.2.
+    2. [ ] Højesteret
+        > is incorrect; learn more in Section 2.2.2.
+    3. [x] Rigsretten
+        > Rigsretten dømte den tidligere minister i 2021 for ulovlige handlinger i embeds medfør. Learn more in Section 2.2.2.
+
+    ## Kan man ifølge dansk lov kræve, at kød, der serveres i daginstitutioner, stammer fra dyr, der er rituelt slagtet?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.9.
+    2. [x] Nej
+        > Det er ikke muligt at kræve rituelt slagtet kød i offentlige institutioner, da det strider mod neutraliteten. Learn more in Section 6.9.
+
+    ## Kan kvinder blive biskopper i den danske folkekirke?
+    1. [x] Ja
+        > Den danske folkekirke er en bred og rummelig kirke, og kvinder kan bestride alle kirkelige stillinger, herunder biskop. Learn more in Section 6.9.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 6.9.
+
+    ## Kan personer med bopæl i Danmark blive straffet med fængsel på livstid for at tilslutte sig en væbnet styrke, som kæmper mod den danske stat?
+    1. [x] Ja
+        > Fængsel på livstid (livstid) er en mulig straf for meget alvorlige forbrydelser som for eksempel terrorisme. Learn more in Section 2.3.4.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 2.3.4.
+
+    ## Kan man ifølge dansk lov indgå ægteskab med mere end én person ad gangen?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.13.
+    2. [x] Nej
+        > I Danmark kan ægteskab kun indgås mellem to personer. Learn more in Section 6.13.
+
+    ## Er Danmark blandt de tre lande i verden, som menes at have mindst korruption i den offentlige sektor ifølge Transparency International (Corruption Perception Index, 2021)?
+    1. [x] Ja
+        > Den danske offentlige forvaltning er internationalt kendetegnet ved at være meget lidt korrupt. Learn more in Section 2.3.2.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 2.3.2.

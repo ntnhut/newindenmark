@@ -9,3 +9,4 @@ Tidligere indfødsretsprøver
    :maxdepth: 1
 
    2021.11
+   2022.06

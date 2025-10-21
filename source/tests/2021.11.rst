@@ -17,17 +17,387 @@ Spørgsmål til Indfødsretsprøven
     shuffle_questions: false
     ---
 
-    ## 1. Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?
+    ## Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?
     
     1. [x] Christian den 4.
+        > Christian IV (1588-1648) built these structures and also Frederiksborg Slot and Københavns Børs. Learn more in Section 1.4.
     2. [ ] Christian den 7.
-        > is not the correct answer. Learn more in section 1.4.2.
+        > is incorrect; learn more in Section 1.4.2.
     3. [ ] Christian den 10.
-        > is not the correct answer. Learn more in section 1.4.2.
+        > is incorrect; learn more in Section 1.4.2.
 
-    ## 2. Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?
-
+    ## Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?
+    
     1. [x] Ja
+        > A government can be a minority government (mindretalsregering). Learn more in Section 2.2.2.
     2. [ ] Nej
-        > is not the correct answer. Learn more about mindretalsregering in section 2.2.2. REGERINGEN
+        > is incorrect; learn more about mindretalsregering in Section 2.2.2.
 
+    ## Hvor stor en andel af Danmarks befolkning er medlem af folkekirken?
+    
+    1. [ ] Cirka én ud af tre
+        > is incorrect; learn more in Section 6.9.1.
+    2. [ ] Cirka én ud af to
+        > is incorrect; learn more in Section 6.9.1.
+    3. [x] Cirka tre ud af fire
+        > The percentage is typically around 75%. Learn more in Section 6.9.1.
+
+    ## Fra hvilket land kom der over 200.000 krigsflygtninge til Danmark i forbindelse med 2. Verdenskrig?
+    
+    1. [ ] Frankrig
+        > is incorrect; learn more in Section 1.10.3.
+    2. [x] Tyskland
+        > About 250,000 German refugees arrived in 1945. Learn more in Section 1.10.3.
+    3. [ ] Rusland
+        > is incorrect; learn more in Section 1.10.3.
+
+    ## Hvem har designet "Your rainbow panorama" (Din regnbueudsigt), der er placeret oven på kunstmuseet ARoS i Aarhus?
+    
+    1. [ ] Arne Jacobsen
+        > is incorrect; learn more in Section 5.5.3.
+    2. [x] Olafur Eliasson
+        > Your rainbow panorama was created by the Danish-Icelandic artist Olafur Eliasson. Learn more in Section 5.3.3.
+    3. [ ] Jørn Utzon
+        > is incorrect; learn more in Section 5.5.3.
+
+    ## Hvilke krige med dansk deltagelse blev udkæmpet i 1600-tallet?
+    
+    1. [ ] De Slesvigske Krige
+        > is incorrect; learn more in Section 1.7.
+    2. [ ] Englandskrigene
+        > is incorrect; learn more in Section 1.6.2.
+    3. [x] Svenskekrigene
+        > The Swedish Wars dominated the 17th century (1600s). Learn more in Section 1.4.
+
+    ## Hvor længe kan politiet tilbageholde en anholdt person med lovligt ophold i Danmark, før personen skal stilles for en dommer?
+    
+    1. [x] I op til ét døgn
+        > An arrested person must be brought before a judge within 24 hours (1 døgn), according to the Constitution. Learn more in Section 2.3.1.
+    2. [ ] I op til tre døgn
+        > is incorrect; learn more in Section 2.3.1.
+    3. [ ] I op til én uge
+        > is incorrect; learn more in Section 2.3.1.
+
+    ## Hvad karakteriserede blandt andet 1960'erne i Danmark?
+    
+    1. [ ] Oliekrise og høj arbejdsløshed
+        > is incorrect (this describes the 1970s); learn more in Section 1.12.1.
+    2. [x] Høj økonomisk vækst med stor stigning i produktion og forbrug
+        > The 1960s was a period of high economic growth and consumerism. Learn more in Section 1.11.2.
+
+    ## Hvilken tidligere dansk statsminister blev i 2009 generalsekretær for NATO?
+    
+    1. [ ] Poul Nyrup Rasmussen
+        > is incorrect; learn more in Section 1.13.2.
+    2. [x] Anders Fogh Rasmussen
+        > Anders Fogh Rasmussen served as NATO Secretary General from 2009-2014. Learn more in Section 1.13.2.
+    3. [ ] Helle Thorning-Schmidt
+        > is incorrect; learn more in Section 1.13.2.
+
+    ## Hvilken af følgende internationale organisationer blev Danmark medlem af i 1973?
+    
+    1. [x] EF
+        > Denmark joined the European Economic Community (EF) in 1973. Learn more in Section 1.12.1.
+    2. [ ] WTO
+        > is incorrect; learn more in Section 1.12.1.
+    3. [ ] OECD
+        > is incorrect; learn more in Section 1.12.1.
+
+    ## Hvad hedder den øverste domstol i Danmark?
+    
+    1. [ ] Landsretten
+        > is incorrect; learn more in Section 2.3.2.
+    2. [x] Højesteret
+        > Højesteret (The Supreme Court) is the highest court of appeal. Learn more in Section 2.3.2.
+    3. [ ] Statsretten
+        > is incorrect; learn more in Section 2.3.2.
+
+    ## Hvem har ansvaret for driften af jobcentrene?
+    
+    1. [x] Kommunerne
+        > Job centers are managed by the municipalities (kommunerne). Learn more in Section 3.4.1.
+    2. [ ] Regionerne
+        > is incorrect; learn more in Section 3.4.1.
+    3. [ ] Staten
+        > is incorrect; learn more in Section 3.4.1.
+
+    ## I hvilket år blev amterne erstattet af regionerne?
+    
+    1. [ ] 1933
+        > is incorrect; learn more in Section 2.2.3.
+    2. [ ] 1968
+        > is incorrect; learn more in Section 2.2.3.
+    3. [x] 2007
+        > The municipal reform that replaced the counties (amterne) with regions was effective in 2007. Learn more in Section 2.2.3.
+
+    ## Hvilken begivenhed fandt sted i Danmark i 1807?
+    
+    1. [ ] Danmark måtte afstå Slesvig
+        > is incorrect; learn more in Section 1.7.
+    2. [ ] Kongen underskrev Danmarks Riges Grundlov
+        > is incorrect; learn more in Section 1.7.
+    3. [x] Briterne bombarderede København
+        > The Bombardment of Copenhagen took place in 1807 during the Napoleonic Wars. Learn more in Section 1.6.2.
+
+    ## Må en dommer bære synlige religiøse symboler i en retssal?
+    
+    1. [ ] Ja
+        > is incorrect; learn more in Section 2.3.4.
+    2. [x] Nej
+        > Judges are generally not permitted to wear visible religious symbols, which is part of the courts' neutrality. Learn more in Section 2.3.4.
+
+    ## Hvad er den kriminelle lavalder i Danmark?
+
+    1. [ ] 12 år
+        > is incorrect; learn more in Section 2.3.1.
+    2. [x] 15 år
+        > The age of criminal responsibility (kriminelle lavalder) is 15 years old. Learn more in Section 2.3.1.
+    3. [ ] 18 år
+        > is incorrect; learn more in Section 2.3.1.
+
+    ## Hvor har USA luftbasen Thulebasen?
+    
+    1. [ ] På Bornholm
+        > is incorrect; learn more in Section 6.6.3.
+    2. [ ] På Færøerne
+        > is incorrect; learn more in Section 6.6.3.
+    3. [x] I Grønland
+        > Thule Air Base (Pituffik Space Base) is located in Greenland. Learn more in Section 6.6.3.
+
+    ## Hvornår blev Nordslesvig, i dag kaldet Sønderjylland, genforenet med Danmark?
+    
+    1. [ ] 1901
+        > is incorrect; learn more in Section 1.9.3.
+    2. [x] 1920
+        > Nordslesvig (Sønderjylland) was reunified with Denmark in 1920 following a plebiscite. Learn more in Section 1.9.3.
+    3. [ ] 1945
+        > is incorrect; learn more in Section 1.9.3.
+
+    ## 19. Hvad var middel-levetiden for kvinder i 2019-2020?
+    
+    1. [ ] 78-79 år
+        > is incorrect; learn more in Section 6.16.1.
+    2. [x] 83-84 år
+        > The average life expectancy for women in 2019-2020 was approximately 83.5 years. Learn more in Section 6.16.1.
+    3. [ ] 88-89 år
+        > is incorrect; learn more in Section 6.16.1.
+
+    ## Hvor stor en del af alle lønmodtagere arbejder i dag i den offentlige sektor?
+    
+    1. [x] Cirka en tredjedel
+        > Approximately one third of all employees work in the public sector. Learn more in Section 3.2.1.
+    2. [ ] Cirka to tredjedele
+        > is incorrect; learn more in Section 3.2.1.
+
+    ## Hvad var Knud Rasmussen (1879-1933) særligt kendt for?
+    
+    1. [ ] Han var komponist
+        > is incorrect; learn more in Section 6.8.3.
+    2. [ ] Han var kunstmaler
+        > is incorrect; learn more in Section 6.8.3.
+    3. [x] Han var polarforsker
+        > Knud Rasmussen was a famous Greenlandic/Danish polar explorer. Learn more in Section 6.8.3.
+
+    ## I hvilket årti åbnede Danmarks første jernbanestrækning?
+    
+    1. [ ] 1780'erne
+        > is incorrect; learn more in Section 1.8.1.
+    2. [x] 1840'erne
+        > Denmark's first railway line opened in 1847. Learn more in Section 1.8.1.
+    3. [ ] 1910'erne
+        > is incorrect; learn more in Section 1.8.1.
+
+    ## Hvilken af følgende bygninger har den kendte danske arkitekt og designer Arne Jacobsen tegnet?
+    
+    1. [ ] Operaen i København
+        > is incorrect; learn more in Section 5.5.3.
+    2. [ ] Christiansborg
+        > is incorrect; learn more in Section 5.5.3.
+    3. [x] Danmarks Nationalbank
+        > Arne Jacobsen designed Danmarks Nationalbank and the SAS Royal Hotel, among others. Learn more in Section 5.5.3.
+
+    ## Hvor gammel skal man være for at købe cigaretter i Danmark?
+    
+    1. [ ] Mindst 16 år
+        > is incorrect; learn more in Section 6.16.2.
+    2. [x] Mindst 18 år
+        > The legal age for buying tobacco products is 18 years. Learn more in Section 6.16.2.
+    3. [ ] Mindst 21 år
+        > is incorrect; learn more in Section 6.16.2.
+
+    ## Hvilket af følgende partier fik flest stemmer ved folketingsvalget i 2019?
+    
+    1. [x] Venstre
+        > Venstre received the most votes (23.4%) in the 2019 general election. Learn more in Section 2.2.4.
+    2. [ ] Det Konservative Folkeparti
+        > is incorrect; learn more in Section 2.2.4.
+    3. [ ] Dansk Folkeparti
+        > is incorrect; learn more in Section 2.2.4.
+
+    ## Hvor ofte skal der ifølge grundloven være folketingsvalg i Danmark?
+    
+    1. [ ] Mindst hvert tredje år
+        > is incorrect; learn more in Section 2.2.4.
+    2. [x] Mindst hvert fjerde år
+        > According to the Constitution, elections must be held at least every four years. Learn more in Section 2.2.4.
+    3. [ ] Mindst hvert femte år
+        > is incorrect; learn more in Section 2.2.4.
+
+    ## Hvilket politisk parti blev dannet i slutningen af 1950'erne som udbryder af Danmarks Kommunistiske Parti (DKP)?
+    
+    1. [ ] Enhedslisten
+        > is incorrect; learn more in Section 1.11.1.
+    2. [ ] Det Radikale Venstre
+        > is incorrect; learn more in Section 1.11.1.
+    3. [x] Socialistisk Folkeparti
+        > SF was formed in 1959 by Aksel Larsen, who was excluded from the Communist Party (DKP). Learn more in Section 1.11.1.
+
+    ## Hvad indebar den seneste ændring af grundloven i 1953 blandt andet?
+    
+    1. [ ] At valgretsalderen blev sænket til 18 år
+        > is incorrect (this happened in 1978); learn more in Section 2.2.1.
+    2. [x] At kvinder fik mulighed for at arve tronen
+        > The 1953 constitutional change introduced conditional female succession. Learn more in Section 2.2.1.
+    3. [ ] At Danmark blev medlem af FN
+        > is incorrect; learn more in Section 2.2.1.
+
+    ## Hvor højt er Danmarks højeste naturlige punkt?
+    
+    1. [x] Cirka 170 meter over havets overflade
+        > Denmark's highest natural point, Møllehøj, is 170.86 meters above sea level. Learn more in Section 6.1.1.
+    2. [ ] Cirka 470 meter over havets overflade
+        > is incorrect; learn more in Section 6.1.1.
+    3. [ ] Cirka 770 meter over havets overflade
+        > is incorrect; learn more in Section 6.1.1.
+
+    ## Omkring hvilken krig blev Danmark ramt af influenza-epidemien "Den Spanske Syge"?
+    
+    1. [ ] 2nd Slesvigske Krig
+        > is incorrect; learn more in Section 1.7.
+    2. [x] 1st Verdenskrig
+        > The Spanish Flu epidemic occurred in 1918-1919, towards the end of World War I. Learn more in Section 1.9.1.
+    3. [ ] 2nd Verdenskrig
+        > is incorrect; learn more in Section 1.9.1.
+
+    ## Hvor mange indbyggere har Færøerne?
+    
+    1. [x] Cirka 50.000
+        > The Faroe Islands have a population of around 54,000. Learn more in Section 6.6.2.
+    2. [ ] Cirka 150.000
+        > is incorrect; learn more in Section 6.6.2.
+    3. [ ] Cirka 250.000
+        > is incorrect; learn more in Section 6.6.2.
+
+    ## Hvem var Danmarks første socialdemokratiske statsminister?
+    
+    1. [x] Thorvald Stauning
+        > Thorvald Stauning became Denmark's first Social Democratic Prime Minister in 1924. Learn more in Section 1.9.3.
+    2. [ ] Anker Jørgensen
+        > is incorrect; learn more in Section 1.9.3.
+    3. [ ] Poul Nyrup Rasmussen
+        > is incorrect; learn more in Section 1.9.3.
+
+    ## Hvorfor kaldes folketingsvalget i 1973 for "Jordskredsvalget"?
+    
+    1. [ ] Fordi der blev valgt flere kvinder end mænd til Folketinget
+        > is incorrect; learn more in Section 1.12.1.
+    2. [x] Fordi mange vælgere stemte på nye partier
+        > The 1973 election was a landslide because many new parties entered the Folketing. Learn more in Section 1.12.1.
+    3. [ ] Fordi Socialdemokratiet opnåede absolut flertal
+        > is incorrect; learn more in Section 1.12.1.
+
+    ## Hvem har skrevet romanen "Barndommens Gade" fra 1943?
+    
+    1. [ ] Naja Marie Aidt
+        > is incorrect; learn more in Section 5.2.2.
+    2. [ ] Leonora Christina Skov
+        > is incorrect; learn more in Section 5.2.2.
+    3. [x] Tove Ditlevsen
+        > Tove Ditlevsen wrote "Barndommens Gade" (Childhood's Street) in 1943. Learn more in Section 5.2.2.
+
+    ## Kan man blive minister, hvis man ikke er medlem af Folketinget?
+    
+    1. [x] Ja
+        > Ministers do not have to be members of the Folketing, though they often are. Learn more in Section 2.2.2.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 2.2.2.
+
+    ## I hvilken sport vandt Viktor Axelsen guld ved OL i Tokyo?
+    
+    1. [x] Badminton
+        > Viktor Axelsen won gold in the men's singles badminton competition (a current event in 2021).
+    2. [ ] Hækkeløb
+        > is incorrect.
+    3. [ ] Svømning
+        > is incorrect.
+
+    ## Hvem opløste i september 2021 foreningen "Loyal to Familia"?
+    
+    1. [ ] Folketinget
+        > is incorrect; learn more in Section 2.3.4.
+    2. [ ] Regeringen
+        > is incorrect; learn more in Section 2.3.4.
+    3. [x] Højesteret
+        > The Supreme Court (Højesteret) dissolved the gang Loyal to Familia (a current event in 2021). Learn more in Section 2.3.4.
+
+    ## Hvem blev udnævnt til kultur- og kirkeminister i august 2021?
+    
+    1. [ ] Pernille Skipper
+        > is incorrect.
+    2. [ ] Sophie Løhde
+        > is incorrect.
+    3. [x] Ane Halsboe-Jørgensen
+        > Ane Halsboe-Jørgensen was appointed Minister of Culture and Church in August 2021 (a current event in 2021).
+
+    ## Hvilket parti fik flest stemmer ved kommunalvalget på landsplan den 16. november 2021?
+    
+    1. [x] Socialdemokratiet
+        > The Social Democrats received the highest number of votes nationally in the municipal elections in November 2021 (a current event in 2021).
+    2. [ ] Venstre
+        > is incorrect.
+    3. [ ] Konservative Folkeparti
+        > is incorrect.
+
+    ## Hvilken gruppe af offentligt ansatte strejkede i sommeren 2021 efter at have stemt nej til et overenskomstforslag?
+    
+    1. [ ] Folkeskolelærere
+        > is incorrect.
+    2. [x] Sygeplejersker
+        > The nurses' strike (Sygeplejerskestrejke) was a major event during the summer of 2021 (a current event in 2021).
+    3. [ ] Pædagoger
+        > is incorrect.
+
+    ## Har alle friskoler og private grundskoler pligt til at udvikle og styrke elevernes respekt for ligestilling mellem kønnene?
+    
+    1. [x] Ja
+        > All private and free basic schools have a duty to develop and strengthen students' respect for gender equality. Learn more in Section 6.15.2.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 6.15.2.
+
+    ## Kan man komme i fængsel for at sende sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare (genopdragelsesrejse)?
+    
+    1. [x] Ja
+        > New legislation introduced the possibility of imprisonment for sending a child abroad for a "re-education trip" that endangers their well-being. Learn more in Section 6.14.3.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 6.14.3.
+
+    ## Kan en familie ifølge dansk lov bestemme, hvem et familiemedlem på 18 år må være kæreste med?
+    
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.13.1.
+    2. [x] Nej
+        > An 18-year-old is legally an adult and has the right to choose their partner. Learn more in Section 6.13.1.
+
+    ## Er det lovligt at gennemføre en religiøs vielse af mindreårige i Danmark?
+    
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.13.2.
+    2. [x] Nej
+        > Religious ceremonies of marriage for minors are prohibited in Denmark. Learn more in Section 6.13.2.
+
+    ## Kan man ifølge dansk lov kræve, at svømmehaller har separate åbningstider for kvinder og mænd?
+    
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.15.1.
+    2. [x] Nej
+        > Public services must generally be available to everyone, regardless of gender, so separate opening hours cannot be legally required. Learn more in Section 6.15.1.

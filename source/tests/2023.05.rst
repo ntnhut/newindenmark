@@ -1,0 +1,352 @@
+The Citizenship Test 2023 May
+==========================================
+
+Aids: None
+
+Time: 45 minutes
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilket af følgende områder har kommunerne ansvaret for driften af?
+    1. [ ] Domstole
+        > is incorrect; learn more in Section 3.4.1.
+    2. [x] Vuggestuer
+        > Municipalities are responsible for the operation of crèches (vuggestuer) and kindergartens. Learn more in Section 3.4.1.
+    3. [ ] Sygehuse
+        > is incorrect; learn more in Section 3.4.1.
+
+    ## Hvilken filminstruktør vandt en Oscar for filmen Hævnen fra 2010?
+    1. [ ] Erik Balling
+        > is incorrect; learn more in Section 5.7.
+    2. [ ] Carl Theodor Dreyer
+        > is incorrect; learn more in Section 5.7.
+    3. [x] Susanne Bier
+        > Susanne Bier won an Oscar for 'Hævnen' (In a Better World) in 2010. Learn more in Section 5.7.
+
+    ## Hvornår besluttede Island ved en folkeafstemning at oprette en republik, der var uafhængig af Danmark?
+    1. [ ] 1904
+        > is incorrect; learn more in Section 1.10.3.
+    2. [x] 1944
+        > The Republic of Iceland was proclaimed on June 17, 1944, following a plebiscite on full independence. Learn more in Section 1.10.3.
+    3. [ ] 1984
+        > is incorrect; learn more in Section 1.10.3.
+
+    ## Hvilket parti tilhørte Lars Løkke Rasmussen, da han var statsminister i perioderne 2009-11 og 2015-19?
+    1. [x] Venstre
+        > Lars Løkke Rasmussen (Venstre) was Prime Minister from 2009-11 and 2015-19. Learn more in Section 1.13.5.
+    2. [ ] Socialdemokratiet
+        > is incorrect; learn more in Section 2.2.2.
+    3. [ ] Det Konservative Folkeparti
+        > is incorrect; learn more in Section 2.2.2.
+
+    ## Hvem består Rådet for Den Europæiske Union af?
+    1. [ ] Politikere direkte valgt af EU's befolkninger
+        > is incorrect; learn more in Section 4.2.1.
+    2. [ ] Embedsmænd udpeget af EU-Kommissionen
+        > is incorrect; learn more in Section 4.2.1.
+    3. [x] Ministre fra medlemsstaternes regeringer
+        > The Council of the European Union (also called the Council or the Council of Ministers) consists of ministers from the member states' governments. Learn more in Section 4.2.1.
+
+    ## Hvad hedder Grønlands største by?
+    1. [x] Nuuk
+        > Nuuk (Godthåb) is the capital and largest city in Greenland, with about 20,000 inhabitants. Learn more in Section 6.6.1.
+    2. [ ] Tórshavn
+        > is incorrect (Tórshavn is the capital of the Faroe Islands); learn more in Section 6.6.2.
+    3. [ ] Reykjavik
+        > is incorrect; learn more in Section 6.6.1.
+
+    ## Hvor gammel skal man mindst være for at købe stærk spiritus?
+    1. [ ] 15 år
+        > is incorrect; learn more in Section 6.16.2.
+    2. [x] 18 år
+        > The legal age for buying strong spirits (6.6 percent alcohol content and above) is 18 years. Learn more in Section 6.16.2.
+    3. [ ] 21 år
+        > is incorrect; learn more in Section 6.16.2.
+
+    ## Hvilket af følgende partier er ældst?
+    1. [x] Det Konservative Folkeparti
+        > Højre, which reorganized as Det Konservative Folkeparti in 1915-16, was founded around 1870. Learn more in Section 1.8.3.
+    2. [ ] Dansk Folkeparti
+        > is incorrect (founded in 1990s); learn more in Section 1.13.2.
+    3. [ ] Socialistisk Folkeparti
+        > is incorrect (founded in 1959); learn more in Section 1.11.1.
+
+    ## Hvad hed forsangeren i bandet Gasolin?
+    1. [x] Kim Larsen
+        > Kim Larsen (1945-2018) was the lead singer of the band Gasolin. Learn more in Section 5.4.
+    2. [ ] Michael Bundesen
+        > is incorrect; learn more in Section 5.4.
+    3. [ ] Steffen Brandt
+        > is incorrect; learn more in Section 5.4.
+
+    ## I hvilket af følgende århundreder fandt dansk slavehandel mellem Afrika og de danske kolonier i Caribien sted?
+    1. [ ] 1100-tallet
+        > is incorrect; learn more in Section 1.3.1.
+    2. [ ] 1400-tallet
+        > is incorrect; learn more in Section 1.3.2.
+    3. [x] 1700-tallet
+        > Slave trade was active in the 17th and 18th centuries, primarily transporting slaves to the Danish colonies in the Caribbean. Learn more in Section 1.5.
+
+    ## Kan regionerne opkræve skatter?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 2.2.5.
+    2. [x] Nej
+        > Unlike the former counties (amter), regions cannot levy taxes. Learn more in Section 2.2.5.
+
+    ## Hvilket af følgende steder i København blev der begået et terrorangreb i 2015?
+    1. [x] Ved den jødiske synagoge
+        > A Jewish guard was shot outside the Jewish synagogue during a terror attack in Copenhagen in 2015. Learn more in Section 1.13.3.
+    2. [ ] Ved Hovedbanegården
+        > is incorrect; learn more in Section 1.13.3.
+    3. [ ] I lufthavnen
+        > is incorrect; learn more in Section 1.13.3.
+
+    ## Hvem fik især betydning for folkehøjskolerne i 1800-tallet?
+    1. [ ] Steen Steensen Blicher
+        > is incorrect; learn more in Section 5.2.
+    2. [ ] Johannes V. Jensen
+        > is incorrect; learn more in Section 5.2.
+    3. [x] N.F.S. Grundtvig
+        > N.F.S. Grundtvig's ideas formed the basis for the folk high school (folkehøjskole) movement in the 1800s. Learn more in Section 6.11.
+
+    ## Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?
+    1. [ ] Grundloven
+        > is incorrect; learn more in Section 2.2.4.
+    2. [ ] Valgretsalderen
+        > is incorrect; learn more in Section 2.2.4.
+    3. [x] Danmarks forhold til EU
+        > Since 1953, the majority of the 16 referendums have concerned Denmark's relationship with the EU. Learn more in Section 2.2.4.
+
+    ## Hvordan har de politiske partiers samlede medlemstal overordnet udviklet sig siden 1950?
+    1. [ ] Det er steget
+        > is incorrect; learn more in Section 2.2.6.
+    2. [x] Det er faldet
+        > The total membership of political parties has fallen significantly since 1950, from about 650,000 to 110,000 in 2023. Learn more in Section 2.2.6.
+
+    ## Hvem var Danmarks første socialdemokratiske statsminister?
+    1. [ ] Thorvald Stauning
+        > Thorvald Stauning became Denmark's first Social Democratic Prime Minister in 1924. Learn more in Section 1.9.3.
+    2. [ ] Jens Otto Krag
+        > is incorrect; learn more in Section 1.12.1.
+    3. [ ] Anker Jørgensen
+        > is incorrect; learn more in Section 1.13.2.
+
+    ## I forbindelse med hvilken krig blev Danmark ramt af influenzaepidemien Den Spanske Syge?
+    1. [ ] 2nd Slesvigske Krig
+        > is incorrect; learn more in Section 1.7.
+    2. [x] 1st Verdenskrig
+        > The Spanish Flu epidemic occurred in 1918-1920, towards the end of World War I. Learn more in Section 1.9.1.
+    3. [ ] 2nd Verdenskrig
+        > is incorrect; learn more in Section 1.9.1.
+
+    ## Hvem skrev romanen Lykke-Per omkring år 1900?
+    1. [ ] Amalie Skram
+        > is incorrect; learn more in Section 5.2.
+    2. [ ] Martin A. Hansen
+        > is incorrect; learn more in Section 5.2.
+    3. [x] Henrik Pontoppidan
+        > Henrik Pontoppidan wrote 'Lykke-Per' (Lucky Per) (1898-1904) and won the Nobel Prize in Literature in 1917. Learn more in Section 5.2.
+
+    ## Hvilket symbol indgår i Færøernes flag?
+    1. [ ] En cirkel
+        > is incorrect; learn more in Section 6.6.2.
+    2. [ ] En stjerne
+        > is incorrect; learn more in Section 6.6.2.
+    3. [x] Et kors
+        > The flag of the Faroe Islands, 'Merkið', is of the Nordic type with a cross. Learn more in Section 6.6.2.
+
+    ## Hvordan ændrede forholdet mellem kongen og kirken sig som følge af reformationen i 1500-tallet?
+    1. [ ] Kongen fik mindre magt over kirken
+        > is incorrect; learn more in Section 1.4.1.
+    2. [x] Kongen fik mere magt over kirken
+        > The Reformation in 1536 meant the King took over the Church's political power and assets, increasing his authority. Learn more in Section 1.4.1.
+
+    ## Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?
+    1. [ ] Stat og kommuner
+        > is incorrect; learn more in Section 3.4.2.
+    2. [ ] Regering og embedsmænd
+        > is incorrect; learn more in Section 3.4.2.
+    3. [x] Fagforeninger og arbejdsgiverorganisationer
+        > Collective agreements on pay and working conditions are made between trade unions and employer organizations. Learn more in Section 3.4.2.
+
+    ## Hvad er den kriminelle lavalder i Danmark?
+    1. [x] 15 år
+        > The age of criminal responsibility in Denmark is 15 years. Learn more in Section 2.3.1.
+    2. [ ] 18 år
+        > is incorrect; learn more in Section 2.3.1.
+    3. [ ] 20 år
+        > is incorrect; learn more in Section 2.3.1.
+
+    ## Hvilket land har været i union med Danmark i over 400 år (mellem 1380 og 1814)?
+    1. [ ] Sverige
+        > is incorrect; learn more in Section 1.3.2.
+    2. [x] Norge
+        > Norway remained in a union with Denmark until 1814, a duration of over 400 years (since 1380). Learn more in Section 1.6.2.
+    3. [ ] Finland
+        > is incorrect; learn more in Section 1.3.2.
+
+    ## Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?
+    1. [x] Ja
+        > The Danish government supported the American-led invasion of Iraq in 2003 and sent Danish soldiers. Learn more in Section 1.13.3.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 1.13.3.
+
+    ## Kan to personer af samme køn indgå et ægteskab?
+    1. [x] Ja
+        > Persons of the same sex have been able to enter into marriage in Denmark since 2012. Learn more in Section 6.13.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 6.13.
+
+    ## Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?
+    1. [ ] Spanien
+        > is incorrect; learn more in Section 6.5.
+    2. [x] Polen
+        > In January 2025, Poland (57,000) was the EU country with the highest number of immigrants and descendants in Denmark. Learn more in Section 6.5.
+    3. [ ] Frankrig
+        > is incorrect; learn more in Section 6.5.
+
+    ## Hvor højt over havets overflade ligger Danmarks højeste naturlige punkt?
+    1. [x] Cirka 170 meter
+        > Denmark's highest natural point, Møllehøj, is approximately 170 meters (170.86m) above sea level. Learn more in Section 6.1.1.
+    2. [ ] Cirka 470 meter
+        > is incorrect; learn more in Section 6.1.1.
+    3. [ ] Cirka 770 meter
+        > is incorrect; learn more in Section 6.1.1.
+
+    ## Hvornår blev Danmark medlem af NATO?
+    1. [ ] 1949
+        > Denmark became a member of NATO (North Atlantic Treaty Organization) in 1949. Learn more in Section 1.11.1.
+    2. [ ] 1957
+        > is incorrect; learn more in Section 1.11.1.
+    3. [ ] 1973
+        > is incorrect; learn more in Section 1.12.1.
+
+    ## Hvilken politisk bevægelse var rødstrømpebevægelsen en del af?
+    1. [ ] Arbejderbevægelsen i 1930’erne
+        > is incorrect; learn more in Section 1.12.4.
+    2. [x] Kvindebevægelsen i 1970’erne
+        > The Rødstrømpebevægelsen (Red Stocking Movement) was part of the women's rights movement that fought for equality in the 1970s. Learn more in Section 1.12.4.
+    3. [ ] Miljøbevægelsen i 1990’erne
+        > is incorrect; learn more in Section 1.12.4.
+
+    ## Kan statsministeren udpege en minister, der ikke er medlem af Folketinget?
+    1. [x] Ja
+        > A minister does not have to be a member of the Folketing. Learn more in Section 2.2.2.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 2.2.2.
+
+    ## Hvad er Suzanne Brøgger og Naja Marie Aidt især kendte for?
+    1. [ ] De er skuespillere
+        > is incorrect; learn more in Section 5.6.
+    2. [ ] De er malere
+        > is incorrect; learn more in Section 5.3.
+    3. [x] De er forfattere
+        > Suzanne Brøgger and Naja Marie Aidt are prominent Danish authors who emerged from the 1960s onward. Learn more in Section 5.2.
+
+    ## Hvordan har andelen af borgere over 64 år udviklet sig siden 1980?
+    1. [ ] Andelen er faldet
+        > is incorrect; learn more in Section 3.2.1.
+    2. [x] Andelen er steget
+        > The share of citizens over 64 years old has increased from 14 percent to 21 percent between 1980 and 2025, increasing the demographic burden on the welfare state. Learn more in Section 3.2.1.
+
+    ## Hvilket af følgende partier har flest borgmesterposter i Danmark?
+    1. [x] Venstre
+        > Venstre held 34 mayoral posts after the 2021 local elections, second only to the Social Democrats (44). Learn more in Section 2.2.5.
+    2. [ ] Dansk Folkeparti
+        > is incorrect; learn more in Section 2.2.5.
+    3. [ ] Det Konservative Folkeparti
+        > is incorrect; learn more in Section 2.2.5.
+
+    ## Skal alle skattepligtige borgere betale kirkeskat?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.9.
+    2. [x] Nej
+        > Only members of the Evangelical Lutheran Church (Folkekirken) pay church tax. Learn more in Section 6.9.
+
+    ## Hvor længe kan politiet tilbageholde en anholdt person med lovligt ophold i Danmark, før personen skal stilles for en dommer?
+    1. [x] I op til 1 døgn
+        > An arrested person must be brought before a judge within 24 hours (1 døgn). Learn more in Section 2.3.1.
+    2. [ ] I op til 3 døgn
+        > is incorrect; learn more in Section 2.3.1.
+    3. [ ] I op til 1 uge
+        > is incorrect; learn more in Section 2.3.1.
+
+    ## Hvad hedder formanden for SF (Socialistisk Folkeparti)?
+    1. [ ] Franciska Rosenkilde
+        > is incorrect.
+    2. [ ] Mai Villadsen
+        > is incorrect.
+    3. [x] Pia Olsen Dyhr
+        > Pia Olsen Dyhr (born 1971) is the current leader (formand) of SF.
+
+    ## Hvilken helligdag bliver afskaffet fra 2024?
+    1. [x] Store Bededag
+        > Store Bededag (Great Prayer Day) was abolished as a public holiday starting in 2024.
+    2. [ ] Kristi himmelfartsdag
+        > is incorrect.
+    3. [ ] Skærtorsdag
+        > is incorrect.
+
+    ## I hvilken sport vandt det danske herrelandshold verdensmesterskabet i januar 2023?
+    1. [ ] Volleyball
+        > is incorrect.
+    2. [ ] Basketball
+        > is incorrect.
+    3. [x] Håndbold
+        > The Danish men's national handball team won the World Championship in January 2023.
+
+    ## Hvilken forfatter til blandt andet tv-serien Matador døde i januar 2023 105 år gammel?
+    1. [ ] Klaus Rifbjerg
+        > is incorrect; learn more in Section 5.2.
+    2. [x] Lise Nørgaard
+        > Lise Nørgaard (1917-2023), who co-wrote the TV series Matador, died at age 105. Learn more in Section 5.7.
+    3. [ ] Inger Christensen
+        > is incorrect; learn more in Section 5.2.
+
+    ## Hvilken nobelpris blev Morten Meldal tildelt i december 2022?
+    1. [ ] Nobelprisen i økonomi
+        > is incorrect; learn more in Section 6.8.3.
+    2. [ ] Nobelprisen i litteratur
+        > is incorrect; learn more in Section 6.8.3.
+    3. [x] Nobelprisen i kemi
+        > Morten Meldal received the Nobel Prize in Chemistry in 2022 for laying the foundation for click chemistry. Learn more in Section 6.8.3.
+
+    ## Kan en dansk statsborger blive straffet ved en dansk domstol, hvis vedkommende medvirker til menneskehandel i udlandet?
+    1. [x] Ja
+        > A Danish citizen can be punished by a Danish court for participating in human trafficking abroad [2.3.4].
+    2. [ ] Nej
+        > is incorrect; learn more in Section 2.3.4.
+
+    ## Kan forældre ifølge dansk lov bestemme, hvem en søn eller datter på 18 år må være kæreste med?
+    1. [ ] Ja
+        > is incorrect; learn more in Section 6.13.1.
+    2. [x] Nej
+        > An 18-year-old is legally an adult and has the right to choose their partner. Learn more in Section 6.13.
+
+    ## Har alle friskoler i Danmark pligt til at styrke elevernes respekt for ligestilling mellem kønnene?
+    1. [x] Ja
+        > All free and private basic schools have a duty to develop and strengthen students' respect for gender equality. Learn more in Section 6.15.2.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 6.15.2.
+
+    ## Er Danmark blandt de ti lande i verden, som menes at have den højeste grad af pressefrihed ifølge Reporters Without Borders (Press Freedom Index, 2022)?
+    1. [x] Ja
+        > Denmark is typically ranked among the world's leading countries for press freedom (a current event in 2022) [2.3.1].
+    2. [ ] Nej
+        > is incorrect; learn more in Section 2.3.1.
+
+    ## Kan præster og imamer blive straffet med fængsel, hvis de som led i religiøs oplæring udtrykker støtte til vold, terrorisme, frihedsberøvelse eller tvang?
+    1. [x] Ja
+        > Anyone, including priests and imams, can be punished with imprisonment if they use religious instruction to express support for violence or terrorism. Learn more in Section 6.14.
+    2. [ ] Nej
+        > is incorrect; learn more in Section 6.14.

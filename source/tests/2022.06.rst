@@ -1,11 +1,11 @@
-Indfødsretsprøven 2022 Juni
+The Citizenship Test 2022 Juni
 ==========================================
 
-Hjælpemidler: Ingen
+Aids: None
 
-Tid: 45 minutter
+Time: 45 minutes
 
-Spørgsmål til Indfødsretsprøven
+Questions
 ---------------------------------
 
 .. quizdown::

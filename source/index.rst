@@ -8,7 +8,7 @@ Welcome to New In Denmark!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Indfødsretsprøven
+   :caption: The Citizenship Test
 
    docs/index
    tests/index

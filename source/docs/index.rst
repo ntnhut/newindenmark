@@ -1,14 +1,23 @@
-Materiale til forberedelsen
+Preparation materials
 =====================================
 
-   Lærematerialet gælder for prøverne vinter 2025 og sommer 2026. I slutningen af august 2026 udkommer en opdateret udgave. Den opdaterede udgave vil gælde for prøven i vinter 2026 og sommer 2027.
+Overview
+---------
 
-   Lærematerialet handler om danske samfundsforhold, dansk kultur og historie. Indfødsretsprøven bygger på emnerne i lærematerialet. Lærematerialet er udarbejdet af Styrelsen for International Integration og Rekruttering (SIRI) og kan downloades gratis. Materialet omfatter både skriftlig udgave og en lydversion af det.
+* The teaching material covers Danish society, culture, and history. The citizenship test is based on the topics in the teaching material. 
 
-   Lærematerialet består af seks kapitler: Danmarks historie, Det danske demokrati, Den danske økonomi, Danmark og omverdenen, Dansk kulturliv samt Temaopslag. Det er på 235 sider og dækker 35 af de 45 spørgsmål.
+* The teaching material has been prepared by the Danish Agency for International Integration and Recruitment (SIRI) and can be downloaded free of charge. The material includes both a written version and an audio version.
+
+* The teaching material consists of six chapters: Danish history, Danish democracy, the Danish economy, Denmark and the outside world, Danish cultural life, and thematic topics. The book is 235 pages long and covers 35 of the 45 questions.
+
+* This updated teaching materials apply to the exams in winter 2025 and summer 2026. 
+
+* An updated version will be published at the end of August 2026. The updated version will apply to the exams in winter 2026 and summer 2027.
+
+The book content
+------------------
 
 .. toctree::
-   :caption: Indhold
    :maxdepth: 2
 
    chapter1/index

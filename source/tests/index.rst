@@ -1,13 +1,27 @@
-Tidligere indfødsretsprøver
+Previous Citizenship Tests
 =====================================
 
-    Indfødsretsprøven er en prøve, der skal bestås for at få dansk statsborgerskab.
+Overview
+---------
 
-    Indfødsretsprøven er en prøve i danske samfundsforhold, dansk kultur og historie. Prøven består af 45 spørgsmål, der skal besvares indenfor 45 minutter. De 45 spørgsmål er multiple-choice-spørgsmål med to eller tre svarmuligheder. 5 af spørgsmålene vedrører aktuelle emner, 5 af spørgsmålene vedrører værdier i det danske samfund, mens de 35 øvrige spørgsmål er udarbejdet på baggrund af materialet Læremateriale til Indfødsretsprøven - danske samfundsforhold, dansk kultur og historie.
+* The citizenship test is a test that must be passed in order to obtain Danish citizenship.
 
+* The citizenship test covers Danish society, culture, and history. 
+
+* The test consists of 45 questions that must be answered within 45 minutes. 
+
+* The 45 questions are multiple-choice questions with two or three possible answers. 
+
+    * Five of the questions relate to current affairs, 
+    * Five relate to values in Danish society, 
+    * While the remaining 35 questions are based on the material Teaching Material for the Citizenship Test - Danish society, Danish culture and history.
+
+The Previous Tests
+---------------------------
 .. toctree::
    :maxdepth: 1
 
-   2021.11
-   2022.06
+   2023.05
    2022.11
+   2022.06
+   2021.11

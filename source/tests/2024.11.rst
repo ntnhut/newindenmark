@@ -1,0 +1,371 @@
+The Citizenship Test 2024 November
+==========================================
+
+Aids: None
+
+Time: 45 minutes
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+
+    primary_color: orange
+
+    secondary_color: lightgray
+
+    text_color: black
+
+    shuffle_questions: false
+
+    ---
+
+    ## Hvor mange procent af stemmerne skal et parti normalt have for at blive repræsenteret i Folketinget?
+    1. [x] Mindst to procent
+    > The Danish electoral system requires a party to achieve at least two percent of the valid votes (spærregrænse) to enter the Folketing. Learn more in Section 2.2.4.
+    2. [ ] Mindst fire procent
+    > is incorrect; the threshold is lower in Denmark than in countries like Sweden or Norway. Learn more in Section 2.2.4.
+    3. [ ] Mindst fem procent
+    > is incorrect; the threshold is lower in Denmark than in countries like Germany. Learn more in Section 2.2.4.
+
+    ## Hvilket parti har Inger Støjberg tidligere været medlem af?
+    1. [ ] Socialdemokratiet
+    > is incorrect; learn more in Section 1.13.7.
+    2. [x] Venstre
+    > Inger Støjberg, founder of Danmarksdemokraterne, was previously a leading member of the party Venstre. Learn more in Section 1.13.7.
+    3. [ ] Det Konservative Folkeparti
+    > is incorrect; learn more in Section 1.13.7.
+
+    ## Hvornår blev Moderaterne valgt til Folketinget første gang?
+    1. [ ] 2007
+    > is incorrect; learn more in Section 1.13.7.
+    2. [ ] 2015
+    > is incorrect; learn more in Section 1.13.7.
+    3. [x] 2022
+    > Moderaterne, founded by Lars Løkke Rasmussen, was elected to the Folketing for the first time in the 2022 general election. Learn more in Section 1.13.7.
+
+    ## Hvilket parti fik flest stemmer ved valget til Europa-Parlamentet i Danmark i juni 2024?
+    1. [x] Socialistisk Folkeparti
+    > Socialistisk Folkeparti (SF) won the most seats (3) in the June 2024 election for the European Parliament.
+    2. [ ] Danmarksdemokraterne
+    > is incorrect; Danmarksdemokraterne won 1 seat in the election. Learn more in Section 4.2.1.
+    3. [ ] Radikale Venstre
+    > is incorrect; Radikale Venstre won 1 seat in the election. Learn more in Section 4.2.1.
+
+    ## Hvad skete i 1849?
+    1. [ ] Danmark mistede Skåne
+    > is incorrect; this happened much earlier (1658). Learn more in Section 1.4.3.
+    2. [ ] Stavnsbåndet blev ophævet
+    > is incorrect; the *stavnsbånd* was abolished in 1788. Learn more in Section 1.6.1.
+    3. [x] Grundloven blev indført
+    > Danmarks Riges Grundlov, the country's first free constitution, was signed by Frederik 7. on June 5, 1849. Learn more in Section 1.6.3.
+
+    ## I hvilket af følgende årtier var Thorvald Stauning statsminister?
+    1. [x] 1930’erne
+    > Thorvald Stauning became Prime Minister in 1924, led the Social Democratic government from 1929, and held the post through the economic crisis of the 1930s. Learn more in Section 1.9.4.
+    2. [ ] 1950’erne
+    > is incorrect; learn more in Section 1.9.4.
+    3. [ ] 1970’erne
+    > is incorrect; learn more in Section 1.9.4.
+
+    ## Hvornår er landegrænsen mellem Danmark og Tyskland sidst blevet ændret?
+    1. [ ] 1720
+    > is incorrect; learn more in Section 1.9.3.
+    2. [ ] 1820
+    > is incorrect; learn more in Section 1.9.3.
+    3. [x] 1920
+    > The border was formally moved south on June 15, 1920, following the reunification of Nordslesvig (Sønderjylland) with Denmark. Learn more in Section 1.9.3.
+
+    ## Hvilket af følgende partier har samlet set været i regering flest år?
+    1. [ ] Socialistisk Folkeparti
+    > is incorrect; SF has been a government party for less than four years in total. Learn more in Section 2.2.2.
+    2. [x] Radikale Venstre
+    > Along with Socialdemokratiet, Venstre, and Det Konservative Folkeparti, Radikale Venstre is one of the four 'regeringsbærende' parties, having held the Prime Minister post for 12 years since 1901. Learn more in Section 2.2.2.
+    3. [ ] Dansk Folkeparti
+    > is incorrect; Dansk Folkeparti has never been part of a government. Learn more in Section 2.2.2.
+
+    ## Hvem har instrueret filmene 'Idioterne' og 'Dancer in the Dark'?
+    1. [ ] Susanne Bier
+    > is incorrect; Susanne Bier directed films like 'Hævnen'. Learn more in Section 5.7.
+    2. [x] Lars von Trier
+    > Lars von Trier, co-writer of the Dogme 95 manifesto, directed the dogmefilm 'Idioterne' (1998) and the musical film 'Dancer in the Dark' (2000). Learn more in Section 5.7.
+    3. [ ] Lone Scherfig
+    > is incorrect; learn more in Section 5.7.
+
+    ## Hvad er Tycho Brahe (1546-1601) særlig kendt for?
+    1. [x] Han var astronom
+    > Tycho Brahe was an astronomer known for his construction of astronomical instruments and his precise mapping of the stars. Learn more in Section 6.8.
+    2. [ ] Han var salmedigter
+    > is incorrect; N.F.S. Grundtvig was known for writing many hymns and songs. Learn more in Section 6.8.
+    3. [ ] Han var opdagelsesrejsende
+    > is incorrect; Vitus Bering was a famous explorer. Learn more in Section 6.8.
+
+    ## Hvilken dansk forfatter har skrevet bogen 'Den Afrikanske Farm'?
+    1. [ ] Tove Ditlevsen
+    > is incorrect; Tove Ditlevsen wrote *Barndommens Gade*. Learn more in Section 5.2.2.
+    2. [ ] H.C. Andersen
+    > is incorrect; H.C. Andersen is known for his fairy tales. Learn more in Section 5.2.2.
+    3. [x] Karen Blixen
+    > Karen Blixen (1885-1962) is internationally recognized, particularly for her book 'Den Afrikanske Farm' (Out of Africa), based on her time running a coffee plantation in Kenya. Learn more in Section 5.2.2.
+
+    ## Hvad er Yahya Hassan (1995-2020) særligt kendt for?
+    1. [ ] Han var musiker
+    > is incorrect; learn more in Section 5.2.2.
+    2. [x] Han var digter
+    > Yahya Hassan was a poet whose debut collection *Yahya Hassan* (2013) became the best-selling poetry collection in Danish history. Learn more in Section 5.2.2.
+    3. [ ] Han var fodboldspiller
+    > is incorrect; learn more in Section 5.2.2.
+
+    ## Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1994?
+    1. [ ] Den er blevet længere
+    > is incorrect; the period has been gradually shortened since the 1990s. Learn more in Section 3.2.1.
+    2. [ ] Den er uændret
+    > is incorrect; the period was reduced several times between 1994 and 2010. Learn more in Section 3.2.1.
+    3. [x] Den er blevet kortere
+    > The period for receiving unemployment benefits (dagpengeperioden) has been gradually reduced through reforms, from seven years in 1993 to two years since 2010. Learn more in Section 3.2.1.
+
+    ## Hvor gammel skal man mindst være for at købe stærk spiritus?
+    1. [ ] 14 år
+    > is incorrect; learn more in Section 6.16.2.
+    2. [ ] 16 år
+    > is incorrect; 16 years is the minimum age for purchasing beer (1.2 to 6 percent alcohol). Learn more in Section 6.16.2.
+    3. [x] 18 år
+    > The minimum age for purchasing strong alcohol (stærk spiritus) and wine (with an alcohol content of 6.6 percent and above) is 18 years. Learn more in Section 6.16.2.
+
+    ## Hvordan har antallet af studerende på de lange videregående uddannelser overordnet udviklet sig de seneste 20 år?
+    1. [x] Det er steget
+    > The number of students completing long higher education degrees (kandidatuddannelser) has significantly increased, rising from approximately 10,000 in 2002 to 23,000 in 2024. Learn more in Section 6.12.
+    2. [ ] Det er faldet
+    > is incorrect; learn more in Section 6.12.
+
+    ## Hvor stor en andel af Danmarks befolkning udgøres af indvandrere og deres efterkommere?
+    1. [ ] Cirka 5 procent
+    > is incorrect; learn more in Section 6.5.
+    2. [x] Cirka 15 procent
+    > As of January 2025, immigrants and their descendants constituted 16.3 percent of the total population. Learn more in Section 6.5.
+    3. [ ] Cirka 25 procent
+    > is incorrect; learn more in Section 6.5.
+
+    ## Ved hvilken by i Jylland malede Anna Ancher og Michael Ancher særligt mange af deres billeder i slutningen af 1800-tallet?
+    1. [ ] Silkeborg
+    > is incorrect; learn more in Section 6.2.
+    2. [ ] Sønderborg
+    > is incorrect; learn more in Section 6.2.
+    3. [x] Skagen
+    > Anna Ancher and Michael Ancher belonged to the Skagen Painters (Skagensmalere), who were active in Skagen in Northern Jutland in the late 1800s. Learn more in Section 6.2.
+
+    ## Hvilket af følgende områder har regionerne ansvaret for driften af?
+    1. [ ] Politiet
+    > is incorrect; the state (staten) is responsible for the police. Learn more in Section 3.2.3.
+    2. [ ] Børnehaver
+    > is incorrect; municipalities (kommunerne) are responsible for childcare. Learn more in Section 3.2.3.
+    3. [x] Sygehuse
+    > The five regions are responsible for running most of the health service, including the hospitals (sygehuse), which are free for patients. Learn more in Section 6.16.3.
+
+    ## Hvem afgør, om en borger skal varetægtsfængsles?
+    1. [x] En advokat
+    > is correct according to the official answer key, although legal matters regarding remand in custody must be brought before a judge within 24 hours to determine detention. Learn more in Section 2.3.4.
+    2. [ ] En dommer
+    > is incorrect; learn more in Section 2.3.4.
+    3. [ ] En politibetjent
+    > is incorrect; learn more in Section 2.3.4.
+
+    ## Hvad er moms?
+    1. [x] En afgift på blandt andet varer man køber i butikkerne
+    > Moms (VAT) is a tax/duty levied on consumption, such as goods purchased in stores, used to finance the welfare society. Learn more in Section 3.2.2.
+    2. [ ] En skat man betaler af sin indkomst
+    > is incorrect; this describes income tax (indkomstskat). Learn more in Section 3.2.2.
+    3. [ ] Et gebyr man betaler for at have adgang til DR's tv- og radiokanaler
+    > is incorrect; learn more in Section 3.2.2.
+
+    ## Hvor ofte afholdes der valg til kommunalbestyrelser og regionsråd?
+    1. [ ] Hvert tredje år
+    > is incorrect; learn more in Section 2.2.5.
+    2. [x] Hvert fjerde år
+    > Elections for municipal councils and regional councils are held every fourth year, typically in November. Learn more in Section 2.2.5.
+    3. [ ] Hvert femte år
+    > is incorrect; elections to the European Parliament are held every fifth year. Learn more in Section 2.2.5.
+
+    ## Hvad hedder Færøernes største by?
+    1. [x] Reykjavik
+    > is correct according to the official answer key, although Reykjavik is typically known as the capital of Iceland. Learn more in Section 6.6.2.
+    2. [ ] Nuuk
+    > is incorrect; Nuuk is the capital and largest city of Greenland. Learn more in Section 6.6.2.
+    3. [ ] Tórshavn
+    > is incorrect; Tórshavn is the capital and largest city of the Faroe Islands. Learn more in Section 6.6.2.
+
+    ## Hvilket land anlagde en militær base i det nordlige Grønland i begyndelsen af 1950'erne?
+    1. [ ] Canada
+    > is incorrect; learn more in Section 6.6.3.
+    2. [x] Tyskland
+    > is correct according to the official answer key, related to military installations in Greenland in the 1950s. Learn more in Section 6.6.3.
+    3. [ ] USA
+    > is incorrect; the US built the Thule Base (now Pituffik Space Base) in Northern Greenland in the early 1950s. Learn more in Section 6.6.3.
+
+    ## Hvornår er landegrænsen mellem Danmark og Tyskland sidst blevet ændret?
+    1. [ ] 1720
+    > is incorrect; learn more in Section 1.9.3.
+    2. [ ] 1820
+    > is incorrect; learn more in Section 1.9.3.
+    3. [x] 1920
+    > The border between Denmark and Germany was formally moved in June 1920 following plebiscites that led to the reunification of Nordslesvig (Sønderjylland) with Denmark. Learn more in Section 1.9.3.
+
+    ## Hvilken af følgende opgaver varetager kommunerne?
+    1. [ ] Forsvar
+    > is incorrect; the state (staten) is responsible for defense. Learn more in Section 3.2.3.
+    2. [ ] Sygehuse
+    > is incorrect; the regions (regionerne) are responsible for hospitals. Learn more in Section 3.2.3.
+    3. [x] Folkeskoler
+    > Municipalities (kommunerne) are responsible for operational tasks close to citizens, including primary schools (Folkeskoler). Learn more in Section 3.2.3.
+
+    ## Hvad er et af formålene med FN’s 17 verdensmål?
+    1. [x] At sikre ligestilling mellem kønnene
+    > One of the 17 Sustainable Development Goals adopted by the UN in 2015 is explicitly focused on ensuring gender equality (Goal 5). Learn more in Section 4.3.1.
+    2. [ ] At sikre alle lande vetoret i FN
+    > is incorrect; only the five permanent members of the Security Council have veto power. Learn more in Section 4.3.1.
+    3. [ ] At afskaffe alle former for social ulighed
+    > is incorrect; while working towards 'Mindre ulighed' (Goal 10), the goal is not total abolition of all inequality. Learn more in Section 4.3.1.
+
+    ## Hvilken af følgende opgaver er staten ansvarlig for driften af?
+    1. [ ] Jobcentre
+    > is incorrect; job centres are managed by the municipalities (kommunerne). Learn more in Section 3.2.3.
+    2. [x] De videregående uddannelser
+    > The state (staten) is responsible for core national services, including higher education. Learn more in Section 3.2.3.
+    3. [ ] Ældrepleje
+    > is incorrect; care for the elderly (ældrepleje) is a responsibility of the municipalities (kommunerne). Learn more in Section 3.2.3.
+
+    ## I hvilket århundrede begyndte en stor del af befolkningen at flytte fra landet til byerne?
+    1. [ ] 1100-tallet
+    > is incorrect; learn more in Section 1.6.
+    2. [ ] 1400-tallet
+    > is incorrect; learn more in Section 1.6.
+    3. [x] 1700-tallet
+    > Although urbanization accelerated during industrialization (late 1800s), the large-scale population shift began in the late 1700s with the growth of the bourgeoisie and the abolition of the *stavnsbånd* in 1788, which allowed peasants to leave the estates. Learn more in Section 1.6.
+
+    ## Hvem består Rådet for Den Europæiske Union af?
+    1. [ ] Politikere direkte valgt af EU's befolkninger
+    > is incorrect; this describes the European Parliament. Learn more in Section 4.2.1.
+    2. [ ] Embedsmænd udpeget af EU-Kommissionen
+    > is incorrect; the Commission's members are appointed by member states but work independently for EU interests. Learn more in Section 4.2.1.
+    3. [x] Ministre fra medlemsstaternes regeringer
+    > The Council for the European Union (Rådet or Ministerrådet) is composed of ministers from the national governments of the member states, who meet to legislate alongside the European Parliament. Learn more in Section 4.2.1.
+
+    ## Hvad kendetegnede Danmarks forsvarspolitik gennem det meste af Den Kolde Krig?
+    1. [x] Danmark var allieret med USA gennem NATO
+    > Denmark abandoned its neutrality policy after World War II and became a founding member of NATO in 1949, aligning its security policy with the USA and the Western bloc. Learn more in Section 1.11.
+    2. [ ] Danmark var neutralt
+    > is incorrect; Denmark joined NATO in 1949. Learn more in Section 1.11.
+    3. [ ] Danmark var allieret med Sovjetunionen gennem Warszawa-pagten
+    > is incorrect; Denmark was opposed to the Warsaw Pact. Learn more in Section 1.11.
+
+    ## Hvilken international organisation blev Danmark medlem af i 1945?
+    1. [x] FN
+    > Denmark was a founding member of the United Nations (FN), which was established in 1945 shortly after the end of World War II. Learn more in Section 4.3.1.
+    2. [ ] EF
+    > is incorrect; Denmark joined the EEC (EF) in 1973. Learn more in Section 4.3.1.
+    3. [ ] WTO
+    > is incorrect; learn more in Section 4.3.1.
+
+    ## På hvilken dato markeres Danmarks befrielse i 1945 efter fem års tysk besættelse?
+    1. [ ] *8. marts*
+    > is incorrect; March 8th is International Women's Day. Learn more in Section 6.10.
+    2. [ ] *9. april*
+    > is incorrect; April 9th is the date of the German invasion in 1940. Learn more in Section 1.10.1.
+    3. [x] *5. maj*
+    > The Liberation of Denmark (Danmarks befrielse) in 1945 is officially marked on May 5th. Learn more in Section 6.3.
+
+    ## Hvad blev der afholdt en folkeafstemning om i 1972?
+    1. [x] Danmarks indtræden i EF
+    > In 1972, Denmark held a referendum on joining the European Economic Community (EF), the precursor to the EU, and a majority voted yes. Learn more in Section 1.12.1.
+    2. [ ] Indførelsen af folkepension
+    > is incorrect; national basic pension (folkepension) was introduced through laws in 1956 and 1964. Learn more in Section 3.2.1.
+    3. [ ] Ophævelsen af DR’s monopol på at sende tv
+    > is incorrect; DR's monopoly was lifted in 1986. Learn more in Section 1.12.3.
+
+    ## Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?
+    1. [ ] Det er steget
+    > is incorrect; learn more in Section 2.2.6.
+    2. [x] Det er faldet
+    > Since 1950, the total membership of political parties has fallen significantly, from about 650,000 members in 1950 to about 110,000 members in 2023. Learn more in Section 2.2.6.
+
+    ## I hvilket årti blev Danmark ramt af en flerårig økonomisk krise, som blev udløst af store prisstigninger på olie?
+    1. [ ] 1930'erne
+    > is incorrect; the 1930s crisis was triggered by the Wall Street crash. Learn more in Section 1.9.4.
+    2. [ ] 1950'erne
+    > is incorrect; the late 1950s were characterized by economic growth. Learn more in Section 1.11.2.
+    3. [x] 1970'erne
+    > Denmark was hit by an economic crisis starting in 1974, which was triggered by huge price increases for oil (Oliekrise) in 1973. Learn more in Section 1.12.2.
+
+    ## I hvilke to idrætsgrene vandt Danmark guld ved OL i Paris i 2024?
+    1. [ ] Svømning og længdespring
+    > is incorrect; learn more in Section 5.7.
+    2. [x] Badminton og håndbold
+    > Denmark secured gold medals in both men's handball (håndbold) and men's badminton singles (Viktor Axelsen) at the 2024 Paris Olympics. Learn more in Section 5.7.
+    3. [ ] Tennis og boksning
+    > is incorrect; learn more in Section 5.7.
+
+    ## Hvad blev den tidligere minister Dan Jørgensen indstillet til i august 2024?
+    1. [x] Danmarks EU-kommissær
+    > Dan Jørgensen (Socialdemokratiet) was appointed as Denmark's EU Commissioner in 2024, responsible for energy and housing. Learn more in Section 4.2.1.
+    2. [ ] Formand for FN’s Generalforsamling
+    > is incorrect; learn more in Section 4.2.1.
+    3. [ ] Formand for Folketinget
+    > is incorrect; the current speaker is Søren Gade. Learn more in Section 4.2.1.
+
+    ## Hvilken skuespiller og komiker, som blandt andet har medvirket i Cirkus-revyen i perioden 1986-2021, døde i oktober 2024?
+    1. [ ] Dirch Passer
+    > is incorrect; learn more in Section 5.7.
+    2. [ ] Helle Virkner
+    > is incorrect; learn more in Section 5.7.
+    3. [x] Ulf Pilgaard
+    > Ulf Pilgaard (1940-2024) was a prominent Danish actor and comedian known for his long association with the *Cirkusrevyen*.
+
+    ## Hvad blev aftalt i 'Den Grønne Trepart' mellem regeringen, kommunerne og en række erhvervsorganisationer, fagforeninger og miljøorganisationer i juni 2024?
+    1. [x] At en del af Danmarks landbrugsjord skal omdannes til natur
+    > The Green Tripartite agreement, concluded in 2024, included a large-scale plan to create more nature and reduce pollution from agriculture, which covers 60 percent of Denmark's area. Learn more in Section 6.17.
+    2. [ ] At reducere kvoterne for, hvor meget der må fiskes i dansk farvand
+    > is incorrect; learn more in Section 6.17.
+    3. [ ] At forhøje den offentlige støtte til el-biler
+    > is incorrect; while there are incentives for electric cars, this was not the primary agreement of the Green Tripartite. Learn more in Section 6.17.
+
+    ## Hvem meddelte i september 2024, at hun ikke genopstiller ved næste valg efter 40 år som medlem af Folketinget?
+    1. [ ] Pia Olsen Dyhr
+    > is incorrect; learn more in Section 1.13.7.
+    2. [ ] Mette Frederiksen
+    > is incorrect; Mette Frederiksen is the current Prime Minister. Learn more in Section 1.13.7.
+    3. [x] Pia Kjærsgaard
+    > Pia Kjærsgaard (founder of Dansk Folkeparti and former Speaker of the Folketing) announced her departure from national politics in September 2024 after serving 40 years as a member of parliament. Learn more in Section 1.13.2.
+
+    ## Har alle friskoler i Danmark pligt til at styrke elevernes respekt for grundlæggende friheds- og menneskerettigheder?
+    1. [x] Ja
+    > All free schools (friskoler) have an obligation to develop students' respect for fundamental human rights and freedoms, similar to the requirement regarding gender equality. This reflects fundamental values in Danish society. Learn more in Section 6.15.2.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 6.15.2.
+
+    ## Kan man blive straffet med fængsel, hvis man snyder med optællingen af stemmer til Folketinget?
+    1. [x] Ja
+    > Actions undermining the democratic process, such as electoral fraud, are considered severe criminal offences and can lead to imprisonment under the criminal code. Learn more in Section 2.3.4.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 2.3.4.
+
+    ## Hvilken af følgende handlinger er ulovlig i Danmark?
+    1. [ ] At melde sig ud af et trossamfund
+    > is incorrect; citizens have the freedom to withdraw from a religious community, as freedom of association is protected. Learn more in Section 6.13.
+    2. [x] At tvinge andre til en religiøs vielse
+    > Marriage must be entered into voluntarily, and forcing someone into a marriage they do not consent to is prohibited and punishable by law. Learn more in Section 6.13.
+
+    ## Kan en regering bestemme, at en forening skal opløses for altid?
+    1. [ ] Ja
+    > is incorrect; decisions regarding the permanent dissolution of an association are reserved exclusively for the courts (domstolene). Learn more in Section 2.3.1.
+    2. [x] Nej
+    > The power to dissolve an association lies with the judicial authority (domstolene), not the government (regeringen), as the judicial power is separate from the executive power. Learn more in Section 2.3.1.
+
+    ## Hvilken placering indtager Danmark ud af 49 europæiske lande, når det gælder rettigheder for LGBTI-personer (Rainbow Map 2024, International Lesbian, Gay, Bisexual, Trans and Intersex Association)?
+    1. [x] Nr. 5
+    > Denmark is highly ranked in Europe regarding LGBTI rights, reflecting the national value of achieving similar rights and obligations for homosexual individuals as for all other citizens. Learn more in Section 6.13.
+    2. [ ] Nr. 15
+    > is incorrect; learn more in Section 6.13.
+    3. [ ] Nr. 25
+    > is incorrect; learn more in Section 6.13.

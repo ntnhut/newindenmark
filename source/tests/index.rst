@@ -21,6 +21,7 @@ The Previous Tests
 .. toctree::
    :maxdepth: 1
 
+   2024.11
    2024.05
    2023.11
    2023.05

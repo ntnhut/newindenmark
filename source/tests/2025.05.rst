@@ -1,0 +1,365 @@
+The Citizenship Test 2025 May
+==========================================
+
+Aids: None
+
+Time: 45 minutes
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+
+    primary_color: orange
+
+    secondary_color: lightgray
+
+    text_color: black
+
+    shuffle_questions: false
+
+    ---
+
+    ## Hvad blev vedtaget med grundlovsændringen i 1915?
+    1. [ ] At kvinder fik mulighed for at arve den danske trone
+    > is incorrect; this change occurred with the 1953 constitutional amendment. Learn more in Section 2.2.1.
+    2. [x] At kvinder fik stemmeret til Folketinget
+    > The 1915 constitutional change extended the right to vote (stemmeret) to women, following long political struggles. Learn more in Section 1.9.
+    3. [ ] At kvinder skulle aftjene værnepligt
+    > is incorrect; mandatory conscription (værnepligt) for women was introduced in 2025. Learn more in Section 2.3.4.
+
+    ## Hvad var den primære baggrund for den politiske aftale Kanslergadeforliget i 1933?
+    1. [x] Økonomiske problemer
+    > The Kanslergade Agreement in 1933 primarily addressed the severe economic crisis and high unemployment resulting from the 1929 Wall Street crash. Learn more in Section 1.9.4.
+    2. [ ] Udenrigspolitiske problemer
+    > is incorrect; learn more in Section 1.9.4.
+    3. [ ] Miljøproblemer
+    > is incorrect; learn more in Section 1.9.4.
+
+    ## Hvornår gjorde en større gruppe af unge oprør mod samfundets traditionelle normer, så det blandt andet blev mere accepteret at få børn uden at være gift?
+    1. [ ] I slutningen af 1920'erne
+    > is incorrect; learn more in Section 1.11.3.
+    2. [ ] I slutningen af 1940'erne
+    > is incorrect; learn more in Section 1.11.3.
+    3. [x] I slutningen af 1960'erne
+    > The youth revolt (ungdomsoprøret) of the late 1960s led to new ways of living becoming more accepted, including having children without being married. Learn more in Section 1.11.3.
+
+    ## Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?
+    1. [ ] Grundloven
+    > is incorrect; the last major constitutional change was in 1953. Learn more in Section 2.2.4.
+    2. [ ] Valgretsalderen
+    > is incorrect; voting age has been subject to referendums, but EU issues are the most frequent topic. Learn more in Section 2.2.4.
+    3. [x] Danmarks forhold til EU
+    > Since 1953, over half of all referendums have concerned Denmark's relationship with the EU. Learn more in Section 2.2.4.
+
+    ## Hvilket af følgende partier er nyest?
+    1. [x] Alternativet
+    > Alternativet was elected to the Folketing for the first time in 2015, making it the newest among these options (SF was formed in 1959, Enhedslisten was elected in 1994). Learn more in Section 1.13.7.
+    2. [ ] Socialistisk Folkeparti
+    > is incorrect (formed 1959). Learn more in Section 1.11.1.
+    3. [ ] Enhedslisten
+    > is incorrect (elected 1994). Learn more in Section 1.13.7.
+
+    ## Kan den samme person være statsminister i mere end to valgperioder?
+    1. [x] Ja
+    > There is no limit stipulated in the Constitution regarding how many election periods a person may serve as Prime Minister. Learn more in Section 2.2.2.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 2.2.2.
+
+    ## Hvad er Susanne Bier (født 1960) særligt kendt for?
+    1. [ ] Hun er fysiker
+    > is incorrect; learn more in Section 5.7.
+    2. [ ] Hun er politiker
+    > is incorrect; learn more in Section 5.7.
+    3. [x] Hun er filminstruktør
+    > Susanne Bier is an internationally recognized film director who won an Oscar and a Golden Globe for *Hævnen* (2010). Learn more in Section 5.7.
+
+    ## Hvem har skrevet romanen Barndommens Gade fra 1943?
+    1. [ ] Herman Bang
+    > is incorrect; Herman Bang wrote *Ved Vejen*. Learn more in Section 5.2.2.
+    2. [x] Tove Ditlevsen
+    > Tove Ditlevsen (1917-76) wrote the novel *Barndommens Gade* (1943), a notable work about growing up in a working-class environment. Learn more in Section 5.2.2.
+    3. [ ] Naja Marie Aidt
+    > is incorrect; Naja Marie Aidt wrote *Har døden taget noget fra dig, så giv det tilbage*. Learn more in Section 5.2.2.
+
+    ## Hvornår levede filosoffen Søren Kierkegaard?
+    1. [ ] I 1700-tallet
+    > is incorrect; learn more in Section 6.8.
+    2. [x] I 1800-tallet
+    > Søren Kierkegaard (1813-55), founder of existentialist philosophy, lived in the 19th century. Learn more in Section 6.8.
+    3. [ ] I 1900-tallet
+    > is incorrect; learn more in Section 6.8.
+
+    ## Hvad var Carl Nielsen (1865-1931) særligt kendt for?
+    1. [x] Han var komponist
+    > Carl Nielsen (1865-1931) is considered Denmark's most prominent composer, known for his operas, symphonies, and songs. Learn more in Section 5.4.
+    2. [ ] Han var kunstmaler
+    > is incorrect; learn more in Section 5.4.
+    3. [ ] Han var arkitekt
+    > is incorrect; learn more in Section 5.4.
+
+    ## Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?
+    1. [ ] Italien
+    > is incorrect; learn more in Section 6.5.
+    2. [ ] Spanien
+    > is incorrect; learn more in Section 6.5.
+    3. [x] Polen
+    > As of January 2025, Poland (57,000) is the EU country from which the largest number of immigrants and descendants in Denmark originate. Learn more in Section 6.5.
+
+    ## Hvad er der sket med folkepensionsalderen siden 2018?
+    1. [x] Den er blevet højere
+    > The old-age pension age (folkepensionsalderen) was 65 until 2018 and is being gradually raised, reaching 67 in 2022 and 69 by 2035. Learn more in Section 3.2.1.
+    2. [ ] Den er uændret
+    > is incorrect; learn more in Section 3.2.1.
+    3. [ ] Den er blevet lavere
+    > is incorrect; learn more in Section 3.2.1.
+
+    ## Er flertallet af lønmodtagerne i Danmark ansat i den offentlige sektor?
+    1. [ ] Ja
+    > is incorrect; learn more in Section 3.3.
+    2. [x] Nej
+    > Approximately 30 percent of wage earners are employed in the public sector, meaning the majority are in the private sector. Learn more in Section 3.3.
+
+    ## Hvor ligger flest danske konger og dronninger begravet?
+    1. [ ] Viborg Domkirke
+    > is incorrect; learn more in Section 6.2.2.
+    2. [x] Roskilde Domkirke
+    > Roskilde Cathedral (Roskilde Domkirke) has been the preferred burial church for the Danish royal family since the 1400s. Learn more in Section 6.2.2.
+    3. [ ] Ribe Domkirke
+    > is incorrect; learn more in Section 6.2.2.
+
+    ## I hvilken dansk by kan man blandt andet besøge Den Gamle By og kunstmuseet ARoS?
+    1. [ ] Helsingør
+    > is incorrect; Helsingør is known for Kronborg Castle. Learn more in Section 6.2.
+    2. [ ] Odense
+    > is incorrect; Odense is known for H.C. Andersen's House. Learn more in Section 6.2.
+    3. [x] Aarhus
+    > Aarhus is home to Den Gamle By (the Old Town Museum) and the major art museum ARoS. Learn more in Section 6.2.
+
+    ## Hvilken dansk ø er kendt for sin næsten 130 meter høje klint (skrænt ved kyst)?
+    1. [x] Møn
+    > Møns Klint, located on the island of Møn, has high chalk cliffs, with Dronningestolen being the highest point at 128 meters. Learn more in Section 6.1.1.
+    2. [ ] Læsø
+    > is incorrect; learn more in Section 6.1.1.
+    3. [ ] Als
+    > is incorrect; learn more in Section 6.1.1.
+
+    ## Hvilket land kommer dronning Mary oprindeligt fra?
+    1. [ ] Canada
+    > is incorrect; learn more in Section 6.4.
+    2. [ ] Storbritannien
+    > is incorrect; learn more in Section 6.4.
+    3. [x] Australien
+    > Queen Mary (born 1972), wife of King Frederik 10., originally comes from Australia. Learn more in Section 6.4.
+
+    ## Hvilket af følgende partier har aldrig været med i en regering?
+    1. [ ] Radikale Venstre
+    > is incorrect; Radikale Venstre has held the Prime Minister post for 12 years since 1901. Learn more in Section 2.2.2.
+    2. [x] Enhedslisten
+    > Enhedslisten (The Red-Green Alliance) is one of four parties listed that has never been part of a governing coalition. Learn more in Section 2.2.2.
+    3. [ ] Socialistisk Folkeparti
+    > is incorrect; Socialistisk Folkeparti has been a government party for a short period. Learn more in Section 2.2.2.
+
+    ## Hvilket parti tilhørte Poul Schlüter, som var statsminister i perioden 1982-93?
+    1. [ ] Socialdemokratiet
+    > is incorrect; the Social Democrats ceded power to Schlüter in 1982. Learn more in Section 1.12.3.
+    2. [ ] Det Radikale Venstre
+    > is incorrect; learn more in Section 1.12.3.
+    3. [x] Det Konservative Folkeparti
+    > Poul Schlüter (1982-93) was the first and, so far, only Prime Minister from Det Konservative Folkeparti. Learn more in Section 1.12.3.
+
+    ## Hvem har hovedansvaret for driften af sygehusene?
+    1. [ ] Staten
+    > is incorrect; the state oversees the legal framework and finance but not daily operation. Learn more in Section 6.16.3.
+    2. [x] Regionerne
+    > The five regions are responsible for running most of the health service, including hospitals (sygehuse), which are free for patients. Learn more in Section 6.16.3.
+    3. [ ] Kommunerne
+    > is incorrect; municipalities manage local health services and aftercare, but regions manage hospitals. Learn more in Section 6.16.3.
+
+    ## Hvilket af følgende partier har flest borgmestre?
+    1. [ ] Liberal Alliance
+    > is incorrect; learn more in Section 2.2.5.
+    2. [ ] Det Konservative Folkeparti
+    > is incorrect; learn more in Section 2.2.5.
+    3. [x] Venstre
+    > Venstre holds a high number of mayoral positions (borgmestre) following the 2021 municipal elections. Learn more in Section 2.2.5.
+
+    ## Er Grønland og Færøerne en del af EU?
+    1. [ ] Ja
+    > is incorrect; learn more in Section 6.6.
+    2. [x] Nej
+    > Neither Greenland nor the Faroe Islands are part of the EU, although they are part of the Kingdom of Denmark. Learn more in Section 6.6.
+
+    ## Hvilket symbol indgår i Færøernes flag?
+    1. [ ] En cirkel
+    > is incorrect; learn more in Section 6.6.2.
+    2. [ ] En stjerne
+    > is incorrect; learn more in Section 6.6.2.
+    3. [x] Et kors
+    > The Faroe Islands' flag, *Merkið*, is a Nordic flag featuring a cross. Learn more in Section 6.6.2.
+
+    ## Hvad hedder Grønlands største by?
+    1. [ ] Tasiilaq
+    > is incorrect; learn more in Section 6.6.3.
+    2. [ ] Ilulissat
+    > is incorrect; learn more in Section 6.6.3.
+    3. [x] Nuuk
+    > Nuuk is the capital and largest city of Greenland. Learn more in Section 6.6.3.
+
+    ## Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?
+    1. [x] Ja
+    > The Danish government at the time, led by Anders Fogh Rasmussen, actively supported the US-led invasion of Iraq in 2003. Learn more in Section 1.13.3.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 1.13.3.
+
+    ## Hvad blev Danmark medlem af i 1949?
+    1. [ ] WTO
+    > is incorrect; WTO was established in 1995. Learn more in Section 4.4.1.
+    2. [x] NATO
+    > Denmark became a founding member of NATO in 1949, aligning its foreign policy with the West after World War II. Learn more in Section 4.4.1.
+    3. [ ] EF
+    > is incorrect; Denmark joined the EEC (EF) in 1973. Learn more in Section 4.4.1.
+
+    ## Hvad hedder den organisation, der varetager samarbejdet mellem de nordiske landes parlamenter?
+    1. [x] Nordisk Råd
+    > Cooperation between the Nordic countries' parliaments and governments is primarily handled by Nordisk Råd (Nordic Council) and Nordisk Ministerråd (Nordic Council of Ministers). Learn more in Section 6.7.2.
+    2. [ ] Nordtinget
+    > is incorrect; learn more in Section 6.7.2.
+    3. [ ] Den Nordiske Union
+    > is incorrect; learn more in Section 6.7.2.
+
+    ## Hvor har Margrethe Vestager arbejdet i perioden 2014-24?
+    1. [ ] FN
+    > is incorrect; learn more in Section 4.2.1.
+    2. [ ] NATO
+    > is incorrect; learn more in Section 4.2.1.
+    3. [x] EU
+    > Margrethe Vestager served as Denmark's EU Commissioner, and Vice President of the European Commission, from 2014 to 2024. Learn more in Section 4.2.1.
+
+    ## Hvornår fik kong Harald Blåtand skrevet på den ene af Jellingstenene, at han gjorde danerne (danskerne) kristne?
+    1. [x] 900-tallet
+    > Harald Bluetooth raised the Jelling stone around 965 AD, documenting the conversion of the Danes to Christianity, placing this event in the 10th century (900s). Learn more in Section 1.2.
+    2. [ ] 1200-tallet
+    > is incorrect; learn more in Section 1.2.
+    3. [ ] 1500-tallet
+    > is incorrect; learn more in Section 1.2.
+
+    ## Hvem fik mere magt med enevælden, der blev indført i Danmark 1660-61?
+    1. [ ] Adelen
+    > is incorrect; the nobility lost power. Learn more in Section 1.4.4.
+    2. [ ] Kirken
+    > is incorrect; the church was placed under the king's authority. Learn more in Section 1.4.4.
+    3. [x] Kongen
+    > With the introduction of absolute monarchy (enevælden) in 1660-61, the King was granted almost unlimited power. Learn more in Section 1.4.4.
+
+    ## Hvad indebar reformationen i Danmark i 1536?
+    1. [ ] Indførelsen af en demokratisk grundlov
+    > is incorrect; the Constitution was introduced in 1849. Learn more in Section 1.4.1.
+    2. [x] Overgangen fra katolsk til protestantisk kristendom
+    > The Reformation in 1536 led to the transition from Catholic to Protestant (Lutheran) Christianity in Denmark. Learn more in Section 1.4.1.
+    3. [ ] Ophævelse af kongens eneret på at handle med udlandet
+    > is incorrect; learn more in Section 1.4.1.
+
+    ## Hvad blev resultatet af Den 2. Slesvigske Krig i 1864?
+    1. [ ] Danmark erobrede Slesvig
+    > is incorrect; learn more in Section 1.7.
+    2. [x] Danmark tabte Slesvig
+    > Denmark was defeated in the Second Schleswig War (1864) and lost the duchies of Schleswig, Holstein, and Lauenburg. Learn more in Section 1.7.
+
+    ## Hvor højt over havets overflade ligger Danmarks højeste naturlige punkt?
+    1. [x] Cirka 170 meter
+    > Denmark's highest natural point, Møllehøj, is approximately 170 meters (170.86m) above sea level. Learn more in Section 6.1.1.
+    2. [ ] Cirka 370 meter
+    > is incorrect; learn more in Section 6.1.1.
+    3. [ ] Cirka 570 meter
+    > is incorrect; learn more in Section 6.1.1.
+
+    ## Hvem har til opgave at kontrollere offentlige myndigheders sagsbehandling?
+    1. [x] Folketingets Ombudsmand
+    > The Parliamentary Ombudsman (Folketingets Ombudsmand) is tasked with reviewing public authorities' case handling to ensure they act lawfully and in accordance with good practice. Learn more in Section 2.3.2.
+    2. [ ] Etisk Råd
+    > is incorrect; the Ethical Council provides advice on ethical issues. Learn more in Section 2.3.2.
+    3. [ ] Pressenævnet
+    > is incorrect; this institution handles complaints about media ethics. Learn more in Section 2.3.2.
+
+    ## Hvor gammel skal man mindst være for at købe cigaretter i Danmark?
+    1. [ ] 15 år
+    > is incorrect; 15 is the age of criminal responsibility and sexual consent. Learn more in Section 6.16.2.
+    2. [ ] 16 år
+    > is incorrect; 16 is the minimum age for purchasing low-alcohol beer. Learn more in Section 6.16.2.
+    3. [x] 18 år
+    > The legal minimum age for purchasing tobacco products, including cigarettes, is 18 years. Learn more in Section 6.16.2.
+
+    ## Hvilken årsdag blev markeret den 5. maj 2025?
+    1. [ ] 50-årsdagen for Danmarks indtræden i EF
+    > is incorrect; Denmark joined the EEC (EF) in 1973. Learn more in Section 6.3.
+    2. [x] 80-årsdagen for Danmarks befrielse efter 2. Verdenskrig
+    > May 5th marks the Liberation of Denmark (Danmarks befrielse) in 1945; thus, 2025 marked the 80th anniversary. Learn more in Section 6.3.
+    3. [ ] 100-årsdagen for Sønderjyllands genforening med Danmark
+    > is incorrect; the reunification of Nordslesvig (Sønderjylland) occurred in 1920. Learn more in Section 6.3.
+
+    ## Hvor var der valg til parlamentet i marts 2025?
+    1. [x] Grønland
+    > Elections were held for the Greenlandic Parliament (Inatsisartut) in March 2025. Learn more in Section 6.6.3.
+    2. [ ] Færøerne
+    > is incorrect; learn more in Section 6.6.3.
+
+    ## Hvad var Mette Frederiksen og en række andre europæiske stats- og regeringschefer til møde om i London i marts 2025?
+    1. [ ] Klimaforandringer
+    > is incorrect; learn more in Section 4.4.4.
+    2. [x] Situationen i Ukraine
+    > European leaders met in March 2025 to discuss the situation in Ukraine, reflecting Denmark's significant support for Ukraine following the 2022 invasion. Learn more in Section 4.4.4.
+    3. [ ] Grænseoverskridende kriminalitet
+    > is incorrect; learn more in Section 4.4.4.
+
+    ## Hvilken fødselsdag fejrede prinsesse Isabella i april 2025?
+    1. [x] 18 år
+    > Princess Isabella (born April 21, 2007) celebrated her 18th birthday in April 2025. Learn more in Section 6.4.
+    2. [ ] 20 år
+    > is incorrect; learn more in Section 6.4.
+    3. [ ] 25 år
+    > is incorrect; learn more in Section 6.4.
+
+    ## Hvem blev i marts 2025 valgt til verdens bedste mandlige håndboldspiller (2024 IHF Male World Player of the Year)?
+    1. [ ] Magnus Saugstrup
+    > is incorrect; learn more in Section 5.7.
+    2. [ ] Emil Jakobsen
+    > is incorrect; learn more in Section 5.7.
+    3. [x] Mathias Gidsel
+    > Mathias Gidsel, a Danish professional handball player, was named the IHF Male World Player of the Year for 2024. Learn more in Section 5.7.
+
+    ## Kan man blive straffet med fængsel for at hjælpe fremmede staters efterretningstjenester med at virke i Danmark?
+    1. [x] Ja
+    > Assisting foreign intelligence services operating in Denmark is illegal under the penal code and can lead to imprisonment. Learn more in Section 2.3.4.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 2.3.4.
+
+    ## Kan kvinder være biskopper i den danske folkekirke?
+    1. [x] Ja
+    > Women have had the right to serve as priests in the Folk Church since 1948 and can hold the office of bishop. Learn more in Section 6.9.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 6.9.
+
+    ## Hvad er den seksuelle lavalder i Danmark?
+    1. [ ] 13 år
+    > is incorrect; learn more in Section 6.13.
+    2. [x] 15 år
+    > The age of consent (den seksuelle lavalder) in Denmark is 15 years old. Learn more in Section 6.13.
+    3. [ ] 18 år
+    > is incorrect; 18 is the age of legal majority (myndighedsalderen). Learn more in Section 6.13.
+
+    ## Er det lovligt at lade sit barn under 18 år blive religiøst viet?
+    1. [ ] Ja
+    > is incorrect; learn more in Section 6.13.2.
+    2. [x] Nej
+    > Religious marriage ceremonies for individuals under 18 years old are prohibited in Denmark. Learn more in Section 6.13.2.
+
+    ## Hvilken placering indtager Danmark ud af 180 lande, når det gælder den højeste grad af pressefrihed ifølge Reporters Without Borders (2024 World Press Freedom Index)?
+    1. [x] 2
+    > Denmark was ranked 2nd globally in the 2024 World Press Freedom Index, reflecting the high constitutional protection of freedom of the press. Learn more in Section 2.3.1.
+    2. [ ] 26
+    > is incorrect; learn more in Section 2.3.1.
+    3. [ ] 51
+    > is incorrect; learn more in Section 2.3.1.

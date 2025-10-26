@@ -272,11 +272,11 @@ Questions
 
     ## Omkring hvilken krig blev Danmark ramt af influenza-epidemien "Den Spanske Syge"?
     
-    1. [ ] 2nd Slesvigske Krig
+    1. [ ] *2. Slesvigske Krig*
         > is incorrect; learn more in Section 1.7.
-    2. [x] 1st Verdenskrig
+    2. [x] *1. Verdenskrig*
         > The Spanish Flu epidemic occurred in 1918-1919, towards the end of World War I. Learn more in Section 1.9.1.
-    3. [ ] 2nd Verdenskrig
+    3. [ ] *2. Verdenskrig*
         > is incorrect; learn more in Section 1.9.1.
 
     ## Hvor mange indbyggere har Færøerne?

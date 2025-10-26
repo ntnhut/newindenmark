@@ -1,0 +1,416 @@
+The Citizenship Test 2024 May
+==========================================
+
+Aids: None
+
+Time: 45 minutes
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+
+    primary_color: orange
+
+    secondary_color: lightgray
+
+    text_color: black
+
+    shuffle_questions: false
+
+    ---
+
+    ## Hvornår trådte Danmarks Riges Grundlov i kraft?
+
+    1. [x] 1849
+    > Danmarks Riges Grundlov, landets første frie forfatning, blev underskrevet af kong Frederik 7. den 5. juni 1849. Learn more in Section 1.6.3.
+    2. [ ] 1864
+    > is incorrect; learn more in Section 1.7.
+    3. [ ] 1899
+    > is incorrect; learn more in Section 1.7.
+
+    ## Hvorfor kaldes folketingsvalget i 1973 for Jordskredsvalget?
+
+    1. [ ] Fordi der blev valgt flere kvinder end mænd til Folketinget
+    > is incorrect; learn more in Section 1.12.3.
+    2. [x] Fordi der var mange vælgere, der stemte på nye partier
+    > The 1973 election was known as the Jordskredsvalget (landslide election) because many voters cast their ballots for new parties, causing a significant shift in political alignment. Learn more in Section 1.12.3.
+    3. [ ] Fordi Socialdemokratiet opnåede absolut flertal
+    > is incorrect; learn more in Section 1.12.3.
+
+    ## Hvornår fandt den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig sted?
+
+    1. [x] 1940-43
+    > The Danish government’s collaboration policy with Nazi-Germany began after the invasion on April 9, 1940, and formally ended when the government resigned on August 29, 1943. Learn more in Section 1.10.1.
+    2. [ ] 1943-45
+    > is incorrect; learn more in Section 1.10.1.
+
+    ## I hvilken sektor arbejdede der flest mennesker omkring 1850?
+
+    1. [ ] Industri
+    > is incorrect; learn more in Section 1.8.
+    2. [ ] Fiskeri
+    > is incorrect; learn more in Section 1.8.
+    3. [x] Landbrug
+    > Before widespread industrialisation began in the late 19th century, most of the population worked in agriculture (landbrug). Learn more in Section 1.8.
+
+    ## Hvem er den lovgivende, den udøvende og den dømmende magt fordelt mellem?
+
+    1. [x] Folketinget, regeringen og domstolene
+    > The power of the state is divided into the legislative (Folketinget and government), the executive (regeringen), and the judicial (domstolene) powers. Learn more in Section 2.2.1.
+    2. [ ] Folketinget, kommunerne og domstolene
+    > is incorrect; learn more in Section 2.2.1.
+    3. [ ] Regeringen, regionerne og kommunerne
+    > is incorrect; learn more in Section 2.2.1.
+
+    ## Hvilke partier indgår i den nuværende regering?
+
+    1. [ ] Socialdemokratiet, SF og Radikale Venstre
+    > is incorrect; learn more in Section 1.13.7.
+    2. [ ] Socialdemokratiet, Liberal Alliance og Det Konservative Folkeparti
+    > is incorrect; learn more in Section 1.13.7.
+    3. [x] Socialdemokratiet, Venstre og Moderaterne
+    > Following the 2022 election, the current Danish government is a majority coalition consisting of Socialdemokratiet, Venstre, and Moderaterne. Learn more in Section 1.13.7.
+
+    ## Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?
+
+    1. [x] Mindretalsregering
+    > Since World War II, the majority of Danish governments have been minority governments (mindretalsregeringer), requiring support from parties outside the coalition to secure a parliamentary majority. Learn more in Section 2.2.2.
+    2. [ ] Flertalsregering
+    > is incorrect; learn more in Section 2.2.2.
+
+    ## Kan statsministeren udpege en minister, der ikke er medlem af Folketinget?
+
+    1. [x] Ja
+    > Ministers do not formally need to be members of the Folketing. Learn more in Section 2.2.2.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 2.2.2.
+
+    ## Hvad er Inger Christensen (1935-2009) særlig kendt for?
+
+    1. [ ] Hun var kunstmaler
+    > is incorrect; learn more in Section 5.2.
+    2. [x] Hun var digter
+    > Inger Christensen was a prominent Danish writer and poet (digter), known for her modernist work. Learn more in Section 5.2.
+    3. [ ] Hun var skuespiller
+    > is incorrect; learn more in Section 5.2.
+
+    ## Hvilken dansk tv-serie beskriver blandt andet dagligliv og historiske begivenheder i perioden 1929-47?
+
+    1. [ ] Krøniken
+    > is incorrect; learn more in Section 5.7.
+    2. [ ] Borgen
+    > is incorrect; learn more in Section 5.7.
+    3. [x] Matador
+    > Matador is a classic Danish TV series that follows the lives of two competing families in the fictional town of Korsbæk between 1929 and 1947. Learn more in Section 5.7.
+
+    ## Hvilken popgruppe udgav nummeret ’Barbie Girl’ i 1990’erne?
+
+    1. [ ] Whigfield
+    > is incorrect; learn more in Section 5.4.
+    2. [ ] Me & My
+    > is incorrect; learn more in Section 5.4.
+    3. [x] Aqua
+    > Aqua is the internationally known Danish-Norwegian pop group that released the hit song "Barbie Girl" in 1997. Learn more in Section 5.4.
+
+    ## Hvilken type vedvarende energi producerer den største andel af Danmarks el-forbrug?
+
+    1. [ ] Solenergi
+    > is incorrect; learn more in Section 6.17.
+    2. [x] Vindenergi
+    > In 2023, approximately 50 percent of Denmark's electricity consumption was covered by wind power (vindenergi). Learn more in Section 6.17.
+    3. [ ] Bølgeenergi
+    > is incorrect; learn more in Section 6.17.
+
+    ## Hvilket af følgende lande har Danmark størst samhandel (import og eksport) med?
+
+    1. [ ] Kina
+    > is incorrect; learn more in Section 3.3.
+    2. [ ] Storbritannien
+    > is incorrect; learn more in Section 3.3.
+    3. [x] Tyskland
+    > Historically and currently, Germany (Tyskland) is the most significant trading partner for Denmark, crucial for both import and export. Learn more in Section 3.3.
+
+    ## Hvilket af følgende områder har staten ansvaret for driften af?
+
+    1. [x] Domstole
+    > The central state (staten) is responsible for core national functions, including the police, defense, and the justice system (domstole). Learn more in Section 3.2.3.
+    2. [ ] Folkeskoler
+    > is incorrect; these are primarily municipal responsibilities. Learn more in Section 3.2.3.
+    3. [ ] Sygehuse
+    > is incorrect; these are primarily regional responsibilities. Learn more in Section 3.2.3.
+
+    ## Hvilket år blev Margrethe den 2. dronning af Danmark?
+
+    1. [ ] 1962
+    > is incorrect; learn more in Section 6.4.
+    2. [x] 1972
+    > Margrethe 2. became Queen of Denmark on January 14, 1972, following the death of her father. Learn more in Section 6.4.
+    3. [ ] 1982
+    > is incorrect; learn more in Section 6.4.
+
+    ## Hvad er Knud Rasmussen (1879-1933) særlig kendt for?
+
+    1. [x] Han var polarforsker
+    > Knud Rasmussen was a Danish-Greenlandic ethnologist and polar explorer (polarforsker) known for the massive literary collection compiled during his expeditions. Learn more in Section 6.8.
+    2. [ ] Han var kunstmaler
+    > is incorrect; learn more in Section 6.8.
+    3. [ ] Han var komponist
+    > is incorrect; learn more in Section 6.8.
+
+    ## Hvilken af følgende ordninger er en del af velfærdssamfundets serviceydelser?
+
+    1. [ ] Folkepensionen
+    > is incorrect; this is a cash transfer (overførselsindkomst). Learn more in Section 3.2.3.
+    2. [ ] SU (Statens Uddannelsesstøtte)
+    > is incorrect; this is a cash transfer (overførselsindkomst). Learn more in Section 3.2.3.
+    3. [x] Folkeskolen
+    > Public primary schools (Folkeskolen) are classified as public service benefits (serviceydelser) provided to all citizens who meet the conditions. Learn more in Section 3.2.3.
+
+    ## Hvad hedder det fælles forsvarssamarbejde, Danmark er medlem af?
+
+    1. [ ] EU
+    > is incorrect; learn more in Section 4.4.1.
+    2. [x] NATO
+    > Denmark chose to abandon its neutrality policy after WWII and became a member of the North Atlantic Treaty Organization (NATO) in 1949. Learn more in Section 4.4.1.
+    3. [ ] FN
+    > is incorrect; learn more in Section 4.3.1.
+
+    ## Hvad betyder flexicurity-modellen på det danske arbejdsmarked?
+
+    1. [ ] At det er let at afskedige medarbejdere, men staten blander sig i løn- og arbejdsvilkår
+    > is incorrect; the state generally does not intervene in wages. Learn more in Section 3.4.3.
+    2. [ ] At det er svært at afskedige medarbejdere, men de arbejdsløse får understøttelse
+    > is incorrect; it is relatively easy to dismiss employees. Learn more in Section 3.4.3.
+    3. [x] At det er let at afskedige medarbejdere, men de arbejdsløse får understøttelse
+    > The flexicurity model combines flexibility for employers (easy hiring/firing) with high economic security (understøttelse) for the unemployed. Learn more in Section 3.4.3.
+
+    ## Hvordan afgøres det, om man skal aftjene værnepligt, hvis der ikke er frivillige nok?
+
+    1. [ ] Ved tilfældig udvælgelse af de bedst egnede
+    > is incorrect; learn more in Section 2.3.4.
+    2. [ ] Ved en samfundsværnspligt
+    > is incorrect; learn more in Section 2.3.4.
+    3. [x] Ved lodtrækning
+    > If the number of volunteers is insufficient, it is decided by lottery (lodtrækning) whether an individual must serve conscription (værnepligt). Learn more in Section 2.3.4.
+
+    ## Hvor stor en andel af den erhvervsaktive befolkning (16-64 år) i Danmark er i beskæftigelse?
+
+    1. [ ] Cirka én ud af to
+    > is incorrect; learn more in Section 3.4.
+    2. [x] Cirka tre ud af fire
+    > As of 2025, the employment rate for the active population (16-64 years) was 77.6 percent, which is approximately three out of four. Learn more in Section 3.4.
+    3. [ ] Cirka ni ud af ti
+    > is incorrect; learn more in Section 3.4.
+
+    ## Hvad er et af formålene med FN’s 17 verdensmål om bæredygtig udvikling?
+
+    1. [ ] At forbyde alle former for brug af fossile brændsler
+    > is incorrect; learn more in Section 4.3.1.
+    2. [ ] At afskaffe alle former for social ulighed
+    > is incorrect; learn more in Section 4.3.1.
+    3. [x] At sikre ligestilling mellem kønnene
+    > The 17 Sustainable Development Goals (verdensmål) adopted by the UN cover a broad range of issues, including gender equality (ligestilling mellem kønnene). Learn more in Section 4.3.1.
+
+    ## Hvilken organisation ligger bag udarbejdelsen af Den Europæiske Menneskerettighedskonvention fra 1950?
+
+    1. [ ] EU
+    > is incorrect; learn more in Section 4.2.2.
+    2. [ ] FN
+    > is incorrect; learn more in Section 4.2.2.
+    3. [x] Europarådet
+    > The European Convention on Human Rights (Menneskerettighedskonventionen) was created by the Council of Europe (Europarådet) in 1950. Learn more in Section 4.2.2.
+
+    ## Hvor mange lande er i dag medlem af FN?
+
+    1. [x] Cirka 193
+    > The United Nations (FN) was founded in 1945 and currently has 193 member states. Learn more in Section 4.3.1.
+    2. [ ] Cirka 220
+    > is incorrect; learn more in Section 4.3.1.
+    3. [ ] Cirka 155
+    > is incorrect; learn more in Section 4.3.1.
+
+    ## Hvor ofte skal der afholdes valg til Europa-Parlamentet?
+
+    1. [ ] Hvert fjerde år
+    > is incorrect; learn more in Section 4.2.1.
+    2. [ ] Hvert tredje år
+    > is incorrect; learn more in Section 4.2.1.
+    3. [x] Hvert femte år
+    > Elections for the European Parliament are held every fifth year. Learn more in Section 4.2.1.
+
+    ## Hvad er Danmark og en række andre lande forpligtet til ifølge Paris-aftalen fra 2015?
+
+    1. [x] At reducere udslippet af drivhusgasser i atmosfæren
+    > The Paris Agreement (Paris-aftalen) requires nearly all nations, including Denmark, to contribute to reducing the global emission of greenhouse gases. Learn more in Section 6.17.
+    2. [ ] At bruge flere penge på forsvaret
+    > is incorrect; learn more in Section 6.17.
+    3. [ ] At samarbejde om forebyggelse af grænseoverskridende kriminalitet
+    > is incorrect; learn more in Section 6.17.
+
+    ## Hvilket af de danske EU-forbehold var der folkeafstemning om i 2022?
+
+    1. [ ] EU's fælles valuta (euroen)
+    > is incorrect (this was voted on in 2000). Learn more in Section 4.2.1.
+    2. [ ] EU's fælles rets- og udlændingepolitik
+    > is incorrect (this was voted on in 2015). Learn more in Section 4.2.1.
+    3. [x] EU's forsvars- og sikkerhedspolitik
+    > A referendum was held on June 1, 2022, concerning the abolition of the defense and security policy reservation (forsvars-forbehold), with a majority voting in favor of lifting it. Learn more in Section 4.2.1.
+
+    ## Hvilken international organisation har vedtaget 17 såkaldte verdensmål om for eksempel ligestilling, klima og fattigdom?
+
+    1. [ ] NATO
+    > is incorrect; learn more in Section 4.3.1.
+    2. [ ] EU
+    > is incorrect; learn more in Section 4.3.1.
+    3. [x] FN
+    > The United Nations (FN) adopted the 17 Sustainable Development Goals (verdensmål) in 2015 to guide global development efforts until 2030. Learn more in Section 4.3.1.
+
+    ## Hvilket land sendte Danmark soldater til i 2003 på baggrund af en amerikansk ledet invasion?
+
+    1. [ ] Syrien
+    > is incorrect; learn more in Section 1.13.3.
+    2. [x] Irak
+    > Following the US-led invasion in 2003, the Danish government supported the action and sent Danish soldiers to Iraq. Learn more in Section 1.13.3.
+    3. [ ] Libyen
+    > is incorrect; Denmark sent forces to Libya in 2011. Learn more in Section 1.13.3.
+
+    ## Hvor stor en andel af Danmarks befolkning er medlem af folkekirken?
+
+    1. [ ] Cirka 40 procent
+    > is incorrect; learn more in Section 6.9.
+    2. [ ] Cirka 55 procent
+    > is incorrect; learn more in Section 6.9.
+    3. [x] Cirka 70 procent
+    > The majority of the Danish population, approximately 71 percent in 2025, are members of the Evangelical-Lutheran Church (folkekirken). Learn more in Section 6.9.
+
+    ## Hvad er den kriminelle lavalder i Danmark?
+
+    1. [x] 15 år
+    > The age of criminal responsibility (kriminelle lavalder) in Denmark is 15 years old. Learn more in Section 2.3.4.
+    2. [ ] 16 år
+    > is incorrect; learn more in Section 2.3.4.
+    3. [ ] 18 år
+    > is incorrect; learn more in Section 2.3.4.
+
+    ## Hvilken dag markeres kvindernes internationale kampdag?
+
+    1. [x] *8. marts*
+    > International Women's Day (kvindernes internationale kampdag) is marked on March 8th every year. Learn more in Section 1.8.4.
+    2. [ ] *9. april*
+    > is incorrect; learn more in Section 1.8.4.
+    3. [ ] *5. juni*
+    > is incorrect; this is Grundlovsdag. Learn more in Section 1.8.4.
+
+    ## Hvor gammel skal man mindst være for at købe cigaretter i Danmark?
+
+    1. [ ] 16 år
+    > is incorrect; this is the age limit for weak alcohol. Learn more in Section 6.16.2.
+    2. [x] 18 år
+    > The legal minimum age to buy tobacco products, including cigarettes, is 18 years old. Learn more in Section 6.16.2.
+    3. [ ] 20 år
+    > is incorrect; learn more in Section 6.16.2.
+
+    ## Hvornår blev det forbudt for lærerne at slå eleverne i folkeskolen?
+
+    1. [x] 1967
+    > Corporal punishment was completely forbidden for teachers in the Folkeskole starting in 1967. Learn more in Section 1.11.3.
+    2. [ ] 1987
+    > is incorrect; learn more in Section 1.11.3.
+    3. [ ] 2007
+    > is incorrect; learn more in Section 1.11.3.
+
+    ## Hvilket parti stemte landmænd typisk på i midten af 1900-tallet?
+
+    1. [ ] Dansk Folkeparti
+    > is incorrect; learn more in Section 1.8.3.
+    2. [ ] Det Konservative Folkeparti
+    > is incorrect; learn more in Section 1.8.3.
+    3. [x] Venstre
+    > Venstre originated as the "bondepartiet" (farmers' party) and traditionally received strong support from the agricultural sector. Learn more in Section 1.8.3.
+
+    ## Hvilken historisk bygning i København brændte den 16. april 2024?
+
+    1. [ ] Holmens Kirke
+    > is incorrect; learn more in Section 6.2.2.
+    2. [x] Børsen
+    > The historic Stock Exchange building (Børsen), originally built by Christian IV, was severely damaged by a fire on April 16, 2024. Learn more in Section 6.2.2.
+    3. [ ] Rosenborg Slot
+    > is incorrect; learn more in Section 6.2.2.
+
+    ## Hvem blev Danmarks nye konge i januar 2024?
+
+    1. [ ] Frederik den 4.
+    > is incorrect; learn more in Section 6.4.
+    2. [ ] Frederik den 7.
+    > is incorrect; learn more in Section 6.4.
+    3. [x] Frederik den 10.
+    > King Frederik 10. (born 1968) ascended the throne on January 14, 2024, succeeding his mother, Queen Margrethe 2.. Learn more in Section 6.4.
+
+    ## Hvor har krigsskibet Ivar Huitfeldt patruljeret i foråret 2024?
+
+    1. [x] Ved den Arabiske Halvø
+    > The Danish frigate Ivar Huitfeldt patrolled the area around the Arabian Peninsula (the Red Sea) as part of an international operation to secure commercial shipping lanes. Learn more in Section 4.4.
+    2. [ ] Ved Cuba
+    > is incorrect; learn more in Section 4.4.
+    3. [ ] Ved Taiwan
+    > is incorrect; learn more in Section 4.4.
+
+    ## Mikkel Hansen (født 1987) har i 2024 meddelt, at han stopper som professionel sportsmand. I hvilken sport er han professionel?
+
+    1. [ ] Fodbold
+    > is incorrect; learn more in Section 5.7.
+    2. [x] Håndbold
+    > Mikkel Hansen is one of the most celebrated professional handball players in Denmark. Learn more in Section 5.7.
+    3. [ ] Badminton
+    > is incorrect; learn more in Section 5.7.
+
+    ## Hvilket parti var Søren Pape Poulsen formand for indtil sin død i marts 2024?
+
+    1. [ ] Venstre
+    > is incorrect; learn more in Section 1.8.4.
+    2. [ ] Radikale Venstre
+    > is incorrect; learn more in Section 1.8.4.
+    3. [x] Det Konservative Folkeparti
+    > Søren Pape Poulsen was the leader (formand) of Det Konservative Folkeparti until his death in March 2024. Learn more in Section 1.8.4.
+
+    ## Kan man komme i fængsel, hvis man ulovligt tvinger nogen til at indgå et ægteskab?
+
+    1. [x] Ja
+    > Forcing someone to enter a marriage they do not consent to is prohibited and punishable by law (strafbart). Learn more in Section 6.13.3.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 6.13.3.
+
+    ## Hvad er den seksuelle lavalder i Danmark?
+
+    1. [ ] 13 år
+    > is incorrect; learn more in Section 6.13.
+    2. [x] 15 år
+    > The age of consent (den seksuelle lavalder) in Denmark is 15 years old, aligning with the minimum age of criminal responsibility. Learn more in Section 6.13.
+    3. [ ] 18 år
+    > is incorrect; learn more in Section 6.13.
+
+    ## Kan en forælder ifølge dansk lov bestemme, at kød, der serveres i en børnehave, stammer fra dyr, der er rituelt slagtet?
+
+    1. [ ] Ja
+    > is incorrect; freedom of religion does not grant the right to dictate public service provision. Learn more in Section 6.13.
+    2. [x] Nej
+    > Public institutions, such as kindergartens, are generally required to adhere to public regulations and common standards, and parents cannot mandate specific forms of food preparation like ritual slaughter (rituelt slagtet kød) for the institution. Learn more in Section 6.13.
+
+    ## Kan man komme i fængsel for at sende sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare (genopdragelsesrejse)?
+
+    1. [x] Ja
+    > Legislation allows for imprisonment if a parent or guardian sends a child abroad for a "re-education trip" (genopdragelsesrejse) that seriously endangers the child’s health or development. Learn more in Section 6.14.3.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 6.14.3.
+
+    ## Hvor stor en andel af borgerne i Danmark har tillid til, at politiet vil hjælpe dem, hvis de har brug for det (ifølge Justitsministeriets Tryghedsundersøgelse 2023)?
+
+    1. [ ] Cirka 25 procent
+    > is incorrect; learn more in Section 2.4.
+    2. [ ] Cirka 55 procent
+    > is incorrect; learn more in Section 2.4.
+    3. [x] Cirka 85 procent
+    > Trust in democratic institutions, including the police, is generally high in Denmark. Learn more in Section 2.4.

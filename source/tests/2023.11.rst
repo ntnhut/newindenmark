@@ -1,0 +1,392 @@
+The Citizenship Test 2023 November
+==========================================
+
+Aids: None
+
+Time: 45 minutes
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilket parti var Poul Nyrup Rasmussen formand for, da han var statsminister 1993-2001?
+    1. [ ] Det Konservative Folkeparti
+    > is incorrect; learn more in Section 1.13.2.
+    2. [ ] Venstre
+    > is incorrect; learn more in Section 1.13.2.
+    3. [x] Socialdemokratiet
+    > Poul Nyrup Rasmussen led the Social Democrats as Prime Minister from 1993 to 2001. Learn more in Section 1.13.2.
+
+    ## Hvem har ansvaret for driften af børne- og ungdomstandplejen?
+    1. [x] Kommunerne
+    > The municipalities (kommunerne) are responsible for services close to citizens, including children's and youth dental care.
+    Learn more in Section 6.16.3.
+    2. [ ] Regionerne
+    > is incorrect; learn more in Section 6.16.3.
+    3. [ ] Staten
+    > is incorrect; learn more in Section 6.16.3.
+
+    ## Kan et ægtepar ifølge dansk lov blive skilt, selvom den ene part ikke ønsker det?
+    1. [x] Ja
+    > An unhappy spouse has the right to separation for six months and subsequent divorce, even if the partner disagrees.
+    Learn more in Section 6.13.3.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 6.13.3.
+
+    ## Hvem er kendt for at have beskrevet, hvordan man skal opføre sig i 'Takt og Tone - Hvordan Vi Omgås' fra 1918?
+    1. [ ] Herman Bang
+    > is incorrect; learn more in Section 5.2.2.
+    2. [x] Emma Gad
+    > Emma Gad (1852-1921) is best known for her book 'Takt og Tone - Hvordan Vi Omgås' (1918), which details how one should behave in social situations.
+    Learn more in Section 5.2.2.
+    3. [ ] Karen Blixen
+    > is incorrect; learn more in Section 5.2.2.
+
+    ## Hvor længe varede Danmarks officielle militære modstand, da Tyskland angreb Danmark den 9. april 1940?
+    1. [x] Mindre end en dag
+    > The military resistance by Denmark against the German attack on April 9, 1940, was insignificant and lasted only a few hours.
+    Learn more in Section 1.10.1.
+    2. [ ] Mellem en og to uger
+    > is incorrect; learn more in Section 1.10.1.
+    3. [ ] Cirka halvanden måned
+    > is incorrect; learn more in Section 1.10.1.
+
+    ## Hvem består Europa-Parlamentet af?
+    1. [ ] Embedsmænd udpeget af EU-Kommissionen
+    > is incorrect; embedsmænd work in the general directorates helping the Commission.
+    Learn more in Section 4.2.3.
+    2. [ ] Ministre fra medlemsstaternes regeringer
+    > is incorrect; these ministers form the Council of the European Union (Rådet). Learn more in Section 4.2.3.
+    3. [x] Politikere direkte valgt af EU's befolkninger
+    > The European Parliament is the directly elected assembly in the European collaboration, with members chosen by EU citizens.
+    Learn more in Section 4.2.3.
+
+    ## Hvortil kan man normalt appellere en afgørelse fra byretten?
+    1. [x] Landsretten
+    > According to the two-instance principle, a case starting in the City Court (byretten) can generally be appealed to the High Court (landsretten).
+    Learn more in Section 2.3.2.
+    2. [ ] Højesteret
+    > is incorrect; Højesteret is generally the third and final court of appeal, requiring special permission for cases appealed from the Landsretten.
+    Learn more in Section 2.3.2.
+
+    ## Hvem samlede i slutningen af 1300-tallet Danmark, Norge og Sverige i en union?
+    1. [ ] Knud den Store
+    > is incorrect (he reigned earlier in the 11th century); learn more in Section 1.3.1.
+    2. [x] Margrete den 1.
+    > Margrete I assembled Denmark, Norway, and Sweden into the Kalmar Union, which lasted from 1397 to 1523. Learn more in Section 1.3.1.
+    3. [ ] Christian den 3.
+    > is incorrect (he reigned later in the 16th century); learn more in Section 1.4.1.
+
+    ## Hvad er Vitus Bering særligt kendt for?
+    1. [ ] Han var filosof
+    > is incorrect; learn more in Section 6.8.2.
+    2. [x] Han var opdagelsesrejsende
+    > Vitus Bering (1681-1741) was a Danish naval officer and explorer who led Russian expeditions that mapped parts of the North American coast and demonstrated that Asia and Nordamerika are separated by water (Beringstrædet).
+    Learn more in Section 6.8.2.
+    3. [ ] Han var komponist
+    > is incorrect; learn more in Section 6.8.2.
+
+    ## Hvilket politisk parti blev dannet i slutningen af 1950'erne af en gruppe tidligere medlemmer af Danmarks Kommunistiske Parti (DKP)?
+    1. [x] Socialistisk Folkeparti
+    > Socialistisk Folkeparti (SF) was formed in 1959 by Aksel Larsen and other former members of the Danish Communist Party (DKP).
+    Learn more in Section 1.11.1.
+    2. [ ] Alternativet
+    > is incorrect; Alternativet was established much later (2015).
+    Learn more in Section 1.13.7.
+    3. [ ] Radikale Venstre
+    > is incorrect; Radikale Venstre is one of the four long-established parties. Learn more in Section 1.11.1.
+
+    ## Hvor mange indbyggere har Færøerne?
+    1. [x] Cirka 50.000
+    > The Faroe Islands (Færøerne) have a population of approximately 54,000 residents. Learn more in Section 6.6.2.
+    2. [ ] Cirka 150.000
+    > is incorrect; learn more in Section 6.6.2.
+    3. [ ] Cirka 250.000
+    > is incorrect; learn more in Section 6.6.2.
+
+    ## Hvordan har arbejdsløsheden i Danmark overordnet udviklet sig de sidste ti år?
+    1. [ ] Den er vokset
+    > is incorrect; learn more in Section 1.13.4.
+    2. [x] Den er faldet
+    > Unemployment (arbejdsløshed) has generally fallen over the last decade, from 6.0 percent in April 2013 to 2.9 percent in April 2025. Learn more in Section 1.13.4.
+
+    ## Hvilket land sendte Danmark soldater til på baggrund af terrorangrebet i USA den 11. september 2001?
+    1. [ ] Mali
+    > is incorrect; learn more in Section 4.4.2.
+    2. [ ] Kosovo
+    > is incorrect; Denmark participated in NATO actions in Kosovo in 1999, prior to 9/11. Learn more in Section 1.13.2.
+    3. [x] Afghanistan
+    > In 2002, the Folketing decided to send Danish soldiers to Afghanistan following the 9/11 terror attacks, targeting the Taliban regime which harbored the Al Qaeda organization.
+    Learn more in Section 4.4.2.
+
+    ## Hvordan fejrer man traditionelt sankthans i Danmark?
+    1. [x] Man samles om aftenen og tænder bål
+    > Sankt-hans (Midsummer's Eve, June 23) is traditionally celebrated by gathering in the evening and lighting bonfires.
+    Learn more in Section 6.10.
+    2. [ ] Man holder fest og giver hinanden gaver
+    > is incorrect; learn more in Section 6.10.
+    3. [ ] Man klæder sig ud og slår katten af tønden
+    > is incorrect; this is how Fastelavn (carnival) is celebrated. Learn more in Section 6.10.
+
+    ## Hvilken nobelpris fik Johannes V. Jensen i 1944?
+    1. [ ] Nobelprisen i fysik
+    > is incorrect; learn more in Section 5.2.2.
+    2. [ ] Nobelprisen i økonomi
+    > is incorrect; learn more in Section 5.2.2.
+    3. [x] Nobelprisen i litteratur
+    > The Danish author Johannes V. Jensen (1873-1950) received the Nobel Prize in Literature in 1944. Learn more in Section 5.2.2.
+
+    ## Fra hvilket land kom der særligt mange asylansøgere til Danmark i 2015?
+    1. [x] Syrien
+    > Syria is one of the ten countries of origin for the largest groups of immigrants and descendants in Denmark, with 46,000 recorded in 2025. Learn more in Section 6.5.
+    2. [ ] Iran
+    > is incorrect; learn more in Section 6.5.
+    3. [ ] Ukraine
+    > is incorrect (Ukrainians arrived primarily after the 2022 invasion). Learn more in Section 6.5.
+
+    ## Hvilket af følgende partier har aldrig været med i en regering?
+    1. [ ] Radikale Venstre
+    > is incorrect; Radikale Venstre has held the Prime Minister post for 12 years since 1901. Learn more in Section 2.2.2.
+    2. [x] Enhedslisten
+    > Enhedslisten (The Red-Green Alliance) was first elected in 1994 and has been a supporting party for governments, but has never been part of a governing coalition.
+    Learn more in Section 1.13.2.
+    3. [ ] Socialistisk Folkeparti
+    > is incorrect; Socialistisk Folkeparti has participated in governing coalitions.
+    Learn more in Section 1.11.1.
+
+    ## Hvem fik mere magt med enevælden, der blev indført i Danmark i 1660-61?
+    1. [ ] Adelen
+    > is incorrect; the nobility (adelen) lost privileges and were forced to pay tax.
+    Learn more in Section 1.4.4.
+    2. [ ] Kirken
+    > is incorrect; learn more in Section 1.4.4.
+    3. [x] Kongen
+    > With the introduction of absolute monarchy (enevælden) in 1660-61, the King ruled the country entirely alone, gaining the power to appoint officials, introduce laws, and levy taxes.
+    Learn more in Section 1.4.4.
+
+    ## Hvad karakteriserede blandt andet 1960'erne i Danmark?
+    1. [ ] Oliekrise og høj arbejdsløshed
+    > is incorrect; this characterized the 1970s following the oil crisis.
+    Learn more in Section 1.12.2.
+    2. [x] Høj økonomisk vækst med stor stigning i produktion og forbrug
+    > The 1960s (known as Højkonjunkturen, circa 1957-1973) were characterized by high economic growth and significant increases in production and consumption.
+    Learn more in Section 1.11.2.
+
+    ## Hvor stor en andel af Grønland er dækket af is hele året?
+    1. [ ] Cirka 40 procent
+    > is incorrect; learn more in Section 6.6.1.
+    2. [ ] Cirka 60 procent
+    > is incorrect; learn more in Section 6.6.1.
+    3. [x] Cirka 80 procent
+    > Approximately 83 percent of Greenland is covered by ice year-round; the Inland Ice (Indlandsisen) alone covers about 80 percent of the total area. Learn more in Section 6.6.1.
+
+    ## Hvor ligger flest danske konger og dronninger begravet?
+    1. [ ] Viborg Domkirke
+    > is incorrect; learn more in Section 6.2.2.
+    2. [x] Roskilde Domkirke
+    > Roskilde Cathedral (Domkirke) has been the preferred burial church for the Danish royal family since the 1400s, and approximately 40 Danish kings and queens are buried there.
+    Learn more in Section 6.2.2.
+    3. [ ] Ribe Domkirke
+    > is incorrect; learn more in Section 6.2.2.
+
+    ## Hvilken af følgende politikere var med til at stifte Dansk Folkeparti?
+    1. [ ] Pernille Vermund
+    > is incorrect; Pernille Vermund founded Nye Borgerlige. Learn more in Section 1.13.7.
+    2. [ ] Inger Støjberg
+    > is incorrect; Inger Støjberg founded Danmarksdemokraterne. Learn more in Section 1.13.7.
+    3. [x] Pia Kjærsgaard
+    > Pia Kjærsgaard (f. 1947) was the founder and party leader of Dansk Folkeparti, which was first elected to the Folketing in 1998. Learn more in Section 1.13.2.
+
+    ## Hvad var Carl Nielsen (1865-1931) særligt kendt for?
+    1. [ ] Han var maler
+    > is incorrect; learn more in Section 5.4.
+    2. [ ] Han var arkitekt
+    > is incorrect; learn more in Section 5.4.
+    3. [x] Han var komponist
+    > Carl Nielsen (1865-1931) is considered the most prominent Danish composer ever, known for his operas, symphonies, chamber music, and songs.
+    Learn more in Section 5.4.
+
+    ## Er der flest mænd eller kvinder, der gennemfører en videregående uddannelse?
+    1. [ ] Mænd
+    > is incorrect; in 2023, 45 percent of men completed higher education. Learn more in Section 6.15.1.
+    2. [x] Kvinder
+    > Yes, there are more women; in 2023, approximately 64 percent of women completed a higher education (videregående uddannelse).
+    Learn more in Section 6.15.1.
+
+    ## Hvornår blev Nina Bang udnævnt til Danmarks første kvindelige minister?
+    1. [x] 1924
+    > Nina Bang was appointed Minister of Education (undervisningsminister) in Thorvald Stauning's Social Democratic government in 1924, making her Denmark's first female minister.
+    Learn more in Section 1.9.3.
+    2. [ ] 1941
+    > is incorrect; learn more in Section 1.9.3.
+    3. [ ] 1963
+    > is incorrect; learn more in Section 1.9.3.
+
+    ## Hvor stor en andel af Danmarks befolkning udgøres af indvandrere og deres efterkommere?
+    1. [ ] Cirka 5 procent
+    > is incorrect; learn more in Section 6.5.
+    2. [x] Cirka 15 procent
+    > As of 2025, immigrants and their descendants constitute 977,000 people, corresponding to 16.3 percent of the population.
+    Learn more in Section 6.5.
+    3. [ ] Cirka 25 procent
+    > is incorrect; learn more in Section 6.5.
+
+    ## Var Danmark besat af tyske tropper under 1. Verdenskrig (1914-18)?
+    1. [ ] Ja
+    > is incorrect; learn more in Section 1.9.1.
+    2. [x] Nej
+    > Denmark remained neutral and was not directly involved in or occupied during World War I (1914-18).
+    Learn more in Section 1.9.1.
+
+    ## Hvilket af følgende partier er nyest?
+    1. [x] Liberal Alliance
+    > Liberal Alliance is one of the newer parties in the Folketing, elected to the parliament after Enhedslisten (1994).
+    Learn more in Section 1.13.7.
+    2. [ ] Det Konservative Folkeparti
+    > is incorrect; this is one of the four long-established parties. Learn more in Section 1.11.1.
+    3. [ ] Enhedslisten
+    > is incorrect; Enhedslisten was first elected in 1994. Learn more in Section 1.13.2.
+
+    ## Hvor stor en andel af kvinder i Danmark mellem 16 og 64 år er i beskæftigelse?
+    1. [ ] Cirka 45 procent
+    > is incorrect; learn more in Section 3.4.
+    2. [ ] Cirka 60 procent
+    > is incorrect; learn more in Section 3.4.
+    3. [x] Cirka 75 procent
+    > The employment rate (beskæftigelse) for women aged 16-64 years in Denmark was 75.8 percent in 2025. Learn more in Section 3.4.
+
+    ## Hvilken instans har som sin primære opgave at kontrollere offentlige myndigheders sagsbehandling?
+    1. [ ] Etisk Råd
+    > is incorrect; Etisk Råd advises on ethical issues. Learn more in Section 6.15.2.
+    2. [x] Folketingets Ombudsmand
+    > The Parliamentary Ombudsman (Folketingets Ombudsmand) is tasked with reviewing public authorities' case management to ensure they act lawfully and according to good practice.
+    Learn more in Section 2.3.2.
+    3. [ ] Pressenævnet
+    > is incorrect; learn more in Section 2.2.6.
+
+    ## For hvilken film har Bille August vundet en Oscar?
+    1. [x] Pelle Erobreren
+    > Bille August won both an Oscar and the Palme d'Or for the film 'Pelle Erobreren' (Pelle the Conqueror) in 1987. Learn more in Section 5.7.
+    2. [ ] Jerusalem
+    > is incorrect; learn more in Section 5.7.
+    3. [ ] Zappa
+    > is incorrect; learn more in Section 5.7.
+
+    ## Hvilke af følgende krige med dansk deltagelse foregik i 1600-tallet?
+    1. [ ] De Slesvigske Krige
+    > is incorrect; these wars were fought in the 19th century (1848-50 and 1864).
+    Learn more in Section 1.7.
+    2. [ ] Englandskrigene
+    > is incorrect; these wars occurred in the early 19th century (1801 and 1807). Learn more in Section 1.6.2.
+    3. [x] Svenskekrigene
+    > The Swedish Wars (Svenskekrigene) dominated Denmark's foreign policy during the 17th century (1600s), specifically referring to conflicts like those fought between 1643 and 1660. Learn more in Section 1.4.3 and 6.7.1.
+
+    ## Fik kvinder valgret til Folketinget med grundloven i 1849?
+    1. [ ] Ja
+    > is incorrect; the 1849 constitution explicitly excluded women from the right to vote (valgret). Learn more in Section 1.6.3.
+    2. [x] Nej
+    > Women did not receive the right to vote (valgret) until the constitutional amendment of 1915. Learn more in Section 2.2.1.
+
+    ## Hvad er der sket med folkepensionsalderen siden 2018?
+    1. [x] Den er blevet højere
+    > The general old-age pension age (folkepensionsalderen) was 65 until 2018, and is gradually being raised, reaching 67 in 2022 and planned to reach 69 by 2035. Learn more in Section 3.2.1.
+    2. [ ] Den er uændret
+    > is incorrect; learn more in Section 3.2.1.
+    3. [ ] Den er blevet lavere
+    > is incorrect; learn more in Section 3.2.1.
+
+    ## Hvilken international organisation blev Danmark medlem af i 1945?
+    1. [ ] EU
+    > is incorrect; Denmark joined the EEC (EF), the precursor to the EU, in 1973. Learn more in Section 1.12.1.
+    2. [ ] WTO
+    > is incorrect; learn more in Section 4.3.
+    3. [x] FN
+    > Denmark was a founding member of the United Nations (FN), which was established in 1945 shortly after the end of World War II.
+    Learn more in Section 4.3.1.
+
+    ## Hvad anbefalede et flertal i Etisk Råd i september 2023?
+    1. [ ] At afskaffe den fri abort
+    > is incorrect; learn more in Section 1.12.4.
+    2. [ ] At sænke grænsen for fri abort fra 12 til 9 uger
+    > is incorrect; learn more in Section 1.12.4.
+    3. [x] At hæve grænsen for fri abort fra 12 til 18 uger
+    > The limit for free abortion was subsequently raised from the 12th to the 18th week of pregnancy in 2025, following political debate and input.
+    Learn more in Section 1.12.4.
+
+    ## Hvem blev ny formand for Venstre i november 2023?
+    1. [ ] Stephanie Lohse
+    > is incorrect; learn more in Section 1.13.7.
+    2. [ ] Sophie Løhde
+    > is incorrect; learn more in Section 1.13.7.
+    3. [x] Troels Lund Poulsen
+    > Troels Lund Poulsen took over the leadership of the liberal party Venstre in November 2023. Learn more in Section 1.13.7.
+
+    ## Hvilken fødselsdag fejrede prins Christian i oktober 2023?
+    1. [x] 18 år
+    > Crown Prince Christian (f. 2005) celebrated his 18th birthday in October 2023. Learn more in Section 6.4.
+    2. [ ] 20 år
+    > is incorrect; learn more in Section 6.4.
+    3. [ ] 25 år
+    > is incorrect; learn more in Section 6.4.
+
+    ## Hvilken af følgende handlinger kan blive strafbar efter en ændring af straffeloven, som regeringen har foreslået i efteråret 2023?
+    1. [ ] At bære religiøs hovedbeklædning i folkeskolen
+    > is incorrect; learn more in Section 2.3.4.
+    2. [x] At brænde Biblen, Koranen eller Toraen offentligt
+    > Following incidents of Quran burning, legislation was introduced to prohibit the inappropriate public handling of certain religious scriptures, making such actions subject to penalty.
+    Learn more in Section 2.3.1.
+    3. [ ] At foretage omskæring af drenge
+    > is incorrect; learn more in Section 6.13.
+
+    ## Fra hvilket land modtog Danmark statsbesøg af en præsident i august 2023?
+    1. [ ] Frankrig
+    > is incorrect; learn more in Section 6.4.
+    2. [ ] Indien
+    > is incorrect; learn more in Section 6.4.
+    3. [x] Ukraine
+    > Denmark received Ukrainian President Volodymyr Zelensky and his wife Olena on a state visit in 2023. Learn more in Section 6.4.
+
+    ## Er Danmark blandt de ti lande i verden, som har den højeste grad af politisk frihed og borgerrettigheder (ifølge Freedom House, Freedom in the World 2023)?
+    1. [x] Ja
+    > Denmark is a constitutional democracy where fundamental rights and freedoms are protected by the law, ensuring a high degree of political freedom and citizen rights compared to global standards.
+    Learn more in Section 2.3.1.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 2.3.1.
+
+    ## Hvem kan blive biskop i den danske folkekirke?
+    1. [ ] Kun mænd
+    > is incorrect; learn more in Section 6.9.
+    2. [ ] Kun kvinder
+    > is incorrect; learn more in Section 6.9.
+    3. [x] Både mænd og kvinder
+    > Gender equality (ligestilling) is a fundamental value in Danish society, and both men and women have equal rights to hold positions within the Danish Folk Church, including the office of bishop.
+    Learn more in Section 6.9 and 6.15.1.
+
+    ## Kan man ifølge dansk lov kræve, at en anden borger aldrig må udtale sig kritisk om ens religion?
+    1. [ ] Ja
+    > is incorrect; learn more in Section 2.3.1.
+    2. [x] Nej
+    > Freedom of expression (ytringsfrihed) is protected by the Constitution, guaranteeing the right to criticize and challenge religious authorities and institutions.
+    Learn more in Section 2.3.1.
+
+    ## Kan man ifølge dansk lov blive idømt den højeste straf (fængsel på livstid), hvis man med vold eller trussel om vold forsøger at forhindre ministre i at træffe en beslutning?
+    1. [x] Ja
+    > Crimes committed against representatives of the democratic system, such as ministers, are generally viewed by the courts as particularly serious offences, potentially incurring the highest penalties.
+    Learn more in Section 2.3.4 and 6.14.3.
+    2. [ ] Nej
+    > is incorrect; learn more in Section 2.3.4.
+
+    ## Hvilken myndighed kan opløse (forbyde) en forening, der søger at opnå sine mål med vold?
+    1. [ ] Politiet
+    > is incorrect; learn more in Section 2.3.1.
+    2. [x] Domstolene
+    > While freedom of association is guaranteed, an organization seeking to achieve its goals through violence can be ordered dissolved, a decision reserved exclusively for the courts (domstolene).
+    Learn more in Section 2.3.1.

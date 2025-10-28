@@ -10,5 +10,5 @@ Welcome to New In Denmark!
    :maxdepth: 2
    :caption: The Citizenship Test
 
-   docs/index
    tests/index
+   docs/index

@@ -4,13 +4,9 @@ Previous Citizenship Tests
 Overview
 ---------
 
-* The citizenship test is a test that must be passed in order to obtain Danish citizenship.
+The citizenship test is a test that must be passed in order to obtain Danish citizenship. The citizenship test covers Danish society, culture, and history. 
 
-* The citizenship test covers Danish society, culture, and history. 
-
-* The test consists of 45 questions that must be answered within 45 minutes. 
-
-* The 45 questions are multiple-choice questions with two or three possible answers. 
+The test consists of 45 questions that must be answered within 45 minutes. The 45 questions are multiple-choice questions with two or three possible answers. 
 
     * Five of the questions relate to current affairs, 
     * Five relate to values in Danish society, 
@@ -34,6 +30,9 @@ No commercial use, modification, or redistribution of the material is permitted.
 
 The Previous Tests
 ---------------------------
+
+Since Winter 2021, the Danish Citizenship Test (Indfødsretsprøven) increased from 40 to 45 questions and began including five questions on Danish values (danske værdier), in addition to the existing sections on society, culture, history, and current topics.
+
 .. toctree::
    :maxdepth: 1
 

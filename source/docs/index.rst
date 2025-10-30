@@ -41,8 +41,8 @@ No commercial use, modification, or redistribution of the material is permitted.
 
 
 
-The book content
-------------------
+The book content (being updated)
+-------------------------------------------
 
 .. toctree::
    :maxdepth: 2

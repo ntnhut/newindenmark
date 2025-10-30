@@ -1,16 +1,30 @@
-.. New In Denmark master file, created by Nhut Nguyen
+.. Danish Citizenship Test master file, created by Nhut Nguyen
    sphinx-quickstart on Mon Aug 25 21:05:47 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Preparing for the Danish Citizenship Test
-==========================================
+Practice the Danish Citizenship Test online
+============================================
 
-You can prepare for the citizenship test by practicing previous tests, learning the materials, and following the Danish news media. 
+Hej!
 
-Practice the previous tests and read the materials in HTML here.
+Welcome to my mini project — a simple, free way to practice the official Danish Citizenship Tests right here online.
 
-Good luck!
+✅ No app. No signup. No printing.
+
+Just open, practice, and learn — anytime.
+
+📬 Want to stay updated?
+
+`Subscribe here <https://nhut.kit.com/dktests>`__ to get reminders, new book chapters, and final-week tips before the November 2025 test.
+
+💌 Have questions or ideas?
+
+Email me at nhut@newindenmark.com — I'd love to hear what would help you most.
+
+Good luck with your studies and the upcoming test!
+
+*Nhut*
 
 .. toctree::
    :maxdepth: 2

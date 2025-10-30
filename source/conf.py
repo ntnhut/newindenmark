@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'New In Denmark'
+project = 'Danish Citizenship Test Practice'
 copyright = '2025, Nhut Nguyen'
 author = 'Nhut Nguyen'
 single_version = True
@@ -28,6 +28,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'furo'
 html_logo = "logo.png"
+html_title = "Danish Citizenship Test Practice"
 # html_static_path = ['_static']
 
 html_theme_options = {

@@ -24,7 +24,7 @@ Email me at nhut@newindenmark.com — I'd love to hear what would help you most.
 
 Good luck with your studies and the upcoming test!
 
-*Nhut*
+— `Nhut <https://www.linkedin.com/in/ntnhut/>`__
 
 .. toctree::
    :maxdepth: 2

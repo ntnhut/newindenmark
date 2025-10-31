@@ -32,7 +32,7 @@ The learning material reproduced here is based on the official publication:
 The official and publicly available `PDF <https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf>`__ can be downloaded from 👉 `danskogproever.dk <https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/>`__
 
 This HTML version has been created solely to make the material easier to read and study on mobile devices.
-It is provided **for educational and non-commercial purposes only** to help learners prepare for the Danish Citizenship Test (*Indfødsretsprøven*).
+It is provided **for educational and non-commercial purposes only** to help you prepare for the Danish Citizenship Test (*Indfødsretsprøven*).
 
 All rights to the original text, layout, and images remain with the **Udlændinge- og Integrationsministeriet**.
 No commercial use, modification, or redistribution of the material is permitted.

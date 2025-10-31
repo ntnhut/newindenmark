@@ -11,26 +11,24 @@ Hej!
 
 Welcome to my mini project — a simple, free way to practice the official Danish Citizenship Tests right here online.
 
-✅ No app. No signup. No printing.
+.. admonition:: No app. No signup. No printing.
 
-Just open, practice, and learn — anytime.
+   Just open, practice, and learn — anytime.
 
 
-💌 Have questions or ideas?
+.. admonition:: Have questions or ideas?
+   :class: hint
 
-Email me at nhut@newindenmark.com — I'd love to hear what would help you most.
+   Email me at nhut@nhutnguyen.com — I'd love to hear what would help you most.
 
 Good luck with your studies and the upcoming test!
 
 — `Nhut <https://www.linkedin.com/in/ntnhut/>`__
 
-📬 P.S. Want to stay updated?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. admonition:: The upcoming test is on 26 November 2025
+   :class: attention
 
-`Subscribe here <https://nhut.kit.com/dktests>`__ to get reminders, new book chapters, and final-week tips before the November 2025 test.
-
-Let's get started!
--------------------
+   **Let's practice now!**
 
 .. toctree::
    :maxdepth: 2

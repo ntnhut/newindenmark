@@ -21,14 +21,14 @@ Welcome to my mini project — a simple, free way to practice the official Danis
 
    Email me at nhut@nhutnguyen.com — I'd love to hear what would help you most.
 
-Good luck with your studies and the upcoming test!
+Good luck with your learning and the upcoming test!
 
 — `Nhut <https://www.linkedin.com/in/ntnhut/>`__
 
 .. admonition:: The upcoming test is on 26 November 2025
    :class: attention
 
-   **Let's practice now!**
+   **Let's practice now!** 👇
 
 .. toctree::
    :maxdepth: 2

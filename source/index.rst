@@ -35,3 +35,4 @@ Good luck with your learning and the upcoming test!
 
    tests/index
    docs/index
+   disclaimer

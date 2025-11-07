@@ -15,3 +15,4 @@ This updated learning materials apply to the exams in winter 2025 and summer 202
    :maxdepth: 2
 
    chapter1/index
+   chapter2/index

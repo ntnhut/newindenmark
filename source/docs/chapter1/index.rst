@@ -1,4 +1,4 @@
-Kapitel 1: Danmarks historie
+Kapitel 1 - Danmarks historie
 ================================
 
 .. toctree::

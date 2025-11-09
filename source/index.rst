@@ -16,6 +16,11 @@ Welcome to my mini project — a simple, free way to practice the official Danis
    Just open, practice, and learn — anytime.
 
 
+.. admonition:: This is one of my open-source projects.
+   :class: seealso
+
+   You can see how I created this website on `GitHub <https://github.com/ntnhut/newindenmark>`__.
+
 .. admonition:: Have questions or ideas?
    :class: hint
 
@@ -28,7 +33,7 @@ Good luck with your learning and the upcoming test!
 .. admonition:: The upcoming test is on 26 November 2025
    :class: attention
 
-   **Let's practice now!** 👇
+   **Let's practice now!** 👇 Don't wait for me to complete the learning material (6 chapters in total).
 
 .. toctree::
    :maxdepth: 2

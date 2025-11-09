@@ -35,7 +35,7 @@ html_theme_options = {
     # 'logo_only': True,
     "sidebar_hide_name": True,
     # 'nosidebar': True,
-    "announcement": "Support my work by <a href='https://buymeacoffee.com/nhutnguyen'  target='_blank'>buying me a coffee</a>!", 
+    # "announcement": "Support my work by <a href='https://buymeacoffee.com/nhutnguyen'  target='_blank'>buying me a coffee</a>!", 
 }
 
 source_suffix = {

@@ -19,3 +19,4 @@ This updated learning materials apply to the exams in winter 2025 and summer 202
    chapter3/index
    chapter4/index
    chapter5/index
+   chapter6/index

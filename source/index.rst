@@ -30,10 +30,14 @@ Good luck with your learning and the upcoming test!
 
 — `Nhut <https://www.linkedin.com/in/ntnhut/>`__
 
-.. admonition:: The upcoming test is on 26 November 2025
-   :class: attention
+.. admonition:: The upcoming test is on 26 November 2025. How to prepare?
+   :class: tip
 
-   **Let's practice now!** 👇 Don't wait for me to complete the learning material (6 chapters in total).
+   1. Study the official learning materials right here.
+   2. Practice previous tests here.
+   3. Follow Danish news media (DR, TV2, Politiken).
+
+   **Let's practice now!** 👇
 
 .. toctree::
    :maxdepth: 2

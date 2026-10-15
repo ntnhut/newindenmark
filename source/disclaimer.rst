@@ -8,17 +8,17 @@ The learning material reproduced here is based on:
 .. admonition:: The official publication 
    :class: seealso
 
-   *Læremateriale til Indfødsretsprøven – Danske samfundsforhold, dansk kultur og historie (August 2025)*
+   *Læremateriale til Indfødsretsprøven – Danske samfundsforhold, dansk kultur og historie (August 2026)*
 
    Udgiver: Udlændinge- og Integrationsministeriet 
    
-   Styrelsen for International Rekruttering og Integration (SIRI)
+   Styrelsen for International Rekruttering og Integration
    
    Carl Jacobsens Vej 39, 2500 Valby, Denmark
    
-   ISBN (digital): 978-87-93445-89-5
+   ISBN (digital): 97887-85355-02-7
    
-   © Udlændinge- og Integrationsministeriet, 2025
+   © Udlændinge- og Integrationsministeriet, 2026
 
 The official and publicly available `PDF <https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf>`__ can be downloaded from 👉 `danskogproever.dk <https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/>`__
 

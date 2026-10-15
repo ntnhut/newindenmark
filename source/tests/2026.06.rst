@@ -1,0 +1,407 @@
+The Citizenship Test 2026 June
+==========================================
+
+Aids: None
+
+Time: 45 minutes
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## I hvilket årti blev Danmark ramt af en flerårig økonomisk krise, som blev udløst af store prisstigninger på olie?
+
+    1. [ ] 1930’erne
+        > is incorrect; learn more in Section 1.12.2.
+    2. [ ] 1950’erne
+        > is incorrect; learn more in Section 1.12.2.
+    3. [x] 1970’erne
+        > The oil crises of the 1970s caused a prolonged economic downturn in Denmark. Learn more in Section 1.12.2.
+
+    ## Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?
+
+    1. [ ] Det er steget
+        > is incorrect; learn more in Section 1.13.7.
+    2. [x] Det er faldet
+        > Political parties have generally lost members since 1950. Learn more in Section 1.13.7.
+
+    ## Hvilket politisk parti blev dannet i slutningen af 1950’erne af en gruppe tidligere medlemmer af Danmarks Kommunistiske Parti?
+
+    1. [x] SF
+        > SF was founded in 1959 by former members of the Communist Party. Learn more in Section 1.11.1.
+    2. [ ] Alternativet
+        > is incorrect; learn more in Section 1.11.1.
+    3. [ ] Radikale Venstre
+        > is incorrect; learn more in Section 1.11.1.
+
+    ## Hvad blev der afholdt en folkeafstemning om i 1972?
+
+    1. [x] Danmarks indtræden i EF
+        > In 1972, voters approved Denmark’s entry into the European Communities (EF). Learn more in Section 1.12.1.
+    2. [ ] Danmarks indtræden i NATO
+        > is incorrect; Denmark joined NATO in 1949. Learn more in Section 1.12.1.
+    3. [ ] Danmarks indtræden i FN
+        > is incorrect; learn more in Section 1.12.1.
+
+    ## Hvem har værnepligt i Danmark?
+
+    1. [ ] Kun mænd
+        > is incorrect; learn more in Section 2.3.4.
+    2. [ ] Kun kvinder
+        > is incorrect; learn more in Section 2.3.4.
+    3. [x] Både mænd og kvinder
+        > Compulsory military service applies to both men and women in Denmark. Learn more in Section 2.3.4.
+
+    ## Hvilken rettighed er sikret i grundloven?
+
+    1. [ ] Retten til at få en bolig
+        > is incorrect; learn more in Section 2.3.1.
+    2. [ ] Retten til at få gratis lægehjælp
+        > is incorrect; learn more in Section 2.3.1.
+    3. [x] Retten til at ytre sig
+        > Freedom of expression is protected by the Constitution. Learn more in Section 2.3.1.
+
+    ## Hvor længe kan politiet tilbageholde en person, der er anholdt, før personen skal stilles for en dommer?
+
+    1. [ ] 12 timer
+        > is incorrect; learn more in Section 2.3.1.
+    2. [x] 24 timer
+        > An arrested person must be brought before a judge within 24 hours. Learn more in Section 2.3.1.
+    3. [ ] 48 timer
+        > is incorrect; learn more in Section 2.3.1.
+
+    ## Ved hvilken by i Jylland malede Anna Ancher og Michael Ancher særligt mange af deres billeder i slutningen af 1800-tallet?
+
+    1. [ ] Silkeborg
+        > is incorrect; learn more in Section 5.3.
+    2. [x] Skagen
+        > Anna and Michael Ancher were among the artists who painted in Skagen. Learn more in Section 5.3.
+    3. [ ] Viborg
+        > is incorrect; learn more in Section 5.3.
+
+    ## Hvad er Mads Mikkelsen (født 1965) særligt kendt for?
+
+    1. [x] Han er skuespiller
+        > Mads Mikkelsen is a prominent Danish actor. Learn more in Section 5.7.
+    2. [ ] Han er forfatter
+        > is incorrect; learn more in Section 5.7.
+    3. [ ] Han er musiker
+        > is incorrect; learn more in Section 5.7.
+
+    ## Hvad var Inger Christensen (1935-2009) særligt kendt for?
+
+    1. [ ] Hun var kunstmaler
+        > is incorrect; learn more in Section 5.2.
+    2. [x] Hun var digter
+        > Inger Christensen was one of Denmark’s prominent poets. Learn more in Section 5.2.
+    3. [ ] Hun var skuespiller
+        > is incorrect; learn more in Section 5.2.
+
+    ## Hvem har skrevet et stort antal salmer i Den Danske Salmebog?
+
+    1. [ ] Herman Bang
+        > is incorrect; learn more in Section 6.11.
+    2. [ ] Ludvig Holberg
+        > is incorrect; learn more in Section 6.11.
+    3. [x] N.F.S. Grundtvig
+        > N.F.S. Grundtvig wrote many hymns included in the Danish Hymn Book. Learn more in Section 6.11.
+
+    ## Hvad fik videnskabsmanden Niels Bohr Nobelprisen for i 1922?
+
+    1. [ ] En metode til måling af lysets hastighed
+        > is incorrect; learn more in Section 6.8.
+    2. [ ] En teori om jordens magnetfelt
+        > is incorrect; learn more in Section 6.8.
+    3. [x] En model over atomers opbygning
+        > Niels Bohr received the 1922 Nobel Prize in Physics for his work on atomic structure. Learn more in Section 6.8.
+
+    ## Hvilken dag markeres kvindernes internationale kampdag?
+
+    1. [x] Den 8. marts
+        > International Women’s Day is observed on March 8.
+    2. [ ] Den 4. maj
+        > is incorrect.
+    3. [ ] Den 5. juni
+        > is incorrect.
+
+    ## Hvornår blev Nina Bang udnævnt til Danmarks første kvindelige minister?
+
+    1. [x] 1924
+        > Nina Bang became Denmark’s first female minister in 1924. Learn more in Section 1.9.4.
+    2. [ ] 1943
+        > is incorrect; learn more in Section 1.9.4.
+    3. [ ] 1961
+        > is incorrect; learn more in Section 1.9.4.
+
+    ## Hvor arbejdede der flest mennesker omkring 1850?
+
+    1. [ ] I industrien
+        > is incorrect; learn more in Section 3.3.1.
+    2. [x] I landbruget
+        > Around 1850, most people worked in agriculture. Learn more in Section 3.3.1.
+    3. [ ] I fiskeriet
+        > is incorrect; learn more in Section 3.3.1.
+
+    ## Hvornår førte den danske regering samarbejdspolitik med Tyskland under 2. verdenskrig?
+
+    1. [x] 1940-43
+        > The Danish government pursued its cooperation policy from the occupation in 1940 until 1943. Learn more in Section 1.10.1.
+    2. [ ] 1943-45
+        > is incorrect; learn more in Section 1.10.1.
+
+    ## Hvor stor en andel af Grønland er dækket af is hele året?
+
+    1. [ ] Cirka 40 procent
+        > is incorrect; learn more in Section 6.6.3.
+    2. [ ] Cirka 60 procent
+        > is incorrect; learn more in Section 6.6.3.
+    3. [x] Cirka 80 procent
+        > Around 80 percent of Greenland is covered by the ice sheet year-round. Learn more in Section 6.6.3.
+
+    ## Hvor mange indbyggere har Færøerne?
+
+    1. [x] Cirka 55.000
+        > The Faroe Islands have a population of around 55,000. Learn more in Section 6.6.2.
+    2. [ ] Cirka 155.000
+        > is incorrect; learn more in Section 6.6.2.
+    3. [ ] Cirka 255.000
+        > is incorrect; learn more in Section 6.6.2.
+
+    ## Hvilket sjællandsk slot danner rammen om William Shakespeares teaterstykke Hamlet?
+
+    1. [ ] Amalienborg
+        > is incorrect; learn more in Section 6.2.2.
+    2. [x] Kronborg
+        > Shakespeare’s Hamlet is set at Kronborg Castle in Helsingør. Learn more in Section 6.2.2.
+    3. [ ] Fredensborg Slot
+        > is incorrect; learn more in Section 6.2.2.
+
+    ## På hvilken dansk ø ligger ruinen Hammershus?
+
+    1. [ ] Samsø
+        > is incorrect; learn more in Section 6.2.2.
+    2. [ ] Langeland
+        > is incorrect; learn more in Section 6.2.2.
+    3. [x] Bornholm
+        > The ruins of Hammershus are on the island of Bornholm. Learn more in Section 6.2.2.
+
+    ## Langs hvilken kyst i Danmark ligger der særligt mange bunkere, som tyskerne fik bygget under 2. Verdenskrig?
+
+    1. [ ] Lollands sydkyst
+        > is incorrect; learn more in Section 6.2.
+    2. [ ] Sjællands østkyst
+        > is incorrect; learn more in Section 6.2.
+    3. [x] Jyllands vestkyst
+        > Many German bunkers were built along the west coast of Jutland during the occupation. Learn more in Section 6.2.
+
+    ## Hvilken af følgende byer har flest indbyggere?
+
+    1. [ ] Esbjerg
+        > is incorrect; learn more in Section 6.1.
+    2. [x] Aarhus
+        > Aarhus is larger than Esbjerg and Aalborg in the population comparison asked here. Learn more in Section 6.1.
+    3. [ ] Aalborg
+        > is incorrect; learn more in Section 6.1.
+
+    ## Hvor stor en andel af kvinder i Danmark mellem 16 og 64 år er i beskæftigelse?
+
+    1. [ ] Cirka 45 procent
+        > is incorrect; learn more in Section 3.4.
+    2. [ ] Cirka 60 procent
+        > is incorrect; learn more in Section 3.4.
+    3. [x] Cirka 75 procent
+        > Around three quarters of women aged 16-64 in Denmark are employed. Learn more in Section 3.4.
+
+    ## Hvad hedder den organisation, der varetager samarbejdet mellem de nordiske landes parlamenter?
+
+    1. [x] Nordisk Råd
+        > The Nordic Council promotes cooperation between the Nordic countries’ parliaments. Learn more in Section 6.7.2.
+    2. [ ] Foreningen Norden
+        > is incorrect; learn more in Section 6.7.2.
+    3. [ ] Den Nordiske Union
+        > is incorrect; learn more in Section 6.7.2.
+
+    ## Hvad kendetegnede Danmarks forsvarspolitik gennem det meste af Den Kolde Krig?
+
+    1. [ ] Danmark var allieret med Sovjetunionen gennem Warszawa-pagten
+        > is incorrect; learn more in Section 4.4.1.
+    2. [ ] Danmark var neutralt
+        > is incorrect; Denmark was a member of NATO. Learn more in Section 4.4.1.
+    3. [x] Danmark var allieret med USA gennem NATO
+        > Denmark was a NATO ally of the United States during the Cold War. Learn more in Section 4.4.1.
+
+    ## Hvad hedder Danmarks EU-kommissær?
+
+    1. [x] Dan Jørgensen
+        > Dan Jørgensen is Denmark’s European Commissioner. Learn more in Section 4.2.1.
+    2. [ ] Astrid Krag
+        > is incorrect; learn more in Section 4.2.1.
+    3. [ ] Morten Bødskov
+        > is incorrect; learn more in Section 4.2.1.
+
+    ## Hvilke af følgende er navne på guder i vikingetidens religion ’asatroen’?
+
+    1. [ ] Thyra og Gorm
+        > is incorrect; Thyra and Gorm were historical people. Learn more in Section 1.2.3.
+    2. [ ] Ingrid og Absalon
+        > is incorrect; learn more in Section 1.2.3.
+    3. [x] Freja og Thor
+        > Freja and Thor are gods in Norse mythology. Learn more in Section 1.2.3.
+
+    ## Hvad blev resultatet af krigen mod Sverige i 1657-58?
+
+    1. [x] Danmark mistede Skåne
+        > Denmark lost Scania to Sweden after the war of 1657-58. Learn more in Section 1.4.2.
+    2. [ ] Danmark erobrede Skåne
+        > is incorrect; learn more in Section 1.4.2.
+
+    ## Hvornår blev Danmark ramt af pest-epidemien Den Sorte Død, som slog en stor del af befolkningen ihjel?
+
+    1. [x] I 1300-tallet
+        > The Black Death reached Denmark in the 14th century. Learn more in Section 1.3.2.
+    2. [ ] I 1600-tallet
+        > is incorrect; learn more in Section 1.3.2.
+    3. [ ] I 1900-tallet
+        > is incorrect; learn more in Section 1.3.2.
+
+    ## Hvornår trådte Danmarks første grundlov i kraft?
+
+    1. [ ] 1788
+        > is incorrect; learn more in Section 1.6.3.
+    2. [ ] 1814
+        > is incorrect; learn more in Section 1.6.3.
+    3. [x] 1849
+        > Denmark’s first constitution came into force in 1849. Learn more in Section 1.6.3.
+
+    ## Hvem består kommunalbestyrelser af?
+
+    1. [ ] Embedsmænd udpeget af regeringen
+        > is incorrect; learn more in Section 2.2.5.
+    2. [x] Politikere valgt af kommunens befolkning
+        > Municipal councils consist of politicians elected by the residents of the municipality. Learn more in Section 2.2.5.
+    3. [ ] Repræsentanter udvalgt af det lokale erhvervs- og foreningsliv
+        > is incorrect; learn more in Section 2.2.5.
+
+    ## Hvem har ansvaret for driften af ældreplejen?
+
+    1. [x] Kommunerne
+        > Municipalities are responsible for operating elderly care services. Learn more in Section 3.2.3.
+    2. [ ] Regionerne
+        > is incorrect; learn more in Section 3.2.3.
+    3. [ ] Staten
+        > is incorrect; learn more in Section 3.2.3.
+
+    ## Hvad blev aftalt i ’Den Grønne Trepart’ mellem regeringen, kommunerne og en række organisationer i juni 2024?
+
+    1. [ ] At reducere kvoterne for, hvor meget der må fiskes i dansk farvand
+        > is incorrect; learn more in Section 6.17.
+    2. [x] At en del af Danmarks landbrugsjord skal omdannes til natur
+        > The agreement includes converting some agricultural land into nature. Learn more in Section 6.17.
+    3. [ ] Et forbud mod atomkraftværker i Danmark
+        > is incorrect; learn more in Section 6.17.
+
+    ## Hvilket af følgende partier har haft statsministerposten i sammenlagt flest år siden systemskiftet i 1901?
+
+    1. [x] Venstre
+        > Venstre has held the Prime Minister’s office for the most years among the listed parties since 1901. Learn more in Section 1.13.7.
+    2. [ ] Det Konservative Folkeparti
+        > is incorrect; learn more in Section 1.13.7.
+
+    ## Hvilket parti blev i 2022 stiftet af tidligere minister Inger Støjberg?
+
+    1. [ ] Nye Borgerlige
+        > is incorrect; learn more in Section 1.13.7.
+    2. [ ] Moderaterne
+        > is incorrect; learn more in Section 1.13.7.
+    3. [x] Danmarksdemokraterne
+        > Inger Støjberg founded Danmarksdemokraterne in 2022. Learn more in Section 1.13.7.
+
+    ## I februar 2026 blev der vedtaget en lov om at udbetale en særlig økonomisk støtte til cirka 2 mio. mennesker. Hvad var anledningen?
+
+    1. [x] Stigende fødevarepriser
+        > The special support was introduced in response to rising food prices.
+    2. [ ] Stigende boligpriser
+        > is incorrect.
+    3. [ ] Stigende priser på offentlig transport
+        > is incorrect.
+
+    ## Hvilken grønlandsk og hvilken dansk minister deltog i et møde vedrørende Grønland i Washington D.C. den 14. januar 2026?
+
+    1. [ ] Naaja Nathanielsen og Troels Lund Poulsen
+        > is incorrect.
+    2. [x] Vivian Motzfeldt og Lars Løkke Rasmussen
+        > Vivian Motzfeldt and Lars Løkke Rasmussen attended the meeting in Washington, D.C.
+    3. [ ] Anna Wangenheim og Peter Hummelgaard
+        > is incorrect.
+
+    ## Hvilket parti gik mest frem i antal stemmer ved folketingsvalget i marts 2026 sammenlignet med folketingsvalget i 2022?
+
+    1. [ ] Venstre
+        > is incorrect.
+    2. [ ] Alternativet
+        > is incorrect.
+    3. [x] Dansk Folkeparti
+        > Dansk Folkeparti made the largest gain in votes compared with the 2022 election.
+
+    ## Viktor Axelsen (født 1994) stoppede i april 2026 som professionel sportsmand. I hvilken sport var han professionel?
+
+    1. [ ] Volleyball
+        > is incorrect.
+    2. [x] Badminton
+        > Viktor Axelsen was a professional badminton player.
+    3. [ ] Bordtennis
+        > is incorrect.
+
+    ## Hvad kendetegnede vinteren 2025-26 (ifølge Danmarks Meteorologiske Institut)?
+
+    1. [ ] Den mest solrige vinter i 13 år
+        > is incorrect.
+    2. [ ] Den vådeste vinter i 13 år
+        > is incorrect.
+    3. [x] Den koldeste vinter i 13 år
+        > According to the Danish Meteorological Institute, winter 2025-26 was the coldest in 13 years.
+
+    ## Er det muligt for en person over 18 år at få et CPR-nr., der svarer til et andet køn (skifte juridisk køn)?
+
+    1. [x] Ja
+        > A person over 18 can change their legal gender and obtain a corresponding CPR number.
+    2. [ ] Nej
+        > is incorrect.
+
+    ## Kan man ifølge dansk lov indgå ægteskab, hvis man allerede er gift med en anden person?
+
+    1. [ ] Ja
+        > is incorrect; bigamy is not permitted under Danish law.
+    2. [x] Nej
+        > Danish law does not permit a person to marry while already married to someone else.
+
+    ## Kan en forælder ifølge dansk lov bestemme, at kød, der serveres i en børnehave, skal stamme fra dyr, der er rituelt slagtet?
+
+    1. [ ] Ja
+        > is incorrect.
+    2. [x] Nej
+        > A parent cannot require a kindergarten to serve meat from ritually slaughtered animals.
+
+    ## Kan man blive straffet med fængsel, hvis man i sit arbejde som embedsmand ulovligt modtager penge eller gaver?
+
+    1. [x] Ja
+        > A public official can be imprisoned for illegally accepting money or gifts.
+    2. [ ] Nej
+        > is incorrect.
+
+    ## Hvilken placering indtager Danmark ud af 167 lande i verden, når det gælder om at have det bedst fungerende demokrati (ifølge The Economist Democracy Index 2025)?
+
+    1. [x] 1-5
+        > Denmark ranks among the top five democracies in the 2025 Democracy Index.
+    2. [ ] 21-25
+        > is incorrect.
+    3. [ ] 41-45
+        > is incorrect.

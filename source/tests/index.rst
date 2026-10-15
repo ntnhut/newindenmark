@@ -25,6 +25,8 @@ Since Winter 2021, the Danish Citizenship Test (Indfødsretsprøven) increased f
 .. toctree::
    :maxdepth: 1
 
+   2026.06
+   2025.11
    2025.05
    2024.11
    2024.05

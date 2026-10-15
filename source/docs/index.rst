@@ -7,7 +7,7 @@ The learning material has been prepared by the Danish Agency for International I
 
 The learning material consists of six chapters: Danish history, Danish democracy, the Danish economy, Denmark and the outside world, Danish cultural life, and thematic topics. The book is 235 pages long and covers 35 of the 45 questions.
 
-This updated learning materials apply to the exams in winter 2025 and summer 2026. An updated version will be published at the end of August 2026. The updated version will apply to the exams in winter 2026 and summer 2027.
+This version of the learning materials apply to the exams in winter 2026 and summer 2027. An updated version will be published at the end of August 2027. The updated version will apply to the exams in winter 2027 and summer 2028.
 
 
 

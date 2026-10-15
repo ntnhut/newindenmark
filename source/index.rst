@@ -30,7 +30,7 @@ Good luck with your learning and the upcoming test!
 
 — `Nhut <https://www.linkedin.com/in/ntnhut/>`__
 
-.. admonition:: The upcoming test is on 26 November 2025. How to prepare?
+.. admonition:: The upcoming test is on 25 November 2026. How to prepare?
    :class: tip
 
    1. Study the official learning materials right here.

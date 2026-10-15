@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Danish Citizenship Test Practice'
-copyright = '2025, Nhut Nguyen'
+copyright = '2026, Nhut Nguyen'
 author = 'Nhut Nguyen'
 single_version = True
 

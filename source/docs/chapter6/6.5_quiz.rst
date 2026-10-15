@@ -1,0 +1,26 @@
+Quizzes for Section 6.5
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken årsag har gennem tiden fået mennesker til at indvandre til Danmark?
+
+    1. [ ] At Danmark ikke har haft kontakt med andre lande
+    2. [x] Arbejde, flugt fra krig eller forfølgelse og familiebånd
+    3. [ ] At Danmark kun har modtaget indvandrere fra Norden
+
+    ## Hvilken gruppe kom blandt andet til Danmark som arbejdskraft i 1960'erne og 1970'erne?
+
+    1. [x] Gæstearbejdere fra blandt andet Tyrkiet og Pakistan
+    2. [ ] Vikinger fra England
+    3. [ ] Amerikanske soldater fra 1. Verdenskrig

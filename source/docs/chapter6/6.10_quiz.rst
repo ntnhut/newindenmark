@@ -1,0 +1,32 @@
+Quizzes for Section 6.10
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken tradition forbindes ofte med Fastelavn?
+
+    1. [ ] At tænde bål på stranden
+    2. [x] At slå katten af tønden
+    3. [ ] At danse om juletræet
+
+    ## Hvilken mærkedag fejres den 5. juni?
+
+    1. [x] Grundlovsdag
+    2. [ ] Sankthansaften
+    3. [ ] Store bededag
+
+    ## Hvilken tradition forbindes med Sankthansaften?
+
+    1. [ ] At slå katten af tønden
+    2. [ ] At tænde adventskranse
+    3. [x] At tænde bål

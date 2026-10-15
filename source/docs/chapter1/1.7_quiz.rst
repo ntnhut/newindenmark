@@ -1,0 +1,26 @@
+Quizzes for Section 1.7
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket år led Danmark nederlag i krigen mod Preussen og Østrig?
+
+    1. [ ] 1849
+    2. [x] 1864
+    3. [ ] 1920
+
+    ## Hvilket område mistede Danmark efter krigen i 1864?
+
+    1. [x] Slesvig, Holsten og Lauenborg
+    2. [ ] Norge og Island
+    3. [ ] Skåne, Halland og Blekinge

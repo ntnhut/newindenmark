@@ -1,0 +1,32 @@
+Quizzes for Section 1.4
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?
+    
+    1. [x] Christian den 4.
+    2. [ ] Christian den 7.
+    3. [ ] Christian den 10.
+
+    ## Hvornår blev reformationen gennemført i Danmark?
+
+    1. [ ] 1397
+    2. [x] 1536
+    3. [ ] 1660
+
+    ## Hvilken styreform blev indført i Danmark i 1660?
+
+    1. [ ] Parlamentarisme
+    2. [ ] Republik
+    3. [x] Enevælde

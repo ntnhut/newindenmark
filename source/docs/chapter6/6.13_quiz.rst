@@ -1,0 +1,26 @@
+Quizzes for Section 6.13
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken beskrivelse af familielivet i Danmark er rigtig?
+
+    1. [ ] Alle familier består af gifte forældre og deres børn
+    2. [ ] Familier kan kun bestå af enlige voksne
+    3. [x] Familier kan have mange forskellige former
+
+    ## Hvilket ansvar har forældre som udgangspunkt over for deres børn?
+
+    1. [x] At drage omsorg for dem og tage ansvar for deres opvækst
+    2. [ ] At lade staten træffe alle beslutninger om deres hverdag
+    3. [ ] At sikre, at de bliver medlem af Folkekirken

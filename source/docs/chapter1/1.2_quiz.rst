@@ -1,0 +1,32 @@
+Quizzes for Section 1.2
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem regnes som den første konge, der regerede over hele Danmark?
+
+    1. [ ] Gorm den Gamle
+    2. [x] Harald Blåtand
+    3. [ ] Knud den Store
+
+    ## Hvad var vikingernes skibe særligt gode til?
+
+    1. [x] At sejle både på havet og op ad floder
+    2. [ ] Kun at sejle på små søer
+    3. [ ] Kun at sejle med vinden i ryggen
+
+    ## Hvilken religion blev gradvist erstattet af kristendommen i vikingetiden?
+
+    1. [ ] Jødedommen
+    2. [ ] Islam
+    3. [x] Asatroen

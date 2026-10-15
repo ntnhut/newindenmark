@@ -1,0 +1,32 @@
+Quizzes for Section 3.4
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem indgår typisk kollektive overenskomster på arbejdsmarkedet?
+
+    1. [ ] Folketinget og domstolene
+    2. [x] Arbejdsgivere og fagforeninger
+    3. [ ] Kommunerne og regionerne
+
+    ## Hvad er flexicurity?
+
+    1. [x] En kombination af fleksible ansættelsesforhold og økonomisk sikkerhed
+    2. [ ] En ordning, hvor alle lønninger fastsættes af Folketinget
+    3. [ ] En lov om fast pension for alle ansatte
+
+    ## Hvilke tre parter samarbejder i den danske arbejdsmarkedsmodel?
+
+    1. [ ] Kommuner, regioner og EU
+    2. [ ] Domstole, politi og Folketing
+    3. [x] Staten, arbejdsgiverne og lønmodtagerne

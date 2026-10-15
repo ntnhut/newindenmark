@@ -1,0 +1,26 @@
+Quizzes for Section 6.9
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken kirke er Danmarks evangelisk-lutherske folkekirke?
+
+    1. [ ] Den katolske kirke
+    2. [ ] Den ortodokse kirke
+    3. [x] Folkekirken
+
+    ## Hvad indebærer religionsfrihed i Danmark?
+
+    1. [x] Man må vælge eller skifte religion og også vælge ikke at være religiøs
+    2. [ ] Alle skal være medlem af Folkekirken
+    3. [ ] Kun én religion må praktiseres

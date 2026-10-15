@@ -1,0 +1,26 @@
+Quizzes for Section 6.11
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad forbindes N.F.S. Grundtvig blandt andet med?
+
+    1. [ ] Udviklingen af atomfysik
+    2. [x] Folkehøjskoler og salmer
+    3. [ ] Opførelsen af Kronborg
+
+    ## Hvad er en folkehøjskole?
+
+    1. [x] En skole med voksenundervisning, der traditionelt lægger vægt på fællesskab og folkelig oplysning
+    2. [ ] En skole, hvor børn begynder i 0. klasse
+    3. [ ] Et universitet for præster alene

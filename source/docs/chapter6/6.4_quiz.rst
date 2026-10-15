@@ -1,0 +1,26 @@
+Quizzes for Section 6.4
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem blev Danmarks konge i januar 2024?
+
+    1. [ ] Frederik 9.
+    2. [ ] Christian 10.
+    3. [x] Frederik 10.
+
+    ## Hvilken rolle har monarken i det danske demokrati?
+
+    1. [x] Monarken er statsoverhoved, mens den politiske magt ligger hos de folkevalgte
+    2. [ ] Monarken vedtager alene landets love
+    3. [ ] Monarken leder Folketingets opposition

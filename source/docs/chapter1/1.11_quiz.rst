@@ -1,0 +1,32 @@
+Quizzes for Section 1.11
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken konflikt prægede Danmarks udenrigspolitik efter 2. Verdenskrig?
+
+    1. [ ] De Slesvigske krige
+    2. [x] Den kolde krig
+    3. [ ] Krigen mod Sverige
+
+    ## Hvad skete der med den danske velfærdsstat i efterkrigstiden?
+
+    1. [ ] Den blev afskaffet
+    2. [ ] Den blev overtaget af private virksomheder
+    3. [x] Den blev udbygget
+
+    ## Hvad var ungdomsoprøret blandt andet udtryk for?
+
+    1. [x] Unge udfordrede traditionelle normer og autoriteter
+    2. [ ] Unge krævede, at Danmark forlod Norden
+    3. [ ] Unge ønskede at genindføre enevælden

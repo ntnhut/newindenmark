@@ -1,0 +1,32 @@
+Quizzes for Section 1.13
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår skiftede EF navn til Den Europæiske Union (EU)?
+
+    1. [ ] 1989
+    2. [x] 1993
+    3. [ ] 2001
+
+    ## Hvilken økonomisk begivenhed ramte Danmark og mange andre lande i 2008?
+
+    1. [ ] Oliekrisen i 1973
+    2. [ ] Den Sorte Død
+    3. [x] Finanskrisen
+
+    ## Hvornår ramte Covid-19-pandemien Danmark?
+
+    1. [ ] 2008
+    2. [ ] 2015
+    3. [x] 2020

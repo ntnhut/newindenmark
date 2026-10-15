@@ -1,0 +1,32 @@
+Quizzes for Section 6.1
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er Danmarks gennemsnitlige højde over havets overflade?
+
+    1. [ ] Cirka 170 meter
+    2. [x] Cirka 34 meter
+    3. [ ] Cirka 500 meter
+
+    ## Hvad hedder Danmarks højeste naturlige punkt?
+
+    1. [ ] Himmelbjerget
+    2. [ ] Møns Klint
+    3. [x] Møllehøj
+
+    ## Hvilket land har Danmark en fast landgrænse til?
+
+    1. [x] Tyskland
+    2. [ ] Sverige
+    3. [ ] Norge

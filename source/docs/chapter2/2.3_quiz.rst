@@ -1,0 +1,26 @@
+Quizzes for Section 2.3
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor gammel skal man som udgangspunkt være for at kunne straffes efter dansk straffelov?
+
+    1. [ ] 12 år
+    2. [x] 15 år
+    3. [ ] 18 år
+
+    ## Hvem afgør, om en person skal varetægtsfængsles?
+
+    1. [x] En dommer
+    2. [ ] Politiet alene
+    3. [ ] Folketingets formand

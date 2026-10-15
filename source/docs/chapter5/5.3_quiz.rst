@@ -1,0 +1,26 @@
+Quizzes for Section 5.3
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket berømt oldtidsfund forestiller en hest, der trækker en solskive?
+
+    1. [ ] Gundestrupkedlen
+    2. [x] Solvognen
+    3. [ ] Jellingstenen
+
+    ## Hvad er billedkunst?
+
+    1. [x] Kunst, der blandt andet omfatter malerier og tegninger
+    2. [ ] Kun teater og dans
+    3. [ ] Kun bygninger og møbler

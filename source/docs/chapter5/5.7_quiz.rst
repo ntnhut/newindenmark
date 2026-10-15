@@ -1,0 +1,26 @@
+Quizzes for Section 5.7
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad var Asta Nielsen særligt kendt for?
+
+    1. [ ] At være komponist
+    2. [x] At være international stumfilmstjerne
+    3. [ ] At tegne møbler
+
+    ## Hvilken genre forbindes Asta Nielsen især med?
+
+    1. [x] Stumfilm
+    2. [ ] Dokumentarfilm om natur
+    3. [ ] Tegnefilm

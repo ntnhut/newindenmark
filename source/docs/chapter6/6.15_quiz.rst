@@ -1,0 +1,26 @@
+Quizzes for Section 6.15
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket princip gælder i Danmark for mænds og kvinders rettigheder?
+
+    1. [ ] Mænd har flere politiske rettigheder
+    2. [x] Mænd og kvinder har lige rettigheder
+    3. [ ] Kvinder må ikke deltage på arbejdsmarkedet
+
+    ## Hvilket emne indgår i debatten om ligestilling mellem kønnene?
+
+    1. [x] Lige løn for lige arbejde
+    2. [ ] Afstemningsregler i EU
+    3. [ ] Forbud mod barsel

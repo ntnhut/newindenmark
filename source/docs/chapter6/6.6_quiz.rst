@@ -1,0 +1,32 @@
+Quizzes for Section 6.6
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke lande og områder indgår i Rigsfællesskabet?
+
+    1. [ ] Danmark, Island og Norge
+    2. [x] Danmark, Grønland og Færøerne
+    3. [ ] Danmark, Sverige og Finland
+
+    ## Hvad har Grønland og Færøerne?
+
+    1. [x] Egne politiske institutioner og selvstyre på en række områder
+    2. [ ] Selvstændige medlemskaber af EU
+    3. [ ] Ingen indflydelse på lokale spørgsmål
+
+    ## Hvilket område varetages blandt andet af staten inden for Rigsfællesskabet?
+
+    1. [ ] Alle lokale skolebeslutninger
+    2. [ ] Færøernes kommunale affaldsindsamling
+    3. [x] Udenrigs- og sikkerhedspolitik

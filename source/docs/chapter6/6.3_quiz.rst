@@ -1,0 +1,26 @@
+Quizzes for Section 6.3
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke farver har Dannebrog?
+
+    1. [ ] Blå og gul
+    2. [x] Rød og hvid
+    3. [ ] Grøn og hvid
+
+    ## Hvilket mønster ses på Dannebrog?
+
+    1. [x] Et hvidt kors på en rød baggrund
+    2. [ ] En rød cirkel på hvid baggrund
+    3. [ ] Tre lodrette striber

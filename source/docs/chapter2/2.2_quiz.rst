@@ -1,0 +1,32 @@
+Quizzes for Section 2.2
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem udøver den lovgivende magt i Danmark?
+
+    1. [ ] Domstolene
+    2. [x] Folketinget og regeringen i forening
+    3. [ ] Kommunalbestyrelserne
+
+    ## Hvem har den politiske magt i Danmark?
+
+    1. [x] De folkevalgte i Folketinget og regeringen
+    2. [ ] Monarken alene
+    3. [ ] EU-Kommissionen
+
+    ## Hvilket ansvar har kommunerne især?
+
+    1. [ ] Udenrigspolitikken
+    2. [ ] Forsvaret
+    3. [x] Lokale opgaver og velfærdstilbud

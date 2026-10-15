@@ -1,0 +1,32 @@
+Quizzes for Section 4.2
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket år blev Danmark medlem af EF, det nuværende EU?
+
+    1. [ ] 1957
+    2. [x] 1973
+    3. [ ] 1995
+
+    ## Hvad er Europarådet?
+
+    1. [x] En international organisation, der er adskilt fra EU
+    2. [ ] EU's parlament
+    3. [ ] En dansk politisk myndighed
+
+    ## Hvilket dansk EU-forbehold blev afskaffet efter en folkeafstemning i 2022?
+
+    1. [ ] Retsforbeholdet
+    2. [x] Forsvarsforbeholdet
+    3. [ ] Euroforbeholdet

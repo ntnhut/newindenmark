@@ -1,0 +1,26 @@
+Quizzes for Section 5.5
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er et centralt princip i funktionalismen inden for arkitektur og design?
+
+    1. [ ] At bygninger altid skal være udsmykket med historiske motiver
+    2. [x] At form og udformning skal understøtte funktionen
+    3. [ ] At bygninger kun må bygges af træ
+
+    ## Hvornår fik funktionalismen stor betydning i Danmark?
+
+    1. [x] I 1920'erne
+    2. [ ] I 1720'erne
+    3. [ ] I 1980'erne

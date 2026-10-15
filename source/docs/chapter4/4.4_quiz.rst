@@ -1,0 +1,32 @@
+Quizzes for Section 4.4
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken begivenhed i 2001 fik betydning for Danmarks sikkerhedspolitik?
+
+    1. [ ] Danmarks indtræden i EF
+    2. [ ] Berlinmurens opførelse
+    3. [x] Terrorangrebene i USA den 11. september
+
+    ## Hvilket område har fået større betydning i dansk sikkerhedspolitik i takt med øget fokus på Arktis?
+
+    1. [x] Grønland
+    2. [ ] Bornholm
+    3. [ ] Fyn
+
+    ## Hvad har været et vigtigt hensyn i dansk udenrigs- og sikkerhedspolitik efter Den Kolde Krig?
+
+    1. [ ] At undgå alt internationalt samarbejde
+    2. [x] At deltage aktivt i internationalt samarbejde og konflikter
+    3. [ ] At genindføre kolonistyret

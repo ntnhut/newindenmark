@@ -1,0 +1,26 @@
+Quizzes for Section 6.16
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem har hovedansvaret for driften af de offentlige sygehuse i Danmark?
+
+    1. [ ] Kommunerne
+    2. [x] Regionerne
+    3. [ ] Folketingets udvalg
+
+    ## Hvordan finansieres det offentlige sundhedsvæsen hovedsageligt?
+
+    1. [x] Gennem skatter
+    2. [ ] Gennem brugerbetaling ved alle behandlinger
+    3. [ ] Gennem medlemskontingenter til fagforeninger

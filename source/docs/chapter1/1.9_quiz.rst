@@ -1,0 +1,32 @@
+Quizzes for Section 1.9
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken politik førte Danmark under 1. Verdenskrig?
+
+    1. [ ] Danmark deltog på Tysklands side
+    2. [x] Danmark var neutralt
+    3. [ ] Danmark deltog på Storbritanniens side
+
+    ## Hvornår blev Sønderjylland genforenet med Danmark?
+
+    1. [ ] 1864
+    2. [ ] 1915
+    3. [x] 1920
+
+    ## Hvilken sygdom ramte Danmark og resten af verden efter 1. Verdenskrig?
+
+    1. [x] Spanskesygen
+    2. [ ] Den Sorte Død
+    3. [ ] Tuberkuloseepidemien i 1800-tallet

@@ -1,0 +1,26 @@
+Quizzes for Section 6.12
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er undervisningspligten i Danmark?
+
+    1. [ ] En pligt til at gå på universitetet
+    2. [x] En pligt til at modtage undervisning, som kan opfyldes i folkeskolen eller på anden måde
+    3. [ ] En pligt til at gå på en privatskole
+
+    ## Hvilken skoleform tilbyder typisk undervisning fra 0. til 9. klasse?
+
+    1. [x] Folkeskolen
+    2. [ ] Folketinget
+    3. [ ] Nordisk Råd

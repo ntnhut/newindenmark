@@ -1,0 +1,26 @@
+Quizzes for Section 1.3
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken union samlede Danmark, Norge og Sverige under én regent?
+
+    1. [x] Kalmarunionen
+    2. [ ] Hansaforbundet
+    3. [ ] Nordisk Råd
+
+    ## Hvad blev Den Sorte Død også kaldt?
+
+    1. [ ] Den engelske syge
+    2. [x] Pesten
+    3. [ ] Spanskesygen

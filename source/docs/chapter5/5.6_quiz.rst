@@ -1,0 +1,26 @@
+Quizzes for Section 5.6
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad var Ludvig Holberg især kendt for at skrive?
+
+    1. [ ] Kriminalromaner
+    2. [x] Komedier
+    3. [ ] Eventyrfilm
+
+    ## Hvad gjorde Holberg ofte grin med i sine komedier?
+
+    1. [x] Samfundets normer og menneskers svagheder
+    2. [ ] Danske landskaber
+    3. [ ] Naturvidenskabelige opdagelser

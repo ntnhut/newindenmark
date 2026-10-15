@@ -1,0 +1,26 @@
+Quizzes for Section 6.14
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken beskyttelse er sikret i Danmarks Riges Grundlov?
+
+    1. [ ] Ret til at true andre uden konsekvenser
+    2. [x] Ytringsfrihed
+    3. [ ] Ret til at forskelsbehandle andre
+
+    ## Kan hadforbrydelser få betydning for straffen for en forbrydelse?
+
+    1. [x] Ja, et hadmotiv kan være en skærpende omstændighed
+    2. [ ] Nej, hadmotiv har aldrig betydning
+    3. [ ] Kun hvis Folketinget først godkender sagen

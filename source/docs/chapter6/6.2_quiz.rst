@@ -1,0 +1,32 @@
+Quizzes for Section 6.2
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken domkirke er optaget på UNESCO's verdensarvsliste?
+
+    1. [ ] Aarhus Domkirke
+    2. [x] Roskilde Domkirke
+    3. [ ] Vor Frue Kirke i Aalborg
+
+    ## Hvilket naturområde i Danmark er optaget på UNESCO's verdensarvsliste?
+
+    1. [ ] Møllehøj
+    2. [ ] Limfjorden
+    3. [x] Vadehavet
+
+    ## I hvilken by ligger Kronborg Slot?
+
+    1. [x] Helsingør
+    2. [ ] Roskilde
+    3. [ ] Ribe

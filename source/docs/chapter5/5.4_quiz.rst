@@ -1,0 +1,26 @@
+Quizzes for Section 5.4
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem skrev musikken til blandt andet symfonierne *Det uudslukkelige* og *Espansiva*?
+
+    1. [ ] Carl Th. Dreyer
+    2. [x] Carl Nielsen
+    3. [ ] Niels Bohr
+
+    ## Hvilken tradition har haft en vigtig plads i dansk musikliv?
+
+    1. [ ] Fællessang
+    2. [ ] Kun opera på latin
+    3. [x] Fællessang og salmesang

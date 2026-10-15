@@ -1,0 +1,26 @@
+Quizzes for Section 6.17
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er en vigtig årsag til den globale opvarmning?
+
+    1. [ ] At Jorden modtager mindre sollys
+    2. [ ] At havene bliver mindre salte
+    3. [x] Udledning af drivhusgasser
+
+    ## Hvilket område er centralt i Den Grønne Trepart?
+
+    1. [x] Omstilling af landbrug og arealanvendelse
+    2. [ ] Indførelse af enevælde
+    3. [ ] Udvidelse af den danske olieproduktion

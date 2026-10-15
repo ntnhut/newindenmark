@@ -1,0 +1,32 @@
+Quizzes for Section 1.8
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad betød det parlamentariske gennembrud i 1901?
+
+    1. [x] En regering skulle have Folketingets tillid
+    2. [ ] Kongen fik enevældig magt
+    3. [ ] Danmark blev medlem af EF
+
+    ## Hvilken bevægelse arbejdede for bedre vilkår for arbejdere?
+
+    1. [ ] Højskolebevægelsen
+    2. [x] Arbejderbevægelsen
+    3. [ ] Modstandsbevægelsen
+
+    ## Hvilken vigtig politisk rettighed fik kvinder med grundlovsændringen i 1915?
+
+    1. [ ] Ret til at blive ministre
+    2. [ ] Ret til at blive medlem af EU
+    3. [x] Valgret til Rigsdagen

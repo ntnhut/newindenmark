@@ -1,0 +1,26 @@
+Quizzes for Section 3.2
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er et centralt princip i den nordiske velfærdsmodel?
+
+    1. [x] At velfærd finansieres gennem skatter og er bredt tilgængelig
+    2. [ ] At velfærd kun gives til personer med privat forsikring
+    3. [ ] At staten ikke har ansvar for sociale ydelser
+
+    ## Hvad bidrager omfordeling gennem skatter og ydelser til?
+
+    1. [ ] Større forskelle mellem borgerne
+    2. [x] Mindre økonomisk ulighed
+    3. [ ] At kommunerne afskaffes

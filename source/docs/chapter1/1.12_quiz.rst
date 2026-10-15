@@ -1,0 +1,26 @@
+Quizzes for Section 1.12
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår stemte danskerne ja til medlemskab af EF?
+
+    1. [ ] 1953
+    2. [ ] 1968
+    3. [x] 1972
+
+    ## Hvilket årti blev præget af en oliekrise, der førte til stigende oliepriser?
+
+    1. [x] 1970'erne
+    2. [ ] 1950'erne
+    3. [ ] 1990'erne

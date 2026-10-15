@@ -1,0 +1,26 @@
+Quizzes for Section 3.3
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken udvikling har præget det danske erhvervsliv?
+
+    1. [ ] Fra service til landbrug
+    2. [ ] Fra industri til landbrug
+    3. [x] Fra landbrug over industri til viden og service
+
+    ## Hvad betyder det, at Danmark har en åben økonomi?
+
+    1. [x] Danmark handler meget med andre lande
+    2. [ ] Danmark kun handler inden for landets grænser
+    3. [ ] Danmark ikke importerer varer

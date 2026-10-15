@@ -1,0 +1,26 @@
+Quizzes for Section 6.8
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken dansk fysiker modtog Nobelprisen i fysik i 1922?
+
+    1. [ ] Tycho Brahe
+    2. [x] Niels Bohr
+    3. [ ] H.C. Ørsted
+
+    ## Hvad var Niels Bohr især kendt for at forske i?
+
+    1. [x] Atomers opbygning
+    2. [ ] Vikingehandel
+    3. [ ] Nordisk mytologi

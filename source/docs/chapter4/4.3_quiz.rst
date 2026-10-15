@@ -1,0 +1,26 @@
+Quizzes for Section 4.3
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er et centralt formål med FN?
+
+    1. [ ] At fastsætte skatter i medlemslandene
+    2. [x] At fremme fred, sikkerhed og menneskerettigheder
+    3. [ ] At udpege nationale regeringer
+
+    ## Hvad beskriver FN's Verdensmål?
+
+    1. [x] Globale mål for blandt andet bæredygtig udvikling
+    2. [ ] Regler for valg til Europa-Parlamentet
+    3. [ ] En plan for fælles nordisk forsvar

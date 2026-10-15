@@ -1,0 +1,26 @@
+Quizzes for Section 6.7
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken organisation blev oprettet for at fremme samarbejdet mellem de nordiske landes parlamenter?
+
+    1. [ ] Europarådet
+    2. [x] Nordisk Råd
+    3. [ ] NATO
+
+    ## Hvilke lande indgår i det nordiske samarbejde?
+
+    1. [x] Blandt andre Danmark, Finland, Island, Norge og Sverige
+    2. [ ] Kun Danmark og Tyskland
+    3. [ ] Alle lande i EU

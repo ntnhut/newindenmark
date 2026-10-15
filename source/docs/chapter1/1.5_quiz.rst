@@ -1,0 +1,26 @@
+Quizzes for Section 1.5
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket land blev Dansk Vestindien solgt til i 1917?
+
+    1. [ ] Frankrig
+    2. [ ] Storbritannien
+    3. [x] USA
+
+    ## I hvilket århundrede begyndte Danmarks koloniale ekspansion?
+
+    1. [ ] 1400-tallet
+    2. [x] 1600-tallet
+    3. [ ] 1800-tallet

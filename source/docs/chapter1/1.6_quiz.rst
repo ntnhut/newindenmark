@@ -1,0 +1,32 @@
+Quizzes for Section 1.6
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår blev Danmarks Riges Grundlov indført?
+
+    1. [ ] 1660
+    2. [x] 1849
+    3. [ ] 1864
+
+    ## Hvilken reform ophævede stavnsbåndet?
+
+    1. [x] Landboreformerne
+    2. [ ] Novemberforfatningen
+    3. [ ] Kanslergadeforliget
+
+    ## Hvad var en vigtig følge af Københavns bombardement i 1807?
+
+    1. [ ] Danmark blev medlem af EF
+    2. [ ] Danmark fik en ny grundlov
+    3. [x] Den danske flåde blev ødelagt

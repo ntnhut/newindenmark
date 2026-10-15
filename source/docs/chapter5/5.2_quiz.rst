@@ -1,0 +1,26 @@
+Quizzes for Section 5.2
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket sprog blev ofte brugt i middelalderens skriftlige værker?
+
+    1. [ ] Engelsk
+    2. [ ] Svensk
+    3. [x] Latin
+
+    ## Hvem skrev *Gesta Danorum*, et vigtigt tidligt værk om Danmarks historie?
+
+    1. [x] Saxo
+    2. [ ] Ludvig Holberg
+    3. [ ] N.F.S. Grundtvig

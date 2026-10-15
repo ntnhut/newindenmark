@@ -1,0 +1,32 @@
+Quizzes for Section 1.10
+==========================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår besatte Tyskland Danmark?
+
+    1. [x] 9. april 1940
+    2. [ ] 5. maj 1945
+    3. [ ] 1. september 1939
+
+    ## Hvad gjorde den danske modstandsbevægelse under besættelsen?
+
+    1. [ ] Støttede den tyske besættelsesmagt
+    2. [x] Modarbejdede besættelsesmagten
+    3. [ ] Overtog styret i Island
+
+    ## Hvilken gruppe blev hjulpet på flugt til Sverige i 1943?
+
+    1. [ ] Danske soldater
+    2. [ ] Tyske flygtninge
+    3. [x] De fleste danske jøder

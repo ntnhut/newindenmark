@@ -24,3 +24,123 @@ Questions
     1. [x] Samfundets normer og menneskers svagheder
     2. [ ] Danske landskaber
     3. [ ] Naturvidenskabelige opdagelser
+
+    ## Hvilke genrer indgår i scenekunsten?
+
+    1. [ ] Roman, novelle og digt
+    2. [x] Skuespil, ballet, opera, musical og revy
+    3. [ ] Maleri, skulptur og fotografi
+
+    ## Hvad har scenekunstens genrer til fælles?
+
+    1. [x] De opføres her og nu foran et publikum
+    2. [ ] De bliver altid fremført uden musik
+    3. [ ] De er kun beregnet til tv
+
+    ## Hvor mange komedier skrev Holberg på få år?
+
+    1. [ ] 10
+    2. [ ] 40
+    3. [x] 25
+
+    ## Hvilken komedie handler om studenten Rasmus, der praler af sin latinske lærdom?
+
+    1. [x] Erasmus Montanus
+    2. [ ] Aladdin
+    3. [ ] Anna Sophie Hedvig
+
+    ## Hvad var særligt ved Holbergs komedier?
+
+    1. [ ] De var de første danske operaer
+    2. [x] Han var den første, der skrev komedier på dansk
+    3. [ ] De foregik alle i det moderne Grønland
+
+    ## Hvad inspirerede Oehlenschläger til at skrive Aladdin?
+
+    1. [ ] Saxos Gesta Danorum
+    2. [ ] H.C. Andersens eventyr
+    3. [x] De arabiske fortællinger i 1001 Nats Eventyr
+
+    ## Hvad er en vaudeville?
+
+    1. [x] Et lystspil, hvor dramatik og musik forenes
+    2. [ ] En ballet uden fortælling eller musik
+    3. [ ] En filmgenre om historiske konger
+
+    ## Hvem var fremtrædende ved Det Kongelige Teater i 1800-tallet?
+
+    1. [ ] Carl Nielsen og Anne Marie Carl-Nielsen
+    2. [x] Johan Ludvig Heiberg og Johanne Luise Heiberg
+    3. [ ] Lars von Trier og Thomas Vinterberg
+
+    ## Hvornår blev August Bournonvilles Sylfiden opført første gang?
+
+    1. [ ] 1723
+    2. [ ] 1940
+    3. [x] 1836
+
+    ## Hvad er en sylfide i balletten Sylfiden?
+
+    1. [x] En usynlig kvinde af luft
+    2. [ ] En skotsk prinsesse
+    3. [ ] En klog tjenestepige
+
+    ## Hvem skabte balletten Dødens triumf sammen med Savage Rose?
+
+    1. [ ] August Bournonville
+    2. [x] Flemming Flindt
+    3. [ ] Victor Borge
+
+    ## Hvad var Kjeld Abells skuespil Anna Sophie Hedvig en indirekte opfordring til?
+
+    1. [ ] At støtte nazismen
+    2. [ ] At afskaffe teatret
+    3. [x] At gøre modstand mod fascisme og nazisme
+
+    ## Hvilken sang blev brugt som modstandsbudskab i revyen Dyveke?
+
+    1. [x] "Man binder os på mund og hånd"
+    2. [ ] "Dansevise"
+    3. [ ] "Smuk og dejlig"
+
+    ## Hvad gjorde Kaj Munk med dramaet Niels Ebbesen?
+
+    1. [ ] Han opførte det første gang i 1942
+    2. [x] Det blev trykt og forbudt i 1942 og først opført i 1945
+    3. [ ] Han skrev det som en musical for børn
+
+    ## Hvilken dansk-amerikansk kunstner blev en forløber for nutidens standup-komik?
+
+    1. [ ] Casper Christensen
+    2. [ ] Nikolai Stokholm
+    3. [x] Victor Borge
+
+    ## Hvad handler Leif Panduros tv-stykke Farvel Thomas om?
+
+    1. [x] En mand, der kommer i krise og ensomhed efter en skilsmisse
+    2. [ ] En student, der rejser fra København til sine forældre
+    3. [ ] En ung mand, der bortføres af en luftånd
+
+    ## Hvad kendetegner Line Knutzons dramatik?
+
+    1. [ ] Den er udelukkende historisk og højtidelig
+    2. [x] Den er satirisk, samfundskritisk og præget af absurde replikker
+    3. [ ] Den består kun af musik uden dialog
+
+    ## Hvilke elementer kombinerer musicalgenren?
+
+    1. [ ] Nyheder, dokumentarfilm og opera
+    2. [ ] Billedkunst, skulptur og dans
+    3. [x] Traditionelt skuespil og dialog med musik og dans
+
+    ## Hvem skrev musik til musicalerne Skatteøen og Ronja Røverdatter?
+
+    1. [x] Sebastian
+    2. [ ] Bent Fabricius Bjerre
+    3. [ ] Friedrich Kuhlau
+
+    ## Hvad gør en komiker typisk i standupcomedy?
+
+    1. [ ] Synger salmer i en kirke
+    2. [x] Fremsiger jokes og underholdende historier direkte til publikum
+    3. [ ] Opfører en ballet uden publikum

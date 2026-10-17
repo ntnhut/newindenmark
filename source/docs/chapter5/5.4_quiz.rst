@@ -24,3 +24,135 @@ Questions
     1. [ ] Fællessang
     2. [ ] Kun opera på latin
     3. [x] Fællessang og salmesang
+
+    ## Hvilke musikinstrumenter fra bronzealderen er bevaret i Danmark?
+
+    1. [x] Store horn, der kaldes lurer
+    2. [ ] Træfløjter kaldet blokfløjter
+    3. [ ] Strengeinstrumenter kaldet citharer
+
+    ## Hvad ved man med sikkerhed om lurernes oprindelige brug?
+
+    1. [ ] De blev kun brugt i kirker
+    2. [ ] De blev brugt til at ledsage opera
+    3. [x] Det vides ikke med sikkerhed
+
+    ## Hvilken musiktradition kom til Danmark med kristendommen?
+
+    1. [ ] Amerikansk jazzmusik
+    2. [x] Katolsk kirkemusik
+    3. [ ] Elektronisk popmusik
+
+    ## Hvorfor kaldes reformationen også den syngende revolution?
+
+    1. [x] Menighedens salmesang blev en vigtig del af gudstjenesten
+    2. [ ] Kongen forbød alle instrumenter i landet
+    3. [ ] Folket begyndte at opføre musicals på slottene
+
+    ## Hvornår udkom den første kongeligt autoriserede danske salmebog?
+
+    1. [ ] 1536
+    2. [ ] 1819
+    3. [x] 1569
+
+    ## Hvilken salmedigter forbindes med stærk bevidsthed om, at livet ikke er evigt?
+
+    1. [x] Thomas Kingo
+    2. [ ] N.F.S. Grundtvig
+    3. [ ] Hans Adolph Brorson
+
+    ## Hvilket tema forbindes især med Brorsons salmer?
+
+    1. [ ] Kritisk satire over borgerskabet
+    2. [x] En inderlig og følelsesfuld tro
+    3. [ ] Skildringer af storbyens natteliv
+
+    ## Hvilke komponister skrev musikken til Danmarks to nationalsange?
+
+    1. [ ] Carl Nielsen og Bent Fabricius Bjerre
+    2. [ ] Thomas Kingo og Grundtvig
+    3. [x] Friedrich Kuhlau og Hans Ernst Krøyer
+
+    ## Hvem skrev teksten til "Kong Christian stod ved højen mast"?
+
+    1. [ ] Adam Oehlenschläger
+    2. [x] Johannes Ewald
+    3. [ ] Ludvig Holberg
+
+    ## Hvem skrev teksten til "Der er et yndigt land"?
+
+    1. [x] Adam Oehlenschläger
+    2. [ ] Hans Ernst Krøyer
+    3. [ ] Friedrich Kuhlau
+
+    ## Hvilken rolle havde Elverhøi i dansk musik- og teaterhistorie?
+
+    1. [ ] Det var en rockmusical fra 1986
+    2. [x] Et nationalromantisk festspil med musik af Friedrich Kuhlau
+    3. [ ] Det var Carl Nielsens første symfoni
+
+    ## Hvilken musikertradition havde Carl Nielsen rødder i?
+
+    1. [ ] Det københavnske operamiljø
+    2. [ ] Amerikansk jazz i 1960'erne
+    3. [x] Et folkeligt musikliv på Fyn
+
+    ## Hvad kendetegnede Carl Nielsens musikalske virke?
+
+    1. [x] Han skrev blandt andet operaer, symfonier, kammermusik og sange
+    2. [ ] Han skrev udelukkende filmmusik
+    3. [ ] Han komponerede kun kirkesalmer
+
+    ## Hvorfor kom amerikanske jazzmusikere som Stan Getz til København i 1960'erne?
+
+    1. [ ] For at indspille alle Danmarks nationalsange
+    2. [x] For at søge et kunstnerisk fristed i en periode med uro og raceforfølgelse i USA
+    3. [ ] For at optræde i Holbergs komedier
+
+    ## Hvilken dansk musiker skrev mange melodier til film og tv-serier som Matador?
+
+    1. [ ] Kim Larsen
+    2. [ ] Palle Mikkelborg
+    3. [x] Bent Fabricius Bjerre
+
+    ## Hvilket band havde Kim Larsen som forsanger?
+
+    1. [x] Gasolin
+    2. [ ] TV2
+    3. [ ] Aqua
+
+    ## Hvad handler Anne Linnets sang "Smuk og dejlig" om?
+
+    1. [ ] En historisk konges kamp
+    2. [x] Lesbisk kærlighed
+    3. [ ] Livet på en gård i Jylland
+
+    ## Hvilket band kaldte selvironisk sig selv "Danmarks kedeligste orkester"?
+
+    1. [ ] Gasolin
+    2. [ ] Lukas Graham
+    3. [x] TV2
+
+    ## Hvilket nummer blev et globalt hit for Aqua i 1990'erne?
+
+    1. [x] "Barbie Girl"
+    2. [ ] "7 Years"
+    3. [ ] "Nærmest lykkelig"
+
+    ## Hvilken kunstner udgav singlen "Pilgrim" i 2013?
+
+    1. [ ] Grethe Ingmann
+    2. [x] MØ
+    3. [ ] Anne Linnet
+
+    ## Hvor mange gange har Danmark vundet Eurovision Song Contest ifølge teksten?
+
+    1. [ ] Én gang
+    2. [ ] To gange
+    3. [x] Tre gange
+
+    ## Hvem fremførte Danmarks første Eurovision-vindersang, "Dansevise"?
+
+    1. [x] Grethe og Jørgen Ingmann
+    2. [ ] Brødrene Olsen
+    3. [ ] Emmelie de Forest

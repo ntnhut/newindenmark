@@ -24,3 +24,189 @@ Questions
     1. [x] Stumfilm
     2. [ ] Dokumentarfilm om natur
     3. [ ] Tegnefilm
+
+    ## Hvornår blev de første film optaget i Danmark?
+
+    1. [ ] Omkring 1850
+    2. [x] Omkring år 1900
+    3. [ ] Efter 2. Verdenskrig
+
+    ## Hvad viste de tidligste film, der blev optaget i Danmark?
+
+    1. [x] Reportager om samfundet
+    2. [ ] Eventyr om vikinger
+    3. [ ] Kun teaterforestillinger
+
+    ## Hvornår blev Nordisk Film grundlagt?
+
+    1. [ ] 1889
+    2. [ ] 1943
+    3. [x] 1906
+
+    ## Hvor indspillede Asta Nielsen mange film?
+
+    1. [ ] I Norge
+    2. [x] I Tyskland
+    3. [ ] I USA
+
+    ## Hvilke virkemidler kendetegnede Carl Th. Dreyers film?
+
+    1. [ ] Hurtigt tempo og lange totalbilleder
+    2. [ ] Mange farverige animationer
+    3. [x] Nærbilleder og langsomt filmtempo
+
+    ## Hvilket drama bygger Dreyers film Ordet på?
+
+    1. [x] Et drama af Kaj Munk
+    2. [ ] En roman af Karen Blixen
+    3. [ ] En komedie af Ludvig Holberg
+
+    ## Hvad har de tidlige film Ditte Menneskebarn, Soldaten og Jenny og Sult til fælles?
+
+    1. [ ] De er alle romantiske musicals
+    2. [x] De skildrer blandt andet fattigdom og udstødelse
+    3. [ ] De handler alle om danske konger
+
+    ## Hvem skrev romanen, som Ditte Menneskebarn bygger på?
+
+    1. [ ] Knut Hamsun
+    2. [ ] Morten Korch
+    3. [x] Martin Andersen Nexø
+
+    ## Hvor foregår Henning Carlsens film Sult?
+
+    1. [x] I Kristiania, det nuværende Oslo
+    2. [ ] I Korsbæk på Lolland
+    3. [ ] I en dansk landsby ved Skagen
+
+    ## Hvilken film blev Danmarks mest sete film ifølge teksten?
+
+    1. [ ] Ordet
+    2. [x] De røde heste
+    3. [ ] Busters verden
+
+    ## Hvad handler De røde heste om?
+
+    1. [ ] En ung forfatter i Kristiania
+    2. [ ] En kriminalsag i København
+    3. [x] En ung landmand, der redder sin gård ved at vinde et hestevæddeløb
+
+    ## Hvor mange film består Olsenbanden-serien af?
+
+    1. [ ] 7
+    2. [x] 14
+    3. [ ] 24
+
+    ## Hvad er typisk for Olsenbandens planer?
+
+    1. [x] De vil begå et kup, men planerne går som regel galt
+    2. [ ] De forsøger at opklare mord i en provinsby
+    3. [ ] De arbejder på at lave en film uden tekniske effekter
+
+    ## Hvor udspiller tv-serien Matador sig?
+
+    1. [ ] I den virkelige by Rødbyhavn
+    2. [ ] I København omkring år 1900
+    3. [x] I den fiktive provinsby Korsbæk
+
+    ## Hvor mange afsnit har Matador?
+
+    1. [ ] 14
+    2. [x] 24
+    3. [ ] 52
+
+    ## Hvem skrev blandt andre manuskriptet til Matador?
+
+    1. [x] Lise Nørgaard
+    2. [ ] Asta Nielsen
+    3. [ ] Astrid Henning-Jensen
+
+    ## Hvad hjalp Buster igennem vanskelighederne i Busters verden?
+
+    1. [ ] Hans familie flyttede til en ny by
+    2. [ ] Han fik arbejde som tryllekunstner på et teater
+    3. [x] Hans fantasi og evner for tryllekunst
+
+    ## Hvad anerkendte Folketinget i 1982 ved at forbedre vilkårene for danske børnefilm?
+
+    1. [ ] At børnefilm kun skulle vises på tv
+    2. [x] Børnefilmgenrens kunstneriske betydning
+    3. [ ] At alle film skulle være baseret på romaner
+
+    ## Hvilke temaer står centralt i Nils Malmros' Kundskabens træ?
+
+    1. [ ] Krig og kongemagt
+    2. [ ] Kunst og arkitektur
+    3. [x] Mobning og forelskelser blandt unge i en skoleklasse
+
+    ## Hvad lovede instruktørerne bag Dogme 95 at prioritere?
+
+    1. [x] Den gode historie frem for tekniske effekter
+    2. [ ] Store kulisser frem for skuespillernes præstationer
+    3. [ ] Kun dokumentarfilm om samfundet
+
+    ## Hvem skrev Dogme 95-manifestet sammen med Lars von Trier?
+
+    1. [ ] Erik Balling, Bille August og Gabriel Axel
+    2. [x] Thomas Vinterberg, Søren Kragh-Jacobsen og Kristian Levring
+    3. [ ] Nils Malmros, Henning Carlsen og Johan Jacobsen
+
+    ## Hvad handler Lars von Triers dogmefilm Idioterne om?
+
+    1. [ ] En gruppe unge, der rejser til Skagen
+    2. [ ] En dansk landmand, der vinder et væddeløb
+    3. [x] Voksne, der spiller "idioter" for at provokere og udfordre sig selv
+
+    ## Hvilken pris vandt Lars von Trier for Dancer in the Dark?
+
+    1. [ ] En Oscar
+    2. [x] Den Gyldne Palme
+    3. [ ] En Golden Globe for Hævnen
+
+    ## Hvilken film af Thomas Vinterberg vandt en Oscar i 2021?
+
+    1. [x] Druk
+    2. [ ] Festen
+    3. [ ] Jagten
+
+    ## Hvilken film gav Gabriel Axel en Oscar?
+
+    1. [ ] Pelle Erobreren
+    2. [ ] Dancer in the Dark
+    3. [x] Babettes Gæstebud
+
+    ## Hvilken dansk instruktør vandt både en Oscar og De Gyldne Palmer for Pelle Erobreren?
+
+    1. [ ] Susanne Bier
+    2. [x] Bille August
+    3. [ ] Carl Th. Dreyer
+
+    ## Hvilken film indbragte Susanne Bier både en Oscar og en Golden Globe?
+
+    1. [x] Hævnen
+    2. [ ] Sult
+    3. [ ] Soldaten og Jenny
+
+    ## Hvilken pris modtog Mads Mikkelsen for sin rolle i Jagten?
+
+    1. [ ] En Oscar for bedste instruktør
+    2. [ ] Den Gyldne Palme for Druk
+    3. [x] Prisen for bedste mandlige skuespiller ved Cannes Filmfestival
+
+    ## Hvem spiller Mads Mikkelsen i James Bond-filmen Casino Royale?
+
+    1. [x] James Bonds hovedmodstander
+    2. [ ] James Bonds chef
+    3. [ ] En dansk filminstruktør
+
+    ## Hvilken rolle blev Sofie Gråbøl især kendt for i Forbrydelsen?
+
+    1. [ ] En lærerinde på et børnehjem
+    2. [x] Vicekriminalkommissær Sarah Lund
+    3. [ ] En ung landmand fra Jylland
+
+    ## Hvilken rolle spiller Trine Dyrholm i filmen Dronningen?
+
+    1. [ ] En kriminalkommissær, der opklarer et mord
+    2. [ ] En sangerinde i en dansk rockgruppe
+    3. [x] Advokaten Anne

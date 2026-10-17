@@ -24,3 +24,183 @@ Questions
     1. [x] Saxo
     2. [ ] Ludvig Holberg
     3. [ ] N.F.S. Grundtvig
+
+    ## Hvilket skriftsystem blev brugt i den ældste danske litteratur?
+
+    1. [ ] Det kyrilliske alfabet
+    2. [x] Runer
+    3. [ ] Det arabiske alfabet
+
+    ## Hvad betyder ordet "runer" ifølge teksten?
+
+    1. [ ] Konger
+    2. [ ] Sange
+    3. [x] Hemmeligheder
+
+    ## Hvor findes den mest kendte danske runeindskrift?
+
+    1. [ ] På en sten ved Roskilde Domkirke
+    2. [x] På Harald Blåtands Jellingsten
+    3. [ ] På en mur i Kronborg
+
+    ## Hvad fortæller Harald Blåtand på Jellingstenen?
+
+    1. [x] At han vandt Danmark og Norge og gjorde danerne kristne
+    2. [ ] At han grundlagde universitetet i København
+    3. [ ] At han rejste til Rom for at skrive en bog
+
+    ## Hvilket sprog blev en stor del af middelalderens litteratur skrevet på?
+
+    1. [ ] Oldengelsk
+    2. [ ] Fransk
+    3. [x] Latin
+
+    ## Hvad var et vigtigt formål med Saxos Gesta Danorum?
+
+    1. [ ] At beskrive livet på en dansk kaffefarm
+    2. [x] At fremstille Danmark som et selvstændigt land
+    3. [ ] At forklare reglerne for høflig bordskik
+
+    ## Hvem var Valdemar den Store?
+
+    1. [ ] En dansk digter fra 1800-tallet
+    2. [x] Danmarks konge på Saxos tid
+    3. [ ] En svensk teaterinstruktør
+
+    ## Hvem skrev Jammers Minde?
+
+    1. [ ] Emma Gad
+    2. [ ] Karen Blixen
+    3. [x] Leonora Christina
+
+    ## Hvad handler Jammers Minde især om?
+
+    1. [x] Leonora Christinas fængselsophold
+    2. [ ] En bondes rejse til København
+    3. [ ] En gruppe unge menneskers skoleliv
+
+    ## Hvilke idealer ville Ludvig Holberg fremme?
+
+    1. [ ] Militær disciplin og kongelig censur
+    2. [x] Oplysning, tolerance og kritisk tænkning
+    3. [ ] Rigdom, berømmelse og adelige privilegier
+
+    ## Hvad sker der med Jeppe i komedien Jeppe på Bjerget?
+
+    1. [ ] Han bliver udnævnt til konge af Danmark
+    2. [ ] Han rejser til Afrika for at drive en farm
+    3. [x] Han bliver bildt ind, at han er herremand
+
+    ## Hvilken dansk by blev H.C. Andersen født i?
+
+    1. [ ] Aarhus
+    2. [x] Odense
+    3. [ ] Ribe
+
+    ## Hvad kendetegner H.C. Andersens eventyr ifølge teksten?
+
+    1. [ ] De er kun skrevet for voksne med interesse for politik
+    2. [x] De rummer både fantasi og emner, der også er vigtige for voksne
+    3. [ ] De handler udelukkende om danske konger
+
+    ## Hvilket værk af Adam Oehlenschläger er Danmarks ene nationalsang?
+
+    1. [ ] "Guldhornene"
+    2. [ ] "Kong Christian stod ved højen mast"
+    3. [x] "Der er et yndigt land"
+
+    ## Hvad ville nationalromantikken fremhæve?
+
+    1. [x] Det særligt danske i kultur, natur og historie
+    2. [ ] Det moderne storbyliv i andre lande
+    3. [ ] Kun religiøse temaer i litteraturen
+
+    ## Hvad var særligt ved Steen Steensen Blichers litterære motiver?
+
+    1. [ ] De handlede kun om livet ved det kongelige hof
+    2. [x] De skildrede mennesker og liv i det dengang fjerne Jylland
+    3. [ ] De beskrev primært kunstnere i Italien
+
+    ## Hvad ønskede forfatterne under det moderne gennembrud?
+
+    1. [ ] At vende tilbage til middelalderens skriftsprog
+    2. [ ] At undgå at omtale samfundets normer
+    3. [x] At udfordre holdninger til blandt andet religion og kønsroller
+
+    ## Hvilken roman af Henrik Pontoppidan handler om Per?
+
+    1. [x] Lykke-Per
+    2. [ ] Kongens Fald
+    3. [ ] Den kroniske uskyld
+
+    ## Hvilken pris modtog Henrik Pontoppidan i 1917?
+
+    1. [ ] De Gyldne Palmer
+    2. [x] Nobelprisen i litteratur
+    3. [ ] Oscar for bedste film
+
+    ## Hvilke mennesker skrev Martin Andersen Nexø især om?
+
+    1. [ ] Velhavende kunstsamlere
+    2. [x] Fattige mennesker og deres kamp for bedre vilkår
+    3. [ ] Danske komponister på turné
+
+    ## Hvad er Emma Gad især kendt for?
+
+    1. [ ] Romanen Den Afrikanske Farm
+    2. [ ] Digtet "Sommerfugledalen"
+    3. [x] Bogen Takt og Tone
+
+    ## Hvilken historisk periode skildrer Johannes V. Jensens Kongens Fald?
+
+    1. [x] 1500-tallets Danmark
+    2. [ ] Bronzealderen
+    3. [ ] 1960'ernes København
+
+    ## Hvad handler Himmerlandshistorier især om?
+
+    1. [ ] Livet på en kaffefarm i Kenya
+    2. [x] Bønder og fattigfolk i Himmerland
+    3. [ ] Teaterlivet i 1700-tallets Norge
+
+    ## Hvilket værk beskriver Karen Blixens liv på en kaffefarm i Kenya?
+
+    1. [ ] Barndommens Gade
+    2. [ ] Jammers Minde
+    3. [x] Den Afrikanske Farm
+
+    ## Hvilken roman af Tove Ditlevsen skildrer opvækst på Vesterbro?
+
+    1. [x] Barndommens Gade
+    2. [ ] Rødby-Puttgarden
+    3. [ ] Pelle Erobreren
+
+    ## Hvad handler Klaus Rifbjergs Den kroniske uskyld blandt andet om?
+
+    1. [ ] En dansk kunstnergruppe i efterkrigstiden
+    2. [x] Ungdoms- og skoleliv samt de voksnes snæversyn
+    3. [ ] En historisk kamp om den danske trone
+
+    ## Hvilket emne forbindes især med Suzanne Brøggers romaner?
+
+    1. [ ] Skibsfart i vikingetiden
+    2. [ ] Arkitektur og byplanlægning
+    3. [x] Kvindefrigørelse
+
+    ## Hvilken digtsamling blev Yahya Hassans debut?
+
+    1. [ ] Verdenssøn
+    2. [x] Yahya Hassan
+    3. [ ] Sommerfugledalen
+
+    ## Hvad er auto-fiktion?
+
+    1. [x] En genre, der blander erfaringer fra forfatterens eget liv med fiktive elementer
+    2. [ ] En genre, der kun genfortæller middelalderlige sagn
+    3. [ ] En form for teater uden dialog
+
+    ## Hvilken forfatter skrev roman-trilogien, der begynder med Hvis der skulle komme et menneske forbi?
+
+    1. [ ] Glenn Bech
+    2. [ ] Helle Helle
+    3. [x] Thomas Korsgaard

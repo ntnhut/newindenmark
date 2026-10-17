@@ -24,3 +24,147 @@ Questions
     1. [x] Kunst, der blandt andet omfatter malerier og tegninger
     2. [ ] Kun teater og dans
     3. [ ] Kun bygninger og møbler
+
+    ## Hvilken periode stammer Solvognen fra?
+
+    1. [ ] Jernalderen
+    2. [x] Den ældre bronzealder
+    3. [ ] Middelalderen
+
+    ## Hvad forestiller Solvognen?
+
+    1. [x] En hest, der trækker en solskive
+    2. [ ] En konge, der sejler over havet
+    3. [ ] En viking, der smeder et sværd
+
+    ## Hvor blev guldhornene fundet?
+
+    1. [ ] Ved Trundholm Mose
+    2. [ ] På Christiansborg
+    3. [x] Ved Gallehus i Sønderjylland
+
+    ## Hvad skete der med de oprindelige guldhorn?
+
+    1. [ ] De blev begravet i en kirke
+    2. [x] De blev stjålet og omsmeltet i 1802
+    3. [ ] De blev sendt til Rom i 1536
+
+    ## Hvad var kalkmaleriernes funktion i middelalderens kirker?
+
+    1. [x] At formidle bibelske fortællinger til mennesker, der ikke kunne læse Bibelen
+    2. [ ] At vise kongens familieportrætter
+    3. [ ] At fungere som kort over handelsruter
+
+    ## Hvornår blev reformationen indført i Danmark?
+
+    1. [ ] 1050
+    2. [ ] 1660
+    3. [x] 1536
+
+    ## Hvem brugte især kunsten til at vise rigdom og betydning efter reformationen?
+
+    1. [ ] Bønder og håndværkere
+    2. [x] Kongen og adelen
+    3. [ ] Udenlandske handelsfolk
+
+    ## Hvem grundlagde Det Kongelige Danske Kunstakademi?
+
+    1. [ ] Christian 4.
+    2. [x] Frederik 5.
+    3. [ ] Valdemar den Store
+
+    ## Hvor ligger Det Kongelige Danske Kunstakademi?
+
+    1. [x] På Charlottenborg ved Kongens Nytorv i København
+    2. [ ] På Christiansborgs Ridebane
+    3. [ ] I Universitetsparken i Aarhus
+
+    ## Hvem skabte rytterstatuen af Frederik 5. på Amalienborg Slotsplads?
+
+    1. [ ] Bertel Thorvaldsen
+    2. [ ] C.W. Eckersberg
+    3. [x] Jacques-François-Joseph Saly
+
+    ## Hvorfor kaldes første halvdel af 1800-tallet Guldalderen?
+
+    1. [ ] Fordi alle kunstværker blev fremstillet af guld
+    2. [x] Fordi dansk kultur, kunst og videnskab blomstrede
+    3. [ ] Fordi perioden var præget af store guldminer
+
+    ## Hvor tilbragte Bertel Thorvaldsen mange år af sit liv?
+
+    1. [ ] I Paris
+    2. [x] I Rom
+    3. [ ] I London
+
+    ## Hvilket museum blev oprettet til Thorvaldsens skulpturer og samlinger?
+
+    1. [ ] ARoS
+    2. [ ] Nationalmuseet
+    3. [x] Thorvaldsens Museum
+
+    ## Hvad var særligt ved Thorvaldsens Museum, da det åbnede?
+
+    1. [x] Det var Danmarks første museumsbygning, som befolkningen havde adgang til
+    2. [ ] Det var det første museum, der kun viste fotografier
+    3. [ ] Det var et kongeligt slot uden kunstsamlinger
+
+    ## Hvad er Vilhelm Hammershøi især værdsat for at male?
+
+    1. [ ] Dramatiske søslag
+    2. [x] Lys og skygge i boligens rum
+    3. [ ] Store abstrakte gobeliner
+
+    ## Hvor slog Skagensmalerne sig ned?
+
+    1. [ ] I Odense
+    2. [ ] I København
+    3. [x] I Skagen
+
+    ## Hvilke landskabelige forhold prægede Skagensmalernes billeder?
+
+    1. [x] Lyset fra Skagerrak og Kattegat
+    2. [ ] Udsigten over Øresund og Limfjorden
+    3. [ ] De norske fjelde omkring byen
+
+    ## Hvilken kunstner skabte bronzeportene i Ribe Domkirke?
+
+    1. [ ] Lene Adler Petersen
+    2. [x] Anne Marie Carl-Nielsen
+    3. [ ] Anna Ancher
+
+    ## Hvilke byer indgår i navnet på kunstnergruppen Cobra?
+
+    1. [ ] København, Oslo og Berlin
+    2. [ ] København, Paris og Rom
+    3. [x] København, Bruxelles og Amsterdam
+
+    ## Hvilket motiv inspirerede Asger Jorns hovedværk Stalingrad?
+
+    1. [x] Slaget ved Stalingrad under 2. Verdenskrig
+    2. [ ] En sejr ved Gallehus i bronzealderen
+    3. [ ] Byggeriet af Christiansborg
+
+    ## Hvad symboliserer de røde stænk i Jorns Stalingrad ifølge teksten?
+
+    1. [ ] Solens varme
+    2. [x] Blodet fra slaget
+    3. [ ] Dannebrog over byen
+
+    ## Hvor mange gobeliner består Bjørn Nørgaards hovedværk på Christiansborg af?
+
+    1. [ ] 7
+    2. [ ] 10
+    3. [x] 17
+
+    ## Hvad viser gobelinerne i riddersalen på Christiansborg?
+
+    1. [ ] Europas konger gennem middelalderen
+    2. [x] Danmarks historie fra vikingetiden til nutiden
+    3. [ ] Danske landskaber fra Skagen til Bornholm
+
+    ## Hvad kan publikum opleve i Olafur Eliassons Your rainbow panorama?
+
+    1. [x] At gå gennem en glasgangbro i forskellige regnbuefarver med udsigt over Aarhus
+    2. [ ] At se en samling af bronzealderens musikinstrumenter
+    3. [ ] At gå gennem en kopi af en middelalderkirke

@@ -24,3 +24,111 @@ Questions
     1. [x] I 1920'erne
     2. [ ] I 1720'erne
     3. [ ] I 1980'erne
+
+    ## Hvad kan arkitektur og design afspejle?
+
+    1. [ ] Kun et lands klima
+    2. [x] Et samfunds muligheder, holdninger og værdier
+    3. [ ] Kun arkitektens personlige økonomi
+
+    ## Hvad er et traditionelt træk ved dansk arkitektur og design?
+
+    1. [x] Praktisk funktion og enkelhed
+    2. [ ] Overdådig udsmykning i alle bygninger
+    3. [ ] Brug af én bestemt byggestil i alle perioder
+
+    ## Hvilken inspiration præger nogle eksklusive ejendomme fra cirka 1760-1860?
+
+    1. [ ] Japansk og kinesisk arkitektur
+    2. [ ] Vikingetidens skibsbyggeri
+    3. [x] Græsk og romersk arkitektur
+
+    ## Hvem tegnede Vor Frue Kirke i København?
+
+    1. [ ] Jørn Utzon
+    2. [x] C.F. Hansen
+    3. [ ] Arne Jacobsen
+
+    ## Hvornår blev Vor Frue Kirke opført?
+
+    1. [x] 1811-29
+    2. [ ] 1931-33
+    3. [ ] 1958-62
+
+    ## Hvilket problem skulle funktionalismen blandt andet være med til at løse?
+
+    1. [ ] Mangel på museer i København
+    2. [ ] For få kongelige boliger
+    3. [x] Byernes dårlige boligstandard
+
+    ## Hvilket socialt ideal lå bag funktionalismens enkle udtryk?
+
+    1. [ ] At skabe større forskel mellem samfundsklasser
+    2. [x] At fremme social lighed
+    3. [ ] At begrænse adgangen til moderne boliger
+
+    ## Hvilken bygning er et eksempel på dansk funktionalisme?
+
+    1. [ ] Vadehavscentret
+    2. [ ] Operahuset i Sydney
+    3. [x] Aarhus Universitet
+
+    ## Hvilken idé lå bag Aarhus Universitet som "akademisk landsby"?
+
+    1. [x] At samle universitetets mange formål i en åben og harmonisk helhed
+    2. [ ] At adskille alle fag fra hinanden uden fælles områder
+    3. [ ] At kopiere udformningen af et middelalderslot
+
+    ## Hvad var særligt ved Poul Henningsens lampedesign?
+
+    1. [ ] Det brugte kun levende lys
+    2. [x] Det gjorde elektrisk lys blændfrit
+    3. [ ] Det kunne kun anvendes udendørs
+
+    ## Hvor mange skærme består PH-lampen af?
+
+    1. [ ] To
+    2. [ ] Fem
+    3. [x] Tre
+
+    ## For hvilken kæde udviklede Børge Mogensen et møbelprogram i 1940'erne?
+
+    1. [x] FDB, nuværende Coop
+    2. [ ] Nordisk Film
+    3. [ ] Det Kongelige Teater
+
+    ## Hvilke bygninger tegnede Arne Jacobsen?
+
+    1. [ ] Kun private sommerhuse
+    2. [x] Blandt andet Danmarks Nationalbank og Aarhus Rådhus
+    3. [ ] Vor Frue Kirke og Aarhus Universitet
+
+    ## Hvilke møbler er eksempler på Arne Jacobsens design?
+
+    1. [ ] PH-lampen og FDB-stolen
+    2. [ ] Skagensstolen og Kongestolen
+    3. [x] 7'eren og Ægget
+
+    ## Hvem tegnede operahuset i Sydney?
+
+    1. [x] Jørn Utzon
+    2. [ ] Bjarke Ingels
+    3. [ ] Dorte Mandrup
+
+    ## Hvilken bygning har Dorte Mandrup tegnet ved Ilulissat-fjorden?
+
+    1. [ ] Amager Bakke
+    2. [x] Isfjordcenteret
+    3. [ ] Aarhus Rådhus
+
+    ## Hvad inspirerer Dorte Mandrups måde at forme bygninger på?
+
+    1. [ ] Kun historiske møbelstile
+    2. [ ] Standardiserede skabeloner uden hensyn til stedet
+    3. [x] Omgivelserne og landskabets særlige kendetegn
+
+    ## Hvad er særligt ved Amager Bakke, også kaldet Copenhill?
+
+    1. [ ] Det er både affaldsforbrænding og et rekreativt område
+    2. [x] Det kombinerer energieffektiv affaldsforbrænding med fritidsaktiviteter
+    3. [ ] Det er et museum for dansk funktionalisme

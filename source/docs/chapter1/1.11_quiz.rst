@@ -30,3 +30,183 @@ Questions
     1. [x] Unge udfordrede traditionelle normer og autoriteter
     2. [ ] Unge krævede, at Danmark forlod Norden
     3. [ ] Unge ønskede at genindføre enevælden
+
+    ## Hvilken international organisation blev stiftet i 1945 for blandt andet at fremme fred og sikkerhed?
+
+    1. [ ] NATO
+    2. [x] FN
+    3. [ ] EF
+
+    ## Hvilke to supermagter stod over for hinanden under Den Kolde Krig?
+
+    1. [ ] Danmark og Tyskland
+    2. [ ] Frankrig og Storbritannien
+    3. [x] USA og Sovjetunionen
+
+    ## Hvad var Jerntæppet?
+
+    1. [x] Betegnelsen for opdelingen mellem det kommunistiske øst og det demokratiske vest
+    2. [ ] En forsvarslinje mellem Danmark og Sverige
+    3. [ ] En handelsaftale mellem USA og Sovjetunionen
+
+    ## Hvorfor valgte Danmark at blive medlem af NATO i 1949?
+
+    1. [ ] For at genindføre neutralitetspolitikken
+    2. [x] For at føle sig bedre beskyttet gennem en forsvarsalliance
+    3. [ ] For at få adgang til Sovjetunionens planøkonomi
+
+    ## Hvad betyder artikel 5 i NATO-traktaten?
+
+    1. [x] Et angreb på ét medlemsland betragtes som et angreb på alle
+    2. [ ] Alle medlemmer skal indføre samme valuta
+    3. [ ] Et land kan aldrig trække sig ud af NATO
+
+    ## Hvilken alliance stod over for NATO under Den Kolde Krig?
+
+    1. [ ] Kalmarunionen
+    2. [ ] EF
+    3. [x] Warszawa-pagten
+
+    ## Hvem ledede Warszawa-pagten?
+
+    1. [x] Sovjetunionen
+    2. [ ] USA
+    3. [ ] Danmark
+
+    ## Hvad var formålet med Marshall-hjælpen?
+
+    1. [ ] At genoprette den danske enevælde
+    2. [x] At sætte gang i samhandlen og genopbygningen i Vesteuropa
+    3. [ ] At indføre fælles europæisk værnepligt
+
+    ## Hvordan påvirkede Marshall-hjælpen og moderniseringen landbruget?
+
+    1. [x] Maskiner erstattede mange heste og reducerede behovet for arbejdskraft
+    2. [ ] Landbruget gik helt tilbage til håndkraft
+    3. [ ] Landbrug blev forbudt i Danmark
+
+    ## Hvilket parti fik stor tilslutning ved valget i 1945, blandt andet på grund af sin rolle i modstandskampen?
+
+    1. [ ] Det Radikale Venstre
+    2. [ ] Venstre
+    3. [x] Danmarks Kommunistiske Parti
+
+    ## Hvilket kammer blev afskaffet ved grundlovsændringen i 1953?
+
+    1. [x] Landstinget
+    2. [ ] Folketinget
+    3. [ ] Rigsrådet
+
+    ## Hvad blev indført i stedet for Rigsdagen med to kamre?
+
+    1. [ ] Et system med tre kamre
+    2. [x] Et etkammersystem med Folketinget som eneste lovgivende forsamling
+    3. [ ] Et kongeligt råd uden folkevalgte
+
+    ## Hvilket område kom grundloven også til at gælde for efter ændringen i 1953?
+
+    1. [ ] Island
+    2. [ ] Norge
+    3. [x] Grønland
+
+    ## Hvad gjorde grundlovsændringen i 1953 muligt i forhold til tronfølgen?
+
+    1. [x] En kvinde kunne arve tronen, hvis der ikke var en søn
+    2. [ ] Folketinget kunne vælge kongen
+    3. [ ] Danmark kunne vælge en præsident
+
+    ## Hvornår fik mænd og kvinder helt lige arveret til tronen?
+
+    1. [ ] 1953
+    2. [x] 2009
+    3. [ ] 1949
+
+    ## Hvilket parti blev dannet i 1959 af personer, der forlod Danmarks Kommunistiske Parti?
+
+    1. [ ] Dansk Folkeparti
+    2. [ ] Det Radikale Venstre
+    3. [x] SF
+
+    ## Hvad kendetegnede den økonomiske udvikling i Danmark fra 1957 til 1973?
+
+    1. [x] En langvarig højkonjunktur med vækst og høj beskæftigelse
+    2. [ ] En periode med faldende produktion og massearbejdsløshed
+    3. [ ] En økonomisk lukning over for resten af verden
+
+    ## Hvilken økonomisk udvikling skete fra begyndelsen af 1960'erne?
+
+    1. [ ] Danmark eksporterede kun landbrugsvarer
+    2. [ ] Danmark stoppede al eksport
+    3. [x] Industrien blev en større eksportsektor end landbruget
+
+    ## Hvornår blev folkepensionen indført?
+
+    1. [ ] 1945
+    2. [x] 1956
+    3. [ ] 1968
+
+    ## Hvad besluttede Folketinget i 1964 om daginstitutioner?
+
+    1. [x] Kommunerne skulle oprette det nødvendige antal pladser
+    2. [ ] Daginstitutioner skulle drives af private familier alene
+    3. [ ] Alle børnehaver skulle lukkes
+
+    ## Hvilken ændring skete der med mange kvinders arbejdsliv fra 1960'erne?
+
+    1. [x] Flere kvinder fik uddannelse og kom ud på arbejdsmarkedet
+    2. [ ] Kvinder blev udelukket fra uddannelser
+    3. [ ] Alle kvinder fik samme løn som mænd
+
+    ## Hvilke goder fik flere danskere råd til under højkonjunkturen?
+
+    1. [ ] Kun mad og brændsel
+    2. [x] Blandt andet tv, køleskabe, vaskemaskiner og biler
+    3. [ ] Kun varer produceret i Danmark
+
+    ## Hvordan ændrede arbejdsugen sig fra 1958 til 1974?
+
+    1. [ ] Den blev længere fra 40 til 48 timer
+    2. [ ] Den forblev uændret på 48 timer
+    3. [x] Den blev kortere fra 48 til 40 timer
+
+    ## Hvilken ændring skete der med ferien fra 1953 til 1972?
+
+    1. [x] Den voksede fra to til fire uger
+    2. [ ] Den blev reduceret fra fire til to uger
+    3. [ ] Alle fik ret til otte ugers ferie
+
+    ## Hvad var en årsag til ungdomsoprøret i slutningen af 1960'erne?
+
+    1. [ ] Unge ønskede at genetablere professorvældet
+    2. [ ] Unge ønskede at afskaffe al uddannelse
+    3. [x] Unge satte spørgsmålstegn ved traditionelle normer og autoriteter
+
+    ## Hvilken betydning fik p-pillen, som kunne sælges lovligt fra 1966?
+
+    1. [x] Den gav kvinder mulighed for selv at styre, om de ønskede at blive gravide
+    2. [ ] Den afskaffede retten til abort
+    3. [ ] Den blev obligatorisk for alle kvinder
+
+    ## Hvornår blev fristaden Christiania oprettet?
+
+    1. [ ] 1953
+    2. [x] 1971
+    3. [ ] 1989
+
+    ## Hvad krævede studerende under studenteroprøret fra 1968?
+
+    1. [ ] Mindre indflydelse på universiteterne
+    2. [ ] At alle universiteter blev lukket
+    3. [x] Mere indflydelse og nye ledelses- og undervisningsformer
+
+    ## Hvornår blev det forbudt for lærere at slå elever i folkeskolen?
+
+    1. [ ] 1956
+    2. [ ] 1997
+    3. [x] 1967
+
+    ## Hvornår blev det også forbudt for forældre at slå deres egne børn?
+
+    1. [x] 1997
+    2. [ ] 1967
+    3. [ ] 2009

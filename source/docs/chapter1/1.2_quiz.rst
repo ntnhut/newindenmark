@@ -30,3 +30,123 @@ Questions
     1. [ ] Jødedommen
     2. [ ] Islam
     3. [x] Asatroen
+
+    ## Hvilke erhverv havde mange vikinger ud over at være krigere?
+
+    1. [ ] Kun præster og soldater
+    2. [x] Bønder og handelsmænd
+    3. [ ] Embedsmænd og fabriksarbejdere
+
+    ## Hvad betyder navnet Danmark ifølge teksten?
+
+    1. [x] Danernes grænseområde
+    2. [ ] Kongens land ved havet
+    3. [ ] De nordiske øers rige
+
+    ## Hvornår kendes ordet Danmark fra?
+
+    1. [ ] Fra begyndelsen af 700-tallet
+    2. [ ] Fra midten af 1000-tallet
+    3. [x] Fra slutningen af 800-tallet
+
+    ## Hvem rejste den runesten, hvor navnet Danmark første gang ses inden for landets grænser?
+
+    1. [x] Gorm den Gamle
+    2. [ ] Knud den Store
+    3. [ ] Svend Tveskæg
+
+    ## Hvem blev Gorm den Gamles runesten rejst til minde om?
+
+    1. [ ] Freja
+    2. [x] Thyra
+    3. [ ] Margrete
+
+    ## Hvad var runer?
+
+    1. [ ] Vikingernes skibssejl
+    2. [ ] En type våben
+    3. [x] Vikingetidens skrifttegn
+
+    ## Hvad var et formål med Harald Blåtands ringborge?
+
+    1. [x] At beskytte riget mod fjender
+    2. [ ] At samle handelsvarer fra Asien
+    3. [ ] At holde religiøse ceremonier
+
+    ## Hvad viste opførelsen af de store ringborge om kongemagten?
+
+    1. [ ] At kongen ikke havde nogen indflydelse uden for Jelling
+    2. [x] At kongen kunne opkræve skatter og skaffe arbejdskraft
+    3. [ ] At Danmark var opdelt i uafhængige bystater
+
+    ## Hvilken fordel havde vikingeskibene sammenlignet med tidligere skibe?
+
+    1. [ ] De kunne kun sejle i vindstille vejr
+    2. [ ] De kunne kun bruges på åbent hav
+    3. [x] De var solide og smidige og kunne sejle op ad floder
+
+    ## Hvilken by nåede vikingerne på togter langt mod øst?
+
+    1. [x] Konstantinopel
+    2. [ ] Rom
+    3. [ ] Madrid
+
+    ## Hvad gjorde nogle vikinger i de områder, de erobrede?
+
+    1. [ ] De opgav straks alle områderne
+    2. [x] De bosatte sig der
+    3. [ ] De oprettede kun klostre
+
+    ## Hvilket land blev Svend Tveskæg konge af i 1013?
+
+    1. [ ] Norge
+    2. [ ] Frankrig
+    3. [x] England
+
+    ## Hvilke områder herskede Knud den Store over, da vikingeriget var størst?
+
+    1. [x] Danmark, England og Norge
+    2. [ ] Danmark, Sverige og Frankrig
+    3. [ ] Norge, Island og Skotland
+
+    ## Hvad er oldnordisk i forhold til moderne dansk?
+
+    1. [ ] Et skriftsprog, der først opstod efter reformationen
+    2. [x] Forløberen for nutidens dansk
+    3. [ ] Et sprog, som kun blev talt i England
+
+    ## Hvad betød ofringer i asatroen?
+
+    1. [x] At man gav gaver til guderne ved ritualer og ceremonier
+    2. [ ] At man valgte en ny konge
+    3. [ ] At man indgik handelsaftaler med udlandet
+
+    ## Hvilken gud var gudernes konge i den nordiske mytologi?
+
+    1. [ ] Thor
+    2. [ ] Freja
+    3. [x] Odin
+
+    ## Hvad var Freja gudinde for?
+
+    1. [x] Frugtbarhed
+    2. [ ] Handel
+    3. [ ] Havet
+
+    ## Hvilke ugedage har navne med rødder i Odin og Thor?
+
+    1. [ ] Mandag og fredag
+    2. [ ] Tirsdag og lørdag
+    3. [x] Onsdag og torsdag
+
+    ## Hvilken missionær byggede kirker i Hedeby og Ribe i midten af 800-tallet?
+
+    1. [ ] Martin Luther
+    2. [x] Ansgar
+    3. [ ] Hans Tausen
+
+    ## Hvorfor kaldes Harald Blåtands Jellingsten ofte Danmarks dåbsattest?
+
+    1. [ ] Fordi den beskriver indførelsen af skatter
+    2. [ ] Fordi den markerer afslutningen på vikingernes togter
+    3. [x] Fordi den fortæller, at Harald gjorde danerne kristne

@@ -30,3 +30,153 @@ Questions
     1. [ ] Danmark blev medlem af EF
     2. [ ] Danmark fik en ny grundlov
     3. [x] Den danske flåde blev ødelagt
+
+    ## Hvad var formålet med stavnsbåndet, som blev indført i 1733?
+
+    1. [ ] At sikre, at bønderne kunne flytte frit mellem godser
+    2. [x] At sikre godsejerne stabil arbejdskraft
+    3. [ ] At give bønderne ret til selv at eje godser
+
+    ## Hvor længe skulle bønderne ifølge stavnsbåndet blive på det gods, hvor de var født?
+
+    1. [ ] Indtil de fyldte 25 år
+    2. [ ] Indtil de fyldte 30 år
+    3. [x] Indtil de fyldte 40 år
+
+    ## Hvad var en fæstebonde?
+
+    1. [x] En bonde, der boede på en gård, som tilhørte en godsejer
+    2. [ ] En bonde, der ejede et stort gods
+    3. [ ] En soldat, der arbejdede på kongens jord
+
+    ## Hvad skulle fæstebønder typisk gøre for godsejeren?
+
+    1. [ ] Kun betale skat til kongen
+    2. [ ] Kun sælge deres afgrøder i udlandet
+    3. [x] Betale afgift og udføre gratis arbejde på godsejerens jord
+
+    ## Hvem var Johann Friedrich Struensee?
+
+    1. [ ] En svensk konge
+    2. [x] Christian 7.s tyske livlæge, som fik stor politisk magt
+    3. [ ] En dansk bondeleder
+
+    ## Hvornår havde Struensee stor magt i Danmark?
+
+    1. [ ] 1660-61
+    2. [ ] 1848-49
+    3. [x] 1770-72
+
+    ## Hvilken frihed indførte Struensee i høj grad?
+
+    1. [x] Trykkefrihed
+    2. [ ] Religionsfrihed for alle trosretninger
+    3. [ ] Frihed til at vælge kongen
+
+    ## Hvilken praksis afskaffede Struensee?
+
+    1. [ ] Betaling af skat
+    2. [x] Brug af tortur til at få mistænkte til at tilstå
+    3. [ ] Udgivelse af aviser
+
+    ## Hvorfor blev Struensee arresteret og henrettet?
+
+    1. [ ] Han tabte en krig mod Sverige
+    2. [ ] Han ville genindføre katolicismen
+    3. [x] De gamle magthavere modsatte sig hans reformer, og han havde en affære med dronningen
+
+    ## Hvad blev en vigtig følge af landboreformerne?
+
+    1. [ ] Bønderne blev bundet til deres fødegods igen
+    2. [x] Landbruget udviklede sig mod selvejende bønder
+    3. [ ] Godsejerne overtog al fællesjord
+
+    ## Hvad betød ophævelsen af stavnsbåndet fra 1788?
+
+    1. [x] Fæstebønder kunne selv vælge, om de ville blive eller flytte
+    2. [ ] Alle bønder skulle flytte til byerne
+    3. [ ] Bønderne skulle aftjene længere militærtjeneste
+
+    ## Hvad kunne bønderne i mange tilfælde gøre med den jord, de hidtil havde lejet?
+
+    1. [ ] Give den tilbage til kirken
+    2. [ ] Bygge en by på den
+    3. [x] Købe den og blive selvejere
+
+    ## Hvad var en følge af at dele landsbyens fællesjord mellem gårdene?
+
+    1. [x] Den enkelte bonde kunne samle sine marker og dyrke dem mere effektivt
+    2. [ ] Al dyrkning blev forbudt uden for landsbyen
+    3. [ ] Alle gårde blev samlet på ét gods
+
+    ## Hvem var husmænd typisk?
+
+    1. [ ] Godsejere med store jordområder
+    2. [x] Landboere med små eller ingen jordstykker
+    3. [ ] Købmænd, der handlede med kolonierne
+
+    ## Hvorfor voksede antallet af husmænd i 1800-tallet?
+
+    1. [x] Befolkningen voksede, og der var ikke jord nok til alle
+    2. [ ] Stavnsbåndet blev genindført
+    3. [ ] Danmark mistede al sin landbrugsjord
+
+    ## Hvad kendetegnede Den Florissante Periode?
+
+    1. [x] En blomstrende dansk søfart og handel
+    2. [ ] En langvarig krig mod Sverige
+    3. [ ] En periode uden handel med udlandet
+
+    ## Hvorfor tjente danske handelsskibe godt på at være neutrale?
+
+    1. [x] De kunne fragte varer, når krigsførende lande blokerede hinandens ruter
+    2. [ ] De havde eneret på at sejle i Østersøen
+    3. [ ] De blev brugt til at transportere soldater for Storbritannien
+
+    ## Hvor fandt Slaget på Reden sted i 1801?
+
+    1. [ ] Ved den danske grænse mod Tyskland
+    2. [x] I farvandet lige uden for Københavns havn
+    3. [ ] I Nordsøen nær Norge
+
+    ## Hvorfor bombarderede Storbritannien København i 1807?
+
+    1. [x] For at forhindre Napoleon i at bruge den danske flåde
+    2. [ ] For at hjælpe Danmark med at erobre Norge
+    3. [ ] For at stoppe den danske reformation
+
+    ## Hvilken side valgte Danmark efter bombardementet i 1807?
+
+    1. [ ] Rusland
+    2. [ ] Storbritannien
+    3. [x] Frankrig
+
+    ## Hvad måtte Danmark afgive ved fredsaftalen i 1814?
+
+    1. [ ] Grønland til USA
+    2. [x] Norge til Sverige
+    3. [ ] Slesvig til Preussen
+
+    ## Hvilken politisk udvikling førte til, at Frederik 7. indførte en fri forfatning?
+
+    1. [x] Demokratiske strømninger og krav fra borgerskabet i København
+    2. [ ] En beslutning truffet af den svenske konge
+    3. [ ] En sejr i krigen mod Preussen
+
+    ## Hvornår underskrev Frederik 7. Danmarks første frie grundlov?
+
+    1. [ ] 5. juni 1665
+    2. [ ] 5. juni 1814
+    3. [x] 5. juni 1849
+
+    ## Hvad blev Folketinget og Landstinget samlet kaldt efter grundloven i 1849?
+
+    1. [x] Rigsdagen
+    2. [ ] Statsrådet
+    3. [ ] Rigsrådet
+
+    ## Hvem havde valgret efter grundloven i 1849?
+
+    1. [ ] Alle voksne kvinder og mænd
+    2. [x] Mænd over 30 år med egen husstand
+    3. [ ] Alle mænd over 18 år uden andre betingelser

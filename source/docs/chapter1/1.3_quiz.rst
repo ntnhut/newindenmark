@@ -24,3 +24,153 @@ Questions
     1. [ ] Den engelske syge
     2. [x] Pesten
     3. [ ] Spanskesygen
+
+    ## Hvad skete der med kongemagten efter Knud den Stores død i 1035?
+
+    1. [ ] Den blev straks afskaffet
+    2. [x] Den blev svækket i en ustabil periode
+    3. [ ] Den blev overtaget af paven
+
+    ## Hvem dræbte Knud den Hellige i 1086?
+
+    1. [x] Stormænd, der var utilfredse med hans krav
+    2. [ ] En svensk hær
+    3. [ ] Munke fra Lund
+
+    ## Hvad var håndfæstninger?
+
+    1. [x] Aftaler om magtfordelingen mellem kongen og stormændene
+    2. [ ] Kirkens regler for betaling af tiende
+    3. [ ] Militære alliancer mellem Danmark og Norge
+
+    ## Hvem underskrev den første håndfæstning i 1282?
+
+    1. [ ] Valdemar Atterdag
+    2. [ ] Knud den Hellige
+    3. [x] Erik Klipping
+
+    ## Hvem havde stor indflydelse på kristendommen i Danmark før en selvstændig dansk kirke opstod?
+
+    1. [x] Ærkebiskoppen i Hamborg-Bremen
+    2. [ ] Kongen af Sverige
+    3. [ ] Biskoppen i Roskilde alene
+
+    ## Hvor mange stifter var den danske kirke inddelt i i 1000-tallet?
+
+    1. [ ] Fire
+    2. [x] Otte
+    3. [ ] Tolv
+
+    ## Hvilken by fik en ærkebiskop i 1103 med hele Norden under sig?
+
+    1. [ ] Ribe
+    2. [ ] Odense
+    3. [x] Lund
+
+    ## Hvad var tiende?
+
+    1. [x] En skat til kirken på en tiendedel af høst eller produktion
+    2. [ ] En bøde til kongen for ikke at deltage i krig
+    3. [ ] En afgift for at komme ind i en by
+
+    ## Hvad var aflad i middelalderens kirke?
+
+    1. [ ] En pligt til at arbejde for kongen
+    2. [x] Tilgivelse for synd, som ofte kunne fås ved at betale kirken
+    3. [ ] En aftale om at vælge en ny biskop
+
+    ## Hvad var en vigtig funktion for mange middelalderlige klostre?
+
+    1. [ ] At opkræve skat for kongen
+    2. [ ] At uddanne kongelige soldater
+    3. [x] At tage sig af syge og fattige
+
+    ## Hvem lavede lovene i den periode, hvor kongemagten blev stærkere fra midten af 1100-tallet?
+
+    1. [x] Kongen
+    2. [ ] Paven
+    3. [ ] De tyske kejsere
+
+    ## Hvilket år blev Jyske Lov udstedt?
+
+    1. [ ] 1103
+    2. [ ] 1219
+    3. [x] 1241
+
+    ## Hvilken praksis tog Jyske Lov afstand fra?
+
+    1. [ ] Handel med andre lande
+    2. [x] Blodhævn mellem slægter
+    3. [ ] Betaling af tiende til kirken
+
+    ## Hvad betyder sædvaneret?
+
+    1. [x] Regler, der bygger på uskrevne traditioner
+    2. [ ] Love, som kun gælder i kirker
+    3. [ ] En aftale mellem konger og paver
+
+    ## Hvor stammer ordene "Med lov skal man land bygge" fra?
+
+    1. [ ] Kongeloven
+    2. [ ] Kalmarunionens traktat
+    3. [x] Indledningen til Jyske Lov
+
+    ## Hvad var formålet med de danske korstog omkring Østersøen?
+
+    1. [ ] At erobre handelsbyer fra England
+    2. [x] At omvende ikke-kristne befolkninger til kristendommen
+    3. [ ] At beskytte Danmark mod pesten
+
+    ## Hvornår gik et kendt dansk korstog til Estland?
+
+    1. [x] 1219
+    2. [ ] 1282
+    3. [ ] 1397
+
+    ## Hvad fortæller sagnet om Dannebrog under slaget ved Tallinn?
+
+    1. [ ] At det blev givet til Margrete 1.
+    2. [ ] At det blev taget fra en svensk hær
+    3. [x] At det faldt ned fra himlen og sikrede dansk sejr
+
+    ## Hvem samlede det danske rige igen efter en periode med splittelse?
+
+    1. [ ] Erik Klipping
+    2. [x] Valdemar Atterdag
+    3. [ ] Frederik 3.
+
+    ## Hvornår ramte Den Sorte Død Danmark?
+
+    1. [ ] Omkring 1100
+    2. [ ] Omkring 1250
+    3. [x] Omkring 1350
+
+    ## Hvilken virkning fik pesten på kong Valdemar Atterdags magt?
+
+    1. [x] Den styrkede kongen, blandt andet fordi han overtog jord fra døde
+    2. [ ] Den gjorde kongen til leder af den katolske kirke
+    3. [ ] Den førte straks til Kalmarunionens opløsning
+
+    ## Hvilke lande blev samlet i Kalmarunionen i 1397?
+
+    1. [ ] Danmark, England og Norge
+    2. [x] Danmark, Norge og Sverige
+    3. [ ] Danmark, Tyskland og Sverige
+
+    ## Hvorfor fik Kalmarunionen sit navn?
+
+    1. [ ] Unionens første konge blev født i Kalmar
+    2. [ ] Byen var Danmarks hovedstad
+    3. [x] Unionstraktaten blev underskrevet i Kalmar
+
+    ## Hvornår blev Kalmarunionen endeligt opløst?
+
+    1. [ ] 1397
+    2. [ ] 1450
+    3. [x] 1523
+
+    ## Hvornår forblev Norge i union med Danmark?
+
+    1. [ ] Indtil 1648
+    2. [x] Indtil 1814
+    3. [ ] Indtil 1864

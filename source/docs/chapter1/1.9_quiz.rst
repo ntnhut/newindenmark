@@ -30,3 +30,159 @@ Questions
     1. [x] Spanskesygen
     2. [ ] Den Sorte Død
     3. [ ] Tuberkuloseepidemien i 1800-tallet
+
+    ## Hvilke lande stod på hver sin side i 1. Verdenskrig?
+
+    1. [ ] Danmark og Norge mod Sverige
+    2. [x] Tyskland og dets allierede mod blandt andre Frankrig, Rusland og Storbritannien
+    3. [ ] USA og Storbritannien mod Danmark
+
+    ## Hvordan forholdt Danmark sig til 1. Verdenskrig?
+
+    1. [ ] Danmark erklærede krig mod Tyskland
+    2. [ ] Danmark sendte en hær til Frankrig
+    3. [x] Danmark forblev neutralt
+
+    ## Hvorfor lagde Danmark miner ud i nogle danske farvande i 1914?
+
+    1. [x] Efter pres fra Tyskland for at hindre britiske krigsskibe i at sejle ind i Østersøen
+    2. [ ] For at lukke havnene for alle danske handelsskibe
+    3. [ ] For at hjælpe USA med at kontrollere Atlanterhavet
+
+    ## Hvorfor deltog mange dansksindede sønderjyder i krigen på tysk side?
+
+    1. [ ] De var danske soldater udstationeret i Norge
+    2. [x] De var blevet tyske statsborgere efter Danmarks tab af Slesvig i 1864
+    3. [ ] De støttede den danske alliance med Rusland
+
+    ## Hvilke øer solgte Danmark til USA i 1917?
+
+    1. [ ] Grønland, Færøerne og Island
+    2. [ ] Bornholm, Als og Fyn
+    3. [x] Sankt Thomas, Sankt Croix og Sankt Jan
+
+    ## Hvad anerkendte USA til gengæld for købet af De Dansk Vestindiske Øer?
+
+    1. [x] At Grønland fuldt og helt hørte under Danmark
+    2. [ ] At Danmark kunne overtage Norge
+    3. [ ] At Danmark skulle blive medlem af NATO
+
+    ## Hvorfor fik influenzaen navnet Den Spanske Syge?
+
+    1. [ ] Den opstod i Spanien
+    2. [ ] Den blev først bragt til Danmark af spanske soldater
+    3. [x] Spanske aviser var de første til at skrive om sygdommen
+
+    ## Hvorfor var Danmark bedre rustet end mange krigsførende lande til at bekæmpe Den Spanske Syge?
+
+    1. [x] Befolkningen var bedre ernæret, og sundhedsvæsenet var mindre belastet
+    2. [ ] Danmark havde allerede udviklet en vaccine
+    3. [ ] Sygdommen ramte kun få danske byer
+
+    ## Hvilken aldersgruppe blev særligt hårdt ramt af Den Spanske Syge?
+
+    1. [ ] Børn under fem år
+    2. [ ] Mennesker over 80 år
+    3. [x] Relativt unge voksne, især 20-40-årige
+
+    ## Hvor mange mennesker døde af Den Spanske Syge i Danmark ifølge teksten?
+
+    1. [ ] Cirka 500
+    2. [x] Cirka 15.000
+    3. [ ] Cirka 150.000
+
+    ## Hvad stemte befolkningen i Nordslesvig for i 1920?
+
+    1. [ ] At området skulle forblive tysk
+    2. [ ] At området skulle tilsluttes Sverige
+    3. [x] At området skulle genforenes med Danmark
+
+    ## Hvad stemte et flertal i Mellemslesvig for i 1920?
+
+    1. [x] At området skulle forblive under Tyskland
+    2. [ ] At området skulle genforenes med Danmark
+    3. [ ] At området skulle blive selvstændigt
+
+    ## Hvornår blev den nye grænse mellem Danmark og Tyskland formelt fastlagt?
+
+    1. [ ] 9. april 1940
+    2. [x] 15. juni 1920
+    3. [ ] 5. maj 1945
+
+    ## Hvad beskyttede København-Bonn-erklæringerne fra 1955?
+
+    1. [x] Rettighederne for det danske og tyske mindretal i grænselandet
+    2. [ ] Danmarks neutralitet i verdenskrige
+    3. [ ] Den danske flådes adgang til Østersøen
+
+    ## Hvad udløste Påskekrisen i 1920?
+
+    1. [ ] En konflikt om Danmarks medlemskab af EF
+    2. [ ] En strejke blandt landets søfolk
+    3. [x] Uenighed mellem kongen og regeringen om den nye grænse til Tyskland
+
+    ## Hvad gjorde Christian 10. under Påskekrisen?
+
+    1. [x] Han afskedigede regeringen, selv om den ikke havde et flertal imod sig
+    2. [ ] Han opløste Folketinget og indførte enevælde
+    3. [ ] Han erklærede krig mod Tyskland
+
+    ## Hvilken udvikling fulgte efter Påskekrisen for kongemagtens rolle i politik?
+
+    1. [ ] Kongen fik ret til at afskedige enhver regering
+    2. [x] Kongemagten blandede sig ikke længere direkte i politik
+    3. [ ] Kongen overtog Folketingets lovgivende magt
+
+    ## Hvilken økonomisk begivenhed i 1929 spredte krise til resten af verden?
+
+    1. [ ] Oliekrisen i Mellemøsten
+    2. [ ] Krisen efter Roskilde-freden
+    3. [x] Børskrakket på Wall Street
+
+    ## Hvilket dansk erhverv blev særligt hårdt ramt af krisen i 1930'erne?
+
+    1. [x] Landbruget
+    2. [ ] Fiskeriet i Grønland
+    3. [ ] Turismen på De Dansk Vestindiske Øer
+
+    ## Hvor høj blev arbejdsløsheden i Danmark i begyndelsen af 1930'erne?
+
+    1. [ ] Omkring 5 procent
+    2. [x] Over 30 procent
+    3. [ ] Omkring 80 procent
+
+    ## Hvem blev Danmarks første socialdemokratiske statsminister i 1924?
+
+    1. [ ] Poul Schlüter
+    2. [ ] Erik Scavenius
+    3. [x] Thorvald Stauning
+
+    ## Hvem blev Danmarks første kvindelige minister?
+
+    1. [x] Nina Bang
+    2. [ ] Helle Thorning-Schmidt
+    3. [ ] Margrete 1.
+
+    ## Hvilke partier indgik Kanslergadeforliget i 1933?
+
+    1. [ ] Venstre og Det Konservative Folkeparti
+    2. [ ] Socialdemokratiet og Venstre
+    3. [x] Regeringen med Socialdemokratiet og Det Radikale Venstre samt Venstre
+
+    ## Hvad var en del af Kanslergadeforligets løsning for landbruget?
+
+    1. [ ] Landmænd blev forbudt at optage lån
+    2. [x] Det blev lettere for landmænd at låne penge og undgå fallit
+    3. [ ] Al landbrugsjord blev overtaget af staten
+
+    ## Hvad betød devalueringen af den danske krone i 1933?
+
+    1. [x] Kronens værdi blev sænket, så danske landbrugsvarer blev lettere at sælge i Storbritannien
+    2. [ ] Kronen blev erstattet af det britiske pund
+    3. [ ] Danmark forlod al international handel
+
+    ## Hvad skulle socialreformen i 1933 blandt andet sikre?
+
+    1. [x] Ensartede regler for offentlig økonomisk hjælp ved blandt andet arbejdsløshed og sygdom
+    2. [ ] At alle borgere fik samme løn
+    3. [ ] At den offentlige hjælp blev afskaffet

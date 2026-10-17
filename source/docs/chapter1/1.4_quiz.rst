@@ -30,3 +30,147 @@ Questions
     1. [ ] Parlamentarisme
     2. [ ] Republik
     3. [x] Enevælde
+
+    ## Hvilken kirke var den danske kirke en del af i middelalderen?
+
+    1. [x] Den katolske kirke
+    2. [ ] Den ortodokse kirke
+    3. [ ] Den anglikanske kirke
+
+    ## Hvem ledede en af de protestantiske bevægelser, der ønskede at reformere kirken?
+
+    1. [ ] Ansgar
+    2. [ ] Hans Tausen
+    3. [x] Martin Luther
+
+    ## Hvem udbredte især Martin Luthers ideer i Danmark?
+
+    1. [x] Hans Tausen
+    2. [ ] J.B.S. Estrup
+    3. [ ] Christian 4.
+
+    ## Hvad mente Martin Luther om frelse?
+
+    1. [ ] Den kunne købes ved at betale aflad
+    2. [x] Den kunne opnås ved tro
+    3. [ ] Den blev givet af kongen
+
+    ## Hvilken begivenhed fandt sted i Danmark i 1534?
+
+    1. [x] Borgerkrig mellem katolske magthavere og protestanter
+    2. [ ] Enevælden blev afskaffet
+    3. [ ] Danmark blev medlem af EF
+
+    ## Hvilken konge gennemførte reformationen i 1536?
+
+    1. [ ] Frederik 3.
+    2. [x] Christian 3.
+    3. [ ] Christian 4.
+
+    ## Hvad overtog kongen efter reformationen?
+
+    1. [x] Kirkens værdier og jord
+    2. [ ] Pavedømmet i Rom
+    3. [ ] De svenske provinser
+
+    ## Hvilken ændring skete der med kirkens sprog efter reformationen?
+
+    1. [ ] Dansk blev erstattet af tysk
+    2. [ ] Latin blev gjort til fælles talesprog
+    3. [x] Bibelen blev oversat, og gudstjenester foregik på dansk
+
+    ## Hvem kunne udnævne præster og biskopper efter reformationen?
+
+    1. [ ] Paven
+    2. [x] Kongen
+    3. [ ] Folketinget
+
+    ## Hvilket af disse bygningsværker blev opført under Christian 4.?
+
+    1. [x] Rundetårn
+    2. [ ] Jellingstenene
+    3. [ ] Christiansborg Slot
+
+    ## Hvilken europæisk storkrig deltog Danmark i under Christian 4.?
+
+    1. [x] Den Trediveårige Krig
+    2. [ ] Napoleonskrigene
+    3. [ ] Krimkrigen
+
+    ## Hvilken provins måtte Danmark blandt andet afstå til Sverige i 1645?
+
+    1. [ ] Skåne
+    2. [ ] Blekinge
+    3. [x] Halland
+
+    ## Hvad gjorde det muligt for de svenske tropper at gå over havet til de danske øer i vinteren 1657-58?
+
+    1. [ ] En bro bygget af den danske hær
+    2. [x] Et tykt lag is
+    3. [ ] En aftale med den danske flåde
+
+    ## Hvilken fredsaftale førte til, at Danmark afstod Skåne, Halland og Blekinge til Sverige?
+
+    1. [x] Freden i Roskilde i 1658
+    2. [ ] Freden i Kiel i 1814
+    3. [ ] Versaillestraktaten i 1919
+
+    ## Hvad skete der med Bornholm efter Roskilde-freden?
+
+    1. [ ] Øen forblev svensk
+    2. [ ] Øen blev overdraget til Norge
+    3. [x] Befolkningen gjorde oprør, og øen blev igen dansk
+
+    ## Hvem hjalp Danmark med at modstå svenskernes belejring af København?
+
+    1. [ ] England
+    2. [x] Nederlandene
+    3. [ ] Rusland
+
+    ## Hvad mistede Danmark ved tabet af landområder til Sverige?
+
+    1. [x] Befolkning, landbrugsjord og adgang til Østersøen
+    2. [ ] Sin adgang til Nordsøen og hele sin flåde
+    3. [ ] Alle sine kolonier i Asien
+
+    ## Hvilket privilegium havde adelen før enevældens indførelse?
+
+    1. [ ] Den kunne udnævne paven
+    2. [x] Den var fritaget for at betale skat
+    3. [ ] Den havde eneret på al udenrigshandel
+
+    ## Hvad skete der med adelens skattepligt i 1660?
+
+    1. [x] Adelen blev pålagt at betale skat blandt andet til genopbygning
+    2. [ ] Adelen blev fritaget for alle afgifter
+    3. [ ] Skatterne blev overført til kirken
+
+    ## Hvilken ændring i arvefølgen accepterede adelen i 1660?
+
+    1. [ ] Kongen skulle vælges af bønderne
+    2. [ ] Tronen skulle gå på skift mellem adelsfamilier
+    3. [x] Kongemagten skulle gå automatisk i arv til kongens nærmeste arving
+
+    ## Hvad kunne kongen gøre under enevælden uden først at spørge andre?
+
+    1. [x] Ansætte embedsmænd, indføre love og opkræve skatter
+    2. [ ] Ændre alle regler i den katolske kirke
+    3. [ ] Bestemme over andre europæiske monarker
+
+    ## Hvilket dokument fastslog kongens enevældige magt fra 1665?
+
+    1. [ ] Jyske Lov
+    2. [ ] Håndfæstningen
+    3. [x] Kongeloven
+
+    ## Hvilken begrænsning satte Kongeloven for kongen?
+
+    1. [ ] Han skulle dele riget mellem sine børn
+    2. [x] Han måtte ikke afgive sin enevældige magt
+    3. [ ] Han skulle vælges af Rigsdagen
+
+    ## Hvornår blev Kongeloven afløst som grundlag for kongens magt?
+
+    1. [ ] 1536
+    2. [ ] 1660
+    3. [x] 1849

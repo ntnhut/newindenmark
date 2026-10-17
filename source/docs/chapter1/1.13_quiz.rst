@@ -15,8 +15,8 @@ Questions
 
     ## Hvornår skiftede EF navn til Den Europæiske Union (EU)?
 
-    1. [ ] 1989
-    2. [x] 1993
+    1. [x] 1992
+    2. [ ] 1993
     3. [ ] 2001
 
     ## Hvilken økonomisk begivenhed ramte Danmark og mange andre lande i 2008?
@@ -30,3 +30,213 @@ Questions
     1. [ ] 2008
     2. [ ] 2015
     3. [x] 2020
+
+    ## Hvilke begivenheder markerede afslutningen på Den Kolde Krig?
+
+    1. [x] Berlinmurens fald og Sovjetunionens opløsning
+    2. [ ] Oliekrisen og Jordskredsvalget
+    3. [ ] Danmarks medlemskab af EF og NATO
+
+    ## Hvilke tre baltiske lande fik Danmark tætte forbindelser med efter Den Kolde Krig?
+
+    1. [ ] Finland, Sverige og Norge
+    2. [x] Estland, Letland og Litauen
+    3. [ ] Polen, Tyskland og Tjekkiet
+
+    ## Hvad gjorde Danmark efter Iraks besættelse af Kuwait i 1990?
+
+    1. [x] Sendte et krigsskib for at hjælpe med at håndhæve handelsblokaden mod Irak
+    2. [ ] Sendte soldater for at støtte Iraks besættelse
+    3. [ ] Meldte sig ud af FN
+
+    ## Hvilken rolle havde danske soldater i Bosnien og Kroatien i midten af 1990'erne?
+
+    1. [ ] De deltog i en dansk besættelse af landene
+    2. [x] De var udstationeret som FN-styrker for at bidrage til fred
+    3. [ ] De skulle beskytte Berlinmuren
+
+    ## Hvad afspejlede navneændringen fra EF til EU?
+
+    1. [ ] At medlemslandene stoppede alt samarbejde om handel
+    2. [x] At samarbejdet blev udvidet fra økonomiske emner til flere politiske områder
+    3. [ ] At Danmark straks indførte euroen
+
+    ## Hvad stemte et lille flertal af danskerne nej til i 1992?
+
+    1. [ ] Edinburgh-aftalen
+    2. [ ] Danmarks medlemskab af NATO
+    3. [x] Maastricht-traktaten
+
+    ## Hvad betød Edinburgh-aftalen, som et flertal stemte ja til i 1993?
+
+    1. [x] Danmark fik fire forbehold over for EU-samarbejdet
+    2. [ ] Danmark forlod EU
+    3. [ ] Danmark indførte euroen
+
+    ## Hvilke to EU-forbehold gælder fortsat ifølge teksten?
+
+    1. [ ] Unionsborgerskab og forsvar
+    2. [ ] Fælles valuta og forsvar
+    3. [x] Euroen samt fælles rets- og udlændingepolitik
+
+    ## Hvornår blev Enhedslisten valgt ind i Folketinget for første gang?
+
+    1. [ ] 1989
+    2. [x] 1994
+    3. [ ] 2001
+
+    ## Hvilken udvikling prægede dansk økonomi fra midten af 1990'erne?
+
+    1. [x] Økonomisk vækst vendte tilbage, og flere kom i arbejde
+    2. [ ] Danmark opgav sin eksport af olie og gas
+    3. [ ] Arbejdsløsheden voksede konstant uden økonomisk opsving
+
+    ## Hvilket parti blev valgt ind i Folketinget i 1998 med Pia Kjærsgaard i spidsen?
+
+    1. [ ] Enhedslisten
+    2. [ ] SF
+    3. [x] Dansk Folkeparti
+
+    ## Hvilket tema fik større politisk opmærksomhed i Danmark gennem 1990'erne?
+
+    1. [x] Integration af flygtninge og indvandrere
+    2. [ ] Genindførelse af enevælden
+    3. [ ] Danmarks udtræden af FN
+
+    ## Hvad var et formål med senere stramninger af udlændingepolitikken?
+
+    1. [x] At begrænse dele af indvandringen og forbedre integrationen
+    2. [ ] At afskaffe krav om dansk sprog og arbejde
+    3. [ ] At gøre dansk indfødsret automatisk for alle besøgende
+
+    ## Hvilken alder er knyttet til den såkaldte 24-års-regel for ægtefællesammenføring?
+
+    1. [ ] Begge personer skal være fyldt 18 år
+    2. [x] Begge personer skal være fyldt 24 år
+    3. [ ] Begge personer skal være fyldt 30 år
+
+    ## Hvilken begivenhed førte til øget internationalt fokus på terrorbekæmpelse i 2001?
+
+    1. [ ] Bombningen af København
+    2. [ ] Opløsningen af Jugoslavien
+    3. [x] Terrorangrebet på USA den 11. september
+
+    ## Hvornår sendte Danmark soldater til Afghanistan?
+
+    1. [x] 2002
+    2. [ ] 1992
+    3. [ ] 2015
+
+    ## Hvad var begrundelsen for USA's angreb på Irak i 2003?
+
+    1. [ ] At standse Berlinmurens nedrivning
+    2. [x] At fjerne Saddam Hussein og Iraks angivelige masseødelæggelsesvåben
+    3. [ ] At støtte Iraks invasion af Kuwait
+
+    ## Hvad udløste den internationale debat om Muhammed-tegningerne i 2005?
+
+    1. [x] En avis trykte 12 karikaturtegninger af profeten Muhammed
+    2. [ ] Folketinget vedtog en ny EU-traktat
+    3. [ ] En dansk avis offentliggjorde valgresultater fra Irak
+
+    ## Hvor fandt terrorangrebet i København sted i 2015?
+
+    1. [ ] Ved en koncert i Aarhus og senere på Christiansborg
+    2. [ ] På Christiansø og Bornholm
+    3. [x] Ved et debatmøde på Østerbro og senere ved den jødiske synagoge
+
+    ## Hvor begyndte finanskrisen i 2008?
+
+    1. [x] I USA
+    2. [ ] I Danmark
+    3. [ ] I Grønland
+
+    ## Hvor meget skrumpede Danmarks BNP omtrent i 2008-09?
+
+    1. [ ] Cirka én procent
+    2. [x] Over fem procent
+    3. [ ] Over halvtreds procent
+
+    ## Hvad beskriver bruttonationalproduktet (BNP)?
+
+    1. [x] Værdien af et lands samlede produktion
+    2. [ ] Antallet af personer med dansk indfødsret
+    3. [ ] Værdien af landets valuta alene
+
+    ## Hvilken udvikling har præget dansk økonomi siden midten af 2010'erne ifølge teksten?
+
+    1. [ ] Lavere vækst og stigende arbejdsløshed hvert år
+    2. [ ] Vedvarende underskud på statsbudgettet
+    3. [x] Højere vækst, offentligt overskud og lavere arbejdsløshed
+
+    ## Hvad er en langsigtet udfordring for velfærdsstaten?
+
+    1. [x] At flere skal betale for velfærd, mens færre er i den arbejdsdygtige alder
+    2. [ ] At befolkningen bliver yngre, og der fødes flere børn
+    3. [ ] At der ikke længere er behov for sundhedsvæsen og ældreomsorg
+
+    ## Hvor længe har dagpengeperioden været siden reformen i 2010 ifølge teksten?
+
+    1. [ ] Et halvt år
+    2. [x] To år
+    3. [ ] Fem år
+
+    ## Hvad var et mål med Tilbagetrækningsreformen fra 2011?
+
+    1. [x] At folk i gennemsnit skulle trække sig senere tilbage fra arbejdsmarkedet
+    2. [ ] At alle skulle gå tidligere på pension
+    3. [ ] At afskaffe arbejdsløshedskasser
+
+    ## Hvad var et hovedformål med restriktionerne under Covid-19-pandemien?
+
+    1. [ ] At lukke permanent alle danske sygehuse
+    2. [ ] At få alle borgere til at rejse mere
+    3. [x] At undgå, at mange blev smittet samtidig og overbelastede sygehusene
+
+    ## Hvornår blev det første Covid-19-tilfælde registreret i Danmark?
+
+    1. [ ] December 2019
+    2. [x] Februar 2020
+    3. [ ] December 2020
+
+    ## Hvilket middel blev udviklet og brugt til at forebygge alvorlig Covid-19-sygdom?
+
+    1. [ ] Antibiotika mod alle virus
+    2. [ ] En ny type antibiotika
+    3. [x] Vacciner mod coronavirus
+
+    ## Hvilket nyt parti blev først valgt til Folketinget i 2011?
+
+    1. [x] Liberal Alliance
+    2. [ ] Alternativet
+    3. [ ] Moderaterne
+
+    ## Hvilket område har Alternativet især ønsket at sætte fokus på?
+
+    1. [ ] Lavere prioritering af miljø og natur
+    2. [x] Klima, natur og miljø
+    3. [ ] Udvidelse af Danmarks kolonier
+
+    ## Hvem stiftede Danmarksdemokraterne?
+
+    1. [ ] Lars Løkke Rasmussen
+    2. [ ] Pia Kjærsgaard
+    3. [x] Inger Støjberg
+
+    ## Hvordan beskriver Moderaterne sin placering i dansk politik?
+
+    1. [ ] Som et parti på den yderste venstrefløj
+    2. [x] Som et parti på midten, der ønsker samarbejde hen over midten
+    3. [ ] Som et parti, der kun vil samarbejde med ét andet parti
+
+    ## Hvad mener Borgernes Parti ifølge teksten om statens kontrol?
+
+    1. [x] Staten har fået for meget kontrol gennem blandt andet regler, skatter og digital overvågning
+    2. [ ] Staten bør overtage alle private hjem
+    3. [ ] Borgerne bør have mindre indflydelse på deres eget liv
+
+    ## Hvilke tre partier indgik i regeringen efter folketingsvalget i 2022?
+
+    1. [ ] Socialdemokratiet, SF og Enhedslisten
+    2. [ ] Venstre, Dansk Folkeparti og Liberal Alliance
+    3. [x] Socialdemokratiet, Venstre og Moderaterne

@@ -24,3 +24,105 @@ Questions
     1. [x] Slesvig, Holsten og Lauenborg
     2. [ ] Norge og Island
     3. [ ] Skåne, Halland og Blekinge
+
+    ## Hvad bestod den danske helstat af i midten af 1800-tallet?
+
+    1. [ ] Danmark, Norge og Island
+    2. [x] Kongeriget Danmark samt hertugdømmerne Slesvig og Holsten
+    3. [ ] Danmark, Sverige og Finland
+
+    ## Hvad var det slesvigske problem?
+
+    1. [x] Uenighed om, hvorvidt Slesvig skulle høre til Danmark eller Det Tyske Forbund
+    2. [ ] En strid om, hvem der skulle være konge af Norge
+    3. [ ] En konflikt om kirkens ret til at opkræve tiende
+
+    ## Hvad ønskede mange tysksindede i Holsten?
+
+    1. [ ] At Holsten blev en del af Sverige
+    2. [ ] At hele Danmark blev en del af Norge
+    3. [x] At Holsten løsrev sig fra Danmark og sluttede sig til Det Tyske Forbund
+
+    ## Hvilke lande støttede hertugdømmernes side i Den 1. Slesvigske Krig?
+
+    1. [ ] Frankrig og Storbritannien
+    2. [x] Det Tyske Forbund og Preussen
+    3. [ ] Norge og Sverige
+
+    ## Hvilket slag i 1849 blev en dansk sejr?
+
+    1. [ ] Slaget ved Dybbøl
+    2. [ ] Slaget ved Tallinn
+    3. [x] Slaget ved Fredericia
+
+    ## Hvilket slag i 1850 var det blodigste under Den 1. Slesvigske Krig?
+
+    1. [x] Slaget ved Isted
+    2. [ ] Slaget på Reden
+    3. [ ] Slaget ved Dybbøl
+
+    ## Hvad blev resultatet efter Den 1. Slesvigske Krig?
+
+    1. [ ] Slesvig blev straks en del af Sverige
+    2. [ ] Danmark mistede hele Jylland
+    3. [x] Slesvig og Holsten forblev i den danske helstat
+
+    ## Hvilken forfatning vedtog Danmark i 1863?
+
+    1. [x] En fælles forfatning for Danmark og Slesvig, men ikke Holsten
+    2. [ ] En fælles forfatning for Danmark, Norge og Sverige
+    3. [ ] En forfatning, der indførte enevælde
+
+    ## Hvilke lande erklærede krig mod Danmark i februar 1864?
+
+    1. [ ] Rusland og Frankrig
+    2. [x] Preussen og Østrig
+    3. [ ] Storbritannien og Norge
+
+    ## Hvorfor måtte den danske hær forlade Dannevirke i februar 1864?
+
+    1. [ ] Forsvarsstillingen var blevet oversvømmet
+    2. [x] Den danske hær var i undertal og måtte evakueres
+    3. [ ] Krigen var allerede afsluttet ved en fredsaftale
+
+    ## Hvilken dansk forsvarsstilling blev angrebet den 18. april 1864?
+
+    1. [x] Dybbøl
+    2. [ ] Fredericia
+    3. [ ] Dannevirke
+
+    ## Hvilken ø erobrede Preussen i slutningen af juni 1864?
+
+    1. [ ] Fyn
+    2. [ ] Bornholm
+    3. [x] Als
+
+    ## Hvor stor en del af befolkningen mistede den danske konge efter nederlaget i 1864?
+
+    1. [ ] Cirka en tiendedel
+    2. [x] Cirka to femtedele
+    3. [ ] Næsten hele befolkningen
+
+    ## Hvornår blev de dansksindede områder i den nordlige del af Slesvig genforenet med Danmark?
+
+    1. [ ] 1864
+    2. [ ] 1901
+    3. [x] 1920
+
+    ## Hvilken sikkerhedspolitik valgte Danmark efter nederlaget i 1864?
+
+    1. [x] Streng neutralitet og et svagt militært forsvar
+    2. [ ] En fast alliance med Preussen
+    3. [ ] Aktiv deltagelse i alle europæiske konflikter
+
+    ## Hvem var Otto von Bismarck?
+
+    1. [ ] Den danske konge under krigen i 1864
+    2. [ ] Den østrigske øverstbefalende ved Dybbøl
+    3. [x] Preussens magtfulde ministerpræsident
+
+    ## Hvad var en vigtig følge af Danmarks nederlag i 1864?
+
+    1. [ ] Danmark blev en europæisk stormagt
+    2. [x] Danmark blev en småstat med begrænset indflydelse på stormagterne
+    3. [ ] Danmark overtog styret af Det Tyske Forbund

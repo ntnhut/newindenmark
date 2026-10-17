@@ -30,3 +30,177 @@ Questions
     1. [ ] Ret til at blive ministre
     2. [ ] Ret til at blive medlem af EU
     3. [x] Valgret til Rigsdagen
+
+    ## Hvilke teknologier var vigtige for industrialiseringens begyndelse?
+
+    1. [x] Dampmaskinen og jernbanerne
+    2. [ ] Telegrafen og radioen
+    3. [ ] Bilen og flyvemaskinen
+
+    ## Hvornår åbnede den første jernbane inden for Danmarks nuværende grænser?
+
+    1. [ ] 1814
+    2. [ ] 1901
+    3. [x] 1847
+
+    ## Hvilke grupper flyttede mange fra landet til byerne under den begyndende industrialisering?
+
+    1. [ ] Godsejere og ministre
+    2. [x] Arbejdere, der søgte arbejde i industrien og håndværket
+    3. [ ] Soldater, der skulle til fronten
+
+    ## Hvilke krav rejste arbejderne blandt andet?
+
+    1. [x] Højere løn, rimelige arbejdstider og bedre sikkerhed
+    2. [ ] Lavere løn og længere arbejdsdage
+    3. [ ] Ret til at eje alle fabrikker
+
+    ## Hvornår blev Den internationale Arbejderforening for Danmark grundlagt?
+
+    1. [ ] 1847
+    2. [ ] 1899
+    3. [x] 1871
+
+    ## Hvad skete der under Slaget på Fælleden i 1872?
+
+    1. [x] Politi og soldater stødte sammen med demonstrerende arbejdere
+    2. [ ] Danmark indførte almindelig valgret
+    3. [ ] Arbejdsgiverne oprettede Septemberforliget
+
+    ## Hvilket parti opstod som et politisk arbejderparti?
+
+    1. [ ] Venstre
+    2. [x] Socialdemokratiet
+    3. [ ] Højre
+
+    ## Hvilken ret bevarede arbejdsgiverne med Septemberforliget?
+
+    1. [ ] Retten til at afskaffe fagforeninger
+    2. [ ] Retten til at bestemme valgresultater
+    3. [x] Retten til at lede og fordele arbejdet
+
+    ## Hvad fik arbejderne anerkendt med Septemberforliget?
+
+    1. [x] Retten til at organisere sig og varetage interesser kollektivt
+    2. [ ] Retten til at overtage Folketinget
+    3. [ ] Retten til at stoppe al produktion uden regler
+
+    ## Hvad kaldes den danske måde at aftale forhold på arbejdsmarkedet?
+
+    1. [ ] Forfatningskampen
+    2. [x] Den Danske Model
+    3. [ ] Den Florissante Periode
+
+    ## Hvorfor omlagde mange danske landmænd produktionen efter midten af 1870'erne?
+
+    1. [x] Kornpriserne faldt, og de satsede i højere grad på animalske produkter
+    2. [ ] Danmark forbød opdræt af kvæg og svin
+    3. [ ] Storbritannien stoppede al import fra Danmark
+
+    ## Hvilke danske varer blev vigtige eksportprodukter omkring 1890-1914?
+
+    1. [ ] Kul og jernmalm
+    2. [x] Smør og bacon
+    3. [ ] Silke og porcelæn
+
+    ## Hvad betød princippet "hoveder, ikke høveder" i andelsbevægelsen?
+
+    1. [ ] Stemmeretten afhang af, hvor mange dyr man ejede
+    2. [ ] Kun gårdejere måtte være medlemmer
+    3. [x] Et medlem havde formelt én stemme uanset antallet af dyr
+
+    ## Hvilken betydning havde andelsslagterierne for landmændene?
+
+    1. [x] De gav landmændene kontrol over produktion og afsætning af kød
+    2. [ ] De erstattede alle private butikker i byerne
+    3. [ ] De fastsatte landets skatter
+
+    ## Hvad var kooperative virksomheder i arbejderbevægelsen?
+
+    1. [x] Virksomheder ejet af arbejderne eller forbrugerne selv
+    2. [ ] Statsejede virksomheder uden medarbejdere
+    3. [ ] Virksomheder, som kun handlede med udlandet
+
+    ## Hvilket kammer havde Højre flertal i efter grundlovsændringen i 1866?
+
+    1. [ ] Folketinget
+    2. [ ] Rigsrådet
+    3. [x] Landstinget
+
+    ## Hvem repræsenterede Venstre især i Forfatningskampen?
+
+    1. [x] Bønderne
+    2. [ ] Godsejerne
+    3. [ ] De kongelige embedsmænd
+
+    ## Hvem ledede de Højre-regeringer, der udstedte provisoriske finanslove?
+
+    1. [ ] Thorvald Stauning
+    2. [x] J.B.S. Estrup
+    3. [ ] Poul Nyrup Rasmussen
+
+    ## Hvad betød Systemskiftet i 1901?
+
+    1. [ ] Enevælden blev genindført
+    2. [ ] Folketinget blev afskaffet
+    3. [x] Det parlamentariske princip blev indført
+
+    ## Hvornår blev det parlamentariske princip skrevet ind i grundloven?
+
+    1. [x] 1953
+    2. [ ] 1901
+    3. [ ] 1915
+
+    ## Hvornår blev Det Radikale Venstre dannet?
+
+    1. [ ] 1871
+    2. [x] 1905
+    3. [ ] 1918
+
+    ## Hvad blev de vigtigste politiske skillelinjer i begyndelsen af 1900-tallet i højere grad knyttet til?
+
+    1. [ ] Spørgsmålet om kongens religion
+    2. [ ] Konflikter mellem Danmark og Norge
+    3. [x] Økonomisk politik og omfordeling
+
+    ## Hvilken organisation blev stiftet i 1871 og arbejdede for kvinders rettigheder?
+
+    1. [x] Dansk Kvindesamfund
+    2. [ ] Dansk Arbejdsgiverforening
+    3. [ ] Dansk Ungdomsforening
+
+    ## Hvilke uddannelsesmuligheder fik kvinder adgang til i 1875?
+
+    1. [ ] Kun folkeskoleundervisning
+    2. [x] Studentereksamen og universitetet
+    3. [ ] Uddannelse som præster
+
+    ## Hvilken økonomisk rettighed fik gifte kvinder i 1880?
+
+    1. [ ] Ret til at arve tronen
+    2. [ ] Ret til at stemme ved folketingsvalg
+    3. [x] Ret til at hæve og bruge deres egen løn
+
+    ## Hvornår fik kvinder valgret til folkekirkens menighedsråd?
+
+    1. [x] 1903
+    2. [ ] 1875
+    3. [ ] 1918
+
+    ## Hvornår fik kvinder valgret til sogne- og byråd?
+
+    1. [ ] 1903
+    2. [x] 1908
+    3. [ ] 1921
+
+    ## Hvilken grundlovsændring gav kvinder valgret til Rigsdagen?
+
+    1. [ ] Ændringen i 1866
+    2. [ ] Ændringen i 1901
+    3. [x] Ændringen i 1915, der trådte i kraft i 1918
+
+    ## Hvornår blev kvindernes internationale kampdag fastlagt til den 8. marts?
+
+    1. [ ] 1910
+    2. [x] 1921
+    3. [ ] 1953

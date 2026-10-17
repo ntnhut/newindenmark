@@ -24,3 +24,63 @@ Questions
     1. [ ] 1400-tallet
     2. [x] 1600-tallet
     3. [ ] 1800-tallet
+
+    ## Hvad vil det sige, at Danmark var en kolonimagt?
+
+    1. [x] Danmark erhvervede områder uden for landet og erklærede dem som del af riget
+    2. [ ] Danmark blev styret af en anden europæisk stat
+    3. [ ] Danmark kun handlede med sine nabolande
+
+    ## Hvilke danske handelskolonier lå i det nuværende Indien?
+
+    1. [ ] Goa og Mumbai
+    2. [x] Trankebar og Serampore
+    3. [ ] Calcutta og Delhi
+
+    ## Hvilke varer blev blandt andet hentet fra Kina til Europa?
+
+    1. [ ] Kaffe, kakao og gummi
+    2. [ ] Sølv, jern og kul
+    3. [x] Te, porcelæn og silke
+
+    ## Hvad blev der bygget på Guldkysten i det nuværende Ghana?
+
+    1. [x] Forter
+    2. [ ] Jernbaner
+    3. [ ] Sukkerfabrikker
+
+    ## Hvad blev slaverne på De Dansk Vestindiske Øer især tvunget til at arbejde med?
+
+    1. [ ] Udvinding af jernmalm
+    2. [x] Sukkerrørsproduktion
+    3. [ ] Bygning af skibe
+
+    ## Hvornår blev slavehandelen forbudt?
+
+    1. [ ] 1721
+    2. [ ] 1848
+    3. [x] 1803
+
+    ## Hvem var den første kristne missionær, der ankom til Grønland i 1721?
+
+    1. [x] Hans Egede
+    2. [ ] Martin Luther
+    3. [ ] Ansgar
+
+    ## Hvilke kolonier i Indien og Ghana solgte Danmark til Storbritannien?
+
+    1. [x] Trankebar og forterne på Guldkysten
+    2. [ ] De Dansk Vestindiske Øer
+    3. [ ] Grønland og Færøerne
+
+    ## Hvad hedder De Dansk Vestindiske Øer i dag?
+
+    1. [ ] Puerto Rico
+    2. [x] De Amerikanske Jomfruøer
+    3. [ ] Caymanøerne
+
+    ## Hvilke områder er sammen med Danmark del af rigsfællesskabet ifølge teksten?
+
+    1. [ ] Island og Norge
+    2. [ ] Sverige og Finland
+    3. [x] Grønland og Færøerne

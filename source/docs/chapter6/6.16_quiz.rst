@@ -24,3 +24,105 @@ Questions
     1. [x] Gennem skatter
     2. [ ] Gennem brugerbetaling ved alle behandlinger
     3. [ ] Gennem medlemskontingenter til fagforeninger
+
+    ## Hvad har blandt andet fået udgifterne til sundhedsvæsenet til at stige?
+
+    1. [x] Flere ældre og dyrere behandlingsmuligheder
+    2. [ ] Færre sygdomme og billigere teknologi
+    3. [ ] At sygehusene er blevet mindre
+
+    ## Hvad var middellevetiden i Danmark omtrent i 1800-tallet?
+
+    1. [ ] 80 år
+    2. [x] 40 år
+    3. [ ] 60 år
+
+    ## Hvilken kombination af faktorer har forbedret folkesundheden?
+
+    1. [ ] Mindre adgang til mad og færre læger
+    2. [ ] Flere arbejdstimer og mindre hygiejne
+    3. [x] Mere mad, lægevidenskab, bedre hygiejne og et udbygget sundhedsvæsen
+
+    ## Hvornår blev sygekasserne afløst af den offentlige sygesikring?
+
+    1. [x] 1973
+    2. [ ] 1893
+    3. [ ] 2000
+
+    ## Hvad er livsstilssygdomme?
+
+    1. [ ] Sygdomme, der kun rammer børn
+    2. [x] Sygdomme, hvor risikoen øges af den måde, man lever på
+    3. [ ] Sygdomme, som kun behandles på private sygehuse
+
+    ## Hvilke sygdomme nævnes som eksempler på livsstilssygdomme?
+
+    1. [ ] Skoldkopper og mæslinger
+    2. [ ] Brækkede knogler og forstuvninger
+    3. [x] Kræft, hjertekarsygdomme, sukkersyge og KOL
+
+    ## Hvad menes der med social ulighed i sundhed?
+
+    1. [x] At sygdomsrisiko og levealder hænger sammen med sociale forhold som uddannelse
+    2. [ ] At alle borgere betaler samme pris for alle behandlinger
+    3. [ ] At kun ældre kan gå til læge
+
+    ## Hvilken aldersgrænse gælder for køb af cigaretter?
+
+    1. [ ] 16 år
+    2. [x] 18 år
+    3. [ ] 21 år
+
+    ## Hvorfor er rygning særlig alvorlig for folkesundheden?
+
+    1. [ ] Den er den mest almindelige årsag til trafikulykker
+    2. [ ] Den påvirker kun personer under 18 år
+    3. [x] Den er den største enkeltstående årsag til sygdom og død i Danmark
+
+    ## Hvilke borgere har oplevet den største stigning i dårligt mentalt helbred?
+
+    1. [x] Unge i alderen 16-24 år
+    2. [ ] Børn under seks år
+    3. [ ] Borgere over 80 år
+
+    ## Hvem står for driften af langt størstedelen af sundhedsvæsenet?
+
+    1. [ ] Kommunerne alene
+    2. [x] De fem regioner
+    3. [ ] Folkekirken
+
+    ## Hvad er egen læge typisk for borgeren i sundhedsvæsenet?
+
+    1. [ ] Den myndighed, der fastsætter medicinpriser
+    2. [ ] En kommunal hjemmehjælper
+    3. [x] Indgangen til sundhedsvæsenet
+
+    ## Hvem vurderer typisk, om en patient skal henvises til speciallæge eller sygehus?
+
+    1. [x] Den praktiserende læge
+    2. [ ] Skolens leder
+    3. [ ] Folketingets formand
+
+    ## Hvorfor samles behandlinger på færre og større sygehuse?
+
+    1. [ ] For at gøre afstanden til behandling større
+    2. [x] For at styrke kvaliteten og give bedre adgang til erfaring og udstyr
+    3. [ ] For at gøre sygehusbehandling betalingspligtig
+
+    ## Hvilken behandling er gratis for børn og unge op til og med 21 år?
+
+    1. [ ] Psykologbehandling
+    2. [ ] Al medicin på apoteket
+    3. [x] Tandpleje
+
+    ## Hvilken opgave har kommunerne blandt andet i sundhedsvæsenet?
+
+    1. [x] Pleje og genoptræning efter sygehusindlæggelse
+    2. [ ] At drive alle landets sygehuse
+    3. [ ] At udnævne praktiserende speciallæger
+
+    ## Hvad kan kommunerne tilbyde for at forebygge sygdom?
+
+    1. [ ] Kun operation på sygehus
+    2. [x] Blandt andet hjælp til rygestop
+    3. [ ] Gratis behandling hos alle private tandlæger

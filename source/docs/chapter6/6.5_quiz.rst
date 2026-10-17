@@ -24,3 +24,99 @@ Questions
     1. [x] Gæstearbejdere fra blandt andet Tyrkiet og Pakistan
     2. [ ] Vikinger fra England
     3. [ ] Amerikanske soldater fra 1. Verdenskrig
+
+    ## Hvilke forhold har fået mennesker til at indvandre til Danmark?
+
+    1. [ ] Kun ønsket om at studere dansk historie
+    2. [x] Flugt, arbejde og familiebånd
+    3. [ ] Kun religiøse pilgrimsrejser
+
+    ## Hvor stor en andel af befolkningen udgjorde indvandrere og efterkommere i 2025 ifølge teksten?
+
+    1. [x] 16,7 procent
+    2. [ ] 50 procent
+    3. [ ] 6 procent
+
+    ## Hvornår kom de første jøder til Danmark?
+
+    1. [ ] I 900-tallet
+    2. [ ] I 1900-tallet
+    3. [x] I 1600-tallet
+
+    ## Hvad skete der med jødernes rettigheder med Jødiske Frihedsbrev?
+
+    1. [ ] De mistede retten til at bo i København
+    2. [x] De blev næsten ligestillet med andre danskere
+    3. [ ] De fik eneret på al handel
+
+    ## Hvad skete der med de fleste danske jøder i 1943?
+
+    1. [x] Danske medborgere hjalp dem med at flygte til Sverige
+    2. [ ] De blev sendt til Grønland
+    3. [ ] De blev tvunget til at forlade landet til Tyskland
+
+    ## Hvilken gruppe var den største blandt krigsflygtningene, der kom i 1945?
+
+    1. [ ] Ungarske flygtninge
+    2. [ ] Polske jøder
+    3. [x] Flygtninge fra Tyskland
+
+    ## Hvilke flygtninge kom blandt andet til Danmark i 1956?
+
+    1. [x] Ungarske flygtninge efter opstanden i Ungarn
+    2. [ ] Flygtninge fra Syrien
+    3. [ ] Flygtninge fra Ukraine
+
+    ## Hvorfor kom mange gæstearbejdere til Danmark i 1960'erne?
+
+    1. [ ] For at arbejde i den danske fiskeflåde alene
+    2. [x] For at dække behovet for udenlandsk arbejdskraft
+    3. [ ] For at studere på danske universiteter
+
+    ## Hvilke lande kom mange gæstearbejdere fra?
+
+    1. [ ] Sverige, Island og Norge
+    2. [ ] Tyskland, Frankrig og Italien
+    3. [x] Tyrkiet, Pakistan og det tidligere Jugoslavien
+
+    ## Hvornår blev der indført stop for indvandring?
+
+    1. [x] 1973
+    2. [ ] 1945
+    3. [ ] 1991
+
+    ## Hvilke konflikter skabte blandt andet flygtninge til Danmark i 1980'erne og 1990'erne?
+
+    1. [ ] Krigene i Skandinavien
+    2. [x] Krigen mellem Irak og Iran samt borgerkrigen i Jugoslavien
+    3. [ ] Den amerikanske borgerkrig
+
+    ## Hvor mange søgte asyl i Danmark under flygtningekrisen i 2015?
+
+    1. [ ] 3.000
+    2. [ ] 150.000
+    3. [x] 21.000
+
+    ## Hvilken gruppe var den største blandt asylansøgerne i Danmark i 2015?
+
+    1. [x] Mennesker på flugt fra borgerkrigen i Syrien
+    2. [ ] Mennesker på flugt fra krigen i Ukraine
+    3. [ ] Mennesker fra de nordiske lande
+
+    ## Hvorfor er antallet af indvandrere fra andre EU-lande vokset?
+
+    1. [ ] EU-borgere må kun arbejde i deres hjemland
+    2. [x] EU-borgere har ret til frit at arbejde i andre EU-lande, og EU blev udvidet mod øst
+    3. [ ] Danmark lukkede arbejdsmarkedet for EU-borgere
+
+    ## Hvad skete der efter Ruslands invasion af Ukraine i 2022?
+
+    1. [ ] Alle ukrainere forlod Danmark
+    2. [ ] Danmark indførte et stop for alle flygtninge
+    3. [x] Et stort antal ukrainere ankom til Danmark
+
+    ## Hvilket land havde flest indvandrere og efterkommere med oprindelse i Danmark i januar 2026?
+
+    1. [x] Tyrkiet
+    2. [ ] Libanon
+    3. [ ] Iran

@@ -30,3 +30,111 @@ Questions
     1. [x] Tyskland
     2. [ ] Sverige
     3. [ ] Norge
+
+    ## Hvad har især formet det danske landskab?
+
+    1. [ ] Vulkanudbrud i middelalderen
+    2. [x] Istiderne
+    3. [ ] Jordskælv i nyere tid
+
+    ## Hvornår smeltede isen senest væk fra det område, der i dag er Danmark?
+
+    1. [x] For cirka 11.500 år siden
+    2. [ ] For cirka 1.500 år siden
+    3. [ ] For cirka 115.000 år siden
+
+    ## Hvor højt ligger Danmarks højeste naturlige punkt, Møllehøj, omtrent?
+
+    1. [ ] 34 meter over havet
+    2. [ ] 500 meter over havet
+    3. [x] 170 meter over havet
+
+    ## Hvor ligger Møns Klint?
+
+    1. [ ] På Bornholm
+    2. [x] På den østlige side af Møn
+    3. [ ] På Jyllands vestkyst
+
+    ## Hvor i Danmark kan man se grundfjeld?
+
+    1. [x] På Bornholm og Ertholmene
+    2. [ ] På Sjælland og Fyn
+    3. [ ] Kun i Sønderjylland
+
+    ## Hvor stor en del af Danmark er opdyrket i dag?
+
+    1. [ ] Cirka 20 procent
+    2. [ ] Cirka 90 procent
+    3. [x] Cirka 60 procent
+
+    ## Hvor mange navngivne øer består Danmark af, ud over halvøen Jylland?
+
+    1. [ ] 80
+    2. [x] 443
+    3. [ ] 7.300
+
+    ## Hvilken dansk ø er størst?
+
+    1. [x] Sjælland
+    2. [ ] Fyn
+    3. [ ] Lolland
+
+    ## Hvor lang er Danmarks kystlinje omtrent?
+
+    1. [ ] 730 kilometer
+    2. [ ] 43.000 kilometer
+    3. [x] 7.300 kilometer
+
+    ## Hvilket hav er størst blandt havene omkring Danmark?
+
+    1. [ ] Kattegat
+    2. [x] Nordsøen
+    3. [ ] Øresund
+
+    ## Hvilke tre stræder forbinder Kattegat mod syd med Østersøen?
+
+    1. [x] Lillebælt, Storebælt og Øresund
+    2. [ ] Skagerrak, Limfjorden og Lillebælt
+    3. [ ] Øresund, Kattegat og Vesterhavet
+
+    ## Hvilken strøm bidrager til et mildere klima i det nordvestlige Europa?
+
+    1. [ ] Labradorstrømmen
+    2. [ ] Koldstrømmen fra Sibirien
+    3. [x] Golfstrømmen
+
+    ## Hvad er den højeste temperatur, der ifølge teksten er målt i Danmark?
+
+    1. [x] 36,4 grader
+    2. [ ] 22 grader
+    3. [ ] 31,2 grader
+
+    ## Hvornår åbnede Storebæltsforbindelsen for biltrafik?
+
+    1. [ ] 1935
+    2. [x] 1998
+    3. [ ] 2000
+
+    ## Hvilken forbindelse blev åbnet i 2000 mellem Sjælland og Sverige?
+
+    1. [ ] Storebæltsforbindelsen
+    2. [ ] Lillebæltsbroen
+    3. [x] Øresundsforbindelsen
+
+    ## Hvilken by er Danmarks næststørste?
+
+    1. [x] Aarhus
+    2. [ ] Odense
+    3. [ ] Esbjerg
+
+    ## Hvor findes de vigtigste danske olie- og naturgasressourcer?
+
+    1. [ ] I undergrunden under Bornholm
+    2. [x] I havbunden under den danske del af Nordsøen
+    3. [ ] Under Københavns havn
+
+    ## Hvornår besluttede Folketinget, at produktionen af olie og naturgas skal afsluttes senest?
+
+    1. [ ] 2030
+    2. [ ] 2040
+    3. [x] 2050

@@ -24,3 +24,81 @@ Questions
     1. [x] Man må vælge eller skifte religion og også vælge ikke at være religiøs
     2. [ ] Alle skal være medlem af Folkekirken
     3. [ ] Kun én religion må praktiseres
+
+    ## Hvornår blev religionsfriheden skrevet ind i grundloven?
+
+    1. [ ] 1814
+    2. [x] 1849
+    3. [ ] 1973
+
+    ## Hvilken person er ikke omfattet af religionsfriheden på samme måde som andre borgere?
+
+    1. [x] Monarken
+    2. [ ] Folketingets formand
+    3. [ ] Kirkeministeren
+
+    ## Hvilken religion skal monarken tilhøre ifølge grundloven?
+
+    1. [ ] Katolicismen
+    2. [ ] Islam
+    3. [x] Den evangelisk-lutherske kirke
+
+    ## Hvem betaler kirkeskat?
+
+    1. [x] Medlemmer af folkekirken
+    2. [ ] Alle borgere i Danmark
+    3. [ ] Kun præster
+
+    ## Hvilken opgave varetager folkekirken på statens vegne?
+
+    1. [ ] Udsteder pas
+    2. [x] Registrerer blandt andet fødsler, navngivning og dødsfald
+    3. [ ] Afholder folketingsvalg
+
+    ## Har folkekirken en officiel talsmand?
+
+    1. [ ] Ja, kirkeministeren taler altid på kirkens vegne
+    2. [ ] Ja, biskoppen i København taler på hele kirkens vegne
+    3. [x] Nej, ingen kan udtale sig på kirkens vegne
+
+    ## Hvad er et sogn?
+
+    1. [x] Det geografiske område, hvor den lokale kirkes medlemmer bor
+    2. [ ] En forening af alle trossamfund i Danmark
+    3. [ ] Folkekirkens øverste myndighed
+
+    ## Hvem leder et kirkesogn?
+
+    1. [ ] Folketinget
+    2. [x] Et menighedsråd
+    3. [ ] Kommunalbestyrelsen
+
+    ## Hvilken myndighed er folkekirkens øverste administrative myndighed?
+
+    1. [ ] Biskoppen i Grønland
+    2. [ ] Nordisk Råd
+    3. [x] Kirkeministeren
+
+    ## Hvad kræves for at danne en menighed eller et trossamfund?
+
+    1. [x] Man kan frit danne det, så længe man overholder loven og den offentlige orden
+    2. [ ] Man skal være medlem af folkekirken
+    3. [ ] Man skal have tilladelse fra kongen
+
+    ## Hvilken særlig rettighed kan anerkendelse som trossamfund give?
+
+    1. [ ] Ret til at undlade at følge samfundets love
+    2. [x] Mulighed for at få en religiøs leder til at foretage vielser
+    3. [ ] Ret til direkte økonomisk støtte fra staten
+
+    ## Hvilken trosretning er den næststørste i Danmark ifølge teksten?
+
+    1. [ ] Buddhisme
+    2. [ ] Jødedom
+    3. [x] Islam
+
+    ## Hvorfor findes der ikke officiel statistik over alle andre religioners medlemmer i Danmark?
+
+    1. [x] Myndighederne registrerer kun medlemskab af folkekirken
+    2. [ ] Trossamfund må ikke føre medlemslister
+    3. [ ] Religionsfrihed er ikke skrevet ind i grundloven

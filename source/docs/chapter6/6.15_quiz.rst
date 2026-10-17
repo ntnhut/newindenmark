@@ -24,3 +24,81 @@ Questions
     1. [x] Lige løn for lige arbejde
     2. [ ] Afstemningsregler i EU
     3. [ ] Forbud mod barsel
+
+    ## Hvornår vedtog Folketinget lov om lige løn for samme arbejde?
+
+    1. [x] 1976
+    2. [ ] 1914
+    3. [ ] 2022
+
+    ## Hvor stor var forskellen i gennemsnitlig timeløn mellem kvinder og mænd på hele arbejdsmarkedet i 2022?
+
+    1. [ ] 4-7 procent
+    2. [x] 12 procent
+    3. [ ] 32 procent
+
+    ## Hvilken udvikling inden for uddannelse har især bidraget til at mindske lønforskellen?
+
+    1. [ ] Kvinder har fået mindre uddannelse end tidligere
+    2. [ ] Mænd har fået længere barselsorlov
+    3. [x] Kvinder har i højere grad end mænd gennemført videregående uddannelser
+
+    ## Hvor stor en andel af lederne på det danske arbejdsmarked var kvinder i 2025?
+
+    1. [x] 32 procent
+    2. [ ] 19 procent
+    3. [ ] 64 procent
+
+    ## Hvad er en årsag til lønforskelle mellem mænd og kvinder?
+
+    1. [ ] Kvinder må ikke tage videregående uddannelser
+    2. [x] Mænd og kvinder arbejder ofte i forskellige fag og på forskellige ledelsesniveauer
+    3. [ ] Alle faggrupper har samme løn
+
+    ## Hvor mange ugers barselsorlov indeholder reglerne fra 2002 i alt?
+
+    1. [ ] 32 uger
+    2. [ ] 14 uger
+    3. [x] 52 uger
+
+    ## Hvor stor en del af barselsorloven tager kvinder i gennemsnit ifølge teksten?
+
+    1. [x] Cirka 80 procent
+    2. [ ] Cirka 50 procent
+    3. [ ] Cirka 20 procent
+
+    ## Hvornår blev Me-Too-bevægelsen internationalt kendt?
+
+    1. [ ] 2002
+    2. [x] 2017
+    3. [ ] 2025
+
+    ## Hvem satte for alvor gang i Me-Too-debatten i Danmark i 2020?
+
+    1. [ ] En dommer ved Højesteret
+    2. [ ] En leder af et universitet
+    3. [x] Tv-værten Sofie Linde
+
+    ## Hvorfor kan seksuelle krænkelser på arbejdspladsen også handle om magt?
+
+    1. [x] En medarbejder kan frygte konsekvenser for sin karriere ved at sige fra
+    2. [ ] Alle medarbejdere har samme ledelsesansvar
+    3. [ ] Krænkelser kan kun forekomme uden for arbejdstiden
+
+    ## Hvornår trådte en samtykkebaseret voldtægtslovgivning i kraft?
+
+    1. [ ] 2017
+    2. [x] 2021
+    3. [ ] 2024
+
+    ## Hvordan kan samtykke til samleje komme til udtryk?
+
+    1. [ ] Kun gennem en underskrevet aftale
+    2. [ ] Kun ved at sige ordet "ja"
+    3. [x] Gennem ord eller handling
+
+    ## Hvad kan den samtykkebaserede lovgivning gøre strafbart?
+
+    1. [x] Samleje uden begge parters samtykke, også uden vold eller trusler
+    2. [ ] Enhver uenighed mellem partnere
+    3. [ ] At anmelde en seksuel krænkelse

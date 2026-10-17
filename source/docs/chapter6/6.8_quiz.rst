@@ -24,3 +24,117 @@ Questions
     1. [x] Atomers opbygning
     2. [ ] Vikingehandel
     3. [ ] Nordisk mytologi
+
+    ## Hvor foregår en stor del af dansk forskning?
+
+    1. [ ] Kun i Folketinget
+    2. [x] På universiteterne
+    3. [ ] Kun på offentlige museer
+
+    ## Hvad kortlagde Tycho Brahe med stor præcision?
+
+    1. [x] Stjernehimlen
+    2. [ ] Havbunden ved Grønland
+    3. [ ] Den menneskelige hjerne
+
+    ## Hvilken ny stjerne opdagede Tycho Brahe?
+
+    1. [ ] Sirius
+    2. [ ] Betelgeuse
+    3. [x] Nova Stella i stjernebilledet Cassiopeia
+
+    ## Hvem brugte Tycho Brahes observationer til at udforme planeternes bevægelseslove?
+
+    1. [x] Johannes Kepler
+    2. [ ] Ole Rømer
+    3. [ ] Vitus Bering
+
+    ## Hvad viste Niels Steensen om hjertet?
+
+    1. [ ] At det er hjemsted for sjælen
+    2. [x] At det er en muskel
+    3. [ ] At det styrer planeternes bevægelser
+
+    ## Hvad opdagede Ole Rømer om lys?
+
+    1. [ ] At lys ikke kan bevæge sig gennem rummet
+    2. [ ] At lys altid bevæger sig øjeblikkeligt
+    3. [x] At lys bevæger sig med en bestemt hastighed
+
+    ## Hvilken kalender blev indført i Danmark i 1700 efter forarbejde af Ole Rømer?
+
+    1. [x] Den gregorianske kalender
+    2. [ ] Den julianske kalender
+    3. [ ] Den nordiske kalender
+
+    ## Hvad påviste Vitus Berings ekspedition i 1728?
+
+    1. [ ] At Grønland er verdens største ø
+    2. [x] At Asien og Nordamerika er adskilt af vand
+    3. [ ] At Jorden har en indre kerne
+
+    ## Hvad opdagede H.C. Ørsted i 1820?
+
+    1. [ ] At lys kan bremses helt
+    2. [ ] At hjertet er en muskel
+    3. [x] At elektrisk strøm fremkalder magnetisme
+
+    ## Hvilke danske ord var H.C. Ørsted med til at indføre?
+
+    1. [x] Ilt og brint
+    2. [ ] Atom og celle
+    3. [ ] Stjerne og planet
+
+    ## Hvad er grundtanken i Søren Kierkegaards eksistentialistiske filosofi?
+
+    1. [ ] Menneskets liv bestemmes udelukkende af dets fødested
+    2. [x] Mennesket bliver den, det er, gennem de valg, det træffer
+    3. [ ] Samfundets love afgør menneskets religiøse tro
+
+    ## Hvilken bog udgav Mathilde Fibiger i 1851?
+
+    1. [x] Clara Raphael. Tolv Breve
+    2. [ ] Enten – Eller
+    3. [ ] Himmerlandshistorier
+
+    ## Hvad bidrog Mathilde Fibigers bog til at sætte i gang?
+
+    1. [ ] En debat om Danmarks medlemskab af EU
+    2. [ ] En debat om indførelsen af elektricitet
+    3. [x] En debat om kvinders rolle og ligestilling
+
+    ## Hvor langt rejste Knud Rasmussen på sin femte Thule-ekspedition?
+
+    1. [ ] 1.800 km
+    2. [x] 18.000 km
+    3. [ ] 180.000 km
+
+    ## Hvilken pris modtog Niels Bohr i 1922?
+
+    1. [x] Nobelprisen i fysik
+    2. [ ] Nobelprisen i litteratur
+    3. [ ] Nobelprisen i kemi
+
+    ## Hvad påviste Inge Lehmann om Jordens indre?
+
+    1. [ ] At Jorden ikke har en fast kerne
+    2. [ ] At Jordens overflade er helt ensartet
+    3. [x] At Jorden har en indre kerne
+
+    ## Hvilken opdagelse gav Jens Christian Skou Nobelprisen i kemi?
+
+    1. [x] Natrium-kaliumpumpen
+    2. [ ] Elektromagnetismen
+    3. [ ] Kvantemekanikken
+
+    ## Hvad gjorde Lene Vestergaard Hau med en lysimpuls i 2001?
+
+    1. [ ] Hun sendte den til Månen
+    2. [x] Hun bremsede den fuldstændigt
+    3. [ ] Hun omdannede den til elektrisk strøm
+
+    ## Hvad kaldes den metode, som Morten Meldal modtog Nobelprisen for at have lagt grunden til?
+
+    1. [ ] Atomfission
+    2. [ ] Elektromagnetisme
+    3. [x] Klik-kemi

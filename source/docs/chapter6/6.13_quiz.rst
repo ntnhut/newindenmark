@@ -24,3 +24,81 @@ Questions
     1. [x] At drage omsorg for dem og tage ansvar for deres opvækst
     2. [ ] At lade staten træffe alle beslutninger om deres hverdag
     3. [ ] At sikre, at de bliver medlem af Folkekirken
+
+    ## Hvilken samlivsform var tidligere den mest almindelige familietype?
+
+    1. [x] En gift mand og kvinde med deres børn
+    2. [ ] En gruppe venner uden børn
+    3. [ ] Enlige voksne, der bor hver for sig
+
+    ## Hvilke familietyper findes i Danmark i dag?
+
+    1. [ ] Kun gifte par med børn
+    2. [x] Blandt andet ugifte par, par af samme køn og enlige med eller uden børn
+    3. [ ] Kun enlige forældre
+
+    ## Hvilken samlivsform er stadig den mest almindelige blandt par?
+
+    1. [x] Ægteskab mellem mand og kvinde
+    2. [ ] Partnerskab uden fælles bopæl
+    3. [ ] Ægteskab mellem personer af samme køn
+
+    ## Har ugifte samlevende automatisk samme juridiske og økonomiske forpligtelser som ægtepar?
+
+    1. [ ] Ja, de får automatisk samme rettigheder efter én måned
+    2. [ ] Ja, hvis de har fælles adresse
+    3. [x] Nej
+
+    ## Hvilket land var først i verden til at indføre registreret partnerskab for par af samme køn?
+
+    1. [x] Danmark
+    2. [ ] Holland
+    3. [ ] Sverige
+
+    ## Hvornår blev homoseksualitet fjernet fra Sundhedsstyrelsens liste over psykiske sygdomme?
+
+    1. [ ] 1933
+    2. [x] 1981
+    3. [ ] 2012
+
+    ## Hvornår fik personer af samme køn mulighed for at indgå ægteskab i Danmark?
+
+    1. [x] 2012
+    2. [ ] 1989
+    3. [ ] 2026
+
+    ## Siden hvornår har personer af samme køn kunnet adoptere sammen i Danmark?
+
+    1. [ ] 1981
+    2. [ ] 2001
+    3. [x] 2010
+
+    ## Hvor stor en andel af voksne levede som enlige i 2024 ifølge teksten?
+
+    1. [x] 55 procent
+    2. [ ] 31 procent
+    3. [ ] 73 procent
+
+    ## Hvad er myndighedsalderen i Danmark?
+
+    1. [ ] 13 år
+    2. [x] 18 år
+    3. [ ] 21 år
+
+    ## Kan forældre tvinge deres barn til at indgå ægteskab?
+
+    1. [ ] Ja, hvis barnet er under 18 år
+    2. [ ] Ja, hvis familien godkender det
+    3. [x] Nej, ægteskab skal indgås frivilligt
+
+    ## Hvad gælder, hvis begge ægtefæller er enige om at blive skilt?
+
+    1. [x] De kan få skilsmisse straks
+    2. [ ] De skal altid vente seks måneder
+    3. [ ] De skal først have tilladelse fra Folketinget
+
+    ## Hvad gælder som udgangspunkt for forældremyndigheden efter en skilsmisse?
+
+    1. [ ] Den overgår automatisk til kommunen
+    2. [x] Forældrene fortsætter med at have fælles forældremyndighed
+    3. [ ] Den tilfalder altid den forælder, der tjener mest

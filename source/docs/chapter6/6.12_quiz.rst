@@ -24,3 +24,129 @@ Questions
     1. [x] Folkeskolen
     2. [ ] Folketinget
     3. [ ] Nordisk Råd
+
+    ## Hvornår åbnede Københavns Universitet?
+
+    1. [ ] 1200
+    2. [x] 1479
+    3. [ ] 1814
+
+    ## Hvilke skoler er ældst i Danmark?
+
+    1. [x] Latinskolerne, der opstod ved domkirkerne
+    2. [ ] Folkehøjskolerne
+    3. [ ] De tekniske gymnasier
+
+    ## Hvem underviste ofte børnene efter reformationen i 1500-tallet?
+
+    1. [ ] Universitetets professorer
+    2. [ ] Kongens embedsmænd
+    3. [x] Den lokale præst eller degn
+
+    ## Hvilken lov lagde grundlaget for den danske folkeskole?
+
+    1. [x] Skoleloven fra 1814
+    2. [ ] Grundloven fra 1849
+    3. [ ] Skoleloven fra 1903
+
+    ## Hvad er forskellen på undervisningspligt og skolepligt i Danmark?
+
+    1. [ ] Der er skolepligt, men ingen undervisningspligt
+    2. [x] Børn skal modtage undervisning, men behøver ikke gå i en skolebygning
+    3. [ ] Børn skal gå på universitetet i ti år
+
+    ## Hvor længe varer undervisningspligten?
+
+    1. [ ] Syv år
+    2. [ ] Tolv år
+    3. [x] Ti år
+
+    ## Hvilke muligheder har forældre for at opfylde undervisningspligten?
+
+    1. [x] Folkeskolen, en privatskole eller hjemmeundervisning
+    2. [ ] Kun folkeskolen
+    3. [ ] Kun en erhvervsuddannelse
+
+    ## Hvilke klassetrin består folkeskolens almindelige grundforløb af?
+
+    1. [ ] 1.-7. klasse
+    2. [x] En børnehaveklasse og ni års grundlæggende skolegang
+    3. [ ] 0.-12. klasse
+
+    ## Hvornår begynder elever normalt at få karakterer i folkeskolen?
+
+    1. [x] Fra 8. klasse
+    2. [ ] Fra 0. klasse
+    3. [ ] Først efter 10. klasse
+
+    ## Hvor mange karakterer er der på den danske 7-trins-skala?
+
+    1. [ ] Fem
+    2. [x] Syv
+    3. [ ] Ti
+
+    ## Hvilken karakter er den højeste på 7-trins-skalaen?
+
+    1. [ ] 10
+    2. [ ] 00
+    3. [x] 12
+
+    ## Hvilke karakterer svarer til ikke-beståede præstationer?
+
+    1. [x] -3 og 00
+    2. [ ] 02 og 4
+    3. [ ] 10 og 12
+
+    ## Hvad er en erhvervsuddannelse typisk rettet mod?
+
+    1. [ ] Kun forskning på et universitet
+    2. [x] Praktiske fag og erhverv som handel, kontor eller håndværk
+    3. [ ] At forberede elever til folketingsvalg
+
+    ## Hvilken gymnasial uddannelse er særligt rettet mod handel?
+
+    1. [ ] Htx
+    2. [ ] Stx
+    3. [x] Hhx
+
+    ## Hvor lang er en kort videregående uddannelse typisk?
+
+    1. [x] 2-3 år
+    2. [ ] 5-6 år
+    3. [ ] 8-10 år
+
+    ## Hvilke muligheder findes der for voksne, der vil fortsætte deres uddannelse?
+
+    1. [ ] Kun at starte i 0. klasse igen
+    2. [x] Erhvervsuddannelser, VUC-fag og efteruddannelse blandt andet
+    3. [ ] Ingen muligheder efter 25-årsalderen
+
+    ## Hvad er en udfordring ved, at færre vælger erhvervsuddannelser?
+
+    1. [x] Der mangler faglært arbejdskraft som kokke, tømrere og elektrikere
+    2. [ ] Der bliver for mange lærere i folkeskolen
+    3. [ ] Der bliver mangel på gymnasiale uddannelser
+
+    ## Hvad betyder ledighedsbaseret dimensionering?
+
+    1. [ ] At alle studerende får tilbudt et job efter eksamen
+    2. [ ] At universiteterne skal tilbyde flere pladser på alle fag
+    3. [x] At der sættes et loft over optaget på uddannelser med høj ledighed blandt nyuddannede
+
+    ## Hvor længe skal elever i de større folkeskoleklasser fremover i erhvervspraktik?
+
+    1. [x] Fem dage
+    2. [ ] Fem uger
+    3. [ ] Et helt skoleår
+
+    ## Hvad indebærer junior-mesterlære for elever i 8. og 9. klasse?
+
+    1. [ ] De går alle ugens dage i skole
+    2. [x] De kan gå tre dage i skole og bruge to dage på arbejde og oplæring
+    3. [ ] De afslutter gymnasiet på et år
+
+    ## Hvad er epx?
+
+    1. [x] En ny erhvervs- og professionsrettet gymnasieuddannelse
+    2. [ ] En ny karakter på 7-trins-skalaen
+    3. [ ] En voksenuddannelse i dansk sprog

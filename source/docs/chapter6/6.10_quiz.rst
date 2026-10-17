@@ -30,3 +30,75 @@ Questions
     1. [ ] At slå katten af tønden
     2. [ ] At tænde adventskranse
     3. [x] At tænde bål
+
+    ## Hvilken slags mærkedag mangler Danmark ifølge teksten?
+
+    1. [x] En egentlig officiel nationaldag
+    2. [ ] En grundlovsdag
+    3. [ ] En juleaften
+
+    ## Hvor langt før påske ligger fastelavn?
+
+    1. [ ] Tre uger
+    2. [x] Syv uger
+    3. [ ] Tolv uger
+
+    ## Hvad symboliserer påskeægget traditionelt?
+
+    1. [ ] Midsommer
+    2. [ ] Vintersolhverv
+    3. [x] Frugtbarhed
+
+    ## Hvad fejrer man på 1. maj?
+
+    1. [x] Arbejderbevægelsens internationale kampdag
+    2. [ ] Danmarks første grundlov
+    3. [ ] Afslutningen på julehøjtiden
+
+    ## Hvad fejres i pinsen ifølge den kristne tradition?
+
+    1. [ ] Jesu fødsel
+    2. [x] Helligåndens komme til jorden
+    3. [ ] Jesu korsfæstelse
+
+    ## Hvilken begivenhed markerer sankthansaften?
+
+    1. [ ] Vinterens begyndelse
+    2. [ ] Danmarks befrielse
+    3. [x] Midsommeren
+
+    ## Hvad fejrer man på grundlovsdag den 5. juni?
+
+    1. [x] Danmarks demokratiske forfatning
+    2. [ ] Arbejderbevægelsens kampdag
+    3. [ ] Den første danske konge
+
+    ## Hvilken kristen begivenhed fejres ved jul?
+
+    1. [ ] Helligåndens komme
+    2. [x] Jesu fødsel
+    3. [ ] Jesu opstandelse
+
+    ## Hvad forbindes juletraditionen også med ud over kristendommen?
+
+    1. [ ] Sommerens længste dag
+    2. [ ] Høstens afslutning
+    3. [x] Hedensk markering af vintersolhvervet
+
+    ## Hvornår er nytårsaften?
+
+    1. [x] 31. december
+    2. [ ] 1. januar
+    3. [ ] 24. december
+
+    ## Hvad markerer den muslimske højtid Eid al-adha?
+
+    1. [ ] Fastemånedens begyndelse
+    2. [x] Afslutningen på de årlige pilgrimsrejser til Mekka
+    3. [ ] Den jødiske forsoningsdag
+
+    ## Hvad er Yom Kippur?
+
+    1. [ ] En kristen høstfest
+    2. [ ] En muslimsk fastemåned
+    3. [x] Den jødiske forsoningsdag

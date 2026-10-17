@@ -30,3 +30,279 @@ Questions
     1. [x] Helsingør
     2. [ ] Roskilde
     3. [ ] Ribe
+
+    ## Hvor mange overnatninger blev registreret i Danmark i 2024?
+
+    1. [ ] 21 millioner
+    2. [x] 66 millioner
+    3. [ ] 152 millioner
+
+    ## Hvilket land var det største udenlandske turistmarked målt på overnatninger i 2024?
+
+    1. [x] Tyskland
+    2. [ ] Sverige
+    3. [ ] Norge
+
+    ## Hvor finder de fleste turistovernatninger sted i Danmark?
+
+    1. [ ] I industrikvartererne
+    2. [ ] I hovedstaden alene
+    3. [x] I kystområderne
+
+    ## Hvilken organisation står bag verdensarvlisten, som flere danske seværdigheder er optaget på?
+
+    1. [ ] NATO
+    2. [x] UNESCO
+    3. [ ] Nordisk Råd
+
+    ## Hvilke have mødes ved Skagens Gren?
+
+    1. [x] Skagerrak og Kattegat
+    2. [ ] Nordsøen og Østersøen
+    3. [ ] Lillebælt og Storebælt
+
+    ## Hvad er tilbage af Den Tilsandede Kirke ved Skagen?
+
+    1. [ ] Kun kirkens alter
+    2. [ ] Hele kirken med tag og tårn
+    3. [x] Kirkens tårn
+
+    ## Hvad tiltrak malerne til Skagen omkring 1875-1910?
+
+    1. [ ] De kongelige samlinger
+    2. [x] Fiskernes liv og det særlige lys fra strande og hav
+    3. [ ] De store middelalderborge
+
+    ## Hvor kan man se de fleste af Skagensmalernes hovedværker?
+
+    1. [x] På Skagens Museum
+    2. [ ] På Moesgaard Museum
+    3. [ ] På Den Gamle By
+
+    ## Hvad var Tirpitz-bunkerne tænkt som en del af?
+
+    1. [ ] Danmarks kystforsvar efter 1945
+    2. [ ] Et dansk handelscentrum ved Esbjerg
+    3. [x] Det tyske forsvarsværk Atlantvolden
+
+    ## Hvorfor blev Tirpitz-bunkeren ikke færdigbygget?
+
+    1. [x] Danmark blev befriet, før byggeriet var færdigt
+    2. [ ] Den blev ødelagt af en storm i 1944
+    3. [ ] Byggeriet blev opgivet efter en brand i 2024
+
+    ## Hvornår åbnede Tirpitz som museum?
+
+    1. [ ] 1945
+    2. [x] 2017
+    3. [ ] 2024
+
+    ## Hvad er Den Gamle By i Aarhus?
+
+    1. [ ] En genopført dansk by med huse fra forskellige perioder
+    2. [ ] En middelalderkirke med kongelige grave
+    3. [x] Et købstadsmuseum med genopførte huse fra hele Danmark
+
+    ## Hvilken periode stammer husene i Den Gamle By blandt andet fra?
+
+    1. [x] 1550-1900
+    2. [ ] 700-900
+    3. [ ] 1945-2024
+
+    ## Hvad er Grauballemanden?
+
+    1. [ ] En vikingekonge fra Ribe
+    2. [ ] En statue i Kronborgs kasematter
+    3. [x] En af verdens bedst bevarede moselig
+
+    ## Hvorfor er Grauballemanden så velbevaret?
+
+    1. [x] Kemiske processer i mosen bevarede liget
+    2. [ ] Han blev begravet i en stenkiste i Roskilde
+    3. [ ] Han blev balsameret i Egypten
+
+    ## Hvad sker der i Vadehavet to gange i døgnet?
+
+    1. [ ] Isen smelter og fryser igen
+    2. [x] Tidevandet skaber højvande og lavvande
+    3. [ ] Millioner af fisk vandrer til ferskvand
+
+    ## Hvorfor er Vadehavet et vigtigt område for trækfugle?
+
+    1. [ ] Der findes ingen rovdyr i området
+    2. [ ] Fuglene bygger alle deres reder der
+    3. [x] Det er et stort spisested med føde fra et rigt dyreliv
+
+    ## Hvad kaldes synet af store flokke af stære, der samles ved Vadehavet?
+
+    1. [x] Sort Sol
+    2. [ ] Hvidt Hav
+    3. [ ] Fuglefjeldet
+
+    ## Hvilken by regnes som Danmarks ældste?
+
+    1. [ ] Aarhus
+    2. [x] Ribe
+    3. [ ] Helsingør
+
+    ## Hvem byggede en kirke i Ribe i 855?
+
+    1. [ ] Biskop Absalon
+    2. [ ] Saxo
+    3. [x] Den tyske missionær Ansgar
+
+    ## Hvem skabte de moderne glasmosaikker og kalkmalerier i Ribe Domkirke?
+
+    1. [x] Carl-Henning Pedersen
+    2. [ ] Bertel Thorvaldsen
+    3. [ ] Asger Jorn
+
+    ## Hvilken skov er Danmarks næststørste?
+
+    1. [x] Rold Skov
+    2. [ ] Grib Skov
+    3. [ ] Mølle Skov
+
+    ## Hvilken amerikansk mærkedag fejres hvert år i Rebild Bakker?
+
+    1. [x] USA's uafhængighedsdag den 4. juli
+    2. [ ] Thanksgiving
+    3. [ ] Memorial Day
+
+    ## Hvad kan man lære om på Museum Rebild?
+
+    1. [ ] Om de tyske bunkere ved Vestkysten
+    2. [x] Om danskere, der udvandrede til USA
+    3. [ ] Om kongelige grave i Roskilde
+
+    ## Hvilken funktion har kalken under Rold Skov og Rebild Bakker?
+
+    1. [ ] Den forhindrer regnvand i at trænge ned i jorden
+    2. [ ] Den gør alle kilder varme året rundt
+    3. [x] Den opbevarer og renser vand, som senere kommer op som kilder
+
+    ## Hvorfor var Helsingørs placering vigtig for den danske konge?
+
+    1. [x] Byen ligger ved Øresunds smalleste sted og kunne kontrollere skibstrafikken
+    2. [ ] Byen ligger ved Danmarks eneste naturlige havn i Nordsøen
+    3. [ ] Byen var centrum for dansk minedrift
+
+    ## Hvornår blev Øresundstolden ophævet?
+
+    1. [ ] 1429
+    2. [x] 1857
+    3. [ ] 1603
+
+    ## Hvad er Holger Danske ifølge sagnet?
+
+    1. [ ] En konge begravet i Roskilde Domkirke
+    2. [ ] En missionær, der grundlagde Ribe
+    3. [x] En sagnhelt, der vil vågne for at forsvare Danmark
+
+    ## Hvilket Shakespeare-stykke foregår på Kronborg?
+
+    1. [x] Hamlet
+    2. [ ] Macbeth
+    3. [ ] Romeo og Julie
+
+    ## Hvad kendetegner den gotiske stil i Roskilde Domkirke?
+
+    1. [ ] Lave, vandrette buer
+    2. [x] Spidse, lodrette buer, der leder blikket opad
+    3. [ ] Runde forsvarstårne uden vinduer
+
+    ## Hvor mange danske konger og dronninger ligger omtrent begravet i Roskilde Domkirke?
+
+    1. [ ] 10
+    2. [ ] 20
+    3. [x] 40
+
+    ## Hvad fortæller fiskeleret i Stevns Klint om?
+
+    1. [x] Et meteornedslag for cirka 65,5 millioner år siden
+    2. [ ] En oversvømmelse i middelalderen
+    3. [ ] Byggeriet af Roskilde Domkirke
+
+    ## Hvilke fossiler kan man blandt andet finde ved Møns Klint?
+
+    1. [ ] Kun dinosaurers fodspor
+    2. [x] Søpindsvin, hajtænder og blæksprutter
+    3. [ ] Knogler fra middelalderens heste
+
+    ## Hvor mange trin har Maglevandstrappen ved Møns Klint?
+
+    1. [x] 497
+    2. [ ] 200
+    3. [ ] 125
+
+    ## Hvem tegnede det nye H.C. Andersen-museum i Odense?
+
+    1. [ ] Henning Larsen
+    2. [ ] Bjarke Ingels
+    3. [x] Kengo Kuma
+
+    ## Hvad blev Hammershus blandt andet brugt til efter at være blevet forladt?
+
+    1. [x] Som stenbrud
+    2. [ ] Som kongelig gravkirke
+    3. [ ] Som kunstakademi
+
+    ## Hvilken ekstra funktion havde Østerlars Kirke ud over at være kirke?
+
+    1. [ ] Den var et kongeligt skatkammer
+    2. [x] Den kunne bruges som tilflugtssted og forsvarsværk
+    3. [ ] Den var en havn for fiskerbåde
+
+    ## Hvad betyder navnet København oprindeligt?
+
+    1. [ ] Kongens by
+    2. [ ] Den nye havn
+    3. [x] Købmændenes Havn
+
+    ## Hvem byggede en borg i København i 1167?
+
+    1. [x] Roskildes biskop Absalon
+    2. [ ] Kong Christian 4.
+    3. [ ] Kong Frederik 5.
+
+    ## Hvilket motto står forkortelsen RFP for på Rundetårn?
+
+    1. [ ] Rigsfællesskabets folk og pligter
+    2. [x] Fromhed styrker rigerne
+    3. [ ] Riget står for fred
+
+    ## Hvad var Nyboder oprindeligt bygget til?
+
+    1. [ ] At huse udenlandske købmænd
+    2. [ ] At fungere som universitet
+    3. [x] At give boliger til flådens soldater
+
+    ## Hvorfor flyttede kongefamilien til Amalienborg?
+
+    1. [x] Christiansborg brændte i 1794
+    2. [ ] Rosenborg blev omdannet til museum
+    3. [ ] Børsen blev ødelagt i 1640
+
+    ## Hvornår åbner Livgarden normalt vagtskifte ved Amalienborg?
+
+    1. [ ] Klokken 8
+    2. [x] Klokken 12
+    3. [ ] Klokken 18
+
+    ## Hvornår åbnede Tivoli?
+
+    1. [x] 1843
+    2. [ ] 1914
+    3. [ ] 2005
+
+    ## Hvilket eventyr inspirerede skulpturen Den lille Havfrue?
+
+    1. [ ] Den grimme ælling
+    2. [ ] Kejserens nye klæder
+    3. [x] H.C. Andersens eventyr af samme navn
+
+    ## Hvem tegnede boligbyggeriet 8TALLET?
+
+    1. [ ] Schmidt Hammer Lassen
+    2. [x] Bjarke Ingels Group (BIG)
+    3. [ ] Kengo Kuma

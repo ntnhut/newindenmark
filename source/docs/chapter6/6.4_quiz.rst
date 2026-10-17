@@ -24,3 +24,75 @@ Questions
     1. [x] Monarken er statsoverhoved, mens den politiske magt ligger hos de folkevalgte
     2. [ ] Monarken vedtager alene landets love
     3. [ ] Monarken leder Folketingets opposition
+
+    ## Hvor langt tilbage kan det danske kongehus med sikkerhed føres?
+
+    1. [ ] Til Christian 4. i 1600-tallet
+    2. [x] Til Gorm den Gamle i 900-tallet
+    3. [ ] Til Frederik 5. i 1700-tallet
+
+    ## Hvor mange monarker har Danmark haft ifølge teksten?
+
+    1. [x] 54
+    2. [ ] 43
+    3. [ ] 21
+
+    ## Hvilket dynasti har regeret Danmark siden 1863?
+
+    1. [ ] Oldenborg
+    2. [ ] Romanov
+    3. [x] Glücksborg
+
+    ## Hvem var Danmarks monark før Frederik 10.?
+
+    1. [x] Dronning Margrethe 2.
+    2. [ ] Dronning Mary
+    3. [ ] Frederik 9.
+
+    ## Hvornår abdicerede Dronning Margrethe 2.?
+
+    1. [ ] 5. juni 2023
+    2. [x] 14. januar 2024
+    3. [ ] 26. maj 2024
+
+    ## Hvad betyder det, at Danmark er et konstitutionelt monarki?
+
+    1. [ ] Kongen kan tilsidesætte grundloven
+    2. [ ] Monarken vælges direkte af befolkningen
+    3. [x] Monarkiet fungerer inden for grundlovens og demokratiets rammer
+
+    ## Hvordan får monarken sin stilling?
+
+    1. [x] Monarken arver tronen
+    2. [ ] Monarken vælges af Folketinget
+    3. [ ] Monarken udnævnes af EU
+
+    ## Hvornår deltager kongen blandt andet i Folketingets åbning?
+
+    1. [ ] Den første tirsdag i januar
+    2. [x] Den første tirsdag i oktober
+    3. [ ] Den sidste fredag i juni
+
+    ## Hvem underskriver lovene sammen med kongen?
+
+    1. [ ] Folketingets opposition
+    2. [ ] Formanden for Højesteret
+    3. [x] Den politisk ansvarlige minister
+
+    ## Hvilken repræsentativ opgave har kongen?
+
+    1. [x] At være vært ved statsbesøg og repræsentere Danmark i udlandet
+    2. [ ] At føre valgkamp for et politisk parti
+    3. [ ] At udarbejde kommunernes budgetter
+
+    ## Hvor holder kongen ofte sin nytårstale?
+
+    1. [ ] Fra Folketingets talerstol
+    2. [x] Fra kongefamiliens hjem på Amalienborg eller Fredensborg Slot
+    3. [ ] Fra rådhuset i Aarhus
+
+    ## Hvor kommer Dronning Mary oprindeligt fra?
+
+    1. [ ] Grønland
+    2. [ ] Sverige
+    3. [x] Australien

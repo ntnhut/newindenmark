@@ -24,3 +24,81 @@ Questions
     1. [x] En skole med voksenundervisning, der traditionelt lægger vægt på fællesskab og folkelig oplysning
     2. [ ] En skole, hvor børn begynder i 0. klasse
     3. [ ] Et universitet for præster alene
+
+    ## Hvilke roller havde N.F.S. Grundtvig?
+
+    1. [ ] Konge, general og dommer
+    2. [x] Præst, salmedigter og samfundsdebattør
+    3. [ ] Læge, fysiker og opdagelsesrejsende
+
+    ## Hvad betyder begrebet folkelighed i Grundtvigs tænkning?
+
+    1. [x] At tage udgangspunkt i almindelige mennesker frem for eliterne
+    2. [ ] At give magten til en lille gruppe akademikere
+    3. [ ] At alle skal have samme erhverv
+
+    ## Hvem skulle især omfattes af Grundtvigs folkelige oplysning?
+
+    1. [ ] Kun kongelige embedsmænd
+    2. [ ] Kun præster og universitetslærere
+    3. [x] Den brede befolkning
+
+    ## Hvordan skulle undervisningen på folkehøjskoler foregå?
+
+    1. [x] Gennem det levende ord, nysgerrighed og diskussion
+    2. [ ] Gennem udenadslære og løbende eksamener
+    3. [ ] Kun gennem praktisk arbejde uden samtale
+
+    ## Hvad skulle eleverne ifølge Grundtvig lære på højskolen?
+
+    1. [ ] At bestå bestemte adgangsprøver til universitetet
+    2. [x] At lære for livet og blive oplyste samfundsborgere
+    3. [ ] At følge kongens beslutninger uden diskussion
+
+    ## Hvilke aktiviteter var vigtige dele af højskolelivet?
+
+    1. [ ] Militærøvelser og sportsstævner
+    2. [ ] Skriftlige prøver og karaktergivning
+    3. [x] Foredrag og fællessang
+
+    ## Hvor åbnede den første grundtvigske højskole?
+
+    1. [x] I Rødding i Sønderjylland
+    2. [ ] I København
+    3. [ ] I Aarhus
+
+    ## Hvornår åbnede den første grundtvigske højskole?
+
+    1. [ ] 1814
+    2. [x] 1844
+    3. [ ] 1894
+
+    ## Hvilken bevægelse fik blandt andet gavn af landbefolkningens højskoleuddannelse?
+
+    1. [ ] Kalmarunionen
+    2. [ ] Den danske flåde
+    3. [x] Andelsbevægelsen
+
+    ## Hvad kendetegner grundtvigianismen?
+
+    1. [x] En udogmatisk kristendomsopfattelse med glæden ved livet som udgangspunkt
+    2. [ ] En politisk bevægelse, der afviser al religionsfrihed
+    3. [ ] En lære om, at kun præster må læse Bibelen
+
+    ## Hvilket udtryk brugte Grundtvig om menneske og kristendom?
+
+    1. [ ] "Konge først – borger så"
+    2. [x] "Menneske først – kristen så"
+    3. [ ] "Skole først – arbejde så"
+
+    ## Hvilken salme skrev Grundtvig, som ofte synges ved danske kirkebryllupper?
+
+    1. [x] "Det er så yndigt at følges ad"
+    2. [ ] "Kong Christian stod ved højen mast"
+    3. [ ] "Man binder os på mund og hånd"
+
+    ## Hvilken sang forbindes med nytår kort efter midnat?
+
+    1. [ ] "Der er et yndigt land"
+    2. [ ] "Dansevise"
+    3. [x] "Vær velkommen, Herrens år"

@@ -24,3 +24,63 @@ Questions
     1. [x] Et hvidt kors på en rød baggrund
     2. [ ] En rød cirkel på hvid baggrund
     3. [ ] Tre lodrette striber
+
+    ## Hvad betyder navnet Dannebrog ifølge teksten?
+
+    1. [ ] Kongens skjold
+    2. [x] Danernes fane eller rødfarvet fane
+    3. [ ] Det nordiske kors
+
+    ## Hvad fortæller legenden om Dannebrog?
+
+    1. [x] At flaget faldt ned fra himlen under et slag i Estland i 1219
+    2. [ ] At flaget blev tegnet af Christian 4. i 1642
+    3. [ ] At flaget blev fundet på Bornholm i 1940
+
+    ## Hvilken oprindelse for Dannebrog vurderes som sandsynlig i teksten?
+
+    1. [ ] Det var oprindeligt et handelsflag fra Holland
+    2. [ ] Det blev skabt som symbol for Folketinget
+    3. [x] Det kan have været en fane brugt af riddere på korstog
+
+    ## Hvornår blev Dannebrog brugt som fane af danske konger i krig?
+
+    1. [x] Siden 1400-tallet
+    2. [ ] Siden 900-tallet
+    3. [ ] Først fra 1945
+
+    ## Hvem måtte bruge Dannebrog i 1600- og 1700-tallet?
+
+    1. [ ] Alle borgere uden begrænsninger
+    2. [x] Myndighederne og flåden
+    3. [ ] Kun danske købmænd i udlandet
+
+    ## Hvornår blev det populært blandt befolkningen at flage med Dannebrog?
+
+    1. [ ] I begyndelsen af 1700-tallet
+    2. [ ] Efter 2. Verdenskrig
+    3. [x] Fra midten af 1800-tallet
+
+    ## Hvordan bruges Dannebrog ved en begravelse eller bisættelse?
+
+    1. [x] Det hejses halvt op på flagstangen indtil begravelsen eller bisættelsen
+    2. [ ] Det sættes på taget af kirken
+    3. [ ] Det hejses kun efter ceremonien
+
+    ## Hvilken historisk mærkedag markeres den 5. maj med Dannebrog?
+
+    1. [ ] Grundlovsdag
+    2. [x] Danmarks befrielse
+    3. [ ] Nordens dag
+
+    ## Hvilke landes flag må man gerne flage med uden politiets tilladelse?
+
+    1. [ ] Alle landes flag
+    2. [ ] Kun EU-landenes flag
+    3. [x] De nordiske landes flag samt Grønlands, Færøernes, FN's og EU's flag
+
+    ## Hvem uddeler Dannebrogordenen?
+
+    1. [x] Kongen
+    2. [ ] Folketingets formand
+    3. [ ] Nordisk Råd

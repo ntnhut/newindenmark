@@ -24,3 +24,81 @@ Questions
     1. [x] Ja, et hadmotiv kan være en skærpende omstændighed
     2. [ ] Nej, hadmotiv har aldrig betydning
     3. [ ] Kun hvis Folketinget først godkender sagen
+
+    ## Hvilke frihedsrettigheder nævnes i grundloven?
+
+    1. [ ] Ret til at true andre og ret til at bryde loven
+    2. [x] Ytrings-, religions-, forenings- og forsamlingsfrihed
+    3. [ ] Ret til at forskelsbehandle andre
+
+    ## Hvad er diskrimination?
+
+    1. [x] At behandle mennesker dårligere på grund af for eksempel tro, køn eller etnicitet
+    2. [ ] At give alle borgere de samme politiske rettigheder
+    3. [ ] At deltage i en lovlig demonstration
+
+    ## Er det tilladt offentligt at true eller nedværdige mennesker på grund af deres tro eller race?
+
+    1. [ ] Ja, ytringsfriheden tillader det altid
+    2. [ ] Ja, hvis det sker på sociale medier
+    3. [x] Nej
+
+    ## Hvad kan være ulovligt at gøre offentligt under dække af ytringsfriheden?
+
+    1. [x] Opfordre til, at der begås en forbrydelse mod en gruppe
+    2. [ ] Kritisk diskutere regeringens politik
+    3. [ ] Skrive om sine egne erfaringer
+
+    ## Hvad kaldes forbrydelser, der begås på grund af ofrets etnicitet, tro eller seksuelle orientering?
+
+    1. [ ] Politiske valg
+    2. [x] Hadforbrydelser
+    3. [ ] Borgerlige rettigheder
+
+    ## Hvilke handlinger kan være hadforbrydelser?
+
+    1. [ ] Kun uenighed i en politisk debat
+    2. [ ] Kun lovlig deltagelse i demonstrationer
+    3. [x] Hadefulde ytringer, vold, hærværk eller trusler
+
+    ## Hvor mange sager om hadforbrydelser registrerede politiet i perioden 2022-24?
+
+    1. [x] 2.108
+    2. [ ] 430
+    3. [ ] 702
+
+    ## Hvor mange hadforbrydelser mod jøder blev registreret i 2022-24?
+
+    1. [ ] 2.108
+    2. [x] 430
+    3. [ ] 48
+
+    ## Hvad skete der under Krystalnatten i 1938?
+
+    1. [x] Nazister angreb blandt andet jødiske butikker, synagoger, boliger og skoler
+    2. [ ] Danmark blev befriet fra den tyske besættelse
+    3. [ ] Danmark indførte religionsfrihed
+
+    ## Hvilken gruppe angreb en synagoge i København i 2015?
+
+    1. [ ] En gruppe danske embedsmænd
+    2. [ ] En gruppe udenlandske turister
+    3. [x] En terrorist med sympati for Islamisk Stat
+
+    ## Hvad var motivet bag angrebet med maling på politikere i Folketinget i 2003?
+
+    1. [x] Modstand mod Danmarks støtte til USA's invasion af Irak
+    2. [ ] Modstand mod Danmarks medlemskab af EU
+    3. [ ] Protest mod loven om lige løn
+
+    ## Hvem beskytter blandt andre politikere, når de vurderes truet?
+
+    1. [ ] UNESCO
+    2. [x] Politiets Efterretningstjeneste (PET)
+    3. [ ] Danmarks Statistik
+
+    ## Hvorfor er særlige regler mod diskrimination og hadforbrydelser indført?
+
+    1. [ ] For at begrænse religionsfrihed
+    2. [ ] For at forbyde al offentlig debat
+    3. [x] For at beskytte minoriteter mod overgreb fra staten og andre borgere

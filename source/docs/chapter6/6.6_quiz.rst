@@ -30,3 +30,225 @@ Questions
     1. [ ] Alle lokale skolebeslutninger
     2. [ ] Færøernes kommunale affaldsindsamling
     3. [x] Udenrigs- og sikkerhedspolitik
+
+    ## Hvad er det officielle navn for rigsfællesskabet?
+
+    1. [ ] Kongeriget Norden
+    2. [x] Kongeriget Danmark
+    3. [ ] Det Nordatlantiske Råd
+
+    ## Hvor mange medlemmer vælger Grønland og Færøerne hver til Folketinget?
+
+    1. [x] To
+    2. [ ] Fire
+    3. [ ] Ti
+
+    ## Hvilke politikområder varetages blandt andet af de danske myndigheder for hele rigsfællesskabet?
+
+    1. [ ] Alle lokale kultur- og fritidsforhold
+    2. [ ] Grønlands undervisning og Færøernes kommuner
+    3. [x] Udenrigs- og sikkerhedspolitik
+
+    ## Hvor stor en del af Grønland er dækket af is hele året?
+
+    1. [ ] Cirka 30 procent
+    2. [x] Cirka 83 procent
+    3. [ ] Cirka 98 procent
+
+    ## Hvad er Indlandsisen?
+
+    1. [x] Grønlands største sammenhængende isområde
+    2. [ ] Et bjerg på Færøerne
+    3. [ ] Hovedstaden i Grønland
+
+    ## Hvor bor Grønlands befolkning hovedsageligt?
+
+    1. [ ] Inde på Indlandsisen
+    2. [ ] I det sydlige Canada
+    3. [x] Langs kysten
+
+    ## Hvilken by er Grønlands hovedstad?
+
+    1. [x] Nuuk
+    2. [ ] Tórshavn
+    3. [ ] Qaanaaq
+
+    ## Hvorfra indvandrede inuitterne til Grønland omkring år 1200?
+
+    1. [ ] Fra Norge og Island
+    2. [x] Fra Alaska og Canada
+    3. [ ] Fra Danmark og Færøerne
+
+    ## Hvem var nordboerne i Grønland?
+
+    1. [ ] Inuitfolk, der kom fra Alaska i 1200-tallet
+    2. [ ] Danske købmænd fra 1700-tallet
+    3. [x] Islændinge og nordmænd, der bosatte sig der i 900-tallet
+
+    ## Hvorfor rejste Hans Egede til Grønland i 1721?
+
+    1. [x] For at genfinde nordboerne
+    2. [ ] For at bygge en amerikansk militærbase
+    3. [ ] For at indføre fiskeri som hovederhverv
+
+    ## Hvad gjorde Hans Egede, da han ikke fandt nordboerne?
+
+    1. [ ] Forlod Grønland med det samme
+    2. [x] Slog sig ned for at handle og gøre inuitterne kristne
+    3. [ ] Overtog ledelsen af Den Kongelige Grønlandske Handel
+
+    ## Hvornår blev kolonien Godthåb grundlagt?
+
+    1. [ ] 1380
+    2. [ ] 1953
+    3. [x] 1728
+
+    ## Hvilken rolle havde Den Kongelige Grønlandske Handel fra 1776 til 1950?
+
+    1. [x] Den havde monopol på al handel i Grønland
+    2. [ ] Den ledede det grønlandske Landsting
+    3. [ ] Den drev alle fiskerier i Danmark
+
+    ## Hvem indgik en aftale med USA om militære baser i Grønland i 1941?
+
+    1. [ ] Hans Egede
+    2. [x] Danmarks ambassadør Henrik Kauffmann
+    3. [ ] Grønlands landsstyreformand
+
+    ## Hvad hedder den amerikanske base i Qaanaaq i dag?
+
+    1. [ ] Nuuk Air Base
+    2. [ ] Thule Fort
+    3. [x] Pituffik Space Base
+
+    ## Hvornår ophørte Grønlands status som dansk koloni?
+
+    1. [x] 1953
+    2. [ ] 1721
+    3. [ ] 2009
+
+    ## Hvad indførte Grønland efter en folkeafstemning i 1979?
+
+    1. [ ] Selvstændighed fra rigsfællesskabet
+    2. [x] Hjemmestyre
+    3. [ ] Medlemskab af NATO
+
+    ## Hvad ændrede sig med Grønlands selvstyreordning i 2009?
+
+    1. [ ] Danmark overtog alle lokale områder
+    2. [ ] Grønland blev medlem af EU
+    3. [x] Grønland fik mulighed for selvbestemmelse på flere områder
+
+    ## Hvilken dag er Grønlands nationaldag?
+
+    1. [x] 21. juni
+    2. [ ] 25. april
+    3. [ ] 29. juli
+
+    ## Hvad betyder det grønlandske flagnavn Erfalasorput?
+
+    1. [ ] Den røde sol
+    2. [x] Vort flag
+    3. [ ] Landets is
+
+    ## Hvilken grønlandsk eksportindtægt er vigtigst?
+
+    1. [ ] Olie fra Nordsøen
+    2. [ ] Uld og fårekød
+    3. [x] Fiskeri, især rejer
+
+    ## Hvornår meldte Grønland sig ud af EF, nu EU?
+
+    1. [x] 1985
+    2. [ ] 1973
+    3. [ ] 2009
+
+    ## Hvilken forfatter modtog Nordisk Råds Litteraturpris i 2021 for Blomsterdalen?
+
+    1. [ ] Hans Lynge
+    2. [x] Niviaq Korneliussen
+    3. [ ] Jørgen-Frantz Jacobsen
+
+    ## Hvad kendetegner Færøernes landskab?
+
+    1. [ ] Flade sandørkener
+    2. [ ] Tætte regnskove
+    3. [x] Stejle, græsklædte klipper
+
+    ## Hvad betyder ordet fær i Færøernes navn?
+
+    1. [x] Får
+    2. [ ] Fjord
+    3. [ ] Fugl
+
+    ## Hvem befolkede Færøerne først i 600-tallet?
+
+    1. [ ] Danske købmænd
+    2. [x] Irske munke
+    3. [ ] Amerikanske fiskere
+
+    ## Hvilket erhverv blev Færøernes vigtigste fra slutningen af 1800-tallet?
+
+    1. [ ] Kulminedrift
+    2. [ ] Turisme
+    3. [x] Fiskeri, især torskefiskeri
+
+    ## Hvilket sprog blev Færøernes hovedsprog?
+
+    1. [x] Færøsk
+    2. [ ] Dansk
+    3. [ ] Norsk
+
+    ## Hvem besatte Færøerne under 2. Verdenskrig?
+
+    1. [ ] Tyskland
+    2. [x] Storbritannien
+    3. [ ] USA
+
+    ## Hvornår fik Færøerne hjemmestyre ved lov?
+
+    1. [ ] 1849
+    2. [ ] 1973
+    3. [x] 1948
+
+    ## Hvilken titel har formanden for Færøernes landsstyre?
+
+    1. [x] Lagmand
+    2. [ ] Biskop
+    3. [ ] Rigsombudsmand
+
+    ## Hvilke områder kan Færøerne ikke selv overtage?
+
+    1. [ ] Kultur, fritid og kommunale forhold
+    2. [x] Udenrigs-, forsvars- og sikkerhedspolitik samt valuta- og pengepolitik
+    3. [ ] Bolig og undervisning
+
+    ## Hvorfor står Færøerne uden for EU?
+
+    1. [ ] Danmark krævede, at øerne meldte sig ud
+    2. [ ] Færøerne blev aldrig en del af rigsfællesskabet
+    3. [x] Færøerne valgte at stå udenfor, da Danmark blev medlem i 1973
+
+    ## Hvad betyder navnet Merkið?
+
+    1. [x] Mærket
+    2. [ ] Vort flag
+    3. [ ] Den røde sol
+
+    ## Hvornår er Færøernes nationaldag?
+
+    1. [ ] 21. juni
+    2. [x] 29. juli
+    3. [ ] 5. juni
+
+    ## Hvilken roman skrev Jørgen-Frantz Jacobsen?
+
+    1. [ ] De fortabte spillemænd
+    2. [ ] Blomsterdalen
+    3. [x] Barbara
+
+    ## Hvad er et centralt tema i William Heinesens De fortabte spillemænd?
+
+    1. [x] Konflikten mellem de spillemænds livsførelse og lokalsamfundets normer
+    2. [ ] Grønlands kamp for at blive medlem af EU
+    3. [ ] Færøernes udvikling til et kongerige

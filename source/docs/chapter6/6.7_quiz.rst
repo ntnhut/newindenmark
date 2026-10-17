@@ -24,3 +24,87 @@ Questions
     1. [x] Blandt andre Danmark, Finland, Island, Norge og Sverige
     2. [ ] Kun Danmark og Tyskland
     3. [ ] Alle lande i EU
+
+    ## Hvilke fem lande regnes som de nordiske lande?
+
+    1. [ ] Danmark, Tyskland, Norge, Finland og Island
+    2. [x] Danmark, Sverige, Norge, Finland og Island
+    3. [ ] Danmark, Sverige, Polen, Finland og Island
+
+    ## Hvad er et synligt symbol på det nordiske fællesskab?
+
+    1. [x] At alle fem nordiske landes flag har et kors
+    2. [ ] At alle landene bruger samme farver i deres flag
+    3. [ ] At alle landene har samme nationalsang
+
+    ## Hvilket nordisk land har den største befolkning?
+
+    1. [ ] Danmark
+    2. [ ] Finland
+    3. [x] Sverige
+
+    ## Hvilket nordisk land har den mindste befolkning?
+
+    1. [x] Island
+    2. [ ] Norge
+    3. [ ] Finland
+
+    ## Hvornår eksisterede Kalmarunionen?
+
+    1. [ ] 1563-1721
+    2. [x] 1397-1523
+    3. [ ] 1814-1944
+
+    ## Hvad skete der med Sverige under Kalmarunionen?
+
+    1. [ ] Sverige blev en del af Danmark permanent
+    2. [ ] Sverige blev medlem af EU
+    3. [x] Sverige brød ud efter en langvarig kamp
+
+    ## Hvilke sprog udviklede sig fra oldnordisk?
+
+    1. [x] Dansk, svensk, norsk og islandsk
+    2. [ ] Dansk, finsk, tysk og islandsk
+    3. [ ] Svensk, finsk, estisk og norsk
+
+    ## Hvorfor er finsk meget anderledes end dansk, svensk, norsk og islandsk?
+
+    1. [ ] Finsk blev udviklet af vikinger i Danmark
+    2. [x] Størstedelen af Finlands befolkning har andre sproglige rødder
+    3. [ ] Finsk var det fælles sprog i Kalmarunionen
+
+    ## Hvorfor lærer mange elever i Finland både finsk og svensk?
+
+    1. [ ] Sverige og Finland har samme regering
+    2. [ ] Svensk er det eneste officielle sprog i Finland
+    3. [x] Finland var længe styret fra Sverige og har et svensksproget mindretal
+
+    ## Hvilken trosretning blev dominerende i Norden efter reformationen?
+
+    1. [x] Den protestantiske, evangelisk-lutherske tro
+    2. [ ] Den ortodokse tro
+    3. [ ] Den katolske tro
+
+    ## Hvad kendetegner den nordiske velfærdsmodel?
+
+    1. [ ] Velfærd betales kun af den enkelte bruger
+    2. [x] Velfærdsydelser finansieres i fællesskab gennem skatter og afgifter
+    3. [ ] Staten tilbyder kun uddannelse til offentligt ansatte
+
+    ## Hvilke nordiske lande står uden for EU ifølge teksten?
+
+    1. [ ] Finland og Sverige
+    2. [ ] Danmark og Finland
+    3. [x] Norge og Island
+
+    ## Hvilke nordiske lande blev NATO-medlemmer i henholdsvis 2023 og 2024?
+
+    1. [x] Finland og Sverige
+    2. [ ] Norge og Island
+    3. [ ] Danmark og Norge
+
+    ## Hvilken opgave har Nordisk Ministerråd?
+
+    1. [ ] Det består af dommere fra de nordiske landes højesteretter
+    2. [x] Det samler ministre fra landenes regeringer om nordisk samarbejde
+    3. [ ] Det fastsætter fælles skatter for alle nordiske borgere

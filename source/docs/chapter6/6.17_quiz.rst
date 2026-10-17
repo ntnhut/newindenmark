@@ -24,3 +24,135 @@ Questions
     1. [x] Omstilling af landbrug og arealanvendelse
     2. [ ] Indførelse af enevælde
     3. [ ] Udvidelse af den danske olieproduktion
+
+    ## Hvilke energikilder kaldes fossile brændsler?
+
+    1. [ ] Sol, vind og vandkraft
+    2. [x] Kul, olie og gas
+    3. [ ] Biomasse, jordvarme og bølger
+
+    ## Hvordan virker drivhusgasser i atmosfæren?
+
+    1. [x] De begrænser noget af varmens mulighed for at slippe ud
+    2. [ ] De blokerer alt sollys fra at nå Jorden
+    3. [ ] De fjerner al varme fra atmosfæren
+
+    ## Hvilke følger kan global opvarmning få?
+
+    1. [ ] Færre oversvømmelser og mindre ekstrem varme
+    2. [ ] At alle verdens områder får samme klima
+    3. [x] Mere ørken, flere oversvømmelser og mere ekstrem varme
+
+    ## Hvor meget varmere er det globale klima blevet sammenlignet med 1850-1900?
+
+    1. [x] Mere end én grad
+    2. [ ] Mindre end en tiendedel grad
+    3. [ ] Præcis ti grader
+
+    ## Hvor meget er Danmarks udledning faldet siden 1990 ifølge teksten?
+
+    1. [ ] Cirka 15 procent
+    2. [x] Cirka 47 procent
+    3. [ ] Cirka 70 procent
+
+    ## Hvor stor en del af verdens klimagasser udleder Danmark omtrent?
+
+    1. [x] En tusindedel
+    2. [ ] En fjerdedel
+    3. [ ] Halvdelen
+
+    ## Hvorfor er internationalt samarbejde vigtigt for klimaindsatsen?
+
+    1. [ ] Danmark står for næsten hele verdens udledning
+    2. [ ] Klimaændringer påvirker kun Danmark
+    3. [x] Problemet kan kun løses, hvis andre lande også reducerer deres udslip
+
+    ## Hvad forpligter Paris-aftalen fra 2015 næsten alle verdens lande til?
+
+    1. [x] At bidrage til at reducere det globale udslip af drivhusgasser
+    2. [ ] At stoppe al international handel
+    3. [ ] At udvide brugen af kul og olie
+
+    ## Hvad skal Klimarådet blandt andet gøre?
+
+    1. [ ] Vedtage love på vegne af Folketinget
+    2. [x] Rådgive regeringen og vurdere klimapolitikken
+    3. [ ] Drive Danmarks vindmølleparker
+
+    ## Hvad er målet i den danske klimalov for 2030?
+
+    1. [x] At reducere udledningen med 70 procent i forhold til 1990
+    2. [ ] At reducere udledningen med 10 procent i forhold til 2020
+    3. [ ] At gøre Danmark helt klimaneutralt inden 2030
+
+    ## Hvad betyder klimaneutralitet i 2050?
+
+    1. [ ] Danmark må ikke bruge elektricitet
+    2. [x] Danmark må ikke udlede flere drivhusgasser, end landet optager
+    3. [ ] Danmark skal have samme udledning som i 1990
+
+    ## Hvad betyder grøn omstilling?
+
+    1. [ ] At gå fra vedvarende energi til olie og gas
+    2. [ ] At reducere brugen af al elektricitet
+    3. [x] At gå fra sorte energikilder til vedvarende og grønnere kilder
+
+    ## Hvor stor en del af Danmarks energiforbrug kom fra vedvarende energi i 2024?
+
+    1. [x] Cirka 50 procent
+    2. [ ] Cirka 6 procent
+    3. [ ] Cirka 90 procent
+
+    ## Hvilken vigtig milepæl inden for havvind nåede Danmark i 1991?
+
+    1. [ ] Danmark byggede en energiø ved Bornholm
+    2. [x] Verdens første havvindmøllepark, Vindeby, blev opstillet
+    3. [ ] Vindmøller dækkede hele elforbruget
+
+    ## Hvor stor en del af Danmarks elforbrug producerede vindmøller i 2025?
+
+    1. [x] 52 procent
+    2. [ ] 15 procent
+    3. [ ] 100 procent
+
+    ## Hvad er formålet med den planlagte energiø ved Bornholm?
+
+    1. [ ] At udvinde olie og naturgas
+    2. [ ] At erstatte strømforbindelser til nabolandene
+    3. [x] At sende strøm til blandt andet Sjælland og Tyskland
+
+    ## Hvordan fungerer en varmepumpe?
+
+    1. [x] Den bruger varme fra for eksempel jord og luft og hæver temperaturen med elektricitet
+    2. [ ] Den fremstiller varme ved at brænde kul i alle hjem
+    3. [ ] Den leder varme fra boligen direkte ud i jorden
+
+    ## Hvad handler Den Grønne Trepart blandt andet om?
+
+    1. [ ] At øge brugen af pesticider og olie
+    2. [x] At skabe mere natur, renere vand og et mindre forurenende landbrug
+    3. [ ] At udvide alle landbrugsarealer
+
+    ## Hvor stor en del af dansk landbrugsjord er aftalt omlagt til natur?
+
+    1. [x] Cirka 15 procent
+    2. [ ] Cirka 7 procent
+    3. [ ] Cirka 60 procent
+
+    ## Hvorfor bidrager lavbundsjord til landbrugets CO2-udledning?
+
+    1. [ ] Den består af ren sandjord uden planter
+    2. [ ] Den altid er dækket af havvand
+    3. [x] Dyrkning frigiver kulstof fra døde planterester i den fugtige jord
+
+    ## Hvad kan landbrugets gødskning føre til i kystområder og fjorde?
+
+    1. [x] Ilt-svind, som gør det sværere for fisk og anden natur at leve
+    2. [ ] Mere ilt og færre næringsstoffer i vandet
+    3. [ ] At tidevandet stopper
+
+    ## Hvilken ny afgift indgår i Den Grønne Trepart?
+
+    1. [ ] En afgift på alle naturbesøg
+    2. [x] En direkte CO2-afgift på landbrugets udledning
+    3. [ ] En afgift på brug af vindenergi

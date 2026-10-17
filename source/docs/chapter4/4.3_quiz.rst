@@ -24,3 +24,123 @@ Questions
     1. [x] Globale mål for blandt andet bæredygtig udvikling
     2. [ ] Regler for valg til Europa-Parlamentet
     3. [ ] En plan for fælles nordisk forsvar
+
+    ## Hvornår blev FN grundlagt?
+
+    1. [ ] 1918
+    2. [x] 1945
+    3. [ ] 1952
+
+    ## Hvor mange selvstændige stater er medlemmer af FN ifølge teksten?
+
+    1. [ ] 47
+    2. [ ] 150
+    3. [x] 193
+
+    ## Hvor ligger FN's hovedkvarter?
+
+    1. [x] New York
+    2. [ ] Genève
+    3. [ ] København
+
+    ## Hvilket emne er en af FN's vigtigste arbejdsopgaver?
+
+    1. [ ] At fastsætte medlemslandenes skatter
+    2. [x] Fred og international sikkerhed
+    3. [ ] At udpege nationale parlamenter
+
+    ## Hvad diskuterer FN's Generalforsamling blandt andet?
+
+    1. [ ] Kun EU's lovgivning
+    2. [ ] Valg af nationale borgmestre
+    3. [x] Aktuelle sager, FN's budget og rapporter fra Sikkerhedsrådet
+
+    ## Hvad er FN's Sikkerhedsråds hovedopgave?
+
+    1. [x] At behandle konflikter, der kan true international fred og sikkerhed
+    2. [ ] At fordele kommunale velfærdsydelser
+    3. [ ] At vedtage bindende skatter for alle lande
+
+    ## Hvor mange permanente medlemmer har FN's Sikkerhedsråd?
+
+    1. [ ] Tre
+    2. [x] Fem
+    3. [ ] Ti
+
+    ## Hvilke lande er permanente medlemmer af Sikkerhedsrådet?
+
+    1. [ ] Danmark, Norge, Sverige, Finland og Island
+    2. [ ] Tyskland, Japan, Indien, Brasilien og Canada
+    3. [x] Rusland, Kina, Storbritannien, USA og Frankrig
+
+    ## Hvor længe sidder de ti øvrige medlemmer af Sikkerhedsrådet?
+
+    1. [x] To år
+    2. [ ] Fire år
+    3. [ ] Seks år
+
+    ## Hvad betyder vetoretten for de fem permanente medlemmer?
+
+    1. [ ] De kan alene vedtage alle beslutninger
+    2. [x] Ét nej fra et permanent medlem kan blokere en beslutning
+    3. [ ] De kan suspendere FN's Generalforsamling
+
+    ## Hvilke FN-organisationer har kontorer i FN-byen i København?
+
+    1. [ ] NATO, EU-Kommissionen og OECD
+    2. [ ] UNESCO, WTO og Verdensbanken
+    3. [x] WHO, UNHCR og UNICEF
+
+    ## Hvad indeholder UNICEF's Verdenslager i København blandt andet?
+
+    1. [x] Medicinske forsyninger, skoleredskaber og udstyr til rent drikkevand
+    2. [ ] Våben og militære køretøjer
+    3. [ ] Stemmesedler til FN's valg
+
+    ## Hvornår vedtog FN's medlemslande de 17 verdensmål?
+
+    1. [ ] 2000
+    2. [x] 2015
+    3. [ ] 2026
+
+    ## Hvilket år er målene for bæredygtig udvikling rettet frem mod?
+
+    1. [x] 2030
+    2. [ ] 2040
+    3. [ ] 2050
+
+    ## Hvilken andel af bruttonationalindkomsten er FN's mål for udviklingsbistand?
+
+    1. [ ] 0,2 procent
+    2. [ ] 1,5 procent
+    3. [x] 0,7 procent
+
+    ## Hvad hedder den danske afdeling, der har haft ansvar for udviklingspolitikken siden 1971?
+
+    1. [ ] UNICEF
+    2. [x] Danida
+    3. [ ] UNHCR
+
+    ## Hvor er Danida placeret organisatorisk?
+
+    1. [x] Som en selvstændig afdeling under Udenrigsministeriet
+    2. [ ] Under Folketingets Europaudvalg
+    3. [ ] Som en afdeling af FN's Sikkerhedsråd
+
+    ## Hvilket kontinent har historisk modtaget størstedelen af dansk udviklingsbistand?
+
+    1. [ ] Sydamerika
+    2. [ ] Asien
+    3. [x] Afrika
+
+    ## Hvilken udfordring er forbundet med Afrikas hurtigt voksende befolkning?
+
+    1. [x] Den kan øge både mulighederne for vækst og presset fra fattigdom og klimaforandringer
+    2. [ ] Den fjerner behovet for investeringer
+    3. [ ] Den betyder, at kontinentet ikke længere har brug for handel
+
+    ## Hvilket mål indgår i Danmarks strategi for et styrket engagement med Afrika?
+
+    1. [ ] At stoppe al kulturel og økonomisk udveksling
+    2. [x] At skabe ligeværdige partnerskaber og styrke handel og investeringer
+    3. [ ] At reducere udviklingssamarbejdet til kun militær støtte

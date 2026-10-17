@@ -30,3 +30,219 @@ Questions
     1. [ ] Retsforbeholdet
     2. [x] Forsvarsforbeholdet
     3. [ ] Euroforbeholdet
+
+    ## Hvilket samarbejde var et af de første skridt mod EU?
+
+    1. [x] Det Europæiske Kul- og Stålfællesskab
+    2. [ ] Europarådet
+    3. [ ] Nordisk Råd
+
+    ## Hvornår blev Det Europæiske Kul- og Stålfællesskab oprettet?
+
+    1. [ ] 1949
+    2. [x] 1952
+    3. [ ] 1973
+
+    ## Hvor mange lande grundlagde Kul- og Stålfællesskabet?
+
+    1. [ ] Fire
+    2. [ ] Ti
+    3. [x] Seks
+
+    ## Hvilket økonomisk formål havde det tidlige europæiske samarbejde?
+
+    1. [x] At genrejse Europa efter krigen og fremme samarbejde
+    2. [ ] At indføre samme regering i alle lande
+    3. [ ] At forhindre al handel mellem medlemslandene
+
+    ## Hvornår trådte EU's indre marked i kraft?
+
+    1. [ ] 1958
+    2. [x] 1993
+    3. [ ] 2004
+
+    ## Hvad kan bevæge sig frit inden for EU's indre marked?
+
+    1. [ ] Kun varer
+    2. [ ] Kun personer og kapital
+    3. [x] Varer, tjenesteydelser, personer og kapital
+
+    ## Hvor mange medlemslande har EU ifølge teksten?
+
+    1. [x] 27
+    2. [ ] 15
+    3. [ ] 47
+
+    ## Hvilke lande blev medlemmer af EU sammen med Danmark i 1973?
+
+    1. [ ] Sverige og Finland
+    2. [x] Irland og Storbritannien
+    3. [ ] Spanien og Portugal
+
+    ## Hvornår forlod Storbritannien EU?
+
+    1. [ ] 2013
+    2. [ ] 2015
+    3. [x] 2020
+
+    ## Hvad er et overordnet formål med EU?
+
+    1. [x] At løse fælles europæiske problemer gennem samarbejde
+    2. [ ] At afskaffe alle nationale parlamenter
+    3. [ ] At erstatte FN som verdensomspændende organisation
+
+    ## Hvor mange EU-lande har euroen som fælles valuta ifølge teksten?
+
+    1. [ ] 15
+    2. [x] 20
+    3. [ ] 27
+
+    ## Hvad er formålet med Schengen-samarbejdet?
+
+    1. [ ] At oprette en fælles europæisk domstol for straffesager
+    2. [ ] At indføre euroen i alle europæiske lande
+    3. [x] At skabe et område uden indre grænser med en fælles ydre grænse
+
+    ## Hvad kan ske, når EU træffer en flertalsafgørelse?
+
+    1. [x] Et forslag kan vedtages, selv om ikke alle medlemslande er enige
+    2. [ ] Hvert land kan frit vælge, om loven gælder for det
+    3. [ ] EU's institutioner skal opløses
+
+    ## Hvad er GDPR?
+
+    1. [ ] En aftale om fælles europæisk forsvar
+    2. [x] EU's databeskyttelsesforordning
+    3. [ ] Et program for udviklingsbistand
+
+    ## Hvad betyder Den åbne koordinationsmetode?
+
+    1. [ ] EU vedtager altid bindende love på alle politikområder
+    2. [ ] Medlemslandene overlader al politik til Europa-Kommissionen
+    3. [x] Landene sætter fælles mål og rapporterer om deres indsats, uden at anbefalingerne er bindende
+
+    ## Hvor stor en del af Folketingets medlemmer skal som hovedregel støtte afgivelse af selvbestemmelsesret til internationalt samarbejde?
+
+    1. [x] Mindst fem sjettedele, det vil sige mindst 150 medlemmer
+    2. [ ] Mindst en tredjedel
+    3. [ ] Alle 179 medlemmer
+
+    ## Hvad skete der ved folkeafstemningen om Maastricht-traktaten i 1992?
+
+    1. [ ] Et flertal stemte ja
+    2. [x] Et flertal stemte nej
+    3. [ ] Afstemningen blev aflyst
+
+    ## Hvilken aftale gav Danmark fire EU-forbehold?
+
+    1. [ ] Romtraktaten
+    2. [ ] Schengen-aftalen
+    3. [x] Edinburgh-aftalen
+
+    ## Hvilket af disse områder var blandt Danmarks fire EU-forbehold?
+
+    1. [x] Den fælles valuta
+    2. [ ] Miljøbeskyttelse
+    3. [ ] Det indre marked
+
+    ## Hvad betyder det danske retsforbehold?
+
+    1. [x] Danmark deltager ikke i samarbejdet på en række retlige områder i EU
+    2. [ ] Danmark er ikke medlem af EU-Domstolen
+    3. [ ] Danmark er fritaget for at følge al EU-lovgivning
+
+    ## Hvad stemte danskerne nej til ved folkeafstemningen om retsforbeholdet i 2015?
+
+    1. [ ] At Danmark skulle forlade EU
+    2. [x] At retsforbeholdet skulle omdannes til en tilvalgsordning
+    3. [ ] At Danmark skulle indføre euroen
+
+    ## Hvad blev resultatet af folkeafstemningen om euroen i 2000?
+
+    1. [x] Et flertal stemte nej til at indføre euroen
+    2. [ ] Et flertal stemte ja til at indføre euroen
+    3. [ ] Danmark blev tvunget til at indføre euroen uden afstemning
+
+    ## Hvad betyder Danmarks fastkurspolitik over for euroen?
+
+    1. [ ] Den danske krone udskiftes dagligt med euro
+    2. [ ] Danmark har helt afbrudt samarbejdet med Den Europæiske Centralbank
+    3. [x] Kronens kurs følger euroens kurs
+
+    ## Hvornår blev det danske forsvarsforbehold ophævet?
+
+    1. [ ] 1993
+    2. [x] 2022
+    3. [ ] 2025
+
+    ## Hvilken institution stiller som hovedregel forslag til ny EU-lovgivning?
+
+    1. [x] Europa-Kommissionen
+    2. [ ] EU-Domstolen
+    3. [ ] Europarådet
+
+    ## Hvilken institution kontrollerer, om medlemslandene overholder EU-lovgivningen?
+
+    1. [ ] Europa-Parlamentet
+    2. [x] Europa-Kommissionen
+    3. [ ] Det Europæiske Råd
+
+    ## Hvor længe udpeges medlemmerne af Europa-Kommissionen ad gangen?
+
+    1. [ ] To år
+    2. [ ] Fire år
+    3. [x] Fem år
+
+    ## Hvordan vælges medlemmerne af Europa-Parlamentet?
+
+    1. [x] Direkte af vælgerne i EU's medlemslande
+    2. [ ] Af EU-Domstolen
+    3. [ ] Af de nationale regeringer alene
+
+    ## Hvor mange medlemmer har Europa-Parlamentet ifølge teksten?
+
+    1. [ ] 179
+    2. [x] 720
+    3. [ ] 450
+
+    ## Hvor ofte afholdes valg til Europa-Parlamentet?
+
+    1. [ ] Hvert andet år
+    2. [ ] Hvert fjerde år
+    3. [x] Hvert femte år
+
+    ## Hvad fastlægger lederne på møderne i Det Europæiske Råd?
+
+    1. [x] De overordnede politiske rammer for EU-samarbejdet
+    2. [ ] Domme over borgere i EU-landene
+    3. [ ] Kommunernes budgetter
+
+    ## Hvem mødes i Rådet for Den Europæiske Union?
+
+    1. [ ] EU-landenes monarker
+    2. [x] Ministre fra medlemslandenes regeringer
+    3. [ ] Kun medlemmer af Europa-Parlamentet
+
+    ## Hvad er EU-Domstolens opgave?
+
+    1. [ ] At udarbejde forslag til EU's budget
+    2. [ ] At vælge medlemslandenes regeringer
+    3. [x] At sikre, at EU-lovgivningen overholdes og fortolkes
+
+    ## Er Europarådet en institution i EU?
+
+    1. [x] Nej, Europarådet er en selvstændig organisation
+    2. [ ] Ja, det er Europa-Parlamentets andet navn
+    3. [ ] Ja, det er EU's øverste domstol
+
+    ## Hvad er Europarådets hovedformål?
+
+    1. [ ] At indføre en fælles valuta i Europa
+    2. [x] At fremme samarbejde, demokrati og borgernes frihedsrettigheder
+    3. [ ] At fastsætte toldsatser for EU-landene
+
+    ## Hvilken domstol er knyttet til Europarådet?
+
+    1. [ ] EU-Domstolen
+    2. [ ] Højesteret
+    3. [x] Den Europæiske Menneskerettighedsdomstol

@@ -24,3 +24,213 @@ Questions
     1. [ ] Større forskelle mellem borgerne
     2. [x] Mindre økonomisk ulighed
     3. [ ] At kommunerne afskaffes
+
+    ## Hvilke to pligter følger ifølge teksten med borgernes rettigheder i velfærdssamfundet?
+
+    1. [x] At betale skat og arbejde, hvis man kan
+    2. [ ] At være medlem af et politisk parti og stemme ved alle valg
+    3. [ ] At eje sin egen bolig og betale privat forsikring
+
+    ## Hvad forventes man at gøre, hvis man modtager hjælp og står uden for arbejdsmarkedet?
+
+    1. [ ] Vente på, at staten finder et arbejde uden ens medvirken
+    2. [x] Selv gøre en aktiv indsats for at komme tilbage på arbejdsmarkedet
+    3. [ ] Tilbagebetale alle offentlige ydelser
+
+    ## Hvad finansierer de fleste danske velfærdsydelser?
+
+    1. [ ] Kun sociale bidrag fra arbejdsgivere
+    2. [ ] Betaling fra den enkelte bruger
+    3. [x] Skatter og afgifter betalt af befolkningen i fællesskab
+
+    ## Hvad er et kendetegn ved den nordiske velfærdsmodel?
+
+    1. [x] Staten har et stort ansvar for velfærd fra vugge til grav
+    2. [ ] Kun personer med fast arbejde har ret til hjælp
+    3. [ ] Velfærd leveres hovedsageligt af private forsikringsselskaber
+
+    ## Hvilken type serviceopgaver aflaster især familien i den danske velfærdsmodel?
+
+    1. [ ] Militær og udenrigstjeneste
+    2. [x] Børnepasning og ældrepleje
+    3. [ ] Bankdrift og varehandel
+
+    ## Hvem tog sig historisk ofte af ældre, børn og andre, der ikke kunne klare sig selv?
+
+    1. [ ] Internationale organisationer
+    2. [ ] Politiske partier
+    3. [x] Familien eller lokale fællesskaber
+
+    ## Hvornår blev de første skridt mod det moderne danske velfærdssamfund taget?
+
+    1. [x] I 1890'erne
+    2. [ ] I 1660'erne
+    3. [ ] I 1970'erne
+
+    ## Hvad ændrede socialreformen i 1933 ved tildelingen af hjælp?
+
+    1. [ ] Den overlod alle afgørelser til private organisationer
+    2. [x] Den indførte klarere regler for, hvornår og hvor meget man kunne få
+    3. [ ] Den gjorde al offentlig hjælp midlertidig
+
+    ## Hvad betød afskaffelsen af de fleste deklasseringsbestemmelser i 1933?
+
+    1. [ ] Modtagere af hjælp mistede automatisk deres valgret
+    2. [ ] Kommunerne kunne frit fastsætte borgernes rettigheder
+    3. [x] Man mistede som hovedregel ikke borgerrettigheder, fordi man modtog hjælp
+
+    ## Hvilke årtier var centrale for udbygningen af det moderne velfærdssamfund?
+
+    1. [x] 1950'erne og 1960'erne
+    2. [ ] 1820'erne og 1830'erne
+    3. [ ] 1990'erne og 2000'erne
+
+    ## Hvilken ydelse blev indført til alle ældre med folkepensionslovene?
+
+    1. [ ] Arbejdsløshedsdagpenge
+    2. [x] Folkepension
+    3. [ ] Barselsdagpenge
+
+    ## Hvordan ændrede velfærdsstatens tilbud sig i efterkrigstiden?
+
+    1. [ ] Den gik fra serviceydelser til kun at tilbyde privat forsikring
+    2. [ ] Den afskaffede hjælp til familier
+    3. [x] Den udvidede serviceydelser som børnepasning og hjemmehjælp
+
+    ## Hvilken udvikling gjorde offentlig børnepasning og ældrepleje særlig vigtig?
+
+    1. [x] Flere kvinder kom ud på arbejdsmarkedet
+    2. [ ] Færre familier boede i Danmark
+    3. [ ] Arbejdsugen blev længere end 60 timer
+
+    ## Hvor længe har barsels- og forældreorloven med fulde dagpenge været gældende siden 2002?
+
+    1. [ ] 26 uger
+    2. [ ] 40 uger
+    3. [x] 52 uger
+
+    ## Hvilken økonomisk periode havde Danmark fra 1957 til 1973?
+
+    1. [ ] En langvarig lavkonjunktur
+    2. [x] Kraftig økonomisk vækst
+    3. [ ] En periode uden vækst i den offentlige sektor
+
+    ## Hvorfor er den stigende forsørgerbyrde en udfordring for velfærdsstaten?
+
+    1. [ ] Der bliver færre ældre, men flere unge
+    2. [ ] Flere borgere forlader velfærdsordningerne
+    3. [x] Der bliver færre til at betale for velfærden, mens flere skal bruge den
+
+    ## Hvordan ændres folkepensionsalderen ifølge reglerne beskrevet i teksten?
+
+    1. [x] Den hæves gradvist, fordi danskerne lever længere
+    2. [ ] Den sænkes hvert år
+    3. [ ] Den fastsættes af den enkelte kommune
+
+    ## Hvad var efterlønnen, da den blev indført i 1979?
+
+    1. [ ] En ydelse til alle unge under 18 år
+    2. [x] En mulighed for personer over 60 år til at trække sig tilbage før folkepensionsalderen
+    3. [ ] Et tilskud til arbejdsgivere, der ansatte pensionister
+
+    ## Hvem kan få ret til tidlig pension fra 2022 ifølge teksten?
+
+    1. [ ] Alle, der har været på dagpenge i et år
+    2. [ ] Alle, der fylder 60 år
+    3. [x] Personer med en lang tilknytning til arbejdsmarkedet
+
+    ## Hvordan er dagpengeperioden blevet ændret siden 1993?
+
+    1. [x] Den er gradvist blevet afkortet og har været to år siden 2010
+    2. [ ] Den er blevet forlænget fra to til syv år
+    3. [ ] Den er blevet afskaffet for alle arbejdsløse
+
+    ## Hvad er et beskæftigelsesfradrag?
+
+    1. [ ] En afgift, som kun arbejdsløse betaler
+    2. [x] Et beløb, man ikke betaler skat af, når man er i arbejde eller har virksomhedsoverskud
+    3. [ ] En ydelse, som kun gives til pensionister
+
+    ## Hvad kendetegner et fleksjob?
+
+    1. [ ] Et job uden løn eller offentlig støtte
+    2. [ ] En ordning, hvor man automatisk får førtidspension
+    3. [x] Man arbejder efter sin evne og får offentlig støtte for resten
+
+    ## Hvilken gruppe havde ifølge teksten en lavere beskæftigelsesandel i 2023 end personer med dansk oprindelse?
+
+    1. [x] Indvandrere med ikke-vestlig baggrund
+    2. [ ] Alle personer over 65 år
+    3. [ ] Personer, der arbejder i landbruget
+
+    ## Hvad betyder progressiv indkomstskat?
+
+    1. [ ] Alle betaler præcis det samme beløb i skat
+    2. [ ] Skatteprocenten falder, når indkomsten stiger
+    3. [x] Skatteprocenten stiger for højere indkomster
+
+    ## Hvad er en vigtig forskel på indkomstskat og moms i forhold til omfordeling?
+
+    1. [x] Indkomstskat omfordeler mere, fordi højere indkomster betaler en større andel
+    2. [ ] Moms betales kun af de højeste indkomster
+    3. [ ] Indkomstskat betales kun af arbejdsgivere
+
+    ## Hvad er bundfradraget?
+
+    1. [ ] En skat på varer, der importeres
+    2. [x] Den del af indkomsten, man ikke betaler indkomstskat af
+    3. [ ] Et beløb, som kommunerne udbetaler til virksomheder
+
+    ## Hvilken andel af de offentlige udgifter går omtrent til kontante ydelser ifølge teksten?
+
+    1. [ ] En tiendedel
+    2. [ ] Halvdelen
+    3. [x] Cirka en tredjedel
+
+    ## Hvilken af disse er en kontant velfærdsydelse?
+
+    1. [x] Statens uddannelsesstøtte (SU)
+    2. [ ] En plads på et bibliotek
+    3. [ ] Undervisning i folkeskolen
+
+    ## Hvilken af disse er en offentlig serviceydelse?
+
+    1. [ ] Børne- og ungeydelse
+    2. [x] Behandling på et sygehus
+    3. [ ] Arbejdsløshedsdagpenge
+
+    ## Hvem leverer de fleste velfærdsydelser i praksis?
+
+    1. [ ] EU's institutioner
+    2. [ ] Private forsikringsselskaber
+    3. [x] Kommunerne
+
+    ## Hvilket område har regionerne hovedansvaret for?
+
+    1. [x] At drive størstedelen af sundhedsvæsenet
+    2. [ ] At drive alle folkeskoler
+    3. [ ] At opkræve alle kommunale skatter
+
+    ## Hvad betyder udlicitering af en velfærdsopgave?
+
+    1. [ ] Det offentlige stopper med at betale for opgaven
+    2. [x] En privat virksomhed udfører en opgave, som det offentlige fortsat betaler for
+    3. [ ] Opgaven overtages af en anden kommune
+
+    ## Hvilken rolle spiller frivillige organisationer typisk i velfærdssamfundet?
+
+    1. [ ] De erstatter alle offentlige velfærdsydelser
+    2. [ ] De bestemmer, hvem der kan modtage folkepension
+    3. [x] De supplerer den offentlige service med frivillig indsats
+
+    ## Hvordan finansieres friskoler typisk?
+
+    1. [x] De får et stort offentligt tilskud, og forældrene betaler en mindre del
+    2. [ ] De finansieres udelukkende af staten uden forældrebetaling
+    3. [ ] De drives af kommunerne som en del af folkeskolesystemet
+
+    ## Hvad er arbejdsmarkedspensionen et supplement til?
+
+    1. [ ] Dagpenge ved arbejdsløshed
+    2. [x] Folkepensionen
+    3. [ ] Kontanthjælp

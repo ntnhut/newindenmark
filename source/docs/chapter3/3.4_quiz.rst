@@ -30,3 +30,153 @@ Questions
     1. [ ] Kommuner, regioner og EU
     2. [ ] Domstole, politi og Folketing
     3. [x] Staten, arbejdsgiverne og lønmodtagerne
+
+    ## Hvor stor en andel af befolkningen mellem 16 og 64 år var i beskæftigelse i 2025?
+
+    1. [x] 77,6 procent
+    2. [ ] 68 procent
+    3. [ ] 50 procent
+
+    ## Hvad er efter- og videreuddannelse?
+
+    1. [ ] Uddannelse, man kun kan tage før folkeskolen
+    2. [x] Løbende uddannelse i løbet af arbejdslivet
+    3. [ ] Uddannelse, der alene gives til arbejdsgivere
+
+    ## Hvilke to hovedorganisationer repræsenterer lønmodtagere og arbejdsgivere?
+
+    1. [ ] KL og Danske Regioner
+    2. [ ] OECD og WTO
+    3. [x] FH og DA
+
+    ## Hvad kaldes Septemberforliget også?
+
+    1. [x] Arbejdsmarkedets Grundlov
+    2. [ ] Den danske arbejdsplan
+    3. [ ] Forligsinstitutionen
+
+    ## Hvad er en kollektiv overenskomst?
+
+    1. [ ] En lov, som Folketinget vedtager for alle virksomheder
+    2. [x] En aftale mellem fagforening og arbejdsgiver om løn- og arbejdsvilkår
+    3. [ ] En aftale mellem kommuner om skatteprocenter
+
+    ## Hvem har ifølge Septemberforliget ret til at lede og fordele arbejdet?
+
+    1. [ ] Fagforeningen
+    2. [ ] Folketinget
+    3. [x] Arbejdsgiveren
+
+    ## Hvad betyder fredspligt under en gældende overenskomst?
+
+    1. [x] Strejke og lockout er ikke tilladt, mens overenskomsten gælder
+    2. [ ] Arbejdsgiveren kan ikke ansætte nye medarbejdere
+    3. [ ] Medarbejderne må ikke melde sig ind i en fagforening
+
+    ## Hvilken andel af lønmodtagerne var medlem af en fagforening i 2025 ifølge teksten?
+
+    1. [ ] Cirka en tredjedel
+    2. [x] 68 procent
+    3. [ ] 95 procent
+
+    ## Hvad er FH?
+
+    1. [ ] En organisation for kommuner
+    2. [ ] En organisation for domstole
+    3. [x] Fagbevægelsens Hovedorganisation
+
+    ## Hvad betyder foreningsfrihed på arbejdsmarkedet?
+
+    1. [x] Lønmodtagere vælger selv, om og hvilken fagforening de vil være medlem af
+    2. [ ] Arbejdsgivere kan kræve medlemskab af en bestemt fagforening
+    3. [ ] Kun offentligt ansatte må være medlem af fagforeninger
+
+    ## Må en arbejdsgiver afskedige en medarbejder, fordi vedkommende er medlem af en fagforening?
+
+    1. [ ] Ja, hvis arbejdsgiveren er uenig med fagforeningen
+    2. [ ] Ja, men kun ved nyansættelse
+    3. [x] Nej
+
+    ## Hvem fastsætter løn og arbejdsvilkår i Danmark som hovedregel?
+
+    1. [ ] Folketinget alene
+    2. [x] Arbejdsmarkedets parter gennem aftaler
+    3. [ ] EU-Kommissionen
+
+    ## Har Danmark en lovbestemt mindsteløn?
+
+    1. [ ] Ja, den fastsættes hvert år af regeringen
+    2. [x] Nej, mindsteløn aftales gennem overenskomster
+    3. [ ] Ja, men kun for offentligt ansatte
+
+    ## Hvor stor en del af det danske arbejdsmarked er dækket af kollektive overenskomster?
+
+    1. [x] Mere end 80 procent
+    2. [ ] Omkring 20 procent
+    3. [ ] Præcis halvdelen
+
+    ## Hvilke vilkår kan en kollektiv overenskomst fastlægge?
+
+    1. [ ] Kun skatter og kommunale budgetter
+    2. [ ] Kun regler for folketingsvalg
+    3. [x] Løn, pension, arbejdstid, ferie og opsigelse
+
+    ## Hvad kan ske, hvis parterne ikke bliver enige om en ny overenskomst?
+
+    1. [ ] Overenskomsten forlænges automatisk for altid
+    2. [x] Der kan opstå konflikt med strejke eller lockout
+    3. [ ] Fagforeningerne bliver opløst
+
+    ## Hvad er Forligsinstitutionens opgave?
+
+    1. [x] At forsøge at mægle og forebygge konflikter mellem arbejdsmarkedets parter
+    2. [ ] At fastsætte alle lønninger i Danmark
+    3. [ ] At kontrollere kommunernes budgetter
+
+    ## Hvornår blev Forligsinstitutionen oprettet?
+
+    1. [ ] 1899
+    2. [x] 1910
+    3. [ ] 1998
+
+    ## Hvad er et mæglingsforslag?
+
+    1. [ ] En dom fra Højesteret
+    2. [ ] Et lovforslag om mindsteløn
+    3. [x] Et forslag til et kompromis mellem arbejdsmarkedets parter
+
+    ## Hvad skete der under den seneste storkonflikt på det private arbejdsmarked i 1998?
+
+    1. [x] Mange busser kørte ikke, og butikkerne havde problemer med varelevering
+    2. [ ] Alle offentlige skoler blev nedlagt
+    3. [ ] Danmark forlod arbejdsmarkedets parter
+
+    ## Hvad er trepartssamarbejde?
+
+    1. [ ] Samarbejde mellem Folketinget, domstolene og medierne
+    2. [x] Samarbejde mellem staten, arbejdsgiverne og lønmodtagerne
+    3. [ ] Samarbejde mellem tre politiske partier i en regering
+
+    ## Hvilke emner kan indgå i trepartssamarbejdet?
+
+    1. [ ] Kun udenrigspolitik og forsvar
+    2. [ ] Kun kommunale skolevalg
+    3. [x] Arbejdsmiljø, arbejdsformidling, uddannelse og arbejdsløshedsforsikring
+
+    ## Hvad betyder fleksibilitet i flexicurity-modellen for arbejdsgiverne?
+
+    1. [x] Det er relativt nemt at ansætte og afskedige medarbejdere
+    2. [ ] Lønninger fastsættes af Folketinget
+    3. [ ] Medarbejdere kan ikke skifte arbejdsplads
+
+    ## Hvad betyder sikkerhed i flexicurity-modellen for lønmodtagerne?
+
+    1. [ ] Ingen kan blive afskediget
+    2. [x] Arbejdsløse har økonomisk støtte og hjælp til at komme tilbage i arbejde
+    3. [ ] Alle får samme løn uanset arbejde
+
+    ## Hvilken hjælp kan arbejdsløse få for at komme tilbage på arbejdsmarkedet?
+
+    1. [ ] Kun mulighed for førtidspension
+    2. [ ] Automatisk ansættelse i staten
+    3. [x] For eksempel uddannelse, praktik eller anden aktivering

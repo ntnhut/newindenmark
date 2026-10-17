@@ -24,3 +24,135 @@ Questions
     1. [x] Danmark handler meget med andre lande
     2. [ ] Danmark kun handler inden for landets grænser
     3. [ ] Danmark ikke importerer varer
+
+    ## Hvilken udvikling har arbejdsmarkedet i Danmark gennemgået?
+
+    1. [ ] Fra servicesamfund til landbrugssamfund
+    2. [x] Fra landbrugssamfund over industrisamfund til videns- og servicesamfund
+    3. [ ] Fra industrisamfund til et samfund uden tjenesteydelser
+
+    ## Hvilke aktiviteter kendetegner et videns- og servicesamfund?
+
+    1. [x] Udnyttelse af viden og produktion af tjenesteydelser
+    2. [ ] Kun produktion af råvarer i landbruget
+    3. [ ] Udvinding af kul og jernmalm
+
+    ## Hvornår voksede industri og håndværk hurtigt i Danmark?
+
+    1. [ ] Fra 1600-tallet
+    2. [ ] Fra 1950'erne
+    3. [x] Fra 1870'erne
+
+    ## Hvilke varer udgjorde størstedelen af Danmarks eksport frem til slutningen af 1950'erne?
+
+    1. [ ] Elektronik og biler
+    2. [x] Landbrugsvarer
+    3. [ ] Olie og naturgas
+
+    ## Hvor stor en andel af arbejdsstyrken arbejder i selve landbruget i dag ifølge teksten?
+
+    1. [ ] Cirka 20 procent
+    2. [ ] Cirka 10 procent
+    3. [x] Cirka to procent
+
+    ## Hvad betyder begrebet fødevareklynge?
+
+    1. [x] At mange arbejder med forarbejdning, transport, salg og udvikling ud over selve landbruget
+    2. [ ] At alle fødevarer produceres af én gård
+    3. [ ] At fødevarehandlen kun foregår lokalt
+
+    ## Hvad er et kendetegn ved økologisk landbrug ifølge teksten?
+
+    1. [ ] Det anvender flere kemiske sprøjtemidler end konventionelt landbrug
+    2. [x] Det drives blandt andet uden kemiske sprøjtemidler og kunstgødning
+    3. [ ] Dyrene holdes altid indendørs uden adgang til plads
+
+    ## Hvornår fandt den anden store bølge af industrialisering sted i Danmark?
+
+    1. [ ] I 1920'erne
+    2. [ ] Fra 1980'erne til 2000
+    3. [x] Fra slutningen af 1950'erne til omkring 1970
+
+    ## Hvilken sektor voksede, da andelen af industriansatte begyndte at falde fra 1970'erne?
+
+    1. [x] Servicesektoren
+    2. [ ] Landbruget
+    3. [ ] Fiskeriet
+
+    ## Hvilke danske fødevarevirksomheder er nævnt som internationale giganter?
+
+    1. [ ] LEGO og Vestas
+    2. [x] Danish Crown og Arla
+    3. [ ] Mærsk og GN Store Nord
+
+    ## Hvilken dansk virksomhed er den største nævnte medicinalvirksomhed?
+
+    1. [ ] Carlsberg
+    2. [ ] Widex
+    3. [x] Novo Nordisk
+
+    ## Hvad fremstiller de danske virksomheder GN Store Nord, William Demant og Widex?
+
+    1. [x] Høreapparater
+    2. [ ] Vindmøller
+    3. [ ] Medicin
+
+    ## Hvad betyder LEGO ifølge teksten?
+
+    1. [ ] Leg og arbejde
+    2. [x] LEg GOdt
+    3. [ ] Legetøj og gaver
+
+    ## Hvor ligger LEGOs hovedsæde?
+
+    1. [ ] København
+    2. [ ] Aarhus
+    3. [x] Billund
+
+    ## Hvilket dansk rederi var verdens næststørste containerrederi i 2023?
+
+    1. [ ] Danish Crown
+    2. [x] Mærsk
+    3. [ ] Carlsberg
+
+    ## Hvilken dansk virksomhed var verdens største vindmølleproducent i 2024 ifølge teksten?
+
+    1. [x] Vestas
+    2. [ ] Arla
+    3. [ ] LEGO
+
+    ## Hvor stor en andel af Danmarks samlede produktion udgør eksporten omtrent?
+
+    1. [ ] En tiendedel
+    2. [ ] En fjerdedel
+    3. [x] Cirka halvdelen
+
+    ## Hvilket land importerer Danmark mest fra?
+
+    1. [x] Tyskland
+    2. [ ] USA
+    3. [ ] Kina
+
+    ## Hvilket land eksporterer Danmark mest til?
+
+    1. [ ] Sverige
+    2. [x] USA
+    3. [ ] Norge
+
+    ## Hvilke internationale organisationer arbejder blandt andet for friere handel?
+
+    1. [ ] NATO og FN
+    2. [ ] WHO og UNESCO
+    3. [x] OECD og WTO
+
+    ## Hvad har nogle virksomheder gjort som følge af økonomisk globalisering?
+
+    1. [x] Flyttet dele af produktionen til lande med lavere lønninger
+    2. [ ] Flyttet al udvikling og ledelse væk fra Danmark
+    3. [ ] Stoppet med at eksportere varer
+
+    ## Hvilke funktioner har virksomheder ofte beholdt i Danmark efter udflytning af dele af produktionen?
+
+    1. [ ] Kun råvareudvinding
+    2. [x] Produktudvikling, salg og ledelse
+    3. [ ] Ingen funktioner

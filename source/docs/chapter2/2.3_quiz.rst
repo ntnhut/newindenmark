@@ -24,3 +24,165 @@ Questions
     1. [x] En dommer
     2. [ ] Politiet alene
     3. [ ] Folketingets formand
+
+    ## Hvilken frihedsrettighed beskytter retten til at samles og give udtryk for holdninger?
+
+    1. [ ] Ejendomsretten
+    2. [x] Forsamlingsfriheden
+    3. [ ] Valgbarheden
+
+    ## Hvilken frihedsrettighed giver borgerne ret til at danne foreninger?
+
+    1. [x] Foreningsfriheden
+    2. [ ] Religionspligten
+    3. [ ] Aktindsigten
+
+    ## Hvad betyder det, at grundloven forbyder censur?
+
+    1. [ ] Bøger og aviser skal godkendes af staten inden udgivelse
+    2. [ ] Kun offentlige myndigheder må udgive aviser
+    3. [x] Staten kan ikke kræve forhåndsgodkendelse af eksempelvis bøger og aviser
+
+    ## Hvem afgør, om grænserne for ytringsfriheden er overtrådt?
+
+    1. [ ] Politiet alene
+    2. [x] Domstolene
+    3. [ ] Folketingets formand
+
+    ## Hvilke områder beskytter grundloven mod statslige indgreb?
+
+    1. [x] Personlig frihed, boligens ukrænkelighed og ejendomsret
+    2. [ ] Kun retten til at eje en avis
+    3. [ ] Retten til at undlade at følge loven
+
+    ## Hvornår blev Den Europæiske Menneskerettighedskonvention en del af dansk lovgivning?
+
+    1. [ ] 1849
+    2. [ ] 1973
+    3. [x] 1992
+
+    ## Hvilken opgave har den offentlige forvaltning?
+
+    1. [x] At føre landets love ud i livet og stille offentlige tilbud til rådighed
+    2. [ ] At vedtage alle landets love
+    3. [ ] At dømme i alle straffesager
+
+    ## Hvad betyder det, at forvaltningens handlinger skal have hjemmel i en lov?
+
+    1. [ ] Myndighederne må handle uden regler, hvis det er nødvendigt
+    2. [x] Forvaltningen skal have lovgrundlag for sine handlinger
+    3. [ ] Kun Folketinget må udføre offentlige opgaver
+
+    ## Hvem vælger Folketingets Ombudsmand?
+
+    1. [ ] Regeringen
+    2. [ ] Højesteret
+    3. [x] Folketinget
+
+    ## Hvad kan Folketingets Ombudsmand gøre, hvis en myndighed har begået fejl?
+
+    1. [x] Kritiserer myndigheden og opfordrer den til at ændre praksis
+    2. [ ] Overtager myndighedens afgørelse og ændrer den direkte
+    3. [ ] Vedtager en ny lov uden Folketinget
+
+    ## Hvem har som udgangspunkt ret til at overvære retssager?
+
+    1. [ ] Kun dommere og advokater
+    2. [x] Borgerne
+    3. [ ] Kun parterne i sagen
+
+    ## Hvornår kan en retssag holdes for lukkede døre?
+
+    1. [x] Hvis hensyn til sagens opklaring, vidners sikkerhed eller statens sikkerhed taler for det
+    2. [ ] Hver gang en borger ønsker det
+    3. [ ] Altid hvis medierne er til stede
+
+    ## Hvad giver aktindsigt en part i en sag ret til?
+
+    1. [ ] At ændre lovgivningen
+    2. [ ] At bestemme myndighedens afgørelse
+    3. [x] At se sagens dokumenter efter reglerne
+
+    ## Hvem har værnepligt i Danmark efter reglerne fra 1. juli 2025?
+
+    1. [ ] Kun mænd uden dansk statsborgerskab
+    2. [x] Mænd og kvinder med dansk statsborgerskab over 18 år, som bor eller opholder sig i Danmark
+    3. [ ] Alle personer uanset alder og statsborgerskab
+
+    ## Hvad sker der, hvis der ikke er frivillige nok til at aftjene værnepligt?
+
+    1. [x] Det afgøres ved lodtrækning, hvem der skal aftjene værnepligt
+    2. [ ] Alle værnepligtige fritages automatisk
+    3. [ ] Kommunerne udpeger selv de værnepligtige
+
+    ## Hvad er et frinummer?
+
+    1. [ ] En tilladelse til at vælge tjenestested
+    2. [ ] En fritagelse fra alle borgerpligter
+    3. [x] Et lodtrækningsresultat, der betyder, at man ikke skal aftjene værnepligt
+
+    ## Hvor kan en militærnægter aftjene sin værnepligt?
+
+    1. [ ] Kun i Folketinget
+    2. [x] Ved andet arbejde til gavn for samfundet, fx på institutioner eller museer
+    3. [ ] Ved at rejse ud af landet
+
+    ## Hvad er et borgerligt ombud?
+
+    1. [x] Et hverv, som samfundet kan pålægge en borger
+    2. [ ] En frivillig fritidsaktivitet uden ansvar
+    3. [ ] En dom, der kun gælder politikere
+
+    ## Hvad gør lægdommere i en straffesag?
+
+    1. [ ] De udarbejder anklageskriftet
+    2. [ ] De efterforsker sagen for politiet
+    3. [x] De er med til at vurdere skyld og straf
+
+    ## Hvad er den kriminelle lavalder i Danmark?
+
+    1. [ ] 12 år
+    2. [x] 15 år
+    3. [ ] 18 år
+
+    ## Hvilken myndighed behandler sager om børn mellem 10 og 14 år, der begår kriminalitet?
+
+    1. [x] Ungdomskriminalitetsnævnet
+    2. [ ] Højesteret
+    3. [ ] Folketingets Ombudsmand
+
+    ## Hvilke almindelige straffe findes i Danmark?
+
+    1. [ ] Dødsstraf og eksil
+    2. [ ] Kun samfundstjeneste
+    3. [x] Bøde og fængsel
+
+    ## Kan danske domstole idømme dødsstraf?
+
+    1. [ ] Ja, ved alle alvorlige forbrydelser
+    2. [x] Nej
+    3. [ ] Ja, men kun ved økonomisk kriminalitet
+
+    ## Hvem kan rejse en straffesag på samfundets vegne?
+
+    1. [x] Anklagemyndigheden
+    2. [ ] Domstolene selv
+    3. [ ] Kommunalbestyrelsen
+
+    ## Hvad betyder princippet om, at enhver rimelig tvivl skal komme den tiltalte til gode?
+
+    1. [ ] Den tiltalte skal altid dømmes
+    2. [ ] Politiet afgør selv skyldsspørgsmålet
+    3. [x] Den tiltalte skal ikke dømmes, hvis der er rimelig tvivl om skyld
+
+    ## Hvem efterforsker strafbare forhold?
+
+    1. [ ] Domstolene
+    2. [x] Politiet
+    3. [ ] Folketinget
+
+    ## Hvor hurtigt skal en anholdt person stilles for en dommer?
+
+    1. [x] Inden for 24 timer
+    2. [ ] Inden for tre dage
+    3. [ ] Inden for en uge

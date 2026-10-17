@@ -30,3 +30,297 @@ Questions
     1. [ ] Udenrigspolitikken
     2. [ ] Forsvaret
     3. [x] Lokale opgaver og velfærdstilbud
+
+    ## Hvornår fik Danmark sin første demokratiske grundlov?
+
+    1. [ ] 1665
+    2. [x] 1849
+    3. [ ] 1901
+
+    ## Hvilken dato fejres som Grundlovsdag?
+
+    1. [x] 5. juni
+    2. [ ] 1. januar
+    3. [ ] 9. april
+
+    ## Hvad betød grundloven i 1849 for kongens magt?
+
+    1. [ ] Kongen fik enevældig magt igen
+    2. [ ] Kongen overtog domstolenes magt
+    3. [x] Kongens magt blev delt med folkevalgte repræsentanter
+
+    ## Hvornår blev parlamentarismen indført i praksis i Danmark?
+
+    1. [ ] 1849
+    2. [x] 1901
+    3. [ ] 1953
+
+    ## Hvornår fik kvinder og tjenestefolk valgret til Folketinget?
+
+    1. [ ] 1849
+    2. [ ] 1901
+    3. [x] 1915
+
+    ## Hvad er den gældende valgretsalder til Folketinget?
+
+    1. [ ] 16 år
+    2. [ ] 17 år
+    3. [x] 18 år
+
+    ## Hvilken grundlov er den nuværende danske grundlov?
+
+    1. [ ] Grundloven fra 1849
+    2. [x] Grundloven fra 1953
+    3. [ ] Kongeloven fra 1665
+
+    ## Hvorfor er det vanskeligt at ændre grundloven?
+
+    1. [ ] Ændringer kræver kun en beslutning fra regeringen
+    2. [ ] Grundloven kan slet ikke ændres
+    3. [x] Der skal være tilslutning fra både Folketinget og befolkningen
+
+    ## Hvilken beskrivelse passer på det danske demokrati?
+
+    1. [x] Et repræsentativt demokrati, hvor vælgerne vælger politikere til at træffe beslutninger
+    2. [ ] Et direkte demokrati, hvor alle love vedtages af folkeafstemninger
+    3. [ ] Et system, hvor monarken alene træffer de politiske beslutninger
+
+    ## Hvad betyder parlamentarisme?
+
+    1. [ ] Regeringen kan blive ved magten, selv om et flertal i Folketinget er imod den
+    2. [x] En regering må ikke have et flertal i Folketinget imod sig
+    3. [ ] Folketinget udnævner dommerne til hver enkelt sag
+
+    ## Hvem udøver den lovgivende magt i Danmark?
+
+    1. [x] Folketinget og regeringen i forening
+    2. [ ] Domstolene alene
+    3. [ ] Kommunalbestyrelserne alene
+
+    ## Hvem har den udøvende magt?
+
+    1. [ ] Folketinget
+    2. [ ] Domstolene
+    3. [x] Regeringen
+
+    ## Hvad er domstolenes vigtigste rolle i magtens tredeling?
+
+    1. [ ] At udarbejde regeringens lovforslag
+    2. [x] At udøve den dømmende magt og afgøre retlige konflikter
+    3. [ ] At opkræve kommunale skatter
+
+    ## Hvad er formålet med magtens tredeling?
+
+    1. [ ] At samle den politiske magt hos én myndighed
+    2. [ ] At gøre domstolene underlagt regeringen
+    3. [x] At magterne skal kontrollere og begrænse hinanden
+
+    ## Hvilken politisk rolle har den danske monark?
+
+    1. [ ] Monarken leder regeringen og bestemmer lovene
+    2. [ ] Monarken har vetoret over alle beslutninger i Folketinget
+    3. [x] Monarken har ikke politisk magt og udfører især ceremonielle opgaver
+
+    ## Hvem bestemmer, hvilke udlændinge der kan få dansk indfødsret?
+
+    1. [x] Regeringen og et flertal i Folketinget
+    2. [ ] Monarken alene
+    3. [ ] Den enkelte kommune
+
+    ## Hvilken frihedsrettighed beskytter retten til at give udtryk for sine holdninger?
+
+    1. [ ] Ejendomsretten
+    2. [x] Ytringsfriheden
+    3. [ ] Valgbarheden
+
+    ## Hvor mange medlemmer har Folketinget?
+
+    1. [ ] 98
+    2. [ ] 175
+    3. [x] 179
+
+    ## Hvor mange medlemmer af Folketinget vælges i Danmark?
+
+    1. [x] 175
+    2. [ ] 179
+    3. [ ] 98
+
+    ## Hvor mange medlemmer vælges fra Grønland og Færøerne tilsammen?
+
+    1. [ ] To
+    2. [x] Fire
+    3. [ ] Otte
+
+    ## Hvor ligger Folketinget?
+
+    1. [ ] Amalienborg i København
+    2. [ ] Aarhus Rådhus
+    3. [x] Christiansborg i København
+
+    ## Hvornår begynder Folketingets arbejdsår efter sommerferien?
+
+    1. [x] Den første tirsdag i oktober
+    2. [ ] Den første mandag i januar
+    3. [ ] Den sidste fredag i juni
+
+    ## Hvad er finansloven?
+
+    1. [ ] En liste over alle politiske partier
+    2. [x] Statens samlede budget for det næste år
+    3. [ ] En aftale mellem kommunerne og regionerne
+
+    ## Hvad er formålet med Folketingets kontrol med regeringen?
+
+    1. [x] At sikre, at regeringen fører lovene ud i livet på den måde, Folketinget har ønsket
+    2. [ ] At lade Folketinget overtage domstolenes sager
+    3. [ ] At forhindre ministre i at svare på spørgsmål
+
+    ## Hvad er et mistillidsvotum?
+
+    1. [ ] En folkeafstemning om en kommunal beslutning
+    2. [x] Folketingets udtryk for mistillid til statsministeren eller regeringen
+    3. [ ] En dom afsagt af Højesteret
+
+    ## Hvad er en kongerunde?
+
+    1. [ ] En afstemning om monarkens arvefølge
+    2. [ ] Et møde mellem kommunalbestyrelserne
+    3. [x] Partiernes rådgivning til kongen om, hvem der skal lede regeringsforhandlingerne
+
+    ## Hvad kaldes Folketingets faste udvalg undertiden?
+
+    1. [x] Folketingets værksteder
+    2. [ ] Regeringens domstole
+    3. [ ] Kommunernes råd
+
+    ## Hvad er Europaudvalgets opgave?
+
+    1. [ ] At vælge medlemmer af Europa-Parlamentet
+    2. [x] At føre kontrol med den danske EU-politik og give regeringen et forhandlingsmandat
+    3. [ ] At behandle alle danske straffesager med forbindelse til EU
+
+    ## Hvad betyder det, at en regering er en mindretalsregering?
+
+    1. [ ] Regeringspartierne har tilsammen flertal i Folketinget
+    2. [ ] Regeringen består kun af ministre uden for Folketinget
+    3. [x] Regeringspartierne har ikke tilsammen flertal og må søge støtte fra andre partier
+
+    ## Hvad kaldes partier, som står uden for regeringen og støtter den?
+
+    1. [x] Støttepartier
+    2. [ ] Regeringspartier
+    3. [ ] Oppositionen
+
+    ## Hvad kendetegner det samarbejdende folkestyre?
+
+    1. [ ] Alle love vedtages uden politiske forhandlinger
+    2. [x] Partier søger kompromiser og brede flertal om politiske løsninger
+    3. [ ] Kun ét parti må deltage i regeringsforhandlinger
+
+    ## Hvor længe vælges Folketingets medlemmer højst ad gangen?
+
+    1. [ ] To år
+    2. [ ] Tre år
+    3. [x] Fire år
+
+    ## Hvem kan udskrive folketingsvalg før valgperiodens udløb?
+
+    1. [x] Statsministeren
+    2. [ ] Folketingets formand alene
+    3. [ ] Højesteret
+
+    ## Hvad betyder det, at folketingsvalg er hemmelige?
+
+    1. [ ] Vælgerne må ikke fortælle, at de har stemt
+    2. [x] Andre kan ikke se, hvem vælgeren stemmer på
+    3. [ ] Resultatet af valget offentliggøres ikke
+
+    ## Hvilke betingelser skal man som hovedregel opfylde for at stemme til folketingsvalg?
+
+    1. [x] Have dansk indfødsret, være fyldt 18 år og have fast bopæl i riget
+    2. [ ] Være fyldt 25 år og have en bestemt indkomst
+    3. [ ] Være medlem af et politisk parti
+
+    ## Hvordan fordeles mandaterne ved danske folketingsvalg?
+
+    1. [ ] Efter lodtrækning mellem partierne
+    2. [ ] Så det største parti får alle mandater
+    3. [x] Efter forholdstalsmetoden, så pladserne afspejler partiernes stemmeandele
+
+    ## Hvad er spærregrænsen normalt ved folketingsvalg?
+
+    1. [ ] Én procent
+    2. [x] To procent
+    3. [ ] Fem procent
+
+    ## Hvor mange behandlinger skal et lovforslag igennem i Folketinget?
+
+    1. [x] Tre
+    2. [ ] Én
+    3. [ ] Fem
+
+    ## Hvor mange folketingsmedlemmer skal mindst deltage, for at en afstemning er gyldig?
+
+    1. [ ] 45
+    2. [ ] 60
+    3. [x] 90
+
+    ## Hvem kan kræve, at et vedtaget lovforslag sendes til folkeafstemning?
+
+    1. [x] Mindst en tredjedel af Folketingets medlemmer
+    2. [ ] Enhver enkelt borger
+    3. [ ] Kun statsministeren
+
+    ## Hvor mange støtter skal et borgerforslag have inden for 180 dage for at blive overvejet i Folketinget?
+
+    1. [ ] 5.000
+    2. [x] 50.000
+    3. [ ] 100.000
+
+    ## Hvad er nærhedsprincippet i det lokale selvstyre?
+
+    1. [x] Opgaver, der berører borgernes dagligdag, skal løses så tæt på borgerne som muligt
+    2. [ ] Alle offentlige opgaver skal løses af Folketinget
+    3. [ ] Kommunerne skal ligge tæt på hinanden
+
+    ## Hvor mange kommuner og regioner blev der efter strukturreformen fra 2007?
+
+    1. [ ] 271 kommuner og 14 regioner
+    2. [ ] 14 kommuner og 271 regioner
+    3. [x] 98 kommuner og fem regioner
+
+    ## Hvilken offentlig myndighed har ikke mulighed for selv at udskrive skat?
+
+    1. [ ] Staten
+    2. [ ] Kommunerne
+    3. [x] Regionerne
+
+    ## Hvem vælger kommunalbestyrelsens formand efter kommunalvalget?
+
+    1. [x] Kommunalbestyrelsen vælger en borgmester
+    2. [ ] Statsministeren udpeger en borgmester
+    3. [ ] Vælgerne vælger borgmesteren direkte ved folketingsvalget
+
+    ## Skal man have dansk indfødsret for at stemme ved kommunal- og regionalvalg?
+
+    1. [ ] Ja, altid
+    2. [x] Nej, visse andre statsborgere og personer med fast bopæl i fire år kan også stemme
+    3. [ ] Ja, men kun hvis man er over 30 år
+
+    ## Hvad er interesseorganisationers rolle i demokratiet?
+
+    1. [x] De søger at påvirke politiske beslutninger og bidrager ofte med viden
+    2. [ ] De erstatter Folketinget ved lovbehandling
+    3. [ ] De udnævner dommere
+
+    ## Hvorfor kaldes medierne undertiden den fjerde statsmagt?
+
+    1. [ ] De vedtager love på vegne af Folketinget
+    2. [ ] De kontrollerer domstolenes afgørelser
+    3. [x] De holder øje med magthaverne og kan kritisere deres handlinger
+
+    ## Hvor stor en andel af den danske befolkning er medlem af mindst én forening ifølge teksten?
+
+    1. [ ] Cirka 35 procent
+    2. [x] Cirka 90 procent
+    3. [ ] Cirka 50 procent

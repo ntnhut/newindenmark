@@ -22,6 +22,18 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+quizdown_config = {
+    'quizdown_js': 'quizdown.js',
+    'start_on_load': True,
+    'shuffle_answers': True,
+    'shuffle_questions': False,
+    'primary_color': '#FF851B',
+    'secondary_color': '#DDDDDD',
+    'text_color': 'black',
+    'locale': 'en',
+    'immediateFeedback': True,
+    'autoAdvance': False,
+}
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -29,7 +41,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'furo'
 html_logo = "logo.png"
 html_title = "Danish Citizenship Test Practice"
-# html_static_path = ['_static']
+html_static_path = ['_static']
 
 html_theme_options = {
     # 'logo_only': True,

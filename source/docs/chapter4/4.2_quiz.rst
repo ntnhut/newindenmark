@@ -13,24 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilket år blev Danmark medlem af EF, det nuværende EU?
-
-    1. [ ] 1957
-    2. [x] 1973
-    3. [ ] 1995
-
-    ## Hvad er Europarådet?
-
-    1. [x] En international organisation, der er adskilt fra EU
-    2. [ ] EU's parlament
-    3. [ ] En dansk politisk myndighed
-
-    ## Hvilket dansk EU-forbehold blev afskaffet efter en folkeafstemning i 2022?
-
-    1. [ ] Retsforbeholdet
-    2. [x] Forsvarsforbeholdet
-    3. [ ] Euroforbeholdet
-
     ## Hvilket samarbejde var et af de første skridt mod EU?
 
     1. [x] Det Europæiske Kul- og Stålfællesskab
@@ -51,9 +33,21 @@ Questions
 
     ## Hvilket økonomisk formål havde det tidlige europæiske samarbejde?
 
-    1. [x] At genrejse Europa efter krigen og fremme samarbejde
-    2. [ ] At indføre samme regering i alle lande
-    3. [ ] At forhindre al handel mellem medlemslandene
+    1. [x] At genrejse Europa økonomisk og socialt efter krigens ødelæggelser
+    2. [ ] At indføre en fælles valuta umiddelbart efter krigen
+    3. [ ] At oprette en fælles europæisk menneskerettighedsdomstol
+
+    ## Hvilke to fællesskaber blev Kul- og Stålfællesskabet udvidet med i 1958?
+
+    1. [ ] Europarådet og Schengen-samarbejdet
+    2. [x] Det Europæiske Økonomiske Fællesskab og Det Europæiske Atomenergifællesskab
+    3. [ ] NATO og Den Europæiske Menneskerettighedsdomstol
+
+    ## Hvad var et centralt formål med det bredere økonomiske samarbejde i EF?
+
+    1. [ ] At indføre en fælles udenrigs- og sikkerhedspolitik
+    2. [ ] At etablere fælles regler om personkontrol ved de ydre grænser
+    3. [x] At afskaffe handelshindringer og etablere et mere fælles marked
 
     ## Hvornår trådte EU's indre marked i kraft?
 
@@ -67,11 +61,23 @@ Questions
     2. [ ] Kun personer og kapital
     3. [x] Varer, tjenesteydelser, personer og kapital
 
+    ## Hvad skete der med EF-samarbejdet i 1993 ud over indførelsen af det indre marked?
+
+    1. [x] EF skiftede navn til EU, og samarbejdet blev udvidet til flere politiske områder
+    2. [ ] EF beholdt sit navn, men indførte euroen i alle medlemslandene
+    3. [ ] EF blev omdannet til Europarådet med fokus på menneskerettigheder
+
     ## Hvor mange medlemslande har EU ifølge teksten?
 
     1. [x] 27
     2. [ ] 15
     3. [ ] 47
+
+    ## Hvilket år blev Danmark medlem af EF, det nuværende EU?
+
+    1. [ ] 1957
+    2. [x] 1973
+    3. [ ] 1995
 
     ## Hvilke lande blev medlemmer af EU sammen med Danmark i 1973?
 
@@ -88,8 +94,14 @@ Questions
     ## Hvad er et overordnet formål med EU?
 
     1. [x] At løse fælles europæiske problemer gennem samarbejde
-    2. [ ] At afskaffe alle nationale parlamenter
-    3. [ ] At erstatte FN som verdensomspændende organisation
+    2. [ ] At lade EU overtage alle nationale politikområder
+    3. [ ] At administrere Den Europæiske Menneskerettighedskonvention
+
+    ## Hvilke generelle målsætninger for EU nævner teksten?
+
+    1. [ ] At begrænse Europas rolle i verden og overlade borgernes rettigheder til medlemslandene
+    2. [x] At fremme økonomisk og social udvikling, styrke Europas rolle og borgernes rettigheder samt sikre frihed, sikkerhed og retfærdighed
+    3. [ ] At indføre ens skatter, uddannelser og regeringer i alle medlemslandene
 
     ## Hvor mange EU-lande har euroen som fælles valuta ifølge teksten?
 
@@ -103,11 +115,23 @@ Questions
     2. [ ] At indføre euroen i alle europæiske lande
     3. [x] At skabe et område uden indre grænser med en fælles ydre grænse
 
+    ## Hvilke praktiske ændringer har Schengen-samarbejdet som udgangspunkt medført?
+
+    1. [x] Personkontrollen ved de indre grænser er fjernet, og der er lavet fælles visumregler
+    2. [ ] Personkontrollen er bevaret, men medlemslandene har fået en fælles valuta
+    3. [ ] De nationale visumregler er bevaret, mens kontrollen ved de ydre grænser er fjernet
+
+    ## Hvilken virkning kan EU-lovgivning have i medlemslandene?
+
+    1. [ ] Den får først virkning for borgerne, når hvert nationalt parlament har vedtaget den igen
+    2. [x] Den kan gælde direkte for borgerne og have samme virkning som landets egen lovgivning
+    3. [ ] Den gælder for nationale myndigheder, men kan ikke gælde direkte for borgerne
+
     ## Hvad kan ske, når EU træffer en flertalsafgørelse?
 
     1. [x] Et forslag kan vedtages, selv om ikke alle medlemslande er enige
-    2. [ ] Hvert land kan frit vælge, om loven gælder for det
-    3. [ ] EU's institutioner skal opløses
+    2. [ ] Et forslag kan kun vedtages, hvis samtlige medlemslande er enige
+    3. [ ] Et land, der stemmer imod, er ikke bundet af den vedtagne beslutning
 
     ## Hvad er GDPR?
 
@@ -115,10 +139,16 @@ Questions
     2. [x] EU's databeskyttelsesforordning
     3. [ ] Et program for udviklingsbistand
 
+    ## Hvornår trådte GDPR i kraft, og hvad regulerer forordningen?
+
+    1. [ ] I 1993; den regulerer handel med varer mellem EU-landene
+    2. [x] I 2018; den stiller krav til behandlingen af personoplysninger
+    3. [ ] I 2022; den regulerer EU-landenes militære operationer
+
     ## Hvad betyder Den åbne koordinationsmetode?
 
-    1. [ ] EU vedtager altid bindende love på alle politikområder
-    2. [ ] Medlemslandene overlader al politik til Europa-Kommissionen
+    1. [ ] Medlemslandene vedtager bindende fælles lovgivning, som erstatter deres nationale politikker
+    2. [ ] Europa-Kommissionen fastsætter alene nationale mål og kan straffe lande, der ikke gennemfører dem
     3. [x] Landene sætter fælles mål og rapporterer om deres indsats, uden at anbefalingerne er bindende
 
     ## Hvor stor en del af Folketingets medlemmer skal som hovedregel støtte afgivelse af selvbestemmelsesret til internationalt samarbejde?
@@ -126,6 +156,18 @@ Questions
     1. [x] Mindst fem sjettedele, det vil sige mindst 150 medlemmer
     2. [ ] Mindst en tredjedel
     3. [ ] Alle 179 medlemmer
+
+    ## Hvad skal der ifølge teksten ske, hvis mindst 90, men færre end 150, folketingsmedlemmer støtter at afgive selvbestemmelsesret?
+
+    1. [ ] Folketinget kan vedtage forslaget endeligt med de 90 stemmer
+    2. [x] Der skal afholdes en folkeafstemning
+    3. [ ] Der skal først afholdes et nyt folketingsvalg
+
+    ## Hvor mange danske folkeafstemninger om ændringer i EF- og EU-samarbejdet omtaler teksten, og hvordan fordelte resultaterne sig?
+
+    1. [x] Ni folkeafstemninger: seks ja og tre nej
+    2. [ ] Seks folkeafstemninger: tre ja og tre nej
+    3. [ ] Tolv folkeafstemninger: ni ja og tre nej
 
     ## Hvad skete der ved folkeafstemningen om Maastricht-traktaten i 1992?
 
@@ -139,11 +181,11 @@ Questions
     2. [ ] Schengen-aftalen
     3. [x] Edinburgh-aftalen
 
-    ## Hvilket af disse områder var blandt Danmarks fire EU-forbehold?
+    ## Hvilke fire områder omfattede Danmarks oprindelige EU-forbehold?
 
-    1. [x] Den fælles valuta
-    2. [ ] Miljøbeskyttelse
-    3. [ ] Det indre marked
+    1. [ ] Handel, landbrug, fiskeri og miljø
+    2. [x] Unionsborgerskab, den fælles valuta, forsvar samt fælles rets- og udlændingepolitik
+    3. [ ] Det indre marked, regional udvikling, uddannelse og socialpolitik
 
     ## Hvad betyder det danske retsforbehold?
 
@@ -159,27 +201,45 @@ Questions
 
     ## Hvad blev resultatet af folkeafstemningen om euroen i 2000?
 
-    1. [x] Et flertal stemte nej til at indføre euroen
-    2. [ ] Et flertal stemte ja til at indføre euroen
-    3. [ ] Danmark blev tvunget til at indføre euroen uden afstemning
+    1. [x] 53,2 procent stemte nej, og 46,8 procent stemte ja
+    2. [ ] 46,8 procent stemte nej, og 53,2 procent stemte ja
+    3. [ ] 66,9 procent stemte nej, og 33,1 procent stemte ja
 
     ## Hvad betyder Danmarks fastkurspolitik over for euroen?
 
-    1. [ ] Den danske krone udskiftes dagligt med euro
-    2. [ ] Danmark har helt afbrudt samarbejdet med Den Europæiske Centralbank
+    1. [ ] Den danske krones kurs flyder frit uden forbindelse til euroen
+    2. [ ] Den danske krone erstattes af euroen ved handel med andre EU-lande
     3. [x] Kronens kurs følger euroens kurs
 
-    ## Hvornår blev det danske forsvarsforbehold ophævet?
+    ## Hvornår og med hvilket resultat blev det danske forsvarsforbehold ophævet?
 
-    1. [ ] 1993
-    2. [x] 2022
-    3. [ ] 2025
+    1. [ ] I 2000, hvor 53,2 procent stemte ja
+    2. [x] Den 1. juni 2022, hvor 66,9 procent stemte ja
+    3. [ ] Den 1. juni 2022, hvor 33,1 procent stemte ja
+
+    ## Hvorfor er det danske forbehold over for unionsborgerskabet ikke længere relevant?
+
+    1. [ ] Fordi forbeholdet blev ophævet ved folkeafstemningen om euroen i 2000
+    2. [ ] Fordi forbeholdet blev omdannet til en tilvalgsordning i 2015
+    3. [x] Fordi Amsterdam-traktaten fra 1999 gjorde garantien gældende for alle medlemslande
 
     ## Hvilken institution stiller som hovedregel forslag til ny EU-lovgivning?
 
     1. [x] Europa-Kommissionen
     2. [ ] EU-Domstolen
     3. [ ] Europarådet
+
+    ## Hvilke institutioner vedtager, ændrer eller forkaster som hovedregel Europa-Kommissionens lovforslag?
+
+    1. [ ] Det Europæiske Råd og EU-Domstolen
+    2. [x] Rådet for Den Europæiske Union og Europa-Parlamentet
+    3. [ ] Europarådet og Den Europæiske Menneskerettighedsdomstol
+
+    ## Hvor mange medlemmer har Europa-Kommissionen, og hvordan er Danmark repræsenteret?
+
+    1. [ ] 15 medlemmer, heraf to fra Danmark
+    2. [ ] 47 medlemmer, heraf tre fra Danmark
+    3. [x] 27 medlemmer, heraf én kommissær fra Danmark
 
     ## Hvilken institution kontrollerer, om medlemslandene overholder EU-lovgivningen?
 
@@ -193,11 +253,29 @@ Questions
     2. [ ] Fire år
     3. [x] Fem år
 
+    ## Hvilke interesser skal EU-kommissærerne arbejde for?
+
+    1. [x] EU's interesser og ikke deres hjemlands interesser
+    2. [ ] Kun deres eget medlemslands interesser
+    3. [ ] Kun Europa-Parlamentets største partis interesser
+
+    ## Hvem har været Danmarks EU-kommissær siden 2024, og hvilket område har han ansvar for?
+
+    1. [ ] Margrethe Vestager; konkurrencepolitik
+    2. [x] Dan Jørgensen; energi og boliger
+    3. [ ] Dan Jørgensen; konkurrencepolitik
+
     ## Hvordan vælges medlemmerne af Europa-Parlamentet?
 
     1. [x] Direkte af vælgerne i EU's medlemslande
     2. [ ] Af EU-Domstolen
     3. [ ] Af de nationale regeringer alene
+
+    ## Hvilken økonomisk beslutning skal Europa-Parlamentet blandt andet træffe?
+
+    1. [x] Det skal vedtage EU's udgiftsbudget
+    2. [ ] Det skal opkræve indkomstskat i medlemslandene
+    3. [ ] Det skal fastsætte kommunernes skatteprocenter
 
     ## Hvor mange medlemmer har Europa-Parlamentet ifølge teksten?
 
@@ -205,29 +283,89 @@ Questions
     2. [x] 720
     3. [ ] 450
 
+    ## Hvor mange danske medlemmer er der i Europa-Parlamentet ifølge teksten?
+
+    1. [ ] 12
+    2. [x] 15
+    3. [ ] 27
+
     ## Hvor ofte afholdes valg til Europa-Parlamentet?
 
     1. [ ] Hvert andet år
     2. [ ] Hvert fjerde år
     3. [x] Hvert femte år
 
+    ## Hvordan er medlemmerne organiseret i Europa-Parlamentet?
+
+    1. [ ] Efter hvilket land de kommer fra
+    2. [x] I partier eller grupper efter deres politiske holdninger
+    3. [ ] Efter hvilke udvalg i Europa-Parlamentet de arbejder i
+
+    ## Hvordan fordelte de fleste danske mandater sig efter valget til Europa-Parlamentet i juni 2024?
+
+    1. [x] SF og Socialdemokratiet fik tre hver, mens Venstre fik to
+    2. [ ] Venstre og Socialdemokratiet fik tre hver, mens SF fik to
+    3. [ ] SF og Venstre fik tre hver, mens Socialdemokratiet fik to
+
+    ## Hvad skete der med Alternativet ved valget til Europa-Parlamentet i 2024?
+
+    1. [ ] Partiet fik ét mandat
+    2. [ ] Partiet fik to mandater
+    3. [x] Partiet fik ikke nok stemmer til at blive valgt
+
+    ## Hvem repræsenterer Danmark i Det Europæiske Råd?
+
+    1. [ ] Den danske EU-kommissær
+    2. [x] Statsministeren
+    3. [ ] En dansk dommer
+
     ## Hvad fastlægger lederne på møderne i Det Europæiske Råd?
 
     1. [x] De overordnede politiske rammer for EU-samarbejdet
-    2. [ ] Domme over borgere i EU-landene
-    3. [ ] Kommunernes budgetter
+    2. [ ] Den endelige fortolkning af EU-regler i nationale retssager
+    3. [ ] Den konkrete udformning af alle forslag til ny EU-lovgivning
+
+    ## Hvordan træffes beslutningerne i Det Europæiske Råd som hovedregel?
+
+    1. [ ] Ved simpelt flertal
+    2. [ ] Ved kvalificeret flertal
+    3. [x] Ved enighed
 
     ## Hvem mødes i Rådet for Den Europæiske Union?
 
-    1. [ ] EU-landenes monarker
+    1. [ ] EU-landenes stats- og regeringsledere
     2. [x] Ministre fra medlemslandenes regeringer
-    3. [ ] Kun medlemmer af Europa-Parlamentet
+    3. [ ] Medlemmerne af Europa-Kommissionen
+
+    ## Hvor ofte skifter EU-formandskabet land, og hvornår har Danmark formandskabet ifølge teksten?
+
+    1. [ ] Hvert år; hele 2026
+    2. [x] Hver sjette måned; fra 1. juli til 31. december 2025
+    3. [ ] Hvert femte år; fra 2025 til 2030
+
+    ## Hvordan er Danmark repræsenteret ved EU-Domstolen?
+
+    1. [ ] Danmark har to dommere
+    2. [ ] Danmark deler én dommer med de øvrige nordiske EU-lande
+    3. [x] Danmark har én dommer
 
     ## Hvad er EU-Domstolens opgave?
 
-    1. [ ] At udarbejde forslag til EU's budget
-    2. [ ] At vælge medlemslandenes regeringer
+    1. [ ] At stille forslag til ny EU-lovgivning
+    2. [ ] At fastlægge de overordnede politiske rammer for EU
     3. [x] At sikre, at EU-lovgivningen overholdes og fortolkes
+
+    ## Hvornår blev Europarådet oprettet, og hvor længe har Danmark været medlem?
+
+    1. [x] Det blev oprettet i 1949, og Danmark har været medlem siden oprettelsen
+    2. [ ] Det blev oprettet i 1958, og Danmark blev medlem i 1973
+    3. [ ] Det blev oprettet i 1993, og Danmark blev medlem i 1999
+
+    ## Hvor mange europæiske stater er ifølge teksten medlemmer af Europarådet i dag?
+
+    1. [ ] 10
+    2. [ ] 27
+    3. [x] 47
 
     ## Er Europarådet en institution i EU?
 
@@ -235,14 +373,50 @@ Questions
     2. [ ] Ja, det er Europa-Parlamentets andet navn
     3. [ ] Ja, det er EU's øverste domstol
 
-    ## Hvad er Europarådets hovedformål?
+    ## Hvad skal et land anerkende, før det kan blive medlem af Europarådet?
 
-    1. [ ] At indføre en fælles valuta i Europa
-    2. [x] At fremme samarbejde, demokrati og borgernes frihedsrettigheder
-    3. [ ] At fastsætte toldsatser for EU-landene
+    1. [ ] Euroen som national valuta
+    2. [x] Borgernes personlige og politiske frihedsrettigheder
+    3. [ ] EU-lovgivningens forrang på alle områder
+
+    ## Hvilke mål for Europarådet nævner teksten?
+
+    1. [ ] At indføre en fælles valuta og fjerne handelshindringer mellem medlemslandene
+    2. [x] At sikre tæt samarbejde mellem medlemslandene og udbygge det europæiske demokrati
+    3. [ ] At vedtage fælles lovgivning om landbrug, fiskeri og det indre marked
+
+    ## Hvad skete der med Ruslands medlemskab af Europarådet efter angrebet på Ukraine i 2022?
+
+    1. [ ] Rusland forlod frivilligt Europarådet før angrebet
+    2. [x] Rusland blev suspenderet fra Europarådet
+    3. [ ] Rusland beholdt sit medlemskab uden ændringer
+
+    ## Hvilken konvention udarbejdede Europarådet i 1950?
+
+    1. [ ] Maastricht-traktaten
+    2. [x] Den Europæiske Menneskerettighedskonvention
+    3. [ ] Edinburgh-aftalen
 
     ## Hvilken domstol er knyttet til Europarådet?
 
     1. [ ] EU-Domstolen
     2. [ ] Højesteret
     3. [x] Den Europæiske Menneskerettighedsdomstol
+
+    ## Hvilke grundlæggende frihedsrettigheder nævner teksten som eksempler?
+
+    1. [ ] Fri bevægelighed for varer, tjenesteydelser og kapital
+    2. [x] Ytringsfrihed, forsamlingsfrihed og religionsfrihed
+    3. [ ] Fri adgang til fælles valuta, visum og statsborgerskab
+
+    ## Hvilken status fik Den Europæiske Menneskerettighedskonvention i Danmark i 1992?
+
+    1. [ ] Den blev placeret over grundloven
+    2. [x] Den blev indarbejdet i dansk lov og står på linje med andre love, men under grundloven
+    3. [ ] Den blev erstattet af EU-lovgivning
+
+    ## Hvem kan under nærmere betingelser indbringe en sag mod Danmark for Den Europæiske Menneskerettighedsdomstol?
+
+    1. [x] Enkeltpersoner
+    2. [ ] Kun Folketinget
+    3. [ ] Kun Europa-Kommissionen

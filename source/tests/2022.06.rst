@@ -5,8 +5,7 @@ Aids: None
 
 Time: 45 minutes
 
-Questions
----------------------------------
+
 
 .. quizdown::
 

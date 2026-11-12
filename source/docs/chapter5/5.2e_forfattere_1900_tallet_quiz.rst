@@ -1,0 +1,87 @@
+Quiz til danske forfattere i 1900-tallet
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken periode skildrer Johannes V. Jensens Kongens Fald?
+
+    1. [ ] Vikingetiden
+    2. [x] 1500-tallets Danmark
+    3. [ ] 1960'ernes Danmark
+
+    ## Hvad handler Kongens Fald blandt andet om?
+
+    1. [x] Christian 2.s forgæves kamp for at beholde magten
+    2. [ ] Harald Blåtands kristning af danerne
+    3. [ ] Danmarks besættelse under 2. Verdenskrig
+
+    ## Hvem handler Himmerlandshistorier om?
+
+    1. [x] Bønder og fattigfolk i Himmerland
+    2. [ ] Arbejdere på Vesterbro
+    3. [ ] Koloniherrer i Kenya
+
+    ## Hvornår modtog Johannes V. Jensen Nobelprisen i litteratur?
+
+    1. [ ] 1917
+    2. [ ] 1937
+    3. [x] 1944
+
+    ## Hvilket værk er Karen Blixen bedst kendt for?
+
+    1. [x] Den Afrikanske Farm
+    2. [ ] Den kroniske uskyld
+    3. [ ] Farskibet
+
+    ## Hvad skildrer Den Afrikanske Farm?
+
+    1. [x] Blixens liv på en kaffefarm i Kenya
+    2. [ ] En færgerute mellem Danmark og Tyskland
+    3. [ ] En arbejderfamilie på Vesterbro
+
+    ## Hvordan forholder Blixen sig til koloniherrerne?
+
+    1. [ ] Hun støtter uden kritik deres behandling af afrikanerne
+    2. [x] Hun er præget af deres tankegang, men også kritisk over for deres behandling af befolkningen
+    3. [ ] Hun omtaler slet ikke kolonitiden
+
+    ## Hvilke emner gjorde Karen Blixens fortællinger verdenskendte?
+
+    1. [ ] Kun dansk politik
+    2. [ ] Teknologi og naturvidenskab
+    3. [x] Menneskelige lidenskaber, længsler og livsdramaer
+
+    ## Hvilken baggrund havde Tove Ditlevsen?
+
+    1. [x] Hun voksede op i en fattig arbejderfamilie på Vesterbro
+    2. [ ] Hun voksede op på en kaffefarm i Kenya
+    3. [ ] Hun kom fra en velhavende adelsfamilie
+
+    ## Hvilke emner skrev Tove Ditlevsen om?
+
+    1. [x] At være barn, kvinde og fattig
+    2. [ ] Kun dansk middelalderhistorie
+    3. [ ] Kun livet ved hoffet
+
+    ## Hvilket værk er et af Tove Ditlevsens hovedværker?
+
+    1. [ ] Rødby-Puttgarden
+    2. [x] Barndommens Gade
+    3. [ ] Verdenssøn
+
+    ## Hvor er Tove Ditlevsen blevet populær i nyere tid?
+
+    1. [ ] Kun i Danmark
+    2. [ ] Kun i de nordiske lande
+    3. [x] Blandt andet i USA, Storbritannien og Tyskland
+

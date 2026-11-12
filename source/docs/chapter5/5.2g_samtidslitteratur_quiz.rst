@@ -1,0 +1,110 @@
+Quiz til nyere dansk litteratur
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kendetegner Helle Helles skrivestil og miljøer?
+
+    1. [ ] Dramatiske krigsscener i storbyer
+    2. [x] Nedtonede beskrivelser af hverdagsliv i mindre danske byer
+    3. [ ] Historiske fortællinger om middelalderen
+
+    ## Hvilken roman gav Helle Helle et større publikum?
+
+    1. [x] Rødby-Puttgarden
+    2. [ ] Lykke-Per
+    3. [ ] Jammers Minde
+
+    ## Hvem skildres i Rødby-Puttgarden?
+
+    1. [x] Søstrene Jane og Tine, som arbejder på færgen
+    2. [ ] En forfatter på en kaffefarm
+    3. [ ] En ung mand i en præstefamilie
+
+    ## Hvad gør Hafni i Hafni fortæller?
+
+    1. [ ] Hun rejser til Kenya for at drive en farm
+    2. [x] Hun rejser gennem Danmark for at fejre sin skilsmisse
+    3. [ ] Hun flytter til Rødby for at arbejde på en færge
+
+    ## Hvor møder læseren Hafni igen i Hey Hafni?
+
+    1. [ ] I Odense
+    2. [ ] I New York
+    3. [x] I Brighton
+
+    ## Hvad er autofiktion?
+
+    1. [x] En blanding af forfatterens egne erfaringer og fiktive elementer
+    2. [ ] En genre uden forbindelse til forfatterens liv
+    3. [ ] En samling regler om god opførsel
+
+    ## Hvilke temaer er almindelige i autofiktionen ifølge teksten?
+
+    1. [x] Opvækst, dysfunktionelle familier og følelsen af ikke at høre til
+    2. [ ] Kun konger og krige
+    3. [ ] Kun naturvidenskabelige opdagelser
+
+    ## Hvad handler Leonora Christina Skovs Den, der lever stille om?
+
+    1. [ ] En kvindes kaffefarm i Kenya
+    2. [x] En opvækst med krav om accept og valget mellem egne følelser og forældrenes kærlighed
+    3. [ ] En ung mands skoleliv i København
+
+    ## Hvilken erkendelse skaber en konflikt for hovedpersonen i Den, der lever stille?
+
+    1. [x] At hun er lesbisk
+    2. [ ] At hun vil være landmand
+    3. [ ] At hun vil flytte til Kenya
+
+    ## Hvad har Thomas Korsgaard og Glenn Bechs forfatterskaber til fælles?
+
+    1. [x] De tager afsæt i familier og miljøer med sociale og psykiske problemer
+    2. [ ] De beskriver begge middelalderens konger
+    3. [ ] De skriver kun om udenlandske storbyer
+
+    ## Hvilken roman indleder Thomas Korsgaards trilogi?
+
+    1. [ ] Man skulle nok have været der
+    2. [x] Hvis der skulle komme et menneske forbi
+    3. [ ] En dag vil vi grine af det
+
+    ## Hvad skildrer Thomas Korsgaards trilogi?
+
+    1. [x] En opvækst med fattigdom, manglende kærlighed og fysisk og psykisk vold
+    2. [ ] En lykkelig opvækst uden sociale problemer
+    3. [ ] En karriere ved Det Kongelige Teater
+
+    ## Hvilket traume beskriver Glenn Bech i Farskibet?
+
+    1. [ ] Morens udvandring
+    2. [ ] En ulykke på en færge
+    3. [x] Farens selvmord
+
+    ## Hvad betyder ”giftig maskulinitet” i teksten?
+
+    1. [ ] En fredelig og tolerant måde at være mand på
+    2. [x] Dominerende, intolerant og voldelig mandlig adfærd
+    3. [ ] En litterær genre om konger
+
+    ## Hvilke normer kritiserer Glenn Bech blandt andet?
+
+    1. [x] Normer om køn og seksualitet
+    2. [ ] Kun regler for bordskik
+    3. [ ] Kun regler for stavning
+
+    ## Hvad kritiserer Glenn Bech i Jeg anerkender ikke længere jeres autoritet?
+
+    1. [ ] Provinsens manglende kendskab til København
+    2. [ ] H.C. Andersens eventyr
+    3. [x] Storbyeliters manglende kendskab til provinsen og mindre privilegerede grupper

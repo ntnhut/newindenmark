@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Danish Citizenship Test Practice'
+project = 'Indfødsretsprøven'
 copyright = '2026, Nhut Nguyen'
 author = 'Nhut Nguyen'
 single_version = True
@@ -40,7 +40,7 @@ quizdown_config = {
 
 html_theme = 'furo'
 html_logo = "logo.png"
-html_title = "Danish Citizenship Test Practice"
+html_title = "Indfødsretsprøven"
 html_static_path = ['_static']
 
 html_theme_options = {

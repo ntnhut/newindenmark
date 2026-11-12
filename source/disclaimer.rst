@@ -1,11 +1,11 @@
-Disclaimer
+Ansvarsfraskrivelse
 ===========
 
-The tests reproduced here are based on the official and publicly available material, which can be downloaded from 👉 `danskogproever.dk <https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/#accordion-tidligere-indfodsretsprover>`__
+Prøverne, der gengives her, bygger på det officielle og offentligt tilgængelige materiale, som kan downloades fra 👉 `danskogproever.dk <https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/#accordion-tidligere-indfodsretsprover>`__
 
-The learning material reproduced here is based on:
+Lærematerialet, der gengives her, bygger på:
 
-.. admonition:: The official publication 
+.. admonition:: Den officielle udgivelse
    :class: seealso
 
    *Læremateriale til Indfødsretsprøven – Danske samfundsforhold, dansk kultur og historie (August 2026)*
@@ -20,17 +20,17 @@ The learning material reproduced here is based on:
    
    © Udlændinge- og Integrationsministeriet, 2026
 
-The official and publicly available `PDF <https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf>`__ can be downloaded from 👉 `danskogproever.dk <https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/>`__
+Den officielle og offentligt tilgængelige `PDF <https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf>`__ kan downloades fra 👉 `danskogproever.dk <https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/>`__
 
-.. admonition:: Disclaimer
+.. admonition:: Ansvarsfraskrivelse
    :class: caution
 
-   This HTML version has been created solely to make the tests and the material easier to read and study on mobile devices.
+   Denne HTML-version er udelukkende udarbejdet for at gøre prøverne og lærematerialet lettere at læse og studere på mobile enheder.
 
-   It is provided **for educational and non-commercial purposes only** to help you prepare for the Danish Citizenship Test (*Indfødsretsprøven*).
+   Den stilles til rådighed **udelukkende til undervisningsmæssig og ikke-kommerciel brug** for at hjælpe dig med at forberede dig til indfødsretsprøven.
 
-   All rights to the original text, layout, and images remain with the **Udlændinge- og Integrationsministeriet**.
+   Alle rettigheder til den oprindelige tekst, opsætning og billeder tilhører fortsat **Udlændinge- og Integrationsministeriet**.
 
-   No commercial use, modification, or redistribution of the material is permitted.
+   Kommerciel brug, ændring eller videre distribution af materialet er ikke tilladt.
 
-   This website is an independent educational project and is not affiliated with, endorsed by, or sponsored by the Danish government or any of its agencies.
+   Dette websted er et uafhængigt undervisningsprojekt og er ikke tilknyttet, godkendt eller sponsoreret af den danske regering eller nogen af dens myndigheder.

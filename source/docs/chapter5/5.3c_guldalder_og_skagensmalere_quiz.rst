@@ -1,0 +1,57 @@
+Quiz til Guldalderens malere og Skagensmalerne
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken kunstner fra Guldalderen malede landskab og folkeliv omkring Rom?
+
+    1. [ ] Vilhelm Hammershøi
+    2. [x] C.W. Eckersberg
+    3. [ ] Michael Ancher
+
+    ## Hvad er Vilhelm Hammershøi især værdsat for?
+
+    1. [ ] Farverige slagscener
+    2. [ ] Skulpturer af konger
+    3. [x] Lys og skygge i boligens rum
+
+    ## Hvem ses i Hammershøis Interiør fra Strandgade 30?
+
+    1. [x] Hans kone Ida, der står og læser
+    2. [ ] Dronningen på Amalienborg
+    3. [ ] En bonde fra Skagen
+
+    ## Hvilken rekord satte maleriet ved salget i 2023?
+
+    1. [ ] Det blev verdens dyreste maleri
+    2. [x] Det blev det dyrest solgte danske maleri
+    3. [ ] Det blev det første danske maleri solgt i USA
+
+    ## Hvilke kunstnere hørte til Skagensmalerne?
+
+    1. [ ] Thorvaldsen, Eckersberg og Saly
+    2. [x] P.S. Krøyer, Anna Ancher og Michael Ancher
+    3. [ ] Jorn, Kirkeby og Nørgaard
+
+    ## Hvad malede Skagensmalerne?
+
+    1. [x] Den lokale befolknings hverdagsliv og deres eget kunstnerliv
+    2. [ ] Kun kongelige portrætter
+    3. [ ] Kun abstrakte former
+
+    ## Hvad spillede en særlig rolle i Skagensmalernes billeder?
+
+    1. [ ] Lyset fra Øresund og Storebælt
+    2. [ ] De norske fjelde
+    3. [x] Lyset fra Skagerrak og Kattegat
+

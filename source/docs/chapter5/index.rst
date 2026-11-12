@@ -14,7 +14,12 @@ Kapitel 5 - Dansk kulturliv
    5.2f_efterkrigstidens_litteratur_quiz
    5.2g_samtidslitteratur_quiz
    5.3
-   5.3_quiz
+   5.3a_oldtidskunst_quiz
+   5.3b_kunst_efter_reformationen_quiz
+   5.3c_guldalder_og_skagensmalere_quiz
+   5.3d_anne_marie_carl_nielsen_quiz
+   5.3e_modernisme_quiz
+   5.3f_samtidskunst_quiz
    5.4
    5.4_quiz
    5.5

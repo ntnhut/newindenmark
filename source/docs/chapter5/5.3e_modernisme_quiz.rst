@@ -1,0 +1,69 @@
+Quiz til moderne dansk billedkunst
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken kunstnergruppe var Asger Jorn med til at stifte?
+
+    1. [ ] Skagensmalerne
+    2. [x] Cobra
+    3. [ ] Guldaldergruppen
+
+    ## Hvilke byer gav Cobra sit navn?
+
+    1. [x] København, Bruxelles og Amsterdam
+    2. [ ] København, Berlin og Rom
+    3. [ ] Chicago, Boston og Aarhus
+
+    ## I hvilken periode eksisterede Cobra?
+
+    1. [ ] 1914-18
+    2. [x] 1948-51
+    3. [ ] 1957-72
+
+    ## Hvad er Asger Jorns hovedværk?
+
+    1. [ ] Den kvindelige Kristus
+    2. [ ] Your rainbow panorama
+    3. [x] Stalingrad
+
+    ## Hvad symboliserer de røde stænk i Stalingrad?
+
+    1. [ ] Solen
+    2. [x] Blod
+    3. [ ] Dannebrog
+
+    ## Hvilken type kunst er Per Kirkeby internationalt kendt for?
+
+    1. [x] Store abstrakte malerier med forhold til naturen
+    2. [ ] Middelalderlige kalkmalerier
+    3. [ ] Rytterstatuer af konger
+
+    ## Hvilke kunstformer har Lene Adler Petersen arbejdet med?
+
+    1. [ ] Kun maleri
+    2. [x] Film, aktioner, grafik, maleri og skulptur
+    3. [ ] Kun vævede tapeter
+
+    ## Hvad gjorde Lene Adler Petersen i aktionen Den kvindelige Kristus?
+
+    1. [ ] Hun malede Jesus som viking
+    2. [ ] Hun vævede 17 gobeliner
+    3. [x] Hun gik nøgen gennem Børsen med et kors
+
+    ## Hvad kritiserede Den kvindelige Kristus?
+
+    1. [x] Kapitalistiske og mandsdominerende normer
+    2. [ ] Middelalderens kalkmalerier
+    3. [ ] Skagensmalernes brug af lys
+

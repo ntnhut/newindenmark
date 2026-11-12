@@ -1,0 +1,99 @@
+Quiz til ældre dansk billedkunst
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad forestiller Solvognen?
+
+    1. [x] Solen, der trækkes af en hest
+    2. [ ] En konge på en hest
+    3. [ ] Et skib med en sol som sejl
+
+    ## Hvornår stammer Solvognen fra?
+
+    1. [ ] Cirka 400 efter Kristus
+    2. [x] Cirka 1350 før Kristus
+    3. [ ] Cirka 900 efter Kristus
+
+    ## Hvad viser Solvognen om bronzealderens religion?
+
+    1. [ ] At månen blev trukket over himlen af en fugl
+    2. [ ] At solen ikke havde religiøs betydning
+    3. [x] At solen blev tilbedt og tænktes trukket over himlen af en hest
+
+    ## Hvilke hjælpere førte ifølge forestillingen solen gennem resten af døgnet?
+
+    1. [x] En slange, en fisk og to skibe
+    2. [ ] To heste og en fugl
+    3. [ ] En konge og fire krigere
+
+    ## Hvilke materialer er Solvognen fremstillet af?
+
+    1. [ ] Sølv og jern
+    2. [x] Guld og bronze
+    3. [ ] Træ og sten
+
+    ## Hvor og hvornår blev guldhornene fundet?
+
+    1. [ ] Ved Jelling i 1802 og 1900
+    2. [x] Ved Gallehus i Sønderjylland i 1639 og 1734
+    3. [ ] Ved Trundholm Mose i 1350 og 1400
+
+    ## Hvornår stammer guldhornene fra?
+
+    1. [ ] Omkring 400 før Kristus
+    2. [ ] Omkring 900 efter Kristus
+    3. [x] Omkring 400 efter Kristus
+
+    ## Hvordan var guldhornene udsmykket?
+
+    1. [x] Med mange figurer og runer
+    2. [ ] Kun med latinske bogstaver
+    3. [ ] Med billeder af danske konger
+
+    ## Hvad skete der med de oprindelige guldhorn i 1802?
+
+    1. [ ] De blev flyttet til Rom
+    2. [x] De blev stjålet og omsmeltet
+    3. [ ] De blev begravet i en kirke
+
+    ## Hvorfor er detaljer i de genskabte guldhorn usikre?
+
+    1. [ ] De blev kun beskrevet mundtligt
+    2. [ ] Der findes ingen oplysninger om deres udseende
+    3. [x] De blev genskabt ud fra tegninger af de tabte originaler
+
+    ## Hvilken kunstform kom til Danmark med kristendommen fra 900-tallet?
+
+    1. [x] Kirkekunsten
+    2. [ ] Abstrakt kunst
+    3. [ ] Fotokunsten
+
+    ## Hvordan fremstilles Jesus på Harald Blåtands Jellingsten?
+
+    1. [ ] Som en romersk kejser
+    2. [x] Som en stærk og sejrende vikingekriger
+    3. [ ] Som en middelalderlig bonde
+
+    ## Hvilken funktion havde middelalderens kalkmalerier?
+
+    1. [ ] De viste kongens slægtstavle
+    2. [ ] De fungerede som kort over handelsruter
+    3. [x] De formidlede kristendommens budskaber som en slags tegneserier
+
+    ## Hvorfor var kalkmalerierne vigtige for befolkningen?
+
+    1. [x] De fleste kunne ikke læse Bibelen eller forstå kirkens latin
+    2. [ ] Befolkningen måtte ikke se andre kunstværker
+    3. [ ] De fleste talte kun latin
+

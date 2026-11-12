@@ -36,4 +36,8 @@ Kapitel 5 - Dansk kulturliv
    5.6c_scene_under_besaettelsen_quiz
    5.6d_nyere_teater_og_standup_quiz
    5.7
-   5.7_quiz
+   5.7a_tidlig_film_quiz
+   5.7b_folkekomedie_og_tv_quiz
+   5.7c_boernefilm_og_dogme_quiz
+   5.7d_danske_filminstruktoerer_quiz
+   5.7e_danske_skuespillere_quiz

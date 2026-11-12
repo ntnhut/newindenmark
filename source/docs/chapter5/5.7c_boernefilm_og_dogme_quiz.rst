@@ -1,0 +1,87 @@
+Quiz til børnefilm og Dogme 95
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken romanforfatter skrev forlægget til Busters Verden?
+
+    1. [ ] Astrid Lindgren
+    2. [x] Bjarne Reuter
+    3. [ ] Tove Ditlevsen
+
+    ## Hvad hjælper Buster gennem vanskelighederne hjemme og i skolen?
+
+    1. [ ] Hans evner som skuespiller
+    2. [ ] Hans læreres støtte
+    3. [x] Hans fantasi og evner for tryllekunst
+
+    ## Hvad gjorde Folketinget for danske børnefilm i 1982?
+
+    1. [x] Det gav dem bedre økonomiske vilkår
+    2. [ ] Det forbød dem at handle om mobning
+    3. [ ] Det gjorde dem til en del af tv-teatret
+
+    ## Hvad anerkendte Folketinget samtidig ved beslutningen i 1982?
+
+    1. [ ] At alle børnefilm skulle bygge på romaner
+    2. [x] Børnefilmgenrens kunstneriske betydning
+    3. [ ] At børnefilm kun var for voksne
+
+    ## Hvilke temaer står centralt i Nils Malmros' Kundskabens træ?
+
+    1. [ ] Fattigdom og arbejdsløshed blandt voksne
+    2. [ ] Filmkunst og skuespil
+    3. [x] Mobning og forelskelser i en klasse af pubertetsbørn
+
+    ## Hvordan fremstilles de voksne i Kundskabens træ?
+
+    1. [x] De forstår ikke de unges liv og indbyrdes forhold
+    2. [ ] De løser hurtigt de unges problemer
+    3. [ ] De deltager selv i klassens fællesskab
+
+    ## Hvorfor genkendte både unge og voksne sig ofte i Malmros' film?
+
+    1. [ ] Filmene handlede om deres hjemby
+    2. [x] De kunne genkende hans skildring af den tidlige ungdom
+    3. [ ] Alle filmene byggede på kendte romaner
+
+    ## Hvem skrev Dogme 95-manifestet sammen?
+
+    1. [ ] Erik Balling, Nils Malmros, Bille August og Gabriel Axel
+    2. [ ] Carl Th. Dreyer, Kaj Munk, Henning Carlsen og Johan Jacobsen
+    3. [x] Lars von Trier, Thomas Vinterberg, Søren Kragh-Jacobsen og Kristian Levring
+
+    ## Hvad forpligtede de fire dogmebrødre sig til?
+
+    1. [x] At lave enkle film med den gode historie frem for tekniske effekter
+    2. [ ] At lave kostbare film med mange effekter
+    3. [ ] At filmatisere klassiske danske romaner
+
+    ## Hvordan blev Dogme 95 og dogmefilmene modtaget?
+
+    1. [ ] De blev kun kendt blandt danske instruktører
+    2. [x] Manifestet vakte opsigt, og flere film fik succes i Danmark og udlandet
+    3. [ ] De blev afvist af både publikum og kritikere
+
+    ## Hvad gør gruppen i Lars von Triers Idioterne?
+
+    1. [ ] De forsøger at opklare et mord
+    2. [ ] De drikker alkohol hele dagen
+    3. [x] De spiller "idioter" for at provokere omgivelserne og realisere sig selv
+
+    ## Hvad afslører Idioterne om gruppen og omgivelserne?
+
+    1. [x] Gruppens selvoptagethed og omgivelsernes manglende tolerance
+    2. [ ] Gruppens fattigdom og omgivelsernes rigdom
+    3. [ ] Gruppens mod og omgivelsernes beundring
+

@@ -1,0 +1,171 @@
+Quiz til 4.3.1 FN
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken vigtig global organisation er Danmark medlem af?
+
+    1. [ ] ASEAN
+    2. [x] FN
+    3. [ ] Mercosur
+
+    ## Hvilke verdensdele nævnes som områder for Danmarks udviklingssamarbejde?
+
+    1. [x] Afrika, Latinamerika og Asien
+    2. [ ] Kun Europa og Nordamerika
+    3. [ ] Kun Afrika og Europa
+
+    ## Hvad er FN?
+
+    1. [ ] En forsvarsalliance mellem europæiske lande
+    2. [x] En verdensomspændende organisation af selvstændige stater
+    3. [ ] En organisation for private virksomheder
+
+    ## Hvornår blev FN grundlagt, og hvor mange stater tilsluttede sig fra begyndelsen?
+
+    1. [ ] I 1918 med 25 stater
+    2. [x] I 1945 med 51 stater
+    3. [ ] I 1955 med 193 stater
+
+    ## Hvor mange medlemsstater har FN ifølge teksten?
+
+    1. [ ] 51
+    2. [ ] 150
+    3. [x] 193
+
+    ## Hvornår blev Danmark medlem af FN?
+
+    1. [x] Ved stiftelsen i 1945
+    2. [ ] I 1955
+    3. [ ] I 1967
+
+    ## Hvilke områder hører til FN's vigtigste opgaver?
+
+    1. [ ] Nationale skatter og kommunale budgetter
+    2. [x] Fred, sikkerhed, menneskerettigheder, udvikling og humanitære indsatser
+    3. [ ] Udpegning af medlemslandenes regeringer
+
+    ## Hvilke andre emner arbejder FN blandt andet med?
+
+    1. [x] Børns vilkår, kvinders rettigheder, kultur og uddannelse
+    2. [ ] Kun militære alliancer
+    3. [ ] Kun international handel
+
+    ## Hvor ligger FN's hovedkvarter?
+
+    1. [x] New York
+    2. [ ] Genève
+    3. [ ] København
+
+    ## I hvilke andre byer har nogle FN-organisationer hovedsæde?
+
+    1. [ ] Oslo, Stockholm og Helsinki
+    2. [ ] Bruxelles, Strasbourg og Luxembourg
+    3. [x] Genève, Nairobi og Wien
+
+    ## Hvem er FN's øverste leder?
+
+    1. [ ] Formanden for Sikkerhedsrådet
+    2. [x] FN's generalsekretær
+    3. [ ] USA's præsident
+
+    ## Hvor afholdes FN's årlige Generalforsamling?
+
+    1. [ ] I FN-byen i København
+    2. [x] I FN's hovedkvarter i New York
+    3. [ ] I Genève
+
+    ## Hvad laver Generalforsamlingen blandt andet?
+
+    1. [x] Diskuterer aktuelle sager, vedtager FN's budget og drøfter rapporter fra Sikkerhedsrådet
+    2. [ ] Udpeger regeringer i medlemslandene
+    3. [ ] Leder NATO's militære operationer
+
+    ## Hvad er Sikkerhedsrådets hovedopgave?
+
+    1. [ ] At fordele udviklingsbistand mellem alle lande
+    2. [ ] At vedtage FN's årlige budget
+    3. [x] At behandle konflikter, der kan true international fred og sikkerhed
+
+    ## Hvor mange faste medlemmer har Sikkerhedsrådet?
+
+    1. [ ] Tre
+    2. [x] Fem
+    3. [ ] Ti
+
+    ## Hvilke lande er faste medlemmer af Sikkerhedsrådet?
+
+    1. [x] Rusland, Kina, Storbritannien, USA og Frankrig
+    2. [ ] Indien, Brasilien, Tyskland, Japan og Canada
+    3. [ ] Danmark, Norge, Sverige, Finland og Island
+
+    ## Hvorfor fik netop disse fem lande faste pladser?
+
+    1. [ ] De havde verdens fem største befolkninger
+    2. [x] De var de vigtigste lande blandt vinderne af 2. Verdenskrig
+    3. [ ] De stiftede EU sammen
+
+    ## Hvor mange øvrige lande sidder i Sikkerhedsrådet, og hvor længe?
+
+    1. [ ] Fem lande i fire år
+    2. [ ] Ti lande i ét år
+    3. [x] Ti lande i to år
+
+    ## Hvornår er Danmark ifølge teksten senest medlem af Sikkerhedsrådet?
+
+    1. [ ] 2005-06
+    2. [x] 2025-26
+    3. [ ] 2030-31
+
+    ## Hvad betyder de faste medlemmers vetoret?
+
+    1. [x] Ét nej fra et fast medlem kan blokere en beslutning
+    2. [ ] Hvert fast medlem kan alene vedtage en beslutning
+    3. [ ] De faste medlemmer kan opløse Generalforsamlingen
+
+    ## Hvorfor kan vetoretten gøre vigtige beslutninger vanskelige?
+
+    1. [ ] De faste medlemmer stemmer altid ens
+    2. [x] De faste medlemmer har ofte forskellige og modstridende interesser
+    3. [ ] Kun de ti midlertidige medlemmer kan stemme
+
+    ## Hvor mange gange er vetoretten ifølge teksten brugt siden 1946?
+
+    1. [ ] 51 gange
+    2. [x] 325 gange
+    3. [ ] 1.945 gange
+
+    ## Hvad har Rusland brugt sin vetoret til i forbindelse med Ukraine?
+
+    1. [ ] At få Ukraine optaget i Sikkerhedsrådet
+    2. [ ] At vedtage sanktioner mod Rusland
+    3. [x] At blokere en fordømmelse af Ruslands invasion
+
+    ## Hvad har USA blandt andet brugt sin vetoret til i forbindelse med Israel?
+
+    1. [x] At hindre en FN-fordømmelse af nye israelske bosættelser
+    2. [ ] At gøre Israel til fast medlem af Sikkerhedsrådet
+    3. [ ] At ophæve FN's arbejde i Mellemøsten
+
+    ## Hvilken kritik rettes mod sammensætningen af Sikkerhedsrådet?
+
+    1. [ ] Alle nutidens største magter har faste pladser
+    2. [x] Den afspejler ikke længere den globale magtbalance
+    3. [ ] Der er for mange faste medlemmer fra Afrika
+
+    ## Hvilke områder eller lande mangler blandt de faste medlemmer?
+
+    1. [ ] Europa og Nordamerika
+    2. [x] Indien samt lande fra Afrika og Sydamerika
+    3. [ ] Rusland og Kina
+

@@ -1,0 +1,75 @@
+Quiz til 4.3.2 Internationalt samarbejde om udvikling
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kaldes Danmarks økonomiske støtte til verdens fattigste lande?
+
+    1. [ ] Forsvarssamarbejde
+    2. [x] Internationalt udviklingssamarbejde
+    3. [ ] Toldunion
+
+    ## Hvor stor en andel af BNI giver Danmark i udviklingsbistand i overensstemmelse med FN's mål?
+
+    1. [ ] 0,2 procent
+    2. [x] 0,7 procent
+    3. [ ] 1,7 procent
+
+    ## Hvor meget svarer udviklingsbistanden ifølge teksten til i 2026?
+
+    1. [ ] Cirka 2,3 milliarder kroner
+    2. [x] Cirka 23 milliarder kroner
+    3. [ ] Cirka 230 milliarder kroner
+
+    ## Hvilke mål har den danske udviklingsbistand blandt andet?
+
+    1. [x] At bekæmpe fattigdom og korruption og fremme jobs, grøn omstilling, demokrati og rettigheder
+    2. [ ] At begrænse uddannelse og handel i udviklingslandene
+    3. [ ] At støtte autoritære regeringer
+
+    ## Hvordan gives noget af bistanden direkte?
+
+    1. [ ] Kun som lån til private virksomheder
+    2. [x] Til udviklingslande, humanitært arbejde og civilsamfundsorganisationer
+    3. [ ] Kun gennem danske kommuner
+
+    ## Hvilke internationale organisationer modtager også danske bidrag?
+
+    1. [ ] Kun NATO
+    2. [ ] Kun Europarådet
+    3. [x] EU, FN og Verdensbanken
+
+    ## Hvad bruges en del af bistanden i 2026 til i Ukraine?
+
+    1. [x] Humanitær hjælp og genopbygning
+    2. [ ] Opførelse af danske ambassader
+    3. [ ] Finansiering af EU's landbrugsstøtte
+
+    ## Hvad er Danida?
+
+    1. [ ] En FN-organisation i New York
+    2. [x] Den afdeling under Udenrigsministeriet, der har ansvar for udviklingspolitikken
+    3. [ ] En privat nødhjælpsorganisation
+
+    ## Siden hvornår har Danida haft ansvar for den danske udviklingspolitik?
+
+    1. [ ] 1945
+    2. [x] 1971
+    3. [ ] 2015
+
+    ## Hvem håndterer udviklingssamarbejdet med de enkelte lande?
+
+    1. [x] Lokale og danske medarbejdere på ambassader og repræsentationer
+    2. [ ] Kun FN's generalsekretær
+    3. [ ] Sikkerhedsrådets faste medlemmer
+

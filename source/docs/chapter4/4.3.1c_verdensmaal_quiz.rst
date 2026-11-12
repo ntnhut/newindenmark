@@ -1,0 +1,45 @@
+Quiz til FN's 17 verdensmål
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår vedtog FN's medlemslande de 17 verdensmål?
+
+    1. [ ] 2005
+    2. [x] September 2015
+    3. [ ] Januar 2026
+
+    ## Hvilken periode danner verdensmålene ramme for?
+
+    1. [x] Den globale udviklingsindsats frem til 2030
+    2. [ ] Sikkerhedsrådets arbejde frem til 2026
+    3. [ ] EU's udviklingspolitik frem til 2050
+
+    ## Hvilke lande gælder verdensmålene for?
+
+    1. [ ] Kun verdens fattigste lande
+    2. [ ] Kun FN's faste medlemmer
+    3. [x] Alle verdens lande, herunder Danmark
+
+    ## Hvilke områder omfatter verdensmålene?
+
+    1. [ ] Kun fattigdom og uddannelse
+    2. [x] Social, økonomisk og miljømæssig udvikling samt ligestilling, klima, fred og sikkerhed
+    3. [ ] Kun militær sikkerhed og handel
+
+    ## Hvad har FN-landene blandt andet forpligtet sig til gennem verdensmålene?
+
+    1. [x] At afskaffe ekstrem fattigdom og sikre uddannelse, sundhed, jobs og bæredygtig vækst
+    2. [ ] At indføre samme valuta i alle lande
+    3. [ ] At gøre alle lande til medlemmer af NATO
+

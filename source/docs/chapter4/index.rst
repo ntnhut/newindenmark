@@ -15,6 +15,10 @@ Kapitel 4 - Danmark og omverdenen
    4.2.1g_eu_domstolen_quiz
    4.2.2_europaraadet_quiz
    4.3
-   4.3_quiz
+   4.3.1a_fn_quiz
+   4.3.1b_fn_byen_quiz
+   4.3.1c_verdensmaal_quiz
+   4.3.2a_udviklingsbistand_quiz
+   4.3.2b_afrika_quiz
    4.4
    4.4_quiz

@@ -1,0 +1,39 @@
+Quiz til FN-byen i København
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor mange mennesker arbejder i FN-byen i København?
+
+    1. [ ] Færre end 100
+    2. [ ] Cirka 500
+    3. [x] Mere end 1.500
+
+    ## Hvor mange FN-organisationer huser FN-byen?
+
+    1. [ ] Fem
+    2. [x] 11
+    3. [ ] 17
+
+    ## Hvilke organisationer findes blandt andet i FN-byen?
+
+    1. [x] WHO, UNHCR og UNICEF
+    2. [ ] NATO, OECD og WTO
+    3. [ ] EU-Kommissionen, Europarådet og Verdensbanken
+
+    ## Hvad indeholder UNICEF's Verdenslager blandt andet?
+
+    1. [ ] Våben og militære køretøjer
+    2. [x] Medicin, skoleredskaber og produkter til at rense drikkevand
+    3. [ ] Stemmesedler til nationale valg
+

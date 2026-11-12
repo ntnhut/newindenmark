@@ -1,0 +1,98 @@
+Quiz til Fokus på Afrika
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket kontinent har historisk modtaget størstedelen af dansk udviklingsbistand?
+
+    1. [ ] Asien
+    2. [ ] Sydamerika
+    3. [x] Afrika
+
+    ## Hvorfor har udviklingen i Afrika betydning for Danmark og Europa?
+
+    1. [x] Afrika er Europas nabo, og udviklingen kan påvirke Europa
+    2. [ ] Alle afrikanske lande er medlemmer af EU
+    3. [ ] Afrika har ingen handel med andre verdensdele
+
+    ## Hvad kendetegner Afrika samlet set ifølge teksten?
+
+    1. [ ] Det er verdens rigeste og mest ensartede kontinent
+    2. [x] Det er verdens fattigste kontinent, selv om der er stor forskel mellem de 54 lande
+    3. [ ] Der findes ingen konflikter på kontinentet
+
+    ## Hvordan har Afrikas befolkningstal udviklet sig fra 2001 til 2026?
+
+    1. [ ] Det er faldet fra 1,6 milliarder til 835 millioner
+    2. [x] Det er næsten fordoblet fra 835 millioner til 1,6 milliarder
+    3. [ ] Det har været uændret på 2,5 milliarder
+
+    ## Hvor stor forventes Afrikas befolkning at være i 2050?
+
+    1. [ ] Cirka 1 milliard
+    2. [ ] Cirka 1,6 milliarder
+    3. [x] Cirka 2,5 milliarder
+
+    ## Hvilke muligheder kan befolkningsvæksten skabe?
+
+    1. [x] Mere økonomisk vækst, samhandel og investering
+    2. [ ] Mindre behov for arbejdspladser
+    3. [ ] Ophør af al migration
+
+    ## Hvilke problemer kan befolkningsvæksten forstærke?
+
+    1. [ ] Faldende handel og for mange ledige boliger i Europa
+    2. [x] Klimaforandringer, fattigdom og farlig migration mod Europa
+    3. [ ] For lavt fødselstal i Afrika
+
+    ## Hvor mange ulovlige ankomster fra Afrika til Europa blev registreret i 2024?
+
+    1. [ ] Cirka 13.000
+    2. [x] Cirka 130.000
+    3. [ ] Cirka 1,3 millioner
+
+    ## Hvordan er den gennemsnitlige afrikaners udledning af drivhusgasser?
+
+    1. [x] Langt lavere end den gennemsnitlige amerikaners, kinesers eller europæers
+    2. [ ] Højere end i alle andre verdensdele
+    3. [ ] Præcis den samme som den gennemsnitlige europæers
+
+    ## Hvilke klimakonsekvenser mærkes blandt andet i Afrika?
+
+    1. [ ] Mildere vejr og mere landbrugsudbytte overalt
+    2. [ ] Færre tørre områder og mindre varme
+    3. [x] Oversvømmelser, ekstrem varme, misvækst og mere ørken
+
+    ## Hvorfor ønsker Europa et tættere samarbejde med afrikanske lande?
+
+    1. [ ] For at stoppe al afrikansk handel med verden
+    2. [x] For at blive den foretrukne partner og bevare politisk indflydelse
+    3. [ ] For at gøre afrikanske lande til EU-medlemmer
+
+    ## Hvad hedder den danske strategi, som blev fremlagt i 2024?
+
+    1. [x] Strategi for et styrket dansk engagement med de afrikanske lande
+    2. [ ] Danmarks plan for afvikling af udviklingsbistand
+    3. [ ] FN's 17 verdensmål for Europa
+
+    ## Hvilken type partnerskab lægger strategien vægt på?
+
+    1. [ ] Partnerskaber, hvor Danmark bestemmer alene
+    2. [x] Ligeværdige partnerskaber med afrikanske lande
+    3. [ ] Partnerskaber begrænset til militære operationer
+
+    ## Hvilke områder har strategien blandt andet fokus på?
+
+    1. [x] Fred, klima, investeringer, vækst, handel, kultur, uddannelse og mindre ulovlig migration
+    2. [ ] Kun nødhjælp efter naturkatastrofer
+    3. [ ] Mindre samhandel og færre investeringer

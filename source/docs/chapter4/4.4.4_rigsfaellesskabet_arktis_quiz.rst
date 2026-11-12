@@ -1,0 +1,128 @@
+Quiz til 4.4.4 Rigsfællesskabet, Grønland og Arktis
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvorfor havde Grønland stor strategisk betydning under Den Kolde Krig?
+
+    1. [ ] Grønland lå på den længste rute mellem USA og Sovjetunionen
+    2. [x] De korteste fly- og missilruter mellem USA og Sovjetunionen gik over Grønland
+    3. [ ] Grønland kontrollerede indsejlingen til Middelhavet
+
+    ## Hvilken aftale indgik Danmark og USA i 1951?
+
+    1. [x] En aftale om USA's militære aktiviteter i Grønland
+    2. [ ] En aftale om at sælge Grønland
+    3. [ ] En aftale om grønlandsk medlemskab af EU
+
+    ## Hvad anlagde USA ved Qaanaaq i 1951?
+
+    1. [ ] En civil lufthavn uden militær funktion
+    2. [ ] En dansk flådestation
+    3. [x] En stor luftbase med en radarstation
+
+    ## Hvad hedder den amerikanske base i dag?
+
+    1. [ ] Nuuk Air Base
+    2. [x] Pituffik Space Base
+    3. [ ] Ilulissat Naval Base
+
+    ## Hvad kunne basens radar overvåge?
+
+    1. [x] Luftrummet over Grønland og farvandene omkring øen
+    2. [ ] Kun trafikken i Københavns Lufthavn
+    3. [ ] Hele luftrummet over Asien
+
+    ## Hvordan har klimaforandringer øget Grønlands strategiske betydning?
+
+    1. [ ] Isen gør alle ressourcer mindre tilgængelige
+    2. [x] Ressourcer og nye kortere skibsruter kan blive mere tilgængelige
+    3. [ ] Grønland er blevet geografisk flyttet mod Europa
+
+    ## Hvilke naturressourcer nævnes i Grønland?
+
+    1. [ ] Kun kul og jern
+    2. [ ] Kun fisk og skov
+    3. [x] Sjældne jordarter, uran, olie, gas og mineraler
+
+    ## Hvilke stormagter er særligt interesserede i Arktis?
+
+    1. [x] USA, Rusland og Kina
+    2. [ ] Danmark, Norge og Sverige
+    3. [ ] Frankrig, Italien og Spanien
+
+    ## Hvilke interesser skaber spændinger mellem stormagterne i Arktis?
+
+    1. [ ] Kun turisme
+    2. [x] Både sikkerhed og økonomiske interesser i minedrift og skibstransport
+    3. [ ] Kun fiskeri mellem de nordiske lande
+
+    ## Hvad har Donald Trump ifølge teksten ønsket for Grønland?
+
+    1. [ ] At Grønland bliver medlem af Rusland
+    2. [ ] At Grønland forlader Arktisk Råd
+    3. [x] At Grønland bliver en del af USA
+
+    ## Hvordan har de grønlandske og danske regeringer reageret på ønsket?
+
+    1. [x] De har afvist det
+    2. [ ] De har accepteret det
+    3. [ ] De har solgt Grønland til USA
+
+    ## Hvad aftalte fem arktiske stater i Ilulissat-erklæringen fra 2008?
+
+    1. [ ] At oprette en fælles arktisk hær
+    2. [x] At samarbejde om fredelige relationer i Arktis
+    3. [ ] At dele Grønland mellem sig
+
+    ## Hvorfor er situationen anderledes end ved Ilulissat-erklæringen?
+
+    1. [ ] Arktis har ikke længere strategisk betydning
+    2. [ ] Alle fem lande er blevet NATO-medlemmer
+    3. [x] Forholdet mellem nogle af landene er blevet mere anspændt
+
+    ## Hvornår blev Arktisk Råd oprettet?
+
+    1. [ ] 1951
+    2. [x] 1996
+    3. [ ] 2008
+
+    ## Hvad er Arktisk Råds formål?
+
+    1. [x] Samarbejde om bæredygtig udvikling inden for blandt andet miljø, klima, sundhed og søfart
+    2. [ ] At lede NATO's militære operationer i Arktis
+    3. [ ] At fordele Grønlands naturressourcer mellem stormagterne
+
+    ## Hvilke lande deltager i Arktisk Råd?
+
+    1. [ ] Kun de fem nordiske lande
+    2. [x] USA, Canada, Rusland og de fem nordiske lande
+    3. [ ] Alle FN's 193 medlemslande
+
+    ## Hvem repræsenterer de seks organisationer, som også deltager i Arktisk Råd?
+
+    1. [ ] Internationale mineselskaber
+    2. [ ] NATO-landenes militær
+    3. [x] De oprindelige folk i Arktis
+
+    ## Hvilken rolle har Grønland og Færøerne i Arktisk Råd?
+
+    1. [x] De har en stærk selvstændig stemme
+    2. [ ] De kan ikke deltage i rådets arbejde
+    3. [ ] De repræsenteres kun af USA
+
+    ## Hvilken rolle har Grønland i Kongerigets formandskab for Arktisk Råd 2025-27?
+
+    1. [ ] Ingen særlig rolle
+    2. [ ] En observatørrolle uden indflydelse
+    3. [x] En ledende rolle

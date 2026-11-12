@@ -1,0 +1,189 @@
+Quiz til 4.4.2 Indsatser efter terrorangrebet
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken begivenhed blev et vendepunkt for NATO's og Danmarks sikkerhedspolitik?
+
+    1. [x] Terrorangrebet på USA den 11. september 2001
+    2. [ ] Sovjetunionens opløsning i 1991
+    3. [ ] Irakkrigen i 2003
+
+    ## Hvordan blev terrorangrebet den 11. september gennemført?
+
+    1. [ ] Med missiler fra Afghanistan
+    2. [x] Kaprede passagerfly blev fløjet ind i blandt andet World Trade Center
+    3. [ ] Med et angreb på amerikanske skibe
+
+    ## Hvor mange mennesker blev cirka dræbt ved terrorangrebet?
+
+    1. [ ] 300
+    2. [x] 3.000
+    3. [ ] 30.000
+
+    ## Hvilken ny opgave blev vigtig for NATO efter terrorangrebet?
+
+    1. [ ] At fremme fælles valuta
+    2. [ ] At administrere FN's udviklingsbistand
+    3. [x] At bekæmpe terrorisme og andre trusler mod medlemslandene
+
+    ## Hvilken terrororganisation stod bag angrebet på USA?
+
+    1. [x] Al Qaeda
+    2. [ ] Taliban
+    3. [ ] Islamisk Stat
+
+    ## Hvorfor invaderede NATO-ledede styrker Afghanistan i oktober 2001?
+
+    1. [ ] Afghanistan havde invaderet Kuwait
+    2. [x] Al Qaeda havde base dér, og Taliban-regeringen samarbejdede med organisationen
+    3. [ ] Afghanistan havde meldt sig ud af NATO
+
+    ## Hvilket internationalt grundlag havde indsatsen i Afghanistan?
+
+    1. [ ] Den var uden både FN- og NATO-forbindelse
+    2. [ ] Den var kun besluttet af Danmark
+    3. [x] Den var ledet af NATO og havde mandat fra FN
+
+    ## Hvornår besluttede Folketinget at sende danske soldater til Afghanistan?
+
+    1. [ ] 1999
+    2. [x] 2002
+    3. [ ] 2014
+
+    ## Hvor var danske soldater blandt andet udstationeret sammen med britiske tropper?
+
+    1. [x] I Helmand-provinsen
+    2. [ ] I Kabul alene
+    3. [ ] I Kosovo
+
+    ## Hvor mange danske soldater mistede livet under kampene i Afghanistan?
+
+    1. [ ] Otte
+    2. [x] 44
+    3. [ ] 200
+
+    ## Hvilken opgave havde de danske soldater efter 2014?
+
+    1. [ ] At overtage Afghanistans regering
+    2. [ ] At bekæmpe de britiske styrker
+    3. [x] At træne og støtte afghanerne i selv at varetage sikkerheden
+
+    ## Hvad skete der, da de internationale styrker forlod Afghanistan?
+
+    1. [x] Regeringen og hæren brød sammen, og Taliban genvandt magten
+    2. [ ] Afghanistan blev medlem af NATO
+    3. [ ] Al Qaeda overtog FN's mission
+
+    ## Hvem blev evakueret fra Afghanistan i 2021?
+
+    1. [ ] Kun turister
+    2. [x] Vestlige diplomater og rådgivere samt afghanere, der havde arbejdet for Vesten
+    3. [ ] Hele Afghanistans befolkning
+
+    ## Hvilken begrundelse blev brugt for krigen mod Irak i 2003?
+
+    1. [x] Manglende militær nedrustning og angivelige masseødelæggelsesvåben
+    2. [ ] Iraks medlemskab af Al Qaeda
+    3. [ ] Iraks angreb på USA i 2001
+
+    ## Hvad viste det sig om Iraks angivelige masseødelæggelsesvåben?
+
+    1. [ ] De blev fundet i store mængder
+    2. [ ] De blev overdraget til FN
+    3. [x] De blev aldrig fundet
+
+    ## Hvilket mandat havde Irakkrigen i 2003?
+
+    1. [ ] Et klart mandat fra FN og NATO
+    2. [x] Intet klart FN-mandat, og den var ikke en NATO-mission
+    3. [ ] Et enigt mandat fra alle NATO-lande
+
+    ## Hvilke NATO-lande nævnes som modstandere af Irakkrigen?
+
+    1. [x] Tyskland, Frankrig og Norge
+    2. [ ] Danmark, USA og Storbritannien
+    3. [ ] Polen, Estland og Letland
+
+    ## Hvor stor politisk opbakning var der til dansk deltagelse i Irakkrigen?
+
+    1. [ ] Et enigt Folketing stemte for
+    2. [x] Kun et lille flertal i Folketinget stemte for
+    3. [ ] Et stort flertal stemte imod
+
+    ## Hvad blev målene efter Saddam Husseins fald?
+
+    1. [ ] At genindsætte Saddam Hussein
+    2. [ ] At opdele Irak i europæiske kolonier
+    3. [x] Genopbygning, bedre levevilkår og demokrati
+
+    ## Hvad vanskeliggjorde genopbygningen af Irak?
+
+    1. [x] Konflikter mellem etniske og religiøse grupper
+    2. [ ] Irak havde ingen forskellige befolkningsgrupper
+    3. [ ] Alle irakiske grupper støttede straks den nye regering
+
+    ## Hvor mange danske soldater døde i forbindelse med interventionen i Irak?
+
+    1. [ ] Fire
+    2. [x] Otte
+    3. [ ] 44
+
+    ## Hvad var Det Arabiske Forår?
+
+    1. [ ] Et handelssamarbejde mellem arabiske lande
+    2. [x] Oprør i blandt andet Libyen, Tunesien, Egypten og Syrien
+    3. [ ] En NATO-øvelse i Middelhavet
+
+    ## Hvor stor opbakning var der i Folketinget til interventionen i Libyen?
+
+    1. [x] Et enigt Folketing støttede den
+    2. [ ] Kun et lille flertal støttede den
+    3. [ ] Ingen partier støttede den
+
+    ## Hvad var formålet med interventionen i Libyen?
+
+    1. [ ] At støtte Gadaffis regering
+    2. [x] At beskytte civilbefolkningen mod Gadaffis overgreb
+    3. [ ] At gøre Libyen til NATO-medlem
+
+    ## Hvilket mandat havde interventionen i Libyen?
+
+    1. [ ] Intet internationalt mandat
+    2. [ ] Kun et dansk mandat
+    3. [x] Et mandat fra FN
+
+    ## Hvordan deltog Danmark i aktionen i Libyen?
+
+    1. [x] Med fly, som bombede Gadaffis hær og militære baser
+    2. [ ] Med et krigsskib, som kun håndhævede en handelsblokade
+    3. [ ] Med politifolk, som bevogtede valgsteder
+
+    ## Hvordan udviklede Libyen sig efter interventionen?
+
+    1. [ ] Landet blev stabilt og fredeligt
+    2. [x] Landet blev meget ustabilt med svage regeringer og borgerkrigslignende konflikt
+    3. [ ] Landet blev medlem af EU
+
+    ## Hvilken rolle har Libyen fået for migration mod Europa?
+
+    1. [ ] Migration gennem Libyen er ophørt
+    2. [ ] Libyen sender kun migranter mod Asien
+    3. [x] Landet er udgangspunkt for mange afrikanske migranter over Middelhavet
+
+    ## Hvorfor er fokus flyttet væk fra militære operationer for at skabe demokrati i andre lande?
+
+    1. [x] Operationerne i Irak, Afghanistan og Libyen havde begrænset langsigtet succes
+    2. [ ] Alle operationerne nåede fuldt ud deres mål
+    3. [ ] NATO er blevet opløst
+

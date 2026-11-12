@@ -1,0 +1,171 @@
+Quiz til 4.4.3 Territorialforsvar
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad betyder territorialforsvar?
+
+    1. [ ] At beskytte andre landes kolonier
+    2. [x] Evnen til at forsvare eget territorium mod andre landes angreb
+    3. [ ] At deltage i alle konflikter uden for Europa
+
+    ## Hvilket forhold har især øget ønsket om europæisk territorialforsvar?
+
+    1. [ ] Bedre forhold mellem Vesten og Rusland
+    2. [ ] Ophøret af alle militære trusler i Europa
+    3. [x] Flere konflikter mellem Vesten og Rusland
+
+    ## Hvorfor føler Rusland ifølge teksten sine interesser krænket?
+
+    1. [x] Mange tidligere russiske allierede og tre tidligere sovjetrepublikker er blevet NATO-medlemmer
+    2. [ ] Rusland blev tvunget til at blive medlem af NATO
+    3. [ ] NATO opløste Rusland i 1991
+
+    ## Hvad er NATO's svar på kritikken af udvidelsen?
+
+    1. [ ] Rusland bestemmer, hvilke lande der kan blive medlemmer
+    2. [x] Selvstændige lande må frit søge om optagelse
+    3. [ ] Kun vesteuropæiske lande kan søge
+
+    ## Hvorfor har spændingerne særlig betydning for Danmark?
+
+    1. [ ] Danmark ligger ved Sortehavet
+    2. [ ] Danmark grænser direkte op til Rusland
+    3. [x] Danmark ligger ved Østersøen, som både NATO og Rusland ser som vigtigt
+
+    ## Hvilke tre baltiske lande har Rusland truet med at angribe?
+
+    1. [x] Estland, Letland og Litauen
+    2. [ ] Finland, Sverige og Norge
+    3. [ ] Polen, Tyskland og Danmark
+
+    ## Hvad vurderer Forsvarets Efterretningstjeneste om GPS-forstyrrelser over Østersøen?
+
+    1. [ ] De skyldes med sikkerhed Danmark
+    2. [x] Det er meget sandsynligt, at Rusland står bag
+    3. [ ] Der har ikke været GPS-forstyrrelser
+
+    ## Hvad gjorde Rusland på Krim i 2014?
+
+    1. [ ] Rusland trak alle styrker ud
+    2. [ ] Rusland overdrog Krim til NATO
+    3. [x] Rusland besatte halvøen
+
+    ## Hvad indledte Rusland i februar 2022?
+
+    1. [x] Et omfattende militært angreb på Ukraine
+    2. [ ] En fredsmission under FN
+    3. [ ] En tilbagetrækning fra Ukraine
+
+    ## Hvordan har Vesten, herunder Danmark, støttet Ukraine?
+
+    1. [ ] Kun med diplomatiske erklæringer
+    2. [x] Med våben, træning og penge
+    3. [ ] Med militær støtte til Rusland
+
+    ## Hvilken beslutning traf Danmark om F-16-fly i 2023?
+
+    1. [ ] At købe 19 fly af Ukraine
+    2. [ ] At skrotte alle danske kampfly
+    3. [x] At donere 19 fly til Ukraine og træne ukrainske piloter
+
+    ## Hvilke økonomiske sanktioner mod Rusland nævnes?
+
+    1. [x] Udelukkelse af banker fra SWIFT, eksportforbud og stop for køb af russisk olie
+    2. [ ] Større køb af russisk olie og flere investeringer
+    3. [ ] Optagelse af Rusland i EU's indre marked
+
+    ## Hvorfor ønskede USA højere europæiske forsvarsudgifter?
+
+    1. [ ] Europa brugte mere end USA på forsvar
+    2. [x] Europæerne havde efter USA's mening overladt for stor en del af regningen til USA
+    3. [ ] USA ønskede at afskaffe NATO's europæiske styrker
+
+    ## Hvilken forsvarsmålsætning vedtog NATO-landene i 2014?
+
+    1. [ ] 0,7 procent af BNP
+    2. [x] To procent af BNP
+    3. [ ] Fem procent af BNP
+
+    ## Hvad blev NATO's målsætning hævet til i juni 2025?
+
+    1. [ ] Tre procent
+    2. [ ] Fire procent
+    3. [x] Fem procent
+
+    ## Hvordan udviklede Danmarks forsvarsbudget sig fra 1990 til 2015?
+
+    1. [x] Det faldt fra 2,0 til 1,05 procent af BNP
+    2. [ ] Det steg fra 1,05 til fem procent af BNP
+    3. [ ] Det var uændret på to procent
+
+    ## Hvordan ændrede antallet af værnepligtige sig fra 1990 til 2015?
+
+    1. [ ] Det steg fra 4.300 til 10.500
+    2. [x] Det faldt fra cirka 10.500 til 4.300 om året
+    3. [ ] Det var uændret på 7.500
+
+    ## Hvad blev forsvaret i stigende grad indrettet til efter Den Kolde Krig?
+
+    1. [ ] Kun at forsvare Grønland
+    2. [ ] At drive civile hospitaler
+    3. [x] At sende styrker til internationale opgaver frem for territorialforsvar
+
+    ## Hvilken følge fik de lavere forsvarsudgifter?
+
+    1. [x] Færre soldater og lukning af kaserner, flåde- og flyvestationer
+    2. [ ] Flere kaserner og flere værnepligtige
+    3. [ ] Et stærkere territorialforsvar uden ekstra udgifter
+
+    ## Hvorfor prioriterer USA i stigende grad Asien og Stillehavet?
+
+    1. [ ] Rusland har overtaget Kinas rolle
+    2. [x] Kina er blevet en stærkere konkurrent til USA
+    3. [ ] Europa er blevet en del af Kina
+
+    ## Hvilken usikkerhed skaber USA's ændrede prioritering i Europa?
+
+    1. [ ] Om USA vil overtage alle europæiske forsvar
+    2. [ ] Om Europa skal forsvare USA mod Kina
+    3. [x] Om USA fortsat vil deltage i Europas forsvar mod blandt andet Rusland
+
+    ## Hvorfor har europæiske lande besluttet at bruge mere på forsvar?
+
+    1. [x] På grund af Ukrainekrigen, NATO's mål og USA's ændrede prioriteringer
+    2. [ ] Fordi alle sikkerhedstrusler er forsvundet
+    3. [ ] Fordi NATO har opgivet territorialforsvar
+
+    ## Hvornår nåede Danmarks forsvarsudgifter igen over to procent af BNP?
+
+    1. [ ] 2014
+    2. [x] 2024
+    3. [ ] 2026
+
+    ## Hvor meget forventes Danmark ifølge teksten at bruge på forsvar i 2026?
+
+    1. [ ] 1,05 procent af BNP
+    2. [ ] 2,0 procent af BNP
+    3. [x] 3,5 procent af BNP
+
+    ## Hvad skal de øgede forsvarsbevillinger blandt andet bruges til?
+
+    1. [ ] At afskaffe kampfly og luftforsvar
+    2. [x] Kampvogne, kampfly, undervandstorpedoer og luftforsvarssystemer
+    3. [ ] Kun løn til civile embedsmænd
+
+    ## Hvordan skal værnepligten ændres ifølge beslutningen fra 2024?
+
+    1. [x] Antallet skal op til 7.500, og de fleste skal tjene 11 måneder
+    2. [ ] Antallet skal ned til 4.300, og tjenesten forkortes
+    3. [ ] Værnepligten skal afskaffes helt
+

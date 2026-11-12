@@ -1,0 +1,93 @@
+Quiz til 4.4.1 Udenrigspolitisk aktivisme
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken traditionel politik opgav Danmark med NATO-medlemskabet i 1949?
+
+    1. [x] Neutralitetspolitikken
+    2. [ ] Den aktivistiske udenrigspolitik
+    3. [ ] Udviklingspolitikken
+
+    ## Hvilken militær profil havde Danmark frem til Den Kolde Krigs afslutning?
+
+    1. [ ] En meget aktiv profil i internationale krige
+    2. [x] En relativt lav militær profil
+    3. [ ] Ingen deltagelse i internationale missioner
+
+    ## Hvilke opgaver havde Danmark typisk i FN's fredsbevarende missioner?
+
+    1. [x] At hjælpe med at opretholde våbenhviler og beskytte civile
+    2. [ ] At erobre territorium for FN
+    3. [ ] At opløse medlemslandenes regeringer
+
+    ## Hvordan ændrede NATO's mål sig efter Den Kolde Krig?
+
+    1. [ ] NATO ophørte med at være en forsvarsalliance
+    2. [x] NATO ville også fremme fred, demokrati, menneskerettigheder og retsstatsprincipper
+    3. [ ] NATO blev kun en økonomisk organisation
+
+    ## Hvorfor kunne NATO føre en mere aktiv politik efter Den Kolde Krig?
+
+    1. [x] NATO var verdens klart stærkeste militære alliance og frygtede mindre et angreb
+    2. [ ] Alle andre militære alliancer blev en del af NATO
+    3. [ ] NATO havde afskaffet alle sine militære styrker
+
+    ## Hvad betyder Danmarks aktivistiske udenrigspolitik?
+
+    1. [ ] Danmark deltager kun i traditionelle fredsbevarende missioner
+    2. [ ] Danmark undgår alle internationale konflikter
+    3. [x] Danmark deltager mere aktivt i konflikter, også ud over fredsbevaring
+
+    ## Hvad udløste den internationale militære indsats mod Irak i 1990-91?
+
+    1. [ ] Irak angreb NATO
+    2. [x] Irak besatte Kuwait
+    3. [ ] Kuwait besatte Irak
+
+    ## Hvad bidrog Danmark med under indsatsen for at befri Kuwait?
+
+    1. [x] Et krigsskib, som håndhævede handelsblokaden mod Irak
+    2. [ ] Kampfly, som bombede Bagdad
+    3. [ ] Soldater, som besatte Kuwait
+
+    ## Deltog det danske krigsskib i aktive kamphandlinger?
+
+    1. [ ] Ja, det angreb den irakiske flåde
+    2. [x] Nej, det håndhævede handelsblokaden
+    3. [ ] Ja, det landsatte soldater i Irak
+
+    ## Hvilken rolle havde danske soldater under borgerkrigen i Jugoslavien?
+
+    1. [ ] De kæmpede på den serbiske regerings side
+    2. [ ] De var en del af en NATO-invasion i 1991
+    3. [x] De blev udsendt som en del af FN's styrker
+
+    ## Hvor blev danske soldater involveret i direkte kampe med serbiske styrker i 1994?
+
+    1. [x] Bosnien
+    2. [ ] Kosovo
+    3. [ ] Kuwait
+
+    ## Hvorfor greb NATO militært ind i Kosovo i 1999?
+
+    1. [ ] Kosovo havde invaderet Danmark
+    2. [x] Det albanske flertal blev udsat for overgreb, og forhandlinger gav intet resultat
+    3. [ ] FN ville gøre Kosovo til medlem af NATO
+
+    ## Hvordan deltog Danmark i NATO's aktioner i Kosovo?
+
+    1. [ ] Med et hospitalsskib
+    2. [ ] Med fredsobservatører uden militær rolle
+    3. [x] Med danske kampfly
+

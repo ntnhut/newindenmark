@@ -1,5 +1,5 @@
-Quizzes for Section 5.5
-==========================================
+Quiz til funktionalisme
+==========================================================================================
 
 Questions
 ---------------------------------
@@ -12,54 +12,6 @@ Questions
     text_color: black
     shuffle_questions: true
     ---
-
-    ## Hvad afspejler arkitektur og design ifølge teksten?
-
-    1. [ ] Kun et lands klima og natur
-    2. [x] Et samfunds muligheder, holdninger og værdier
-    3. [ ] Kun arkitektens personlige smag
-
-    ## Hvad har man traditionelt lagt vægt på i dansk arkitektur og design?
-
-    1. [x] Praktiske funktioner og enkelhed
-    2. [ ] Overdådig udsmykning og stærke farver
-    3. [ ] At alle bygninger følger samme historiske stil
-
-    ## Hvor ses traditionen for praktiske funktioner og enkelhed blandt andet?
-
-    1. [ ] Kun i moderne højhuse
-    2. [ ] Kun i kongelige slotte
-    3. [x] I landsbykirker og bindingsværksgårde
-
-    ## Hvilken arkitektur inspirerede især de mere eksklusive ejendomme fra cirka 1760-1860?
-
-    1. [ ] Japansk og kinesisk arkitektur
-    2. [x] Græsk og romersk arkitektur
-    3. [ ] Gotisk og nordisk arkitektur
-
-    ## Hvilken by blev især præget af de eksklusive ejendomme fra cirka 1760-1860?
-
-    1. [x] København
-    2. [ ] Ribe
-    3. [ ] Aalborg
-
-    ## Hvem tegnede Københavns domkirke, Vor Frue Kirke?
-
-    1. [ ] Arne Jacobsen
-    2. [ ] Jørn Utzon
-    3. [x] C.F. Hansen
-
-    ## Hvornår blev Vor Frue Kirke opført?
-
-    1. [ ] 1760-80
-    2. [x] 1811-29
-    3. [ ] 1931-33
-
-    ## Hvordan kommer både romersk og græsk inspiration til udtryk i Vor Frue Kirke?
-
-    1. [x] Dele ligner et romersk tempel, mens indgangen har en græsk tempelfront
-    2. [ ] Tårnet ligner et romersk palads, mens taget har græske mosaikker
-    3. [ ] Kirken er delt i en romersk og en græsk bygning
 
     ## Hvad lægger funktionalismen især vægt på?
 
@@ -187,68 +139,3 @@ Questions
     2. [ ] PH-lampen og FDB-stolen
     3. [ ] Svanen og Påfuglen
 
-    ## Hvad præger dansk arkitektur og design i dag ifølge teksten?
-
-    1. [ ] Én fælles national stil
-    2. [x] Stor mangfoldighed og globalt udsyn
-    3. [ ] En tilbagevenden til bindingsværk
-
-    ## Hvilken ikonisk bygning tegnede Jørn Utzon i slutningen af 1950'erne?
-
-    1. [ ] Vadehavscentret
-    2. [ ] Amager Bakke
-    3. [x] Operahuset i Sydney
-
-    ## Hvordan er operahuset i Sydney udformet?
-
-    1. [x] Som store opretstående skaller med et mønster af hvide klinker
-    2. [ ] Som en firkantet glasbygning med fladt tag
-    3. [ ] Som et romersk tempel med søjler
-
-    ## Hvad kan operahuset i Sydney minde om fra forskellige vinkler?
-
-    1. [ ] En landsbykirke, en gård eller et rådhus
-    2. [x] En katedral, sejl på et skib eller havets bølger
-    3. [ ] Et bjerg, en skov eller en sø
-
-    ## Hvad var Jørn Utzons operahus med til at bane vejen for?
-
-    1. [ ] En ensartet og anonym byggestil
-    2. [ ] En tilbagevenden til græske templer
-    3. [x] En mere eksperimenterende, ekspressiv og legende byggestil
-
-    ## Hvilke to byggerier af Dorte Mandrup nævnes?
-
-    1. [x] Isfjordcenteret og Vadehavscentret
-    2. [ ] Aarhus Universitet og Vor Frue Kirke
-    3. [ ] Danmarks Nationalbank og Aarhus Rådhus
-
-    ## Hvad kendetegner Dorte Mandrups stil?
-
-    1. [ ] Bygningerne følger samme skabelon uanset sted
-    2. [x] Omgivelserne inspirerer og former bygningerne
-    3. [ ] Bygningerne skjules helt fra landskabet
-
-    ## Hvem står sammen med sin tegnestue BIG bag flere prestigebyggerier i Danmark og udlandet?
-
-    1. [ ] Poul Henningsen
-    2. [ ] Børge Mogensen
-    3. [x] Bjarke Ingels
-
-    ## Hvornår blev Amager Bakke, også kaldet Copenhill, indviet?
-
-    1. [x] I 2019
-    2. [ ] I 1999
-    3. [ ] I 2022
-
-    ## Hvilke to hovedfunktioner har Copenhill?
-
-    1. [ ] Universitet og kollegium
-    2. [x] Energieffektiv affaldsforbrænding og rekreativ oase
-    3. [ ] Operahus og kunstmuseum
-
-    ## Hvilke fritidsmuligheder findes ifølge teksten på Copenhill?
-
-    1. [ ] Sejlads, fiskeri og ridning
-    2. [ ] Svømmehal, boldbaner og golfbane
-    3. [x] Skibakke, vandrerute og klatrevæg

@@ -27,7 +27,9 @@ Kapitel 5 - Dansk kulturliv
    5.4d_nyere_popmusik_quiz
    5.4e_eurovision_quiz
    5.5
-   5.5_quiz
+   5.5a_historisk_arkitektur_quiz
+   5.5b_funktionalisme_quiz
+   5.5c_nyere_arkitektur_og_design_quiz
    5.6
    5.6_quiz
    5.7

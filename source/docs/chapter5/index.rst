@@ -31,6 +31,9 @@ Kapitel 5 - Dansk kulturliv
    5.5b_funktionalisme_quiz
    5.5c_nyere_arkitektur_og_design_quiz
    5.6
-   5.6_quiz
+   5.6a_holberg_og_teater_quiz
+   5.6b_romantik_og_ballet_quiz
+   5.6c_scene_under_besaettelsen_quiz
+   5.6d_nyere_teater_og_standup_quiz
    5.7
    5.7_quiz

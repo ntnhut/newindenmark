@@ -1,0 +1,92 @@
+Quiz til nyere scenekunst og standup
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem var med sine shows med komik og musik en forløber for nutidens standup-komedie?
+
+    1. [ ] Leif Panduro
+    2. [x] Victor Borge
+    3. [ ] Sebastian
+
+    ## Hvilken succes fik Victor Borges Comedy in the Music?
+
+    1. [ ] Det blev opført 25 gange i København
+    2. [ ] Det blev tv-teater i 1968
+    3. [x] Det blev opført over 800 gange på Broadway fra 1953-56
+
+    ## Hvad handlede Leif Panduros populære tv-dramatik i 1960'erne og 70'erne ofte om?
+
+    1. [x] Konflikter i familien og mellem generationer
+    2. [ ] Begivenheder i middelalderen
+    3. [ ] Kærlighedsforviklinger blandt 1800-tallets borgerskab
+
+    ## Hvad handler Farvel Thomas om?
+
+    1. [ ] En student, der praler af sin lærdom
+    2. [x] En mand, der kommer i krise og ensomhed efter en skilsmisse
+    3. [ ] En skuespillerinde ved Det Kongelige Teater
+
+    ## Hvad kendetegner Line Knutzons dramatik?
+
+    1. [ ] Den er højtidelig og uden humor
+    2. [ ] Den handler kun om historiske personer
+    3. [x] Den er satirisk, samfundskritisk og meget morsom
+
+    ## Hvad er særligt ved replikkerne i Line Knutzons stykker?
+
+    1. [x] De gøres absurde og vanvittige
+    2. [ ] De synges altid
+    3. [ ] De er skrevet på latin
+
+    ## Hvor foregår Line Knutzons første større succes, Først bliver man jo født?
+
+    1. [ ] På et universitet
+    2. [x] Blandt beboere i en opgang med lejligheder
+    3. [ ] I et skotsk landskab
+
+    ## Hvornår blev musicalgenren populær ifølge teksten?
+
+    1. [ ] Fra begyndelsen af 1800-tallet
+    2. [ ] Kun i 1930'erne
+    3. [x] Fra slutningen af 1970'erne og frem
+
+    ## Hvilke elementer kombinerer musicalgenren?
+
+    1. [x] Traditionelt skuespil og dialog med musik og dans
+    2. [ ] Kun musik og ballet uden dialog
+    3. [ ] Film, billedkunst og opera
+
+    ## Hvem skrev musik til Skatteøen og Ronja Røverdatter?
+
+    1. [ ] Victor Borge
+    2. [x] Sebastian
+    3. [ ] Poul Henningsen
+
+    ## Hvem skrev den fortælling, som musicalen Ronja Røverdatter bygger på?
+
+    1. [ ] Line Knutzon
+    2. [ ] Johanne Luise Heiberg
+    3. [x] Astrid Lindgren
+
+    ## Hvad gør komikeren i standupcomedy?
+
+    1. [x] Fremsiger jokes og underholdende historier direkte til publikum
+    2. [ ] Opfører en rolle uden at tale til publikum
+    3. [ ] Danser en ballet til levende musik
+
+    ## Hvem nævnes som kendte danske standupkomikere?
+
+    1. [ ] Holberg, Oehlenschläger og Heiberg
+    2. [x] Casper Christensen, Anders Matthesen og Nikolai Stokholm
+    3. [ ] Victor Borge, Sebastian og Poul Henningsen

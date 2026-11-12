@@ -1,0 +1,117 @@
+Quiz til romantikken og dansk ballet
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad brugte romantikkens digtere dramatikken til i begyndelsen af 1800-tallet?
+
+    1. [x] At udtrykke store lidenskaber og følelser
+    2. [ ] At undervise i naturvidenskab
+    3. [ ] At beskrive dagligdagen uden følelser
+
+    ## Hvor fandt romantikkens digtere blandt andet motiver?
+
+    1. [ ] I moderne reklamer og aviser
+    2. [x] I historien, folkeeventyr og folkeviser
+    3. [ ] Kun i antikkens romerske dramaer
+
+    ## Hvad inspirerede Adam Oehlenschläger til Aladdin eller Den Forunderlige Lampe?
+
+    1. [ ] Saxos Danmarkshistorie
+    2. [ ] H.C. Andersens eventyr
+    3. [x] De arabiske fortællinger i 1001 Nats Eventyr
+
+    ## Hvornår skrev Oehlenschläger Aladdin eller Den Forunderlige Lampe?
+
+    1. [x] I 1805
+    2. [ ] I 1723
+    3. [ ] I 1836
+
+    ## Hvad viser Aladdins gamle lampe sig at kunne?
+
+    1. [ ] Gøre ham usynlig
+    2. [x] Opfylde alle hans ønsker
+    3. [ ] Føre ham til København
+
+    ## Hvad beskriver Aladdin-stykket ud over sine mellemøstlige omgivelser?
+
+    1. [x] Personer og typer i datidens København
+    2. [ ] Det skotske højland
+    3. [ ] Det danske samfund efter 2. Verdenskrig
+
+    ## Hvordan blev dramatikken betragtet i 1800-tallet ifølge teksten?
+
+    1. [ ] Som en mindre betydningsfuld kunstart
+    2. [ ] Som underholdning kun for børn
+    3. [x] Som den fornemste kunstart
+
+    ## Hvilken institution blev vigtig for scenekunsten?
+
+    1. [ ] Nationalmuseet
+    2. [x] Det Kongelige Teater
+    3. [ ] Danmarks Radio
+
+    ## Hvilke roller havde Johan Ludvig og Johanne Luise Heiberg ved teatret?
+
+    1. [x] Han var direktør og forfatter, og hun var skuespillerinde
+    2. [ ] Han var skuespiller, og hun var koreograf
+    3. [ ] Han var komponist, og hun var teaterdirektør
+
+    ## Hvad er en vaudeville ifølge teksten?
+
+    1. [ ] En alvorlig opera om historiske konger
+    2. [x] Et lystspil, hvor dramatik og musik forenes
+    3. [ ] En ballet uden handling
+
+    ## Hvad handler vaudeviller ofte om?
+
+    1. [ ] Krige mellem europæiske lande
+    2. [ ] Kunstneres liv på landet
+    3. [x] Kærlighedsforviklinger blandt borgerskabets unge
+
+    ## Hvilken del af scenekunsten blev førende på Oehlenschlägers og Heibergs tid?
+
+    1. [x] Balletten
+    2. [ ] Standupcomedy
+    3. [ ] Tv-teatret
+
+    ## Hvornår blev August Bournonvilles udgave af Sylfiden opført første gang?
+
+    1. [ ] I 1723
+    2. [ ] I 1945
+    3. [x] I 1836
+
+    ## Hvorfor er Sylfiden en af verdens ældste overleverede balletter?
+
+    1. [ ] Den har aldrig ændret musik
+    2. [x] Bournonvilles koreografi er den eneste udgave, der har overlevet
+    3. [ ] Den var den første ballet, der blev skrevet
+
+    ## Hvad gør James på sin bryllupsdag i Sylfiden?
+
+    1. [x] Han løber bort med en sylfide
+    2. [ ] Han rejser til København for at studere
+    3. [ ] Han dræber en tysk greve
+
+    ## Hvad er en sylfide i balletten?
+
+    1. [ ] En skotsk prinsesse
+    2. [x] En usynlig kvinde af luft
+    3. [ ] En klog tjenestepige
+
+    ## Hvilken betydning har Bournonville haft for balletten?
+
+    1. [ ] Hans arbejde blev kun kendt i Danmark
+    2. [ ] Hans tradition sluttede i 1800-tallet
+    3. [x] Han fik enorm international betydning, og traditionen blev videreført og fornyet
+

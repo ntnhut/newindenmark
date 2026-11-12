@@ -1,0 +1,75 @@
+Quiz til Holberg og tidlig dansk teater
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke genrer omfatter scenekunsten ifølge teksten?
+
+    1. [ ] Roman, novelle, digt, maleri og film
+    2. [x] Skuespil, ballet, opera, musical og revy
+    3. [ ] Kun skuespil, ballet og opera
+
+    ## Hvad har scenekunstens forskellige genrer til fælles?
+
+    1. [x] De opføres her og nu foran et publikum
+    2. [ ] De opføres altid uden musik
+    3. [ ] De vises kun på tv
+
+    ## Hvorfra har dansk scenekunst blandt andet fået inspiration?
+
+    1. [ ] Kun fra dansk historie
+    2. [ ] Kun fra nordiske folkeviser
+    3. [x] Fra udlandet
+
+    ## Hvad blev Ludvig Holberg opfordret til at skrive i 1700-tallet?
+
+    1. [ ] Operaer
+    2. [x] Komedier til teatret
+    3. [ ] Romaner
+
+    ## Hvor mange komedier skrev Holberg på få år?
+
+    1. [x] 25
+    2. [ ] 15
+    3. [ ] 40
+
+    ## Hvem blev der gjort grin med i Holbergs komedier?
+
+    1. [ ] Kun konger og præster
+    2. [ ] Kun udenlandske besøgende
+    3. [x] Borgere, bønder og adelsfolk
+
+    ## Hvilken person udtænker ofte en intrige i Holbergs komedier?
+
+    1. [ ] En ufornuftig adelsmand
+    2. [x] En klog tjenestepige
+    3. [ ] En latinsk lærer
+
+    ## Hvad praler studenten Rasmus af i Erasmus Montanus?
+
+    1. [x] Sin latinske lærdom
+    2. [ ] Sin rigdom
+    3. [ ] Sine rejser i Mellemøsten
+
+    ## Hvad var Holberg den første til?
+
+    1. [ ] At skrive operaer i Danmark
+    2. [ ] At opføre ballet på Det Kongelige Teater
+    3. [x] At skrive komedier på dansk
+
+    ## Hvordan beskriver teksten Holbergs komediers plads på danske scener i dag?
+
+    1. [ ] De opføres ikke længere
+    2. [x] De spilles stadig ofte
+    3. [ ] De opføres kun én gang om året
+

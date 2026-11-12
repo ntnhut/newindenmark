@@ -1,8 +1,5 @@
-Quizzes for Section 6.17
-==========================================
-
-Questions
----------------------------------
+Quiz til 6.17 Den danske klimaindsats
+=====================================
 
 .. quizdown::
 
@@ -12,42 +9,6 @@ Questions
     text_color: black
     shuffle_questions: true
     ---
-
-    ## Hvad er en vigtig årsag til den globale opvarmning?
-
-    1. [ ] At Jorden modtager mindre sollys
-    2. [ ] At havene bliver mindre salte
-    3. [x] Udledning af drivhusgasser
-
-    ## Hvilke energikilder kaldes fossile brændsler?
-
-    1. [ ] Sol, vind og vandkraft
-    2. [x] Kul, olie og gas
-    3. [ ] Biomasse, jordvarme og bølger
-
-    ## Hvordan virker drivhusgasser i atmosfæren?
-
-    1. [x] De begrænser noget af varmens mulighed for at slippe ud
-    2. [ ] De blokerer alt sollys fra at nå Jorden
-    3. [ ] De fjerner al varme fra atmosfæren
-
-    ## Hvilke følger kan global opvarmning få?
-
-    1. [ ] Færre oversvømmelser og mindre ekstrem varme
-    2. [ ] At alle verdens områder får samme klima
-    3. [x] Mere ørken, flere oversvømmelser og mere ekstrem varme
-
-    ## Hvor meget varmere er det globale klima blevet sammenlignet med 1850-1900?
-
-    1. [x] Mere end én grad
-    2. [ ] Mindre end en tiendedel grad
-    3. [ ] Præcis ti grader
-
-    ## Hvor meget varmere forudser FN, at klimaet kan blive ved slutningen af århundredet sammenlignet med 1850-1900?
-
-    1. [ ] 0,1-0,4 grader
-    2. [x] 1,4-4,4 grader
-    3. [ ] 10-14 grader
 
     ## Hvor meget er Danmarks udledning faldet siden 1990 ifølge teksten?
 
@@ -181,50 +142,3 @@ Questions
     2. [ ] At genåbne alle lukkede kulminer
     3. [ ] At erstatte havvind med olieproduktion
 
-    ## Hvor stor en del af Danmarks areal udgør landbruget?
-
-    1. [ ] 15 procent
-    2. [ ] 47 procent
-    3. [x] 60 procent
-
-    ## Hvad handler Den Grønne Trepart blandt andet om?
-
-    1. [ ] At øge brugen af pesticider og olie
-    2. [x] At skabe mere natur, renere vand og et mindre forurenende landbrug
-    3. [ ] At udvide alle landbrugsarealer
-
-    ## Hvor stor en del af dansk landbrugsjord er aftalt omlagt til natur?
-
-    1. [x] Cirka 15 procent
-    2. [ ] Cirka 7 procent
-    3. [ ] Cirka 60 procent
-
-    ## Hvorfor bidrager lavbundsjord til landbrugets CO2-udledning?
-
-    1. [ ] Den består af ren sandjord uden planter
-    2. [ ] Den altid er dækket af havvand
-    3. [x] Dyrkning frigiver kulstof fra døde planterester i den fugtige jord
-
-    ## Hvor stor en del af landbrugsjorden er lavbundsjord, og hvor stor en del af landbrugets CO2-udledning forårsager den?
-
-    1. [ ] 15 procent af jorden og cirka 15 procent af udledningen
-    2. [x] Syv procent af jorden og cirka halvdelen af udledningen
-    3. [ ] 60 procent af jorden og næsten hele udledningen
-
-    ## Hvad kan landbrugets gødskning føre til i kystområder og fjorde?
-
-    1. [x] Ilt-svind, som gør det sværere for fisk og anden natur at leve
-    2. [ ] Mere ilt og færre næringsstoffer i vandet
-    3. [ ] At tidevandet stopper
-
-    ## Hvilken ny afgift indgår i Den Grønne Trepart?
-
-    1. [ ] En afgift på alle naturbesøg
-    2. [x] En direkte CO2-afgift på landbrugets udledning
-    3. [ ] En afgift på brug af vindenergi
-
-    ## Hvilken kritik af landbrugets CO2-afgift nævner teksten?
-
-    1. [ ] At den kun gælder vindmøller og varmepumper
-    2. [x] At den kan flytte produktion og job ud af landet, eller at den er for lav
-    3. [ ] At den omlægger for meget byjord til landbrug

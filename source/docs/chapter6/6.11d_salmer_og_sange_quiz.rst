@@ -1,0 +1,29 @@
+Quiz til 6.11 Grundtvigs salmer og sange
+========================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor mange fædrelandssange og salmer skrev Grundtvig ifølge teksten?
+
+    1. [ ] Omkring 150
+    2. [ ] Præcis 1.000
+    3. [x] Flere end 1.500
+
+    ## Hvilken salme skrev Grundtvig, som ofte synges ved danske kirkebryllupper?
+
+    1. [x] "Det er så yndigt at følges ad"
+    2. [ ] "Kong Christian stod ved højen mast"
+    3. [ ] "Man binder os på mund og hånd"
+
+    ## Hvilken sang forbindes med nytår kort efter midnat?
+
+    1. [ ] "Der er et yndigt land"
+    2. [ ] "Dansevise"
+    3. [x] "Vær velkommen, Herrens år"

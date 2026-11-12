@@ -1,0 +1,30 @@
+Quiz til 6.15 Barsel
+====================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor mange ugers barselsorlov indeholder reglerne fra 2002 i alt?
+
+    1. [ ] 32 uger
+    2. [ ] 14 uger
+    3. [x] 52 uger
+
+    ## Hvor mange af de 32 ugers forældreorlov skal hver forælder mindst tage?
+
+    1. [ ] To uger
+    2. [x] Ni uger
+    3. [ ] Fjorten uger
+
+    ## Hvor stor en del af barselsorloven tager kvinder i gennemsnit ifølge teksten?
+
+    1. [x] Cirka 80 procent
+    2. [ ] Cirka 50 procent
+    3. [ ] Cirka 20 procent
+

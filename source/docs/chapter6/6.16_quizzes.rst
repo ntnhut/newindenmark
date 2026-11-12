@@ -1,0 +1,9 @@
+Quizzer til 6.16
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   6.16a_historisk_perspektiv_quiz
+   6.16b_sygdomsbilledet_quiz
+   6.16c_sundhedsvaesenet_quiz

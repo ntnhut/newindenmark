@@ -1,0 +1,84 @@
+Quiz til 6.16 Ændringer i sygdomsbilledet
+=========================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er livsstilssygdomme?
+
+    1. [ ] Sygdomme, der kun rammer børn
+    2. [x] Sygdomme, hvor risikoen øges af den måde, man lever på
+    3. [ ] Sygdomme, som kun behandles på private sygehuse
+
+    ## Hvilke sygdomme nævnes som eksempler på livsstilssygdomme?
+
+    1. [ ] Skoldkopper og mæslinger
+    2. [ ] Brækkede knogler og forstuvninger
+    3. [x] Kræft, hjertekarsygdomme, sukkersyge og KOL
+
+    ## Hvordan udviklede andelen af svært overvægtige sig fra 1987 til 2023?
+
+    1. [ ] Den faldt fra 19 procent til 5-6 procent
+    2. [x] Den steg fra 5-6 procent til 19 procent
+    3. [ ] Den var uændret på cirka 16 procent
+
+    ## Hvad menes der med social ulighed i sundhed?
+
+    1. [x] At sygdomsrisiko og levealder hænger sammen med sociale forhold som uddannelse
+    2. [ ] At alle borgere betaler samme pris for alle behandlinger
+    3. [ ] At kun ældre kan gå til læge
+
+    ## Hvor meget kortere lever ufaglærte i gennemsnit end akademikere?
+
+    1. [ ] Et-to år
+    2. [x] Fem-syv år
+    3. [ ] Ti-tolv år
+
+    ## Hvilke aldersgrænser gælder for køb af alkohol i butikker ifølge teksten?
+
+    1. [ ] 16 år for al alkohol
+    2. [x] 16 år for øl op til 6 procent og 18 år for stærkere alkohol
+    3. [ ] 18 år for øl og 21 år for stærkere alkohol
+
+    ## Hvilken aldersgrænse gælder for køb af cigaretter?
+
+    1. [ ] 16 år
+    2. [x] 18 år
+    3. [ ] 21 år
+
+    ## Hvorfor er rygning særlig alvorlig for folkesundheden?
+
+    1. [ ] Den er den mest almindelige årsag til trafikulykker
+    2. [ ] Den påvirker kun personer under 18 år
+    3. [x] Den er den største enkeltstående årsag til sygdom og død i Danmark
+
+    ## Cirka hvor mange mennesker dør årligt som følge af rygning?
+
+    1. [ ] 1.600
+    2. [x] 16.000
+    3. [ ] 60.000
+
+    ## Hvor gælder der blandt andet rygeforbud?
+
+    1. [x] På offentlige indendørs steder, arbejdspladser og skoler
+    2. [ ] Kun i private hjem
+    3. [ ] Kun udendørs på skolernes områder
+
+    ## Hvilke borgere har oplevet den største stigning i dårligt mentalt helbred?
+
+    1. [x] Unge i alderen 16-24 år
+    2. [ ] Børn under seks år
+    3. [ ] Borgere over 80 år
+
+    ## Hvordan udviklede andelen med dårligt mentalt helbred sig fra 2010 til 2021?
+
+    1. [ ] Den faldt fra 17,4 procent til 10 procent
+    2. [x] Den steg fra 10 procent til 17,4 procent
+    3. [ ] Den var uændret på cirka 16 procent
+

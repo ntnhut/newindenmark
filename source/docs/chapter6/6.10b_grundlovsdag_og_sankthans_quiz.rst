@@ -1,0 +1,54 @@
+Quiz til 6.10 Grundlovsdag og sankthans
+=======================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken mærkedag fejres den 5. juni?
+
+    1. [x] Grundlovsdag
+    2. [ ] Sankthansaften
+    3. [ ] Arbejderbevægelsens internationale kampdag
+
+    ## Hvad fejrer man på grundlovsdag den 5. juni?
+
+    1. [x] Danmarks demokratiske forfatning
+    2. [ ] Arbejderbevægelsens kampdag
+    3. [ ] Den første danske konge
+
+    ## Hvornår fik Danmark sin første grundlov?
+
+    1. [ ] 1814
+    2. [x] 1849
+    3. [ ] 1915
+
+    ## Hvornår fejres sankthansaften?
+
+    1. [ ] 5. juni
+    2. [x] 23. juni
+    3. [ ] 24. december
+
+    ## Hvilken begivenhed markerer sankthansaften?
+
+    1. [ ] Vinterens begyndelse
+    2. [ ] Danmarks befrielse
+    3. [x] Midsommeren
+
+    ## Hvilken tradition forbindes med sankthansaften?
+
+    1. [ ] At slå katten af tønden
+    2. [ ] At give påskeæg
+    3. [x] At tænde bål
+
+    ## Hvem henviser navnet Hans i sankthans til?
+
+    1. [ ] Hans Christian Andersen
+    2. [x] Johannes Døberen
+    3. [ ] Kong Hans
+

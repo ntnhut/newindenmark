@@ -1,0 +1,54 @@
+Quiz til 6.16 Sundhed i et historisk perspektiv
+===============================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad har blandt andet fået udgifterne til sundhedsvæsenet til at stige?
+
+    1. [x] Flere ældre og dyrere behandlingsmuligheder
+    2. [ ] Færre sygdomme og billigere teknologi
+    3. [ ] At sygehusene er blevet mindre
+
+    ## Hvor stor en del af Danmarks samlede økonomi udgjorde sundhedsvæsenet i 2025?
+
+    1. [ ] 5,2 procent
+    2. [x] 9,4 procent
+    3. [ ] 19 procent
+
+    ## Hvad var middellevetiden i Danmark omtrent i 1800-tallet?
+
+    1. [ ] 80 år
+    2. [x] 40 år
+    3. [ ] 60 år
+
+    ## Hvad var middellevetiden for kvinder og mænd i 2024-2025?
+
+    1. [x] 83,9 år for kvinder og 80,3 år for mænd
+    2. [ ] 80,3 år for kvinder og 83,9 år for mænd
+    3. [ ] Cirka 40 år for begge køn
+
+    ## Hvilken kombination af faktorer har forbedret folkesundheden?
+
+    1. [ ] Mindre adgang til mad og færre læger
+    2. [ ] Flere arbejdstimer og mindre hygiejne
+    3. [x] Mere mad, lægevidenskab, bedre hygiejne og et udbygget sundhedsvæsen
+
+    ## Hvad var sygekasserne?
+
+    1. [ ] Private sygehuse for personer uden læge
+    2. [x] Forsikringsordninger, der dækkede sygdomsudgifter mod et fast bidrag
+    3. [ ] Kommunale ordninger, der kun betalte for tandpleje
+
+    ## Hvornår blev sygekasserne afløst af den offentlige sygesikring?
+
+    1. [x] 1973
+    2. [ ] 1893
+    3. [ ] 2000
+

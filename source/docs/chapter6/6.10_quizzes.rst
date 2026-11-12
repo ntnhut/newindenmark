@@ -1,0 +1,10 @@
+Quizzer til 6.10
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   6.10a_vaarens_maerkedage_quiz
+   6.10b_grundlovsdag_og_sankthans_quiz
+   6.10c_jul_og_nytaar_quiz
+   6.10d_religioese_og_nye_fester_quiz

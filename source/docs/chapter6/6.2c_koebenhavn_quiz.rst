@@ -1,0 +1,257 @@
+Quiz til 6.2 København
+======================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvorfor var Københavns placering ved Øresund vigtig for byens vækst?
+
+    1. [x] Byen lå ved de store internationale handelsruter ind og ud af Østersøen
+    2. [ ] Byen lå tæt på Danmarks største kulmine
+    3. [ ] Byen havde direkte adgang til Vesterhavet
+
+    ## Hvad giver København en naturligt beskyttet havn?
+
+    1. [ ] Klinterne på Møn
+    2. [x] Byens placering i læ af Amager
+    3. [ ] Skovene i Nordsjælland
+
+    ## Hvornår blev København efterhånden kongens faste residensby og rigets ubestridte hovedstad?
+
+    1. [ ] I 700- og 800-tallet
+    2. [ ] I 1100- og 1200-tallet
+    3. [x] I løbet af 1500- og 1600-tallet
+
+    ## Under hvilken konge voksede København især frem til en europæisk storby?
+
+    1. [x] Christian 4.
+    2. [ ] Harald Blåtand
+    3. [ ] Frederik 3.
+
+    ## Hvornår blev Rundetårn bygget?
+
+    1. [ ] 1429
+    2. [x] 1642
+    3. [ ] 1843
+
+    ## Hvad er Rundetårn berømt for?
+
+    1. [ ] En 497 trin lang udendørs trappe
+    2. [x] En 200 meter lang spiralgang til udsigtsplatformen
+    3. [ ] Fire næsten ens palæer omkring en plads
+
+    ## Hvad betyder Christian 4.'s motto Regna firmat pietas på Rundetårn?
+
+    1. [x] Fromhed styrker rigerne
+    2. [ ] Handel styrker byerne
+    3. [ ] Mod beskytter landet
+
+    ## Hvordan skabte Christian 4. Kongens Have?
+
+    1. [ ] Han tørlagde en del af Øresund
+    2. [ ] Han overtog en gammel kirkegård
+    3. [x] Han købte private grunde uden for Københavns daværende volde
+
+    ## Hvornår blev Kongens Have åbnet for alle?
+
+    1. [ ] I 1630'erne
+    2. [x] I 1770'erne
+    3. [ ] I 1910'erne
+
+    ## Hvordan opstod Rosenborg Slot?
+
+    1. [x] Et lille lysthus i Kongens Have blev løbende udbygget
+    2. [ ] Fire adelspalæer blev bygget sammen
+    3. [ ] En gammel kanonbunker blev ombygget
+
+    ## Hvad består kronjuvelerne på Rosenborg primært af?
+
+    1. [ ] To kongekroner af sten
+    2. [x] Fire store sæt af smykker
+    3. [ ] Seks gobeliner fra Christiansborg
+
+    ## Hvornår bærer dronningen normalt kronjuvelerne?
+
+    1. [ ] Ved det daglige vagtskifte
+    2. [ ] Hver søndag i kirken
+    3. [x] Til nytårskuren, ved statsbesøg og andre store begivenheder
+
+    ## Hvad symboliserer kronregalier som rigsæblet og scepteret?
+
+    1. [x] Kongernes eller dronningernes magt og værdighed
+    2. [ ] Købmændenes ret til at handle i Øresund
+    3. [ ] Flådens kontrol med Nyboder
+
+    ## Hvorfor byggede Christian 4. Børsen?
+
+    1. [x] Han ønskede at gøre København til et europæisk handelscentrum
+    2. [ ] Han ønskede en ny bolig til kongefamilien
+    3. [ ] Han ønskede et museum for kronjuvelerne
+
+    ## Hvad er Børsens særlige kendetegn?
+
+    1. [ ] En spiralgang på 200 meter
+    2. [ ] En ottetakket stjerne
+    3. [x] Dragespiret med fire dragehaler
+
+    ## Hvad skete der med Børsen i april 2024?
+
+    1. [x] En brand ødelagde halvdelen af bygningen, inklusive Dragespiret
+    2. [ ] Bygningen blev omdannet til bibliotek
+    3. [ ] Bygningen blev flyttet til Kongens Have
+
+    ## Hvem blev Nyboder oprindeligt bygget som boliger til?
+
+    1. [ ] Udenlandske købmænd
+    2. [x] Flådens soldater
+    3. [ ] Skagensmalerne
+
+    ## Hvor mange rækkehuse på cirka 40 kvadratmeter omfattede Nyboder?
+
+    1. [ ] 100
+    2. [x] 200
+    3. [ ] 2.000
+
+    ## Hvem har Amalienborg navn efter?
+
+    1. [ ] Dronning Margrethe 2.
+    2. [ ] Dronning Anna Cathrine
+    3. [x] Dronning Sophie Amalie
+
+    ## Hvad skete der med Sophie Amalienborg i 1689?
+
+    1. [x] Slottet brændte ned
+    2. [ ] Slottet blev til fire museer
+    3. [ ] Slottet blev flyttet til Helsingør
+
+    ## Hvem byggede de fire næsten ens palæer, som udgør det nuværende Amalienborg?
+
+    1. [ ] Flådens soldater i 1600-tallet
+    2. [x] Rige adelsfamilier i 1700-tallet
+    3. [ ] Udenlandske købmænd i 1800-tallet
+
+    ## Hvorfor købte kongefamilien Amalienborg?
+
+    1. [ ] Rosenborg blev solgt til private
+    2. [ ] Kronborg blev lukket på grund af Øresundstolden
+    3. [x] Christiansborg brændte i 1794, så kongefamilien stod uden bolig
+
+    ## Hvornår holder kongen sin nytårstale fra Amalienborg?
+
+    1. [ ] Nytårsaften klokken 12
+    2. [x] Nytårsaften klokken 18
+    3. [ ] Nytårsdag klokken 18
+
+    ## Hvornår er der vagtskifte på Amalienborg?
+
+    1. [x] Hver dag klokken 12
+    2. [ ] Hver søndag klokken 10
+    3. [ ] Hver nytårsaften klokken 18
+
+    ## Hvornår bærer Livgarden røde uniformer?
+
+    1. [ ] Hver dag om sommeren
+    2. [ ] Kun når kongen holder nytårstale
+    3. [x] Ved særlige lejligheder, for eksempel kongens fødselsdag
+
+    ## Hvornår åbnede Tivoli?
+
+    1. [ ] 1743
+    2. [x] 1843
+    3. [ ] 1914
+
+    ## Hvilken status har Tivoli ifølge teksten?
+
+    1. [x] Det er Danmarks mest besøgte turistattraktion
+    2. [ ] Det er Danmarks ældste by
+    3. [ ] Det er Nordeuropas største borgruin
+
+    ## Hvilken forlystelse fra 1914 findes i Tivoli?
+
+    1. [ ] En spiralgang
+    2. [ ] En biografisk rampe
+    3. [x] Den gamle trærutsjebane
+
+    ## Hvad er særligt ved de ældste pantomimeforestillinger i Tivoli?
+
+    1. [ ] De opføres kun hvert fjerde år
+    2. [x] De er mere end 200 år gamle
+    3. [ ] De er skrevet af Shakespeare i 1603
+
+    ## Hvad inspirerede skulpturen Den lille Havfrue?
+
+    1. [x] H.C. Andersens eventyr af samme navn fra 1837
+    2. [ ] Shakespeares Hamlet fra 1603
+    3. [ ] Myten om Holger Danske
+
+    ## Hvad handler eventyret Den lille Havfrue om?
+
+    1. [ ] En prins, der forsvarer Danmark mod fjender
+    2. [x] En havfrue, der forelsker sig i en prins, som hun ikke kan få
+    3. [ ] En dronning, der bygger et slot ved havnen
+
+    ## Hvornår blev skulpturen Den lille Havfrue opstillet?
+
+    1. [ ] 1837
+    2. [x] 1913
+    3. [ ] 2005
+
+    ## Hvor høj er Den lille Havfrue?
+
+    1. [ ] 75 centimeter
+    2. [ ] 100 centimeter
+    3. [x] 125 centimeter
+
+    ## Hvad er Den lille Havfrue flere gange blevet udsat for?
+
+    1. [x] Hærværk
+    2. [ ] Oversvømmelse fra Vadehavet
+    3. [ ] Flytning til et museum i Odense
+
+    ## Hvem har tegnet Operahuset i København fra 2005?
+
+    1. [ ] Kengo Kuma
+    2. [x] Henning Larsen
+    3. [ ] Bjarke Ingels Group
+
+    ## Hvem har skabt de tre store lysskulpturer i Operahusets foyer?
+
+    1. [x] Olafur Eliasson
+    2. [ ] Per Kirkeby
+    3. [ ] Bjørn Nørgaard
+
+    ## Hvem har tegnet biblioteket Den Sorte Diamant fra 1999?
+
+    1. [ ] 3XN
+    2. [ ] Henning Larsen
+    3. [x] Schmidt Hammer Lassen
+
+    ## Hvordan er FN Byen på Marmormolen designet?
+
+    1. [x] Som en ottetakket stjerne
+    2. [ ] Som et skib med fire sejl
+    3. [ ] Som en ring med et rundt tårn
+
+    ## Hvor mange FN-organisationer findes i FN Byen?
+
+    1. [ ] Otte
+    2. [x] 11
+    3. [ ] 100
+
+    ## Hvem har tegnet boligbyggeriet 8TALLET?
+
+    1. [ ] Schmidt Hammer Lassen
+    2. [x] Bjarke Ingels Group (BIG)
+    3. [ ] Kengo Kuma
+
+    ## Hvilken anerkendelse fik 8TALLET i 2011?
+
+    1. [ ] Det blev optaget som Danmarks ældste boligbyggeri
+    2. [ ] Det blev udpeget som kongefamiliens hovedresidens
+    3. [x] Det blev kåret som verdens bedste boligbyggeri

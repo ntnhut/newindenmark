@@ -1,0 +1,48 @@
+Quiz til 6.10 Jul og nytår
+==========================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken kristen begivenhed fejres ved jul?
+
+    1. [ ] Helligåndens komme
+    2. [x] Jesu fødsel
+    3. [ ] Jesu opstandelse
+
+    ## Hvornår er juleaften, og hvad gør familierne typisk?
+
+    1. [x] Den 24. december; de samles, spiser og giver gaver
+    2. [ ] Den 25. december; de fejrer nytåret med fyrværkeri
+    3. [ ] Den 26. december; de markerer vintersolhvervet med bål
+
+    ## Hvad forbindes juletraditionen også med ud over kristendommen?
+
+    1. [ ] Sommerens længste dag
+    2. [ ] Høstens afslutning
+    3. [x] Hedensk markering af vintersolhvervet
+
+    ## Hvad kaldes den 25. og 26. december?
+
+    1. [ ] Lillejuleaften og juleaften
+    2. [x] Første og anden juledag
+    3. [ ] Nytårsaften og nytårsdag
+
+    ## Hvornår er nytårsaften?
+
+    1. [x] 31. december
+    2. [ ] 1. januar
+    3. [ ] 24. december
+
+    ## Hvad kendetegner nytårsdag den 1. januar?
+
+    1. [ ] Alle skoler og arbejdspladser holder åbent
+    2. [x] Langt de fleste arbejdspladser og butikker holder lukket
+    3. [ ] Der holdes optog for arbejderbevægelsen
+

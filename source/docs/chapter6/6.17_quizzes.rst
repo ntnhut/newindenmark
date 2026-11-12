@@ -1,0 +1,9 @@
+Quizzer til 6.17
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   6.17a_global_opvarmning_quiz
+   6.17b_dansk_klimaindsats_quiz
+   6.17c_groen_trepart_quiz

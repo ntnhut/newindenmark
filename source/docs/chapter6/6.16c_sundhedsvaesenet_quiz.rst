@@ -1,0 +1,71 @@
+Quiz til 6.16 Det danske sundhedsvæsen
+======================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem står for driften af langt størstedelen af sundhedsvæsenet?
+
+    1. [ ] Kommunerne alene
+    2. [x] De fem regioner
+    3. [ ] Folkekirken
+
+    ## Hvilken hjælp giver regionerne gratis til borgere med bopæl i landet?
+
+    1. [ ] Al tandpleje og medicin uanset alder
+    2. [x] Sygehusbehandling og hjælp hos praktiserende læge og speciallæge
+    3. [ ] Alle behandlinger hos psykolog og fysioterapeut uden henvisning
+
+    ## Hvad er egen læge typisk for borgeren i sundhedsvæsenet?
+
+    1. [ ] Den myndighed, der fastsætter medicinpriser
+    2. [ ] En kommunal hjemmehjælper
+    3. [x] Indgangen til sundhedsvæsenet
+
+    ## Hvem vurderer typisk, om en patient skal henvises til speciallæge eller sygehus?
+
+    1. [x] Den praktiserende læge
+    2. [ ] Skolens leder
+    3. [ ] Folketingets formand
+
+    ## Hvorfor samles behandlinger på færre og større sygehuse?
+
+    1. [ ] For at gøre afstanden til behandling større
+    2. [x] For at styrke kvaliteten og give bedre adgang til erfaring og udstyr
+    3. [ ] For at gøre sygehusbehandling betalingspligtig
+
+    ## Hvad er en ulempe ved at samle behandlinger på færre og større sygehuse?
+
+    1. [ ] Lægerne får mindre erfaring med komplicerede behandlinger
+    2. [x] Mange har fået længere afstand til et sygehus, og byer har mistet arbejdspladser
+    3. [ ] Sygehusene kan ikke købe moderne udstyr
+
+    ## Hvad gælder som hovedregel for betaling til medicin og psykolog?
+
+    1. [ ] Alt er altid gratis uden betingelser
+    2. [x] Der kan gives tilskud, men patienten betaler ofte en del selv
+    3. [ ] Regionen betaler kun, hvis patienten ikke har egen læge
+
+    ## Hvilken behandling er gratis for børn og unge op til og med 21 år?
+
+    1. [ ] Psykologbehandling
+    2. [ ] Al medicin på apoteket
+    3. [x] Tandpleje
+
+    ## Hvilken opgave har kommunerne blandt andet i sundhedsvæsenet?
+
+    1. [x] Pleje og genoptræning efter sygehusindlæggelse
+    2. [ ] At drive alle landets sygehuse
+    3. [ ] At udnævne praktiserende speciallæger
+
+    ## Hvad kan kommunerne tilbyde for at forebygge sygdom?
+
+    1. [ ] Kun operation på sygehus
+    2. [x] Blandt andet hjælp til rygestop
+    3. [ ] Gratis behandling hos alle private tandlæger

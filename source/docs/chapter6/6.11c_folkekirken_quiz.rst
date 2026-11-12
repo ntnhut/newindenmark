@@ -1,0 +1,36 @@
+Quiz til 6.11 Grundtvig og folkekirken
+======================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kendetegner grundtvigianismen?
+
+    1. [x] En udogmatisk kristendomsopfattelse med glæden ved livet som udgangspunkt
+    2. [ ] En politisk bevægelse, der afviser al religionsfrihed
+    3. [ ] En lære om, at kun præster må læse Bibelen
+
+    ## Hvilket udtryk brugte Grundtvig om menneske og kristendom?
+
+    1. [ ] "Konge først – borger så"
+    2. [x] "Menneske først – kristen så"
+    3. [ ] "Skole først – arbejde så"
+
+    ## Hvilken politisk forsamling var Grundtvig medlem af?
+
+    1. [ ] Nordisk Råd
+    2. [x] Den grundlovsgivende Rigsforsamling
+    3. [ ] Europa-Parlamentet
+
+    ## Hvilken betydning fik Grundtvigs indsats for den danske kirke?
+
+    1. [ ] Kirken blev en statskirke styret direkte af regeringen
+    2. [x] Kirken blev en statsunderstøttet folkekirke, der selv fastlægger reglerne for sine funktioner
+    3. [ ] Folkekirken blev helt adskilt fra staten og mistede al offentlig støtte
+

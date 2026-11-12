@@ -1,0 +1,10 @@
+Quizzer til 6.11
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   6.11a_folkelighed_quiz
+   6.11b_hoejskolen_quiz
+   6.11c_folkekirken_quiz
+   6.11d_salmer_og_sange_quiz

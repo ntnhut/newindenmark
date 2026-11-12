@@ -1,0 +1,161 @@
+Quiz til 6.6 Færøerne
+=====================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kendetegner Færøernes landskab?
+
+    1. [ ] Flade sandørkener
+    2. [ ] Tætte regnskove
+    3. [x] Stejle, græsklædte klipper
+
+    ## Hvad hedder Færøernes højeste punkt, og hvor højt er det?
+
+    1. [ ] Gunnbjørn Fjeld, 3.694 meter
+    2. [x] Slættaratindur, 880 meter
+    3. [ ] Indlandsisen, 1.400 meter
+
+    ## Hvem befolkede Færøerne først i 600-tallet?
+
+    1. [ ] Danske købmænd
+    2. [x] Irske munke
+    3. [ ] Amerikanske fiskere
+
+    ## Hvordan blev Færøerne knyttet til Danmark i middelalderen?
+
+    1. [ ] Øerne blev erobret af Danmark i 1849
+    2. [x] De kom med Norge ind i unionen med Danmark i 1380
+    3. [ ] De blev overdraget af Storbritannien i 1945
+
+    ## Hvad betyder ordet fær i Færøernes navn?
+
+    1. [x] Får
+    2. [ ] Fjord
+    3. [ ] Fugl
+
+    ## Hvilken handelsordning gjaldt på Færøerne fra 1708?
+
+    1. [ ] Fri handel med alle europæiske lande
+    2. [x] Den Kongelige Monopolhandel i Tórshavn havde eneret
+    3. [ ] Handel måtte kun foregå gennem Grønland
+
+    ## Hvornår blev Færøernes handel med udlandet givet fri?
+
+    1. [ ] 1849
+    2. [x] 1856
+    3. [ ] 1948
+
+    ## Hvilket erhverv blev Færøernes vigtigste fra slutningen af 1800-tallet?
+
+    1. [ ] Kulminedrift
+    2. [ ] Turisme
+    3. [x] Fiskeri, især torskefiskeri
+
+    ## Hvilket sprog blev Færøernes hovedsprog?
+
+    1. [x] Færøsk
+    2. [ ] Dansk
+    3. [ ] Norsk
+
+    ## Hvem besatte Færøerne under 2. Verdenskrig?
+
+    1. [ ] Tyskland
+    2. [x] Storbritannien
+    3. [ ] USA
+
+    ## Hvorfor besatte Storbritannien Færøerne i 1940?
+
+    1. [ ] For at gøre øerne til en britisk koloni
+    2. [x] For at forhindre en tysk besættelse og beskytte transportruterne
+    3. [ ] For at indføre færøsk som hovedsprog
+
+    ## Hvornår fik Færøerne hjemmestyre ved lov?
+
+    1. [ ] 1849
+    2. [ ] 1973
+    3. [x] 1948
+
+    ## Hvilke institutioner består Færøernes hjemmestyre af?
+
+    1. [ ] Inatsisartut og Naalakkersuisut
+    2. [x] Lagtinget og et landsstyre
+    3. [ ] Folketinget og kirkeministeriet
+
+    ## Hvor mange medlemmer kan Lagtinget have, og hvor længe vælges de?
+
+    1. [ ] 31 medlemmer i fire år
+    2. [x] Op til 33 medlemmer i fire år
+    3. [ ] Op til 55 medlemmer i fem år
+
+    ## Hvilken titel har formanden for Færøernes landsstyre?
+
+    1. [x] Lagmand
+    2. [ ] Biskop
+    3. [ ] Rigsombudsmand
+
+    ## Hvilke områder kan Færøerne ikke selv overtage?
+
+    1. [ ] Kultur, fritid og kommunale forhold
+    2. [x] Udenrigs-, forsvars- og sikkerhedspolitik samt valuta- og pengepolitik
+    3. [ ] Bolig og undervisning
+
+    ## Hvor stort et årligt tilskud modtog Færøerne fra den danske stat i 2025?
+
+    1. [x] Cirka 575 millioner kroner
+    2. [ ] Lidt over fire milliarder kroner
+    3. [ ] Cirka 55 millioner kroner
+
+    ## Hvorfor står Færøerne uden for EU?
+
+    1. [ ] Danmark krævede, at øerne meldte sig ud
+    2. [ ] Færøerne blev aldrig en del af rigsfællesskabet
+    3. [x] Færøerne valgte at stå udenfor, da Danmark blev medlem i 1973
+
+    ## Hvornår vedtog Lagtinget fri abort på Færøerne, og til hvilken uge?
+
+    1. [ ] I 1973 til uge 18
+    2. [x] I 2025 til uge 12
+    3. [ ] I 2025 til uge 16
+
+    ## Hvilken roman skrev Jørgen-Frantz Jacobsen?
+
+    1. [ ] De fortabte spillemænd
+    2. [ ] Blomsterdalen
+    3. [x] Barbara
+
+    ## Hvad er et centralt tema i William Heinesens De fortabte spillemænd?
+
+    1. [x] Konflikten mellem de spillemænds livsførelse og lokalsamfundets normer
+    2. [ ] Grønlands kamp for at blive medlem af EU
+    3. [ ] Færøernes udvikling til et kongerige
+
+    ## Hvilket værk modtog Vónbjørt Vang Nordisk Råds Litteraturpris for i 2025?
+
+    1. [ ] Barbara
+    2. [ ] De fortabte spillemænd
+    3. [x] Digtsamlingen Sort Okidé
+
+    ## Hvad betyder navnet Merkið?
+
+    1. [x] Mærket
+    2. [ ] Vort flag
+    3. [ ] Den røde sol
+
+    ## Hvornår godkendte Storbritannien Merkið som Færøernes flag?
+
+    1. [ ] 25. april 1919
+    2. [x] 25. april 1940
+    3. [ ] 29. juli 1948
+
+    ## Hvornår er Færøernes nationaldag?
+
+    1. [ ] 21. juni
+    2. [x] 29. juli
+    3. [ ] 5. juni

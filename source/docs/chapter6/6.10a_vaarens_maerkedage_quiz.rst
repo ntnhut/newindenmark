@@ -1,0 +1,90 @@
+Quiz til 6.10 Fastelavn, påske og forårets mærkedage
+====================================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken slags mærkedag mangler Danmark ifølge teksten?
+
+    1. [x] En egentlig officiel nationaldag
+    2. [ ] En grundlovsdag
+    3. [ ] En juleaften
+
+    ## Hvad betyder fastelavn, og hvor langt tilbage kan festen spores?
+
+    1. [ ] Det betyder høstfest og stammer fra vikingetiden
+    2. [x] Det betyder karneval og kan spores til oldtidens Romerrige og Ægypten
+    3. [ ] Det betyder faste og opstod i Danmark i 1800-tallet
+
+    ## Hvilken tradition forbindes med fastelavn?
+
+    1. [ ] At tænde bål
+    2. [x] At klæde sig ud og slå katten af tønden
+    3. [ ] At danse om juletræet
+
+    ## Hvad kaldes den, der slår fastelavnstønden i stykker?
+
+    1. [ ] Sankthanskonge eller sankthansdronning
+    2. [ ] Påskekonge eller påskedronning
+    3. [x] Kattekonge eller kattedronning
+
+    ## Hvor langt før påske ligger fastelavn?
+
+    1. [ ] Tre uger
+    2. [x] Syv uger
+    3. [ ] Tolv uger
+
+    ## Hvad markerer den kristne påske?
+
+    1. [x] At Jesus blev korsfæstet, døde og opstod fra de døde
+    2. [ ] At Jesus blev født
+    3. [ ] At Helligånden kom til jorden
+
+    ## Hvad symboliserer påskeægget traditionelt?
+
+    1. [ ] Midsommer
+    2. [ ] Vintersolhverv
+    3. [x] Frugtbarhed
+
+    ## Hvorfor er der tradition for at spise lam i påsken?
+
+    1. [ ] Lammet symboliserer forårets begyndelse
+    2. [x] Lammet symboliserer, at Jesus blev ofret som et uskyldigt lam
+    3. [ ] Lammet symboliserer Helligåndens komme
+
+    ## Hvad fejrer man på 1. maj?
+
+    1. [x] Arbejderbevægelsens internationale kampdag
+    2. [ ] Danmarks første grundlov
+    3. [ ] Afslutningen på julehøjtiden
+
+    ## Hvem står blandt andet bag arrangementerne den 1. maj?
+
+    1. [ ] Kongehuset og folkekirken
+    2. [x] Fagbevægelsen, Socialdemokratiet, SF og Enhedslisten
+    3. [ ] Nordisk Råd og Europa-Parlamentet
+
+    ## Hvad fejres i pinsen ifølge den kristne tradition?
+
+    1. [ ] Jesu fødsel
+    2. [x] Helligåndens komme til jorden
+    3. [ ] Jesu korsfæstelse
+
+    ## Hvornår ligger pinsen i forhold til påsken?
+
+    1. [ ] Tre uger før påske
+    2. [ ] Fire uger efter påske
+    3. [x] Syv uger efter påske
+
+    ## Hvilke traditioner i pinsen nævner teksten?
+
+    1. [x] At se solen danse og holde pinsefrokost
+    2. [ ] At slå katten af tønden og spise påskeæg
+    3. [ ] At tænde bål og danse om juletræet
+

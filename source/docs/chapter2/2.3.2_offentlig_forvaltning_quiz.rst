@@ -1,0 +1,63 @@
+Quiz til 2.3.2 Den offentlige forvaltning
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken opgave har den offentlige forvaltning?
+
+    1. [x] At føre landets love ud i livet og stille offentlige tilbud til rådighed
+    2. [ ] At vedtage alle landets love
+    3. [ ] At dømme i alle straffesager
+
+    ## Hvilke andre kendetegn ved den offentlige forvaltning nævnes?
+
+    1. [x] Den opkræver skatter og afgifter og er internationalt set meget lidt korrupt
+    2. [ ] Den fastsætter selv landets love
+    3. [ ] Den består kun af statslige ministerier
+
+    ## Hvad betyder det, at forvaltningens handlinger skal have hjemmel i en lov?
+
+    1. [ ] Myndighederne må handle uden regler, hvis det er nødvendigt
+    2. [x] Forvaltningen skal have lovgrundlag for sine handlinger
+    3. [ ] Kun Folketinget må udføre offentlige opgaver
+
+    ## Hvem kontrollerer blandt andet den offentlige forvaltning?
+
+    1. [ ] Kun regeringen selv
+    2. [ ] Kun medierne
+    3. [x] Domstolene, statens tilsyn, klagenævn og Folketingets Ombudsmand
+
+    ## Hvem vælger Folketingets Ombudsmand?
+
+    1. [ ] Regeringen
+    2. [ ] Højesteret
+    3. [x] Folketinget
+
+    ## Er Ombudsmanden underlagt Folketingets instruktion i konkrete sager?
+
+    1. [ ] Ja, Folketinget bestemmer alle udtalelser
+    2. [x] Nej, Ombudsmanden er uafhængig i sit arbejde
+    3. [ ] Kun regeringen kan instruere Ombudsmanden
+
+    ## Hvad kan Folketingets Ombudsmand gøre, hvis en myndighed har begået fejl?
+
+    1. [x] Kritiserer myndigheden og opfordrer den til at ændre praksis
+    2. [ ] Overtager myndighedens afgørelse og ændrer den direkte
+    3. [ ] Vedtager en ny lov uden Folketinget
+
+    ## Kan Ombudsmanden tilsidesætte en myndigheds afgørelse?
+
+    1. [ ] Ja, i alle sager
+    2. [ ] Ja, hvis Folketinget beder om det
+    3. [x] Nej, men kritik og udtalelser har stor betydning
+

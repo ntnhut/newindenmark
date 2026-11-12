@@ -23,4 +23,10 @@ Kapitel 2 - Det danske demokrati
    2.2.6c_medierne_quiz
    2.2.7_medborgerskab_quiz
    2.3
-   2.3_quiz
+   2.3.1_rettigheder_quiz
+   2.3.2_offentlig_forvaltning_quiz
+   2.3.3_offentlighed_quiz
+   2.3.4a_vaernepligt_quiz
+   2.3.4b_borgerligt_ombud_quiz
+   2.3.4c_straf_quiz
+   2.3.4d_straffesager_quiz

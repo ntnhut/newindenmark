@@ -1,0 +1,116 @@
+Quiz til 2.3.1 Rettigheder i grundloven
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke tre politiske frihedsrettigheder fremhæves i grundloven?
+
+    1. [x] Ytrings-, forsamlings- og foreningsfrihed
+    2. [ ] Ejendoms-, skatte- og stemmefrihed
+    3. [ ] Presse-, arbejds- og uddannelsespligt
+
+    ## Hvad beskytter ytringsfriheden?
+
+    1. [ ] Retten til at danne foreninger
+    2. [x] Retten til frit at udtrykke holdninger og meddele tanker
+    3. [ ] Retten til at samles offentligt
+    ## Hvilken frihedsrettighed beskytter retten til at samles og give udtryk for holdninger?
+
+    1. [ ] Ejendomsretten
+    2. [x] Forsamlingsfriheden
+    3. [ ] Valgbarheden
+
+    ## Hvilken frihedsrettighed giver borgerne ret til at danne foreninger?
+
+    1. [x] Foreningsfriheden
+    2. [ ] Religionspligten
+    3. [ ] Aktindsigten
+
+    ## Hvad betyder det, at grundloven forbyder censur?
+
+    1. [ ] Bøger og aviser skal godkendes af staten inden udgivelse
+    2. [ ] Kun offentlige myndigheder må udgive aviser
+    3. [x] Staten kan ikke kræve forhåndsgodkendelse af eksempelvis bøger og aviser
+
+    ## Hvad betyder det, at frihedsrettigheder udøves under ansvar?
+
+    1. [x] Lovoverskridelser kan føre til straf og erstatning
+    2. [ ] Staten skal godkende alle ytringer på forhånd
+    3. [ ] Frihedsrettigheder kan aldrig begrænses ved lov
+
+    ## Hvilket eksempel på en ulovlig ytring nævnes?
+
+    1. [ ] Kritik af regeringen
+    2. [ ] Medlemskab af en politisk forening
+    3. [x] Injurier, der krænker en anden persons ære
+
+    ## Hvornår kan en forening dømmes ulovlig og opløses?
+
+    1. [ ] Når den kritiserer et flertal
+    2. [x] Når den søger at nå sine mål med vold eller anden ulovlighed
+    3. [ ] Når den ikke modtager offentlig støtte
+
+    ## Hvem afgør, om grænserne for ytringsfriheden er overtrådt?
+
+    1. [ ] Politiet alene
+    2. [x] Domstolene
+    3. [ ] Folketingets formand
+
+    ## Hvilke områder beskytter grundloven mod statslige indgreb?
+
+    1. [x] Personlig frihed, boligens ukrænkelighed og ejendomsret
+    2. [ ] Kun retten til at eje en avis
+    3. [ ] Retten til at undlade at følge loven
+
+    ## Hvilke offentlige ydelser giver grundloven blandt andet rettigheder til?
+
+    1. [ ] Gratis bolig og arbejde til alle
+    2. [x] Gratis folkeskoleundervisning og vis offentlig hjælp under bestemte betingelser
+    3. [ ] Gratis privat uddannelse
+
+    ## På hvilke grundlag må borgernes rettigheder og pligter ikke forskelsbehandles ifølge grundloven?
+
+    1. [ ] Alder og indkomst
+    2. [ ] Bopæl og uddannelse
+    3. [x] Tro og afstamning
+
+    ## Hvem afgør i sidste instans, om lovgivning strider mod grundlovens rettigheder?
+
+    1. [x] De uafhængige domstole
+    2. [ ] Regeringen alene
+    3. [ ] Kommunerne
+
+    ## Hvornår blev Den Europæiske Menneskerettighedskonvention en del af dansk lovgivning?
+
+    1. [ ] 1849
+    2. [ ] 1973
+    3. [x] 1992
+
+    ## Hvad gør Den Europæiske Menneskerettighedskonvention i forhold til grundloven?
+
+    1. [ ] Den erstatter grundloven
+    2. [x] Den supplerer og udbygger friheds- og menneskerettighederne
+    3. [ ] Den gælder kun for andre lande
+
+    ## Hvad kan ske, hvis danske love eller afgørelser strider mod konventionen?
+
+    1. [x] Danmark kan dømmes ved Den Europæiske Menneskerettighedsdomstol
+    2. [ ] Folketinget opløses automatisk
+    3. [ ] Sagen afgøres af en kommune
+
+    ## Hvorfor blev Danmark dømt ved Menneskerettighedsdomstolen i 1994?
+
+    1. [ ] En avis var blevet forhåndscensureret
+    2. [x] En journalist var blevet straffet for at viderebringe racistiske ytringer i et interview
+    3. [ ] En forening var blevet opløst på grund af vold
+

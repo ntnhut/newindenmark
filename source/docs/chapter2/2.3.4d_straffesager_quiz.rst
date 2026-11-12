@@ -1,0 +1,98 @@
+Quiz til 2.3.4 Straffesager
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem kan rejse en straffesag på samfundets vegne?
+
+    1. [x] Anklagemyndigheden
+    2. [ ] Domstolene selv
+    3. [ ] Kommunalbestyrelsen
+
+    ## Hvem skal rejse visse mindre private straffesager, fx om ærekrænkelser?
+
+    1. [ ] Folketingets Ombudsmand
+    2. [ ] Domstolen af egen drift
+    3. [x] En privat person, ofte offeret
+
+    ## Hvordan kan mange mindre lovovertrædelser afgøres uden domstolene?
+
+    1. [x] Ved at lovovertræderen accepterer at betale en bøde
+    2. [ ] Ved at politiet idømmer fængsel
+    3. [ ] Ved en folkeafstemning
+
+    ## Hvem er anklagemyndighedens øverste leder?
+
+    1. [ ] Justitsministeren som dommer
+    2. [x] Rigsadvokaten
+    3. [ ] Folketingets formand
+
+    ## Hvad betyder princippet om, at enhver rimelig tvivl skal komme den tiltalte til gode?
+
+    1. [ ] Den tiltalte skal altid dømmes
+    2. [ ] Politiet afgør selv skyldsspørgsmålet
+    3. [x] Den tiltalte skal ikke dømmes, hvis der er rimelig tvivl om skyld
+
+    ## Hvem efterforsker strafbare forhold?
+
+    1. [ ] Domstolene
+    2. [x] Politiet
+    3. [ ] Folketinget
+
+    ## Har man normalt pligt til at anmelde en forbrydelse til politiet?
+
+    1. [ ] Ja, i alle tilfælde
+    2. [x] Nej
+    3. [ ] Kun hvis man er over 18 år
+
+    ## Hvilken objektivitetspligt har politi og anklagemyndighed?
+
+    1. [x] De skal søge at straffe de rette og undgå at retsforfølge uskyldige
+    2. [ ] De skal altid støtte anklagen uanset beviserne
+    3. [ ] De må kun undersøge beviser mod den mistænkte
+
+    ## Hvem kontrollerer lovligheden af politiets efterforskning?
+
+    1. [ ] Kommunerne
+    2. [ ] Medierne
+    3. [x] Domstolene
+
+    ## Hvad gælder under en politiafhøring?
+
+    1. [ ] Politiet kan tvinge enhver til en fuld forklaring
+    2. [x] Man kan ikke tvinges til at forklare sig, men skal oplyse navn, adresse og fødselsdato
+    3. [ ] Man behøver aldrig oplyse sin identitet
+
+    ## Hvor kan man klage over politiets adfærd?
+
+    1. [x] Til Den Uafhængige Politiklagemyndighed
+    2. [ ] Til kommunalbestyrelsen
+    3. [ ] Til Europaudvalget
+
+    ## Hvor hurtigt skal en anholdt person stilles for en dommer?
+
+    1. [x] Inden for 24 timer
+    2. [ ] Inden for tre dage
+    3. [ ] Inden for en uge
+
+    ## Hvem afgør, om en anholdt skal løslades eller varetægtsfængsles?
+
+    1. [x] En dommer
+    2. [ ] Politiet alene
+    3. [ ] Anklagemyndigheden alene
+
+    ## Hvor længe kan dommeren vælge at opretholde anholdelsen uden straks at varetægtsfængsle?
+
+    1. [ ] Én uge
+    2. [ ] Elleve måneder
+    3. [x] Tre gange 24 timer

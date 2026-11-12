@@ -1,0 +1,33 @@
+Quiz til 2.3.4 Borgerligt ombud
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er et borgerligt ombud?
+
+    1. [x] Et hverv, som samfundet kan pålægge en borger
+    2. [ ] En frivillig fritidsaktivitet uden ansvar
+    3. [ ] En dom, der kun gælder politikere
+
+    ## Hvilke eksempler på borgerligt ombud nævnes?
+
+    1. [ ] Minister og politibetjent
+    2. [x] Medlem af en kommunalbestyrelse og lægdommer
+    3. [ ] Journalist og embedsmand
+
+    ## Hvad gør lægdommere i en straffesag?
+
+    1. [ ] De udarbejder anklageskriftet
+    2. [ ] De efterforsker sagen for politiet
+    3. [x] De er med til at vurdere skyld og straf
+

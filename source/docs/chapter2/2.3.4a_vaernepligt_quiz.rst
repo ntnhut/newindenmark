@@ -1,0 +1,57 @@
+Quiz til 2.3.4 Værnepligt
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem har værnepligt i Danmark efter reglerne fra 1. juli 2025?
+
+    1. [ ] Kun mænd uden dansk statsborgerskab
+    2. [x] Mænd og kvinder med dansk statsborgerskab over 18 år, som bor eller opholder sig i Danmark
+    3. [ ] Alle personer uanset alder og statsborgerskab
+
+    ## Hvem havde værnepligt før 1. juli 2025?
+
+    1. [x] Kun mænd; kvinder kunne melde sig frivilligt
+    2. [ ] Kun kvinder
+    3. [ ] Både mænd og kvinder på samme vilkår
+
+    ## Hvad sker der, hvis der ikke er frivillige nok til at aftjene værnepligt?
+
+    1. [x] Det afgøres ved lodtrækning, hvem der skal aftjene værnepligt
+    2. [ ] Alle værnepligtige fritages automatisk
+    3. [ ] Kommunerne udpeger selv de værnepligtige
+
+    ## Hvad er et frinummer?
+
+    1. [ ] En tilladelse til at vælge tjenestested
+    2. [ ] En fritagelse fra alle borgerpligter
+    3. [x] Et lodtrækningsresultat, der betyder, at man ikke skal aftjene værnepligt
+
+    ## Hvor kan værnepligten aftjenes, og hvor længe varer tjenesten som udgangspunkt fra februar 2026?
+
+    1. [ ] Kun i Hæren i fire måneder
+    2. [x] I Hæren, Søværnet, Flyvevåbnet eller Beredskabsstyrelsen i elleve måneder
+    3. [ ] Kun i Beredskabsstyrelsen i to år
+
+    ## Hvor kan en militærnægter aftjene sin værnepligt?
+
+    1. [ ] Kun i Folketinget
+    2. [x] Ved andet arbejde til gavn for samfundet, fx på institutioner eller museer
+    3. [ ] Ved at rejse ud af landet
+
+    ## Hvad kan ske, hvis en værnepligtig eller militærnægter udebliver fra pålagt tjeneste?
+
+    1. [ ] Personen får automatisk frinummer
+    2. [ ] Personen mister stemmeretten
+    3. [x] Personen kan straffes med fængsel
+

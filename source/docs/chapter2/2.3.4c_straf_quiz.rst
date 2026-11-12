@@ -1,0 +1,69 @@
+Quiz til 2.3.4 Straf
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår kan en handling straffes?
+
+    1. [x] Når det direkte fremgår af en lov, at handlingen kan straffes
+    2. [ ] Når politiet mener, den er forkert
+    3. [ ] Når et flertal af borgerne er imod den
+
+    ## Hvilke alvorlige forbrydelser regulerer straffeloven blandt andet?
+
+    1. [ ] Kun færdselsforseelser
+    2. [ ] Kun økonomiske uenigheder
+    3. [x] Seksualforbrydelser, drab, vold og tyveri
+
+    ## Hvad er den kriminelle lavalder i Danmark?
+
+    1. [ ] 12 år
+    2. [x] 15 år
+    3. [ ] 18 år
+
+    ## Hvilken myndighed behandler sager om børn mellem 10 og 14 år, der begår kriminalitet?
+
+    1. [x] Ungdomskriminalitetsnævnet
+    2. [ ] Højesteret
+    3. [ ] Folketingets Ombudsmand
+
+    ## Hvilke reaktioner kan børn på 10-14 år mødes med i stedet for straf?
+
+    1. [ ] Bøde og almindeligt fængsel
+    2. [x] Samfundsnyttigt arbejde, oprydning, hjemmetider eller institutionsanbringelse
+    3. [ ] Udvisning af Danmark
+
+    ## Hvilke almindelige straffe findes i Danmark?
+
+    1. [ ] Dødsstraf og eksil
+    2. [ ] Kun samfundstjeneste
+    3. [x] Bøde og fængsel
+
+    ## Hvilke ekstra følger kan alvorlig kriminalitet få for udlændinge og danske statsborgere?
+
+    1. [x] Udlændinge kan udvises, og statsborgerskab kan ved meget grov kriminalitet fratages, hvis personen ikke bliver statsløs
+    2. [ ] Alle mister automatisk deres statsborgerskab
+    3. [ ] Kun bøder kan anvendes
+
+    ## Kan danske domstole idømme dødsstraf?
+
+    1. [ ] Ja, ved alle alvorlige forbrydelser
+    2. [x] Nej
+    3. [ ] Ja, men kun ved økonomisk kriminalitet
+
+    ## Hvornår fandt de sidste henrettelser i Danmark sted?
+
+    1. [ ] I 1892 som de eneste i historien
+    2. [x] I perioden 1945-50 efter besættelsen
+    3. [ ] I 1978
+

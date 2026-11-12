@@ -6,8 +6,8 @@ Kapitel 3 - Den danske økonomi
 
    3.1
    3.2
-   3.2_quiz
+   3.2_quizzes
    3.3
-   3.3_quiz
+   3.3_quizzes
    3.4
-   3.4_quiz
+   3.4_quizzes

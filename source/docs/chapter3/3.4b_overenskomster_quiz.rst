@@ -1,0 +1,102 @@
+Quiz til 3.4.2 Selvregulering og kollektive overenskomster
+==========================================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem fastsætter løn og arbejdsvilkår i Danmark som hovedregel?
+
+    1. [ ] Folketinget alene
+    2. [x] Arbejdsmarkedets parter gennem aftaler
+    3. [ ] EU-Kommissionen
+
+    ## Hvilke emner reguleres ofte gennem aftaler i stedet for lov?
+
+    1. [x] Arbejdstid, overtidsbetaling, opsigelsesvarsler og mindsteløn
+    2. [ ] Skatter, forsvar og politi
+    3. [ ] Folketingsvalg og kommunale budgetter
+
+    ## Har Danmark en lovbestemt mindsteløn?
+
+    1. [ ] Ja, den fastsættes hvert år af regeringen
+    2. [x] Nej, mindsteløn aftales gennem overenskomster
+    3. [ ] Ja, men kun for offentligt ansatte
+
+    ## Hvilke nyere forbedringer af forældreorlov nævnes i teksten?
+
+    1. [ ] At al forældreorlov er blevet afskaffet
+    2. [ ] At staten fastsætter samme løn for alle under orlov
+    3. [x] Fuld løn inklusive pension i en større del af orlovsperioden
+
+    ## Hvorfor søger arbejdsmarkedets parter selv at løse konflikter og tilpasse aftaler?
+
+    1. [x] De kan tilpasse hurtigere og bedre, og parterne accepterer aftaler, de selv har indgået
+    2. [ ] Staten må aldrig deltage i arbejdsmarkedspolitik
+    3. [ ] Alle brancher har præcis de samme behov
+
+    ## Hvor stor en del af det danske arbejdsmarked er dækket af kollektive overenskomster?
+
+    1. [x] Mere end 80 procent
+    2. [ ] Omkring 20 procent
+    3. [ ] Præcis halvdelen
+
+    ## Hvilke vilkår kan en kollektiv overenskomst fastlægge?
+
+    1. [ ] Kun skatter og kommunale budgetter
+    2. [ ] Kun regler for folketingsvalg
+    3. [x] Løn, pension, arbejdstid, ferie og opsigelse
+
+    ## Hvem skal have overenskomstens løn- og arbejdsvilkår hos en arbejdsgiver, der har indgået den?
+
+    1. [ ] Kun fagforeningens ledelse
+    2. [x] Alle ansatte
+    3. [ ] Kun nyansatte
+
+    ## Hvad kan ske, hvis parterne ikke bliver enige om en ny overenskomst?
+
+    1. [ ] Overenskomsten forlænges automatisk for altid
+    2. [x] Der kan opstå konflikt med strejke eller lockout
+    3. [ ] Fagforeningerne bliver opløst
+
+    ## Hvad er Forligsinstitutionens opgave?
+
+    1. [x] At forsøge at mægle og forebygge konflikter mellem arbejdsmarkedets parter
+    2. [ ] At fastsætte alle lønninger i Danmark
+    3. [ ] At kontrollere kommunernes budgetter
+
+    ## Hvornår blev Forligsinstitutionen oprettet?
+
+    1. [ ] 1899
+    2. [x] 1910
+    3. [ ] 1998
+
+    ## Hvad er et mæglingsforslag?
+
+    1. [ ] En dom fra Højesteret
+    2. [ ] Et lovforslag om mindsteløn
+    3. [x] Et forslag til et kompromis mellem arbejdsmarkedets parter
+
+    ## Hvad kan forligsmanden gøre ud over at indkalde til forhandling og foreslå et kompromis?
+
+    1. [ ] Afskedige de strejkende
+    2. [ ] Opløse fagforeningerne
+    3. [x] Udskyde en truende konflikt, typisk et par uger
+
+    ## Hvad skete der under den seneste storkonflikt på det private arbejdsmarked i 1998?
+
+    1. [x] Mange busser kørte ikke, og butikkerne havde problemer med varelevering
+    2. [ ] Alle offentlige skoler blev nedlagt
+    3. [ ] Danmark forlod arbejdsmarkedets parter
+
+    ## Hvordan har Folketinget typisk standset en storkonflikt?
+
+    1. [ ] Ved at forbyde alle fremtidige overenskomster
+    2. [x] Ved at gøre forligsmandens mæglingsforslag til lov
+    3. [ ] Ved at lade kommunerne fastsætte lønnen
+

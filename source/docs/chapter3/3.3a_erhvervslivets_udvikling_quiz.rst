@@ -1,8 +1,5 @@
-Quizzes for Section 3.3
-==========================================
-
-Questions
----------------------------------
+Quiz til 3.3.1 Fra landbrugssamfund til videns- og servicesamfund
+=================================================================
 
 .. quizdown::
 
@@ -211,74 +208,3 @@ Questions
     2. [ ] Udvinding af kul
     3. [ ] Produktion af benzinbiler
 
-    ## Hvad betyder det, at Danmark har en meget åben økonomi?
-
-    1. [ ] Danmark producerer alt selv
-    2. [x] Handel med udlandet spiller en meget stor rolle
-    3. [ ] Danmark importerer, men eksporterer ikke
-
-    ## Hvor stor en andel af Danmarks samlede produktion udgør eksporten omtrent?
-
-    1. [ ] En tiendedel
-    2. [ ] En fjerdedel
-    3. [x] Cirka halvdelen
-
-    ## Hvilket land importerer Danmark mest fra?
-
-    1. [x] Tyskland
-    2. [ ] USA
-    3. [ ] Kina
-
-    ## Hvilket land eksporterer Danmark mest til?
-
-    1. [ ] Sverige
-    2. [x] USA
-    3. [ ] Norge
-
-    ## Hvordan er eksporten til EU-landene samlet set sammenlignet med eksporten til USA?
-
-    1. [ ] Den er klart mindre
-    2. [ ] Den er præcis lige stor
-    3. [x] Den er klart større
-
-    ## Hvilke lande var Danmarks tre største handelspartnere i 2024?
-
-    1. [x] USA, Tyskland og Sverige
-    2. [ ] Kina, Norge og Holland
-    3. [ ] Storbritannien, Frankrig og Italien
-
-    ## Hvilken handelspolitik har danske regeringer i moderne tid normalt støttet?
-
-    1. [ ] Mindst mulig handel mellem lande
-    2. [x] Mest mulig fri handel mellem lande
-    3. [ ] Handel kun med de nordiske lande
-
-    ## Hvordan har Danmarks eksport og import typisk forholdt sig til hinanden siden 1990'erne?
-
-    1. [ ] Importen har næsten altid været højere
-    2. [ ] De har hvert år været præcis lige store
-    3. [x] Eksporten har stort set alle år været højere end importen
-
-    ## Hvilke internationale organisationer arbejder blandt andet for friere handel?
-
-    1. [ ] NATO og FN
-    2. [ ] WHO og UNESCO
-    3. [x] OECD og WTO
-
-    ## Hvad har nogle virksomheder gjort som følge af økonomisk globalisering?
-
-    1. [x] Flyttet dele af produktionen til lande med lavere lønninger
-    2. [ ] Flyttet al udvikling og ledelse væk fra Danmark
-    3. [ ] Stoppet med at eksportere varer
-
-    ## Hvilke funktioner har virksomheder ofte beholdt i Danmark efter udflytning af dele af produktionen?
-
-    1. [ ] Kun råvareudvinding
-    2. [x] Produktudvikling, salg og ledelse
-    3. [ ] Ingen funktioner
-
-    ## Hvilken fordel for danske virksomheder nævnes som en anden følge af globaliseringen?
-
-    1. [x] Der er opstået nye store markeder for danske produkter
-    2. [ ] Alle varer kan nu produceres uden arbejdskraft
-    3. [ ] Virksomhederne behøver ikke længere at eksportere

@@ -1,0 +1,53 @@
+Quiz til 3.4.3 Trepartssamarbejde og flexicurity
+================================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er trepartssamarbejde?
+
+    1. [ ] Samarbejde mellem Folketinget, domstolene og medierne
+    2. [x] Samarbejde mellem staten, arbejdsgiverne og lønmodtagerne
+    3. [ ] Samarbejde mellem tre politiske partier i en regering
+
+    ## Hvilke emner kan indgå i trepartssamarbejdet?
+
+    1. [ ] Kun udenrigspolitik og forsvar
+    2. [ ] Kun kommunale skolevalg
+    3. [x] Arbejdsmiljø, arbejdsformidling, uddannelse og arbejdsløshedsforsikring
+
+    ## Hvad skal trepartssamarbejdet bidrage til?
+
+    1. [x] Et arbejdsmarked, der er fleksibelt for arbejdsgivere og trygt for lønmodtagere
+    2. [ ] Et arbejdsmarked uden jobskifte
+    3. [ ] At staten fastsætter alle lønninger
+
+    ## Hvad betyder fleksibilitet i flexicurity-modellen for arbejdsgiverne?
+
+    1. [x] Det er relativt nemt at ansætte og afskedige medarbejdere
+    2. [ ] Lønninger fastsættes af Folketinget
+    3. [ ] Medarbejdere kan ikke skifte arbejdsplads
+
+    ## Hvad betyder sikkerhed i flexicurity-modellen for lønmodtagerne?
+
+    1. [ ] Ingen kan blive afskediget
+    2. [x] Arbejdsløse har økonomisk støtte og hjælp til at komme tilbage i arbejde
+    3. [ ] Alle får samme løn uanset arbejde
+
+    ## Hvilken fordel giver flexicurity lønmodtagerne ved jobskifte?
+
+    1. [ ] De kan ikke miste deres arbejde
+    2. [ ] De beholder automatisk samme løn
+    3. [x] Den økonomiske sikkerhed gør det mindre risikabelt at skifte job
+
+    ## Hvilken hjælp kan arbejdsløse få for at komme tilbage på arbejdsmarkedet?
+
+    1. [ ] Kun mulighed for førtidspension
+    2. [ ] Automatisk ansættelse i staten
+    3. [x] For eksempel uddannelse, praktik eller anden aktivering

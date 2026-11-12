@@ -13,18 +13,17 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvor gammel skal man som udgangspunkt være for at kunne straffes efter dansk straffelov?
+    ## Hvilke tre politiske frihedsrettigheder fremhæves i grundloven?
 
-    1. [ ] 12 år
-    2. [x] 15 år
-    3. [ ] 18 år
+    1. [x] Ytrings-, forsamlings- og foreningsfrihed
+    2. [ ] Ejendoms-, skatte- og stemmefrihed
+    3. [ ] Presse-, arbejds- og uddannelsespligt
 
-    ## Hvem afgør, om en person skal varetægtsfængsles?
+    ## Hvad beskytter ytringsfriheden?
 
-    1. [x] En dommer
-    2. [ ] Politiet alene
-    3. [ ] Folketingets formand
-
+    1. [ ] Retten til at danne foreninger
+    2. [x] Retten til frit at udtrykke holdninger og meddele tanker
+    3. [ ] Retten til at samles offentligt
     ## Hvilken frihedsrettighed beskytter retten til at samles og give udtryk for holdninger?
 
     1. [ ] Ejendomsretten
@@ -43,6 +42,24 @@ Questions
     2. [ ] Kun offentlige myndigheder må udgive aviser
     3. [x] Staten kan ikke kræve forhåndsgodkendelse af eksempelvis bøger og aviser
 
+    ## Hvad betyder det, at frihedsrettigheder udøves under ansvar?
+
+    1. [x] Lovoverskridelser kan føre til straf og erstatning
+    2. [ ] Staten skal godkende alle ytringer på forhånd
+    3. [ ] Frihedsrettigheder kan aldrig begrænses ved lov
+
+    ## Hvilket eksempel på en ulovlig ytring nævnes?
+
+    1. [ ] Kritik af regeringen
+    2. [ ] Medlemskab af en politisk forening
+    3. [x] Injurier, der krænker en anden persons ære
+
+    ## Hvornår kan en forening dømmes ulovlig og opløses?
+
+    1. [ ] Når den kritiserer et flertal
+    2. [x] Når den søger at nå sine mål med vold eller anden ulovlighed
+    3. [ ] Når den ikke modtager offentlig støtte
+
     ## Hvem afgør, om grænserne for ytringsfriheden er overtrådt?
 
     1. [ ] Politiet alene
@@ -55,11 +72,47 @@ Questions
     2. [ ] Kun retten til at eje en avis
     3. [ ] Retten til at undlade at følge loven
 
+    ## Hvilke offentlige ydelser giver grundloven blandt andet rettigheder til?
+
+    1. [ ] Gratis bolig og arbejde til alle
+    2. [x] Gratis folkeskoleundervisning og vis offentlig hjælp under bestemte betingelser
+    3. [ ] Gratis privat uddannelse
+
+    ## På hvilke grundlag må borgernes rettigheder og pligter ikke forskelsbehandles ifølge grundloven?
+
+    1. [ ] Alder og indkomst
+    2. [ ] Bopæl og uddannelse
+    3. [x] Tro og afstamning
+
+    ## Hvem afgør i sidste instans, om lovgivning strider mod grundlovens rettigheder?
+
+    1. [x] De uafhængige domstole
+    2. [ ] Regeringen alene
+    3. [ ] Kommunerne
+
     ## Hvornår blev Den Europæiske Menneskerettighedskonvention en del af dansk lovgivning?
 
     1. [ ] 1849
     2. [ ] 1973
     3. [x] 1992
+
+    ## Hvad gør Den Europæiske Menneskerettighedskonvention i forhold til grundloven?
+
+    1. [ ] Den erstatter grundloven
+    2. [x] Den supplerer og udbygger friheds- og menneskerettighederne
+    3. [ ] Den gælder kun for andre lande
+
+    ## Hvad kan ske, hvis danske love eller afgørelser strider mod konventionen?
+
+    1. [x] Danmark kan dømmes ved Den Europæiske Menneskerettighedsdomstol
+    2. [ ] Folketinget opløses automatisk
+    3. [ ] Sagen afgøres af en kommune
+
+    ## Hvorfor blev Danmark dømt ved Menneskerettighedsdomstolen i 1994?
+
+    1. [ ] En avis var blevet forhåndscensureret
+    2. [x] En journalist var blevet straffet for at viderebringe racistiske ytringer i et interview
+    3. [ ] En forening var blevet opløst på grund af vold
 
     ## Hvilken opgave har den offentlige forvaltning?
 
@@ -67,11 +120,23 @@ Questions
     2. [ ] At vedtage alle landets love
     3. [ ] At dømme i alle straffesager
 
+    ## Hvilke andre kendetegn ved den offentlige forvaltning nævnes?
+
+    1. [x] Den opkræver skatter og afgifter og er internationalt set meget lidt korrupt
+    2. [ ] Den fastsætter selv landets love
+    3. [ ] Den består kun af statslige ministerier
+
     ## Hvad betyder det, at forvaltningens handlinger skal have hjemmel i en lov?
 
     1. [ ] Myndighederne må handle uden regler, hvis det er nødvendigt
     2. [x] Forvaltningen skal have lovgrundlag for sine handlinger
     3. [ ] Kun Folketinget må udføre offentlige opgaver
+
+    ## Hvem kontrollerer blandt andet den offentlige forvaltning?
+
+    1. [ ] Kun regeringen selv
+    2. [ ] Kun medierne
+    3. [x] Domstolene, statens tilsyn, klagenævn og Folketingets Ombudsmand
 
     ## Hvem vælger Folketingets Ombudsmand?
 
@@ -79,11 +144,29 @@ Questions
     2. [ ] Højesteret
     3. [x] Folketinget
 
+    ## Er Ombudsmanden underlagt Folketingets instruktion i konkrete sager?
+
+    1. [ ] Ja, Folketinget bestemmer alle udtalelser
+    2. [x] Nej, Ombudsmanden er uafhængig i sit arbejde
+    3. [ ] Kun regeringen kan instruere Ombudsmanden
+
     ## Hvad kan Folketingets Ombudsmand gøre, hvis en myndighed har begået fejl?
 
     1. [x] Kritiserer myndigheden og opfordrer den til at ændre praksis
     2. [ ] Overtager myndighedens afgørelse og ændrer den direkte
     3. [ ] Vedtager en ny lov uden Folketinget
+
+    ## Kan Ombudsmanden tilsidesætte en myndigheds afgørelse?
+
+    1. [ ] Ja, i alle sager
+    2. [ ] Ja, hvis Folketinget beder om det
+    3. [x] Nej, men kritik og udtalelser har stor betydning
+
+    ## Hvordan gælder offentlighedsprincippet for Folketinget?
+
+    1. [x] Møder kan overværes og ses i optagelser på hjemmesiden
+    2. [ ] Kun folketingsmedlemmer må se møderne
+    3. [ ] Kun skriftlige referater er offentlige
 
     ## Hvem har som udgangspunkt ret til at overvære retssager?
 
@@ -103,11 +186,29 @@ Questions
     2. [ ] At bestemme myndighedens afgørelse
     3. [x] At se sagens dokumenter efter reglerne
 
+    ## Hvilken ret giver offentlighedsloven som udgangspunkt enhver?
+
+    1. [ ] Ret til at ændre myndighedens dokumenter
+    2. [x] Ret til under visse betingelser at se myndigheders dokumenter, også om andre sager
+    3. [ ] Ret til alle private oplysninger uden undtagelse
+
+    ## Hvilken begrænsning gælder normalt for aktindsigt?
+
+    1. [ ] Den gælder kun folketingsmedlemmer
+    2. [ ] Den gælder aldrig ens egen sag
+    3. [x] Private oplysninger er normalt undtaget, og andre hensyn kan veje tungere
+
     ## Hvem har værnepligt i Danmark efter reglerne fra 1. juli 2025?
 
     1. [ ] Kun mænd uden dansk statsborgerskab
     2. [x] Mænd og kvinder med dansk statsborgerskab over 18 år, som bor eller opholder sig i Danmark
     3. [ ] Alle personer uanset alder og statsborgerskab
+
+    ## Hvem havde værnepligt før 1. juli 2025?
+
+    1. [x] Kun mænd; kvinder kunne melde sig frivilligt
+    2. [ ] Kun kvinder
+    3. [ ] Både mænd og kvinder på samme vilkår
 
     ## Hvad sker der, hvis der ikke er frivillige nok til at aftjene værnepligt?
 
@@ -121,11 +222,23 @@ Questions
     2. [ ] En fritagelse fra alle borgerpligter
     3. [x] Et lodtrækningsresultat, der betyder, at man ikke skal aftjene værnepligt
 
+    ## Hvor kan værnepligten aftjenes, og hvor længe varer tjenesten som udgangspunkt fra februar 2026?
+
+    1. [ ] Kun i Hæren i fire måneder
+    2. [x] I Hæren, Søværnet, Flyvevåbnet eller Beredskabsstyrelsen i elleve måneder
+    3. [ ] Kun i Beredskabsstyrelsen i to år
+
     ## Hvor kan en militærnægter aftjene sin værnepligt?
 
     1. [ ] Kun i Folketinget
     2. [x] Ved andet arbejde til gavn for samfundet, fx på institutioner eller museer
     3. [ ] Ved at rejse ud af landet
+
+    ## Hvad kan ske, hvis en værnepligtig eller militærnægter udebliver fra pålagt tjeneste?
+
+    1. [ ] Personen får automatisk frinummer
+    2. [ ] Personen mister stemmeretten
+    3. [x] Personen kan straffes med fængsel
 
     ## Hvad er et borgerligt ombud?
 
@@ -133,11 +246,29 @@ Questions
     2. [ ] En frivillig fritidsaktivitet uden ansvar
     3. [ ] En dom, der kun gælder politikere
 
+    ## Hvilke eksempler på borgerligt ombud nævnes?
+
+    1. [ ] Minister og politibetjent
+    2. [x] Medlem af en kommunalbestyrelse og lægdommer
+    3. [ ] Journalist og embedsmand
+
     ## Hvad gør lægdommere i en straffesag?
 
     1. [ ] De udarbejder anklageskriftet
     2. [ ] De efterforsker sagen for politiet
     3. [x] De er med til at vurdere skyld og straf
+
+    ## Hvornår kan en handling straffes?
+
+    1. [x] Når det direkte fremgår af en lov, at handlingen kan straffes
+    2. [ ] Når politiet mener, den er forkert
+    3. [ ] Når et flertal af borgerne er imod den
+
+    ## Hvilke alvorlige forbrydelser regulerer straffeloven blandt andet?
+
+    1. [ ] Kun færdselsforseelser
+    2. [ ] Kun økonomiske uenigheder
+    3. [x] Seksualforbrydelser, drab, vold og tyveri
 
     ## Hvad er den kriminelle lavalder i Danmark?
 
@@ -151,11 +282,23 @@ Questions
     2. [ ] Højesteret
     3. [ ] Folketingets Ombudsmand
 
+    ## Hvilke reaktioner kan børn på 10-14 år mødes med i stedet for straf?
+
+    1. [ ] Bøde og almindeligt fængsel
+    2. [x] Samfundsnyttigt arbejde, oprydning, hjemmetider eller institutionsanbringelse
+    3. [ ] Udvisning af Danmark
+
     ## Hvilke almindelige straffe findes i Danmark?
 
     1. [ ] Dødsstraf og eksil
     2. [ ] Kun samfundstjeneste
     3. [x] Bøde og fængsel
+
+    ## Hvilke ekstra følger kan alvorlig kriminalitet få for udlændinge og danske statsborgere?
+
+    1. [x] Udlændinge kan udvises, og statsborgerskab kan ved meget grov kriminalitet fratages, hvis personen ikke bliver statsløs
+    2. [ ] Alle mister automatisk deres statsborgerskab
+    3. [ ] Kun bøder kan anvendes
 
     ## Kan danske domstole idømme dødsstraf?
 
@@ -163,11 +306,35 @@ Questions
     2. [x] Nej
     3. [ ] Ja, men kun ved økonomisk kriminalitet
 
+    ## Hvornår fandt de sidste henrettelser i Danmark sted?
+
+    1. [ ] I 1892 som de eneste i historien
+    2. [x] I perioden 1945-50 efter besættelsen
+    3. [ ] I 1978
+
     ## Hvem kan rejse en straffesag på samfundets vegne?
 
     1. [x] Anklagemyndigheden
     2. [ ] Domstolene selv
     3. [ ] Kommunalbestyrelsen
+
+    ## Hvem skal rejse visse mindre private straffesager, fx om ærekrænkelser?
+
+    1. [ ] Folketingets Ombudsmand
+    2. [ ] Domstolen af egen drift
+    3. [x] En privat person, ofte offeret
+
+    ## Hvordan kan mange mindre lovovertrædelser afgøres uden domstolene?
+
+    1. [x] Ved at lovovertræderen accepterer at betale en bøde
+    2. [ ] Ved at politiet idømmer fængsel
+    3. [ ] Ved en folkeafstemning
+
+    ## Hvem er anklagemyndighedens øverste leder?
+
+    1. [ ] Justitsministeren som dommer
+    2. [x] Rigsadvokaten
+    3. [ ] Folketingets formand
 
     ## Hvad betyder princippet om, at enhver rimelig tvivl skal komme den tiltalte til gode?
 
@@ -181,8 +348,50 @@ Questions
     2. [x] Politiet
     3. [ ] Folketinget
 
+    ## Har man normalt pligt til at anmelde en forbrydelse til politiet?
+
+    1. [ ] Ja, i alle tilfælde
+    2. [x] Nej
+    3. [ ] Kun hvis man er over 18 år
+
+    ## Hvilken objektivitetspligt har politi og anklagemyndighed?
+
+    1. [x] De skal søge at straffe de rette og undgå at retsforfølge uskyldige
+    2. [ ] De skal altid støtte anklagen uanset beviserne
+    3. [ ] De må kun undersøge beviser mod den mistænkte
+
+    ## Hvem kontrollerer lovligheden af politiets efterforskning?
+
+    1. [ ] Kommunerne
+    2. [ ] Medierne
+    3. [x] Domstolene
+
+    ## Hvad gælder under en politiafhøring?
+
+    1. [ ] Politiet kan tvinge enhver til en fuld forklaring
+    2. [x] Man kan ikke tvinges til at forklare sig, men skal oplyse navn, adresse og fødselsdato
+    3. [ ] Man behøver aldrig oplyse sin identitet
+
+    ## Hvor kan man klage over politiets adfærd?
+
+    1. [x] Til Den Uafhængige Politiklagemyndighed
+    2. [ ] Til kommunalbestyrelsen
+    3. [ ] Til Europaudvalget
+
     ## Hvor hurtigt skal en anholdt person stilles for en dommer?
 
     1. [x] Inden for 24 timer
     2. [ ] Inden for tre dage
     3. [ ] Inden for en uge
+
+    ## Hvem afgør, om en anholdt skal løslades eller varetægtsfængsles?
+
+    1. [x] En dommer
+    2. [ ] Politiet alene
+    3. [ ] Anklagemyndigheden alene
+
+    ## Hvor længe kan dommeren vælge at opretholde anholdelsen uden straks at varetægtsfængsle?
+
+    1. [ ] Én uge
+    2. [ ] Elleve måneder
+    3. [x] Tre gange 24 timer

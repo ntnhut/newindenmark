@@ -13,29 +13,28 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvem udøver den lovgivende magt i Danmark?
+    ## Hvad er Danmarks Riges Grundlov?
 
-    1. [ ] Domstolene
-    2. [x] Folketinget og regeringen i forening
-    3. [ ] Kommunalbestyrelserne
+    1. [x] Danmarks forfatning
+    2. [ ] Statens årlige budget
+    3. [ ] En kommunal styrelseslov
 
-    ## Hvem har den politiske magt i Danmark?
+    ## Hvor mange paragraffer indeholder grundloven?
 
-    1. [x] De folkevalgte i Folketinget og regeringen
-    2. [ ] Monarken alene
-    3. [ ] EU-Kommissionen
-
-    ## Hvilket ansvar har kommunerne især?
-
-    1. [ ] Udenrigspolitikken
-    2. [ ] Forsvaret
-    3. [x] Lokale opgaver og velfærdstilbud
-
+    1. [ ] 49
+    2. [x] 89
+    3. [ ] 179
     ## Hvornår fik Danmark sin første demokratiske grundlov?
 
     1. [ ] 1665
     2. [x] 1849
     3. [ ] 1901
+
+    ## Hvilken styreform havde Danmark fra 1660-61 og frem til grundloven?
+
+    1. [ ] Republik
+    2. [ ] Parlamentarisk demokrati
+    3. [x] Enevælde med Kongeloven som grundlag
 
     ## Hvilken dato fejres som Grundlovsdag?
 
@@ -55,6 +54,12 @@ Questions
     2. [x] 1901
     3. [ ] 1953
 
+    ## Hvem havde oprindeligt valgret efter grundloven i 1849?
+
+    1. [x] Kun mænd over 30 år, der opfyldte flere betingelser
+    2. [ ] Alle myndige mænd og kvinder
+    3. [ ] Kun tjenestefolk og embedsmænd
+
     ## Hvornår fik kvinder og tjenestefolk valgret til Folketinget?
 
     1. [ ] 1849
@@ -67,11 +72,29 @@ Questions
     2. [ ] 17 år
     3. [x] 18 år
 
+    ## Hvornår blev valgretsalderen på 18 år vedtaget?
+
+    1. [ ] I 1915
+    2. [x] I 1978
+    3. [ ] I 1953
+
     ## Hvilken grundlov er den nuværende danske grundlov?
 
     1. [ ] Grundloven fra 1849
     2. [x] Grundloven fra 1953
     3. [ ] Kongeloven fra 1665
+
+    ## I hvilke år er grundloven blevet ændret?
+
+    1. [x] 1866, 1915, 1920 og 1953
+    2. [ ] 1849, 1901, 1978 og 2001
+    3. [ ] Kun i 1915 og 1953
+
+    ## Hvorfor har det politiske liv kunnet forandre sig uden hyppige grundlovsændringer?
+
+    1. [ ] Grundloven gælder kun for domstolene
+    2. [x] Grundloven er formuleret som en fast, men rummelig og generel ramme
+    3. [ ] Regeringen kan se bort fra grundloven
 
     ## Hvorfor er det vanskeligt at ændre grundloven?
 
@@ -79,17 +102,47 @@ Questions
     2. [ ] Grundloven kan slet ikke ændres
     3. [x] Der skal være tilslutning fra både Folketinget og befolkningen
 
+    ## Hvad beskytter de strenge krav til grundlovsændringer blandt andet imod?
+
+    1. [x] At et tilfældigt flertal fratager et mindretal rettigheder eller ændrer styreformen
+    2. [ ] At vælgerne kan skifte regering
+    3. [ ] At domstolene afgør retssager
+
+    ## Hvorfor kan grundlovens ordlyd give et forkert indtryk af monarkens rolle?
+
+    1. [ ] Den er skrevet efter monarkiet blev afskaffet
+    2. [ ] Den omtaler slet ikke kongen
+    3. [x] Sproget er gammelt, mens kongens magt i praksis er overtaget af regeringen
+
+    ## Hvilken placering har grundloven blandt Danmarks love?
+
+    1. [ ] Den gælder kun efter almindelige love
+    2. [x] Den er den øverste lov
+    3. [ ] Den er ligestillet med kommunale regler
+
     ## Hvilken beskrivelse passer på det danske demokrati?
 
     1. [x] Et repræsentativt demokrati, hvor vælgerne vælger politikere til at træffe beslutninger
     2. [ ] Et direkte demokrati, hvor alle love vedtages af folkeafstemninger
     3. [ ] Et system, hvor monarken alene træffer de politiske beslutninger
 
+    ## Hvordan suppleres det repræsentative demokrati nogle gange?
+
+    1. [ ] Med afgørelser truffet af monarken
+    2. [x] Med folkeafstemninger om konkrete spørgsmål
+    3. [ ] Med lodtrækning blandt vælgerne
+
     ## Hvad betyder parlamentarisme?
 
     1. [ ] Regeringen kan blive ved magten, selv om et flertal i Folketinget er imod den
     2. [x] En regering må ikke have et flertal i Folketinget imod sig
     3. [ ] Folketinget udnævner dommerne til hver enkelt sag
+
+    ## Hvornår blev parlamentarismen skrevet ind i selve grundlovsteksten?
+
+    1. [ ] I 1849
+    2. [ ] I 1901
+    3. [x] I 1953
 
     ## Hvem udøver den lovgivende magt i Danmark?
 
@@ -121,6 +174,12 @@ Questions
     2. [ ] Monarken har vetoret over alle beslutninger i Folketinget
     3. [x] Monarken har ikke politisk magt og udfører især ceremonielle opgaver
 
+    ## Hvordan får den danske monark sin position?
+
+    1. [x] Positionen går i arv
+    2. [ ] Monarken vælges direkte af befolkningen
+    3. [ ] Folketinget udpeger en ny monark hvert fjerde år
+
     ## Hvem bestemmer, hvilke udlændinge der kan få dansk indfødsret?
 
     1. [x] Regeringen og et flertal i Folketinget
@@ -132,6 +191,12 @@ Questions
     1. [ ] Ejendomsretten
     2. [x] Ytringsfriheden
     3. [ ] Valgbarheden
+
+    ## Hvilke andre grundlæggende rettigheder beskytter grundloven blandt andet?
+
+    1. [x] Forsamlings-, forenings- og religionsfrihed samt personlig frihed, ejendomsret og privatliv
+    2. [ ] Ret til et bestemt arbejde og en bestemt bolig
+    3. [ ] Ret til at undgå alle former for skat
 
     ## Hvor mange medlemmer har Folketinget?
 
@@ -157,11 +222,29 @@ Questions
     2. [ ] Aarhus Rådhus
     3. [x] Christiansborg i København
 
+    ## Hvordan var kønsfordelingen blandt de valgte ved folketingsvalget i 2026?
+
+    1. [x] 86 kvinder og 93 mænd
+    2. [ ] 93 kvinder og 86 mænd
+    3. [ ] 89 kvinder og 90 mænd
+
+    ## Hvordan kan offentligheden følge Folketingets møder?
+
+    1. [ ] Møderne er altid lukkede
+    2. [x] Fra tilhørerpladserne eller via optagelser på Folketingets hjemmeside
+    3. [ ] Kun gennem ministrenes referater
+
     ## Hvornår begynder Folketingets arbejdsår efter sommerferien?
 
     1. [x] Den første tirsdag i oktober
     2. [ ] Den første mandag i januar
     3. [ ] Den sidste fredag i juni
+
+    ## Hvad indeholder statsministerens åbningstale?
+
+    1. [ ] Domstolenes afgørelser fra det seneste år
+    2. [ ] Valgresultater fra kommunerne
+    3. [x] Regeringens syn på rigets udfordringer, muligheder og planlagte indsats
 
     ## Hvad er finansloven?
 
@@ -169,11 +252,29 @@ Questions
     2. [x] Statens samlede budget for det næste år
     3. [ ] En aftale mellem kommunerne og regionerne
 
+    ## Hvor mange lovforslag vedtager Folketinget i gennemsnit om året?
+
+    1. [ ] Cirka 20
+    2. [x] Cirka 200
+    3. [ ] Cirka 2.000
+
+    ## Hvad sker der under en kongerunde?
+
+    1. [x] To repræsentanter fra hvert parti rådgiver kongen om regeringsdannelsen
+    2. [ ] Kongen vælger frit alle ministre uden råd
+    3. [ ] Vælgerne stemmer om statsministeren
+
     ## Hvad er formålet med Folketingets kontrol med regeringen?
 
     1. [x] At sikre, at regeringen fører lovene ud i livet på den måde, Folketinget har ønsket
     2. [ ] At lade Folketinget overtage domstolenes sager
     3. [ ] At forhindre ministre i at svare på spørgsmål
+
+    ## Hvilke redskaber kan Folketinget bruge til at kontrollere ministrene?
+
+    1. [ ] Kun domstolene
+    2. [x] Spørgsmål, forespørgselsdebatter og samråd i udvalg
+    3. [ ] Kommunale folkeafstemninger
 
     ## Hvad er et mistillidsvotum?
 
@@ -181,11 +282,23 @@ Questions
     2. [x] Folketingets udtryk for mistillid til statsministeren eller regeringen
     3. [ ] En dom afsagt af Højesteret
 
-    ## Hvad er en kongerunde?
+    ## Hvad skal der ske efter et mistillidsvotum til statsministeren?
 
-    1. [ ] En afstemning om monarkens arvefølge
-    2. [ ] Et møde mellem kommunalbestyrelserne
-    3. [x] Partiernes rådgivning til kongen om, hvem der skal lede regeringsforhandlingerne
+    1. [ ] Folketinget skal opløses permanent
+    2. [ ] Domstolene udpeger en ny regering
+    3. [x] Regeringen skal gå af, eller statsministeren skal udskrive nyvalg
+
+    ## Hvornår kan en minister stilles for Rigsretten?
+
+    1. [x] Når ministeren mistænkes for ulovligheder i sit ministerarbejde
+    2. [ ] Når ministeren taber et almindeligt folketingsvalg
+    3. [ ] Når ministeren ikke er medlem af Folketinget
+
+    ## Hvem består Rigsretten af?
+
+    1. [ ] Kun folketingsmedlemmer
+    2. [x] Op til 15 højesteretsdommere og lige så mange medlemmer valgt af Folketinget
+    3. [ ] Alle landets byretsdommere
 
     ## Hvad kaldes Folketingets faste udvalg undertiden?
 
@@ -193,11 +306,53 @@ Questions
     2. [ ] Regeringens domstole
     3. [ ] Kommunernes råd
 
+    ## Hvad sker der normalt med et lovforslag efter førstebehandlingen?
+
+    1. [ ] Det træder straks i kraft
+    2. [x] Det sendes til nærmere behandling i et udvalg
+    3. [ ] Det sendes til Højesteret
+
+    ## Hvordan kan borgere og foreninger bidrage til et udvalgs behandling?
+
+    1. [x] Ved at besøge udvalget efter aftale eller skrive til det
+    2. [ ] Ved selv at stemme i udvalget
+    3. [ ] Ved at udnævne udvalgets formand
+
+    ## Hvad indeholder udvalgets betænkning blandt andet?
+
+    1. [ ] Domstolenes vurdering af lovforslaget
+    2. [ ] Kongens beslutning om loven
+    3. [x] De enkelte partiers holdning til lovforslaget
+
+    ## Hvor mange stående udvalg er der normalt, og hvor mange medlemmer har et typisk udvalg?
+
+    1. [ ] 5-10 udvalg med 179 medlemmer
+    2. [x] 20-25 udvalg med typisk 29 medlemmer
+    3. [ ] 50 udvalg med 10 medlemmer
+
+    ## Hvornår skal regeringen rådføre sig med Det Udenrigspolitiske Nævn?
+
+    1. [ ] Før alle kommunale beslutninger
+    2. [ ] Kun efter en udenrigspolitisk beslutning
+    3. [x] Før beslutninger af større udenrigspolitisk rækkevidde
+
     ## Hvad er Europaudvalgets opgave?
 
     1. [ ] At vælge medlemmer af Europa-Parlamentet
     2. [x] At føre kontrol med den danske EU-politik og give regeringen et forhandlingsmandat
     3. [ ] At behandle alle danske straffesager med forbindelse til EU
+
+    ## Hvad fastlægger Europaudvalgets forhandlingsmandat?
+
+    1. [x] Danmarks holdning og om regeringen kan stemme for eller imod et EU-forslag
+    2. [ ] Hvem der bliver valgt til Europa-Parlamentet
+    3. [ ] Hvilke domme EU-Domstolen skal afsige
+
+    ## Hvilke to hovedfunktioner har regeringen ifølge teksten?
+
+    1. [ ] Den dømmer i straffesager og udskriver kommuneskat
+    2. [x] Den fører lovene ud i livet og udarbejder de fleste lovforslag
+    3. [ ] Den vælger Folketingets medlemmer og dommere
 
     ## Hvad betyder det, at en regering er en mindretalsregering?
 
@@ -205,17 +360,77 @@ Questions
     2. [ ] Regeringen består kun af ministre uden for Folketinget
     3. [x] Regeringspartierne har ikke tilsammen flertal og må søge støtte fra andre partier
 
+    ## Hvad er en flertalsregering?
+
+    1. [x] En regering, hvis partier tilsammen har flertal i Folketinget
+    2. [ ] En regering med flere ministre end folketingsmedlemmer
+    3. [ ] En regering, som kun har ét parti
+
     ## Hvad kaldes partier, som står uden for regeringen og støtter den?
 
     1. [x] Støttepartier
     2. [ ] Regeringspartier
     3. [ ] Oppositionen
 
+    ## Hvad kaldes partier og medlemmer uden for regeringen, som er modstandere af den?
+
+    1. [ ] Støttepartier
+    2. [x] Oppositionen
+    3. [ ] Regeringspartier
+
+    ## Hvilke fire partier kaldes ofte de regeringsbærende partier?
+
+    1. [ ] SF, Enhedslisten, Alternativet og Moderaterne
+    2. [ ] Liberal Alliance, Dansk Folkeparti, Venstre og SF
+    3. [x] Socialdemokratiet, Venstre, Radikale Venstre og Det Konservative Folkeparti
+
     ## Hvad kendetegner det samarbejdende folkestyre?
 
     1. [ ] Alle love vedtages uden politiske forhandlinger
     2. [x] Partier søger kompromiser og brede flertal om politiske løsninger
     3. [ ] Kun ét parti må deltage i regeringsforhandlinger
+
+    ## Hvorfor har kompromiser fået en stærk plads i dansk politik?
+
+    1. [x] Intet enkelt parti har haft flertal siden valgsystemets grundstruktur fra 1920
+    2. [ ] Grundloven forbyder flertalsregeringer
+    3. [ ] Alle partier har samme politik
+
+    ## Hvad er afgørende for, hvem der kan blive statsminister?
+
+    1. [ ] At personen leder det største parti
+    2. [x] At personen ikke har et flertal i Folketinget imod sig
+    3. [ ] At personen har været minister i mindst ti år
+
+    ## Hvem udnævner de øvrige ministre?
+
+    1. [ ] Folketingets formand
+    2. [ ] Kongen uden politisk rådgivning
+    3. [x] Statsministeren
+
+    ## Hvad kendetegner de almindelige embedsmænd i ministerierne?
+
+    1. [x] De ansættes efter faglige kvalifikationer, er neutrale og fortsætter ved regeringsskifte
+    2. [ ] De vælges af vælgerne hvert fjerde år
+    3. [ ] De forlader altid jobbet med ministeren
+
+    ## Hvordan adskiller særlige rådgivere sig fra almindelige embedsmænd?
+
+    1. [ ] De udnævnes af Højesteret
+    2. [x] De giver politisk rådgivning og forlader jobbet, når ministeren skifter
+    3. [ ] De skal være politisk neutrale og fastansatte
+
+    ## Hvilke formelle krav gælder for at blive minister?
+
+    1. [ ] Man skal være jurist og medlem af Folketinget
+    2. [ ] Man skal have været borgmester
+    3. [x] Der kræves ingen bestemte formelle kvalifikationer eller medlemskab af Folketinget
+
+    ## Hvad kan en minister, der ikke er medlem af Folketinget?
+
+    1. [x] Deltage i møder og fremlægge lovforslag, men ikke stemme
+    2. [ ] Hverken deltage i møder eller fremlægge forslag
+    3. [ ] Stemme, men ikke tale fra Folketingets talerstol
 
     ## Hvor længe vælges Folketingets medlemmer højst ad gangen?
 
@@ -229,17 +444,143 @@ Questions
     2. [ ] Folketingets formand alene
     3. [ ] Højesteret
 
+    ## Hvad kaldes statsministerens ret til at udskrive valg før tid?
+
+    1. [ ] Forhandlingsmandatet
+    2. [x] Opløsningsretten
+    3. [ ] To-instansprincippet
+
+    ## Er der en grænse for, hvor mange valgperioder en statsminister kan sidde?
+
+    1. [ ] Ja, højst to perioder
+    2. [ ] Ja, højst fire perioder
+    3. [x] Nej
+
+    ## Hvad betyder det, at domstolene er uafhængige?
+
+    1. [ ] Dommerne kan dømme uden at følge loven
+    2. [x] Folketinget og regeringen kan ikke bestemme udfaldet af en konkret retssag
+    3. [ ] Domstolene kan selv vedtage love
+
+    ## Hvordan understøttes dommernes uafhængighed?
+
+    1. [x] De indstilles af et uafhængigt råd og kan som hovedregel ikke afsættes administrativt
+    2. [ ] Regeringen vælger og afskediger dem frit
+    3. [ ] De vælges ved folketingsvalg
+
+    ## Hvorfor må en dommer ikke bære religiøse eller politiske symboler i retten?
+
+    1. [ ] Fordi dommere ikke må have personlige holdninger
+    2. [ ] Fordi symbolerne tilhører Folketinget
+    3. [x] For at fremstå neutral og understøtte tilliden til domstolene
+
+    ## Hvilken kontrol kan domstolene føre med Folketingets love?
+
+    1. [ ] De kan ændre alle love efter eget ønske
+    2. [x] De kan underkende en lov, der strider mod grundloven
+    3. [ ] De kan kun rådgive om lovens ordlyd før vedtagelsen
+
+    ## Hvilken kontrol kan domstolene føre med den offentlige forvaltning?
+
+    1. [x] De kan prøve, om en myndighed har truffet en ulovlig afgørelse
+    2. [ ] De kan udpege kommunernes ansatte
+    3. [ ] De kan fastsætte kommuneskatten
+
+    ## Hvilke andre klagemuligheder end domstolene nævnes?
+
+    1. [ ] Politiske partier og medier
+    2. [ ] Kongehuset og ministerierne
+    3. [x] Klagenævn og Folketingets Ombudsmand
+
+    ## Hvilken rolle har Højesteret?
+
+    1. [ ] Den behandler som hovedregel alle sager først
+    2. [x] Den er landets øverste domstol og en appelret med endelige domme
+    3. [ ] Dens domme kan altid appelleres til en landsret
+
+    ## Hvad betyder to-instansprincippet?
+
+    1. [x] En sag kan som hovedregel prøves ved to retsinstanser
+    2. [ ] Alle sager behandles samtidigt af to dommere
+    3. [ ] En dom kan altid appelleres to gange
+
+    ## Hvor mange almindelige domstole på de tre niveauer nævnes?
+
+    1. [ ] To højesteretter, én landsret og 98 byretter
+    2. [x] Én Højesteret, to landsretter og 24 byretter
+    3. [ ] Én Højesteret, fem landsretter og 20 byretter
+
+    ## Hvilke sager behandler Sø- og Handelsretten især?
+
+    1. [ ] Straffesager fra Færøerne
+    2. [ ] Sager om kommunalvalg
+    3. [x] Sager, hvor stort kendskab til erhvervsforhold er vigtigt
+
+    ## Hvordan hænger Grønlands og Færøernes domstole sammen med det danske retssystem?
+
+    1. [x] Deres afgørelser kan i sidste ende ankes til Højesteret
+    2. [ ] De er helt adskilt og kan aldrig ankes
+    3. [ ] Alle sager begynder direkte i Højesteret
+
+    ## Har vælgerne pligt til at stemme ved folketingsvalg?
+
+    1. [ ] Ja, ellers får de en bøde
+    2. [x] Nej
+    3. [ ] Kun ved hvert andet valg
+
+    ## Hvor høj har valgdeltagelsen ved folketingsvalg i gennemsnit været siden 2000?
+
+    1. [ ] 65 procent
+    2. [ ] 73 procent
+    3. [x] 86 procent
+
     ## Hvad betyder det, at folketingsvalg er hemmelige?
 
     1. [ ] Vælgerne må ikke fortælle, at de har stemt
     2. [x] Andre kan ikke se, hvem vælgeren stemmer på
     3. [ ] Resultatet af valget offentliggøres ikke
 
+    ## Hvad betyder det, at folketingsvalg er direkte?
+
+    1. [x] Vælgeren stemmer direkte på en kandidat eller et parti
+    2. [ ] Folketinget udpeger vælgernes repræsentanter
+    3. [ ] Stemmerne afgives offentligt
+
     ## Hvilke betingelser skal man som hovedregel opfylde for at stemme til folketingsvalg?
 
     1. [x] Have dansk indfødsret, være fyldt 18 år og have fast bopæl i riget
     2. [ ] Være fyldt 25 år og have en bestemt indkomst
     3. [ ] Være medlem af et politisk parti
+
+    ## Hvad kræves der ud over valgret for at være valgbar til Folketinget?
+
+    1. [ ] At man er medlem af et parti
+    2. [x] At man ikke er straffet for noget, der gør én uværdig i folks øjne
+    3. [ ] At man har en videregående uddannelse
+
+    ## Hvordan kan en kandidat stille op uden for partierne?
+
+    1. [ ] Ved at få 50.000 støtter
+    2. [ ] Ved at blive udpeget af en kommune
+    3. [x] Ved at få mindst 150 vælgere i opstillingskredsen til at anbefale sig
+
+    ## Hvad kræves normalt for, at et nyt parti bliver opstillingsberettiget?
+
+    1. [x] Cirka 20.000 godkendte underskrifter
+    2. [ ] Mindst 150 medlemmer af Folketinget
+    3. [ ] Et flertal ved en folkeafstemning
+
+    ## Hvilke to måder kan en vælger afgive sin stemme på stemmesedlen?
+
+    1. [ ] På både to kandidater og to partier
+    2. [x] Som personlig stemme på en kandidat eller som partistemme
+    3. [ ] Kun som partistemme
+
+    ## Hvor kan brevstemmer blandt andet afgives?
+
+    1. [ ] Kun på Christiansborg
+    2. [ ] Kun på valgdagen i valglokalet
+    3. [x] På Borgerservice og blandt andet på sygehuse og plejehjem
 
     ## Hvordan fordeles mandaterne ved danske folketingsvalg?
 
@@ -253,6 +594,36 @@ Questions
     2. [x] To procent
     3. [ ] Fem procent
 
+    ## Hvilken virkning har Danmarks relativt lave spærregrænse?
+
+    1. [x] Flere partier bliver typisk repræsenteret end i flere nabolande
+    2. [ ] Kun to partier kan komme i Folketinget
+    3. [ ] Det største parti får alle mandater
+
+    ## Hvem kan fremsætte lovforslag?
+
+    1. [ ] Kun regeringen
+    2. [x] Regeringen og hvert enkelt folketingsmedlem
+    3. [ ] Kun Folketingets udvalg
+
+    ## Hvorfor fremsætter regeringen i praksis de fleste lovforslag?
+
+    1. [x] Ministerierne har den nødvendige viden og arbejdskraft
+    2. [ ] Folketingsmedlemmer må ikke fremsætte forslag
+    3. [ ] Alle forslag skal komme fra EU
+
+    ## Hvorfra kan idéer til lovændringer blandt andet komme?
+
+    1. [ ] Kun fra statsministeren
+    2. [ ] Kun fra domstolene
+    3. [x] Fra borgere, foreninger, organisationer, kommuner eller medier
+
+    ## Hvilket internationalt samarbejde er en vigtig kilde til dansk lovgivning?
+
+    1. [ ] NATO's militære kommando
+    2. [x] EU's regler
+    3. [ ] De olympiske lege
+
     ## Hvor mange behandlinger skal et lovforslag igennem i Folketinget?
 
     1. [x] Tre
@@ -265,11 +636,41 @@ Questions
     2. [ ] 60
     3. [x] 90
 
+    ## Hvad skal ske, efter Folketinget har vedtaget et lovforslag?
+
+    1. [ ] Højesteret skal godkende det
+    2. [x] Kongen og en minister underskriver, hvorefter loven offentliggøres
+    3. [ ] Alle kommuner skal stemme om det
+
+    ## Hvilke ændringer skal altid afgøres ved folkeafstemning?
+
+    1. [x] Ændring af grundloven eller valgretsalderen
+    2. [ ] Enhver ændring af skatten
+    3. [ ] Udnævnelse af ministre
+
     ## Hvem kan kræve, at et vedtaget lovforslag sendes til folkeafstemning?
 
     1. [x] Mindst en tredjedel af Folketingets medlemmer
     2. [ ] Enhver enkelt borger
     3. [ ] Kun statsministeren
+
+    ## Hvornår kræves folkeafstemning ved afgivelse af dansk suverænitet?
+
+    1. [ ] Når alle 179 medlemmer stemmer ja
+    2. [ ] Når færre end 90 medlemmer stemmer ja
+    3. [x] Når mindst 90, men færre end 150 medlemmer stemmer ja
+
+    ## Hvad besluttede vælgerne ved folkeafstemningen i 2000?
+
+    1. [ ] At indføre euroen
+    2. [x] At beholde kronen og sige nej til euroen
+    3. [ ] At afskaffe EU-medlemskabet
+
+    ## Hvad blev vedtaget ved afstemningerne i 2009 og 2022?
+
+    1. [x] Lige arveret til tronen og afskaffelse af EU-forsvarsforbeholdet
+    2. [ ] Lavere valgretsalder og indførelse af euroen
+    3. [ ] Ny grundlov og afskaffelse af monarkiet
 
     ## Hvor mange støtter skal et borgerforslag have inden for 180 dage for at blive overvejet i Folketinget?
 
@@ -277,11 +678,53 @@ Questions
     2. [x] 50.000
     3. [ ] 100.000
 
+    ## Hvor mange borgere kræves der mindst for at stille et borgerforslag?
+
+    1. [ ] Én
+    2. [ ] 50
+    3. [x] Fire
+
+    ## Har et borgerforslag med 50.000 støtter krav på at blive fremsat i Folketinget?
+
+    1. [ ] Ja, og det bliver automatisk vedtaget
+    2. [x] Nej, Folketinget overvejer det, men kun ministre og medlemmer kan fremsætte forslag
+    3. [ ] Ja, hvis regeringen støtter det
+
+    ## Hvorfor er det lokale selvstyre vigtigt for velfærdssamfundet?
+
+    1. [x] Kommuner og regioner løser mange offentlige opgaver tæt på borgerne
+    2. [ ] Det overtager Folketingets lovgivning
+    3. [ ] Det styrer Danmarks udenrigspolitik
+
+    ## Hvem bestemmer kommunernes opgaver og fører tilsyn med dem?
+
+    1. [ ] Kommunerne selv uden statslige rammer
+    2. [x] Folketinget fastsætter rammerne, og staten fører tilsyn
+    3. [ ] Regionsrådene
+
     ## Hvad er nærhedsprincippet i det lokale selvstyre?
 
     1. [x] Opgaver, der berører borgernes dagligdag, skal løses så tæt på borgerne som muligt
     2. [ ] Alle offentlige opgaver skal løses af Folketinget
     3. [ ] Kommunerne skal ligge tæt på hinanden
+
+    ## Hvilken økonomisk selvstændighed har kommunerne?
+
+    1. [x] De kan udskrive skat og vælge lokale løsninger inden for rammerne
+    2. [ ] De finansieres kun af private bidrag
+    3. [ ] De må ikke selv beslutte, hvordan opgaver løses
+
+    ## Hvad er formålet med kommunal udligning og statslige tilskud?
+
+    1. [ ] At alle kommuner får samme indbyggertal
+    2. [x] At sikre nogenlunde ensartet velfærd trods forskellige indtægter og udgifter
+    3. [ ] At regionerne kan udskrive skat
+
+    ## Hvad kan skabe konflikt mellem staten og kommunerne?
+
+    1. [ ] At staten aldrig fastsætter nationale rammer
+    2. [ ] At kommunerne bestemmer uden nogen lovgivning
+    3. [x] Statens ønske om ensartede tilbud over for kommunernes ønske om selvbestemmelse
 
     ## Hvor mange kommuner og regioner blev der efter strukturreformen fra 2007?
 
@@ -289,11 +732,29 @@ Questions
     2. [ ] 14 kommuner og 271 regioner
     3. [x] 98 kommuner og fem regioner
 
+    ## Hvad ændrede strukturreformen fra 2007 konkret?
+
+    1. [x] 271 kommuner blev til 98, og 14 amter blev til fem regioner
+    2. [ ] 98 kommuner blev til 271, og regionerne blev afskaffet
+    3. [ ] Antallet blev ikke ændret
+
     ## Hvilken offentlig myndighed har ikke mulighed for selv at udskrive skat?
 
     1. [ ] Staten
     2. [ ] Kommunerne
     3. [x] Regionerne
+
+    ## Hvordan finansieres regionerne?
+
+    1. [ ] Kun gennem brugerbetaling
+    2. [x] De modtager penge fra staten og kommunerne
+    3. [ ] Gennem egen indkomstskat
+
+    ## Hvilke regioner bliver til Region Østdanmark i 2027?
+
+    1. [ ] Region Midtjylland og Region Nordjylland
+    2. [ ] Region Sjælland og Region Syddanmark
+    3. [x] Region Hovedstaden og Region Sjælland
 
     ## Hvem vælger kommunalbestyrelsens formand efter kommunalvalget?
 
@@ -301,11 +762,89 @@ Questions
     2. [ ] Statsministeren udpeger en borgmester
     3. [ ] Vælgerne vælger borgmesteren direkte ved folketingsvalget
 
+    ## Hvor ofte vælges kommunalbestyrelser og regionsråd?
+
+    1. [ ] Hvert andet år på en valgfri dato
+    2. [x] Hvert fjerde år ved landsdækkende valg i november
+    3. [ ] Samtidig med hvert folketingsvalg
+
     ## Skal man have dansk indfødsret for at stemme ved kommunal- og regionalvalg?
 
     1. [ ] Ja, altid
     2. [x] Nej, visse andre statsborgere og personer med fast bopæl i fire år kan også stemme
     3. [ ] Ja, men kun hvis man er over 30 år
+
+    ## Hvad er en lokalliste?
+
+    1. [x] En lokal kandidatgruppe, der ofte arbejder for bestemte lokalpolitiske mål
+    2. [ ] En liste over alle folketingsmedlemmer
+    3. [ ] En national regeringskoalition
+
+    ## Hvad er KL's og Danske Regioners overordnede formål?
+
+    1. [ ] At vælge borgmestre og regionsrådsformænd
+    2. [ ] At erstatte kommunerne og regionerne
+    3. [x] At styrke det lokale selvstyre og repræsentere fælles interesser
+
+    ## Hvem er grundlaget for folkestyret og giver politikerne deres magt?
+
+    1. [ ] Embedsmændene
+    2. [x] Vælgerne
+    3. [ ] Dommerne
+
+    ## Hvordan har vælgernes partivalg ændret sig over tid?
+
+    1. [x] Færre stemmer hele livet efter klasse og på samme parti; flere skifter efter holdninger og enkeltsager
+    2. [ ] Flere stemmer altid efter deres arbejde og klasse
+    3. [ ] Vælgerne skifter aldrig længere parti
+
+    ## Hvilke stemmemønstre nævnes stadig i teksten?
+
+    1. [ ] Alle grupper stemmer ens
+    2. [x] Privatansatte og mænd stemmer relativt mere borgerligt, mens offentligt ansatte og kvinder relativt oftere stemmer til venstre
+    3. [ ] Venstre står kun stærkt i de største byer
+
+    ## Hvilken rolle har de politiske partier?
+
+    1. [ ] De dømmer i retssager
+    2. [ ] De fungerer kun under valgkampe
+    3. [x] De er talerør for holdninger og påvirker både vælgere og den løbende debat
+
+    ## Er politiske partier nævnt i grundloven?
+
+    1. [ ] Ja, alle partier står med navn
+    2. [x] Nej, moderne partier fandtes ikke i 1849
+    3. [ ] Ja, men kun regeringspartierne
+
+    ## Hvordan har medlemskabet af politiske partier udviklet sig fra cirka 1950 til 2023?
+
+    1. [ ] Det steg fra 110.000 til 650.000
+    2. [ ] Det var uændret
+    3. [x] Det faldt fra cirka 650.000 til cirka 110.000
+
+    ## Hvad bestemmer partiernes medlemmer blandt andet?
+
+    1. [x] Hvem partiet opstiller som kandidater
+    2. [ ] Hvem der udnævnes til dommere
+    3. [ ] Hvordan andre partier stemmer
+
+    ## Hvad er et folketingsmedlem bundet af ifølge grundloven?
+
+    1. [ ] Partiets instrukser i alle sager
+    2. [x] Sin personlige overbevisning
+    3. [ ] Vælgernes bindende ordrer
+
+    ## Hvornår stiller et parti ofte sine medlemmer frit?
+
+    1. [ ] Ved alle finanslove
+    2. [ ] Ved valg af borgmester
+    3. [x] I sager om moral og etik
+
+    ## Hvad sker der med mandatet, hvis et medlem forlader sit parti?
+
+    1. [x] Medlemmet beholder mandatet til næste valg og kan blive løsgænger eller skifte parti
+    2. [ ] Mandatet går straks til partiet
+    3. [ ] Folketinget opløses
 
     ## Hvad er interesseorganisationers rolle i demokratiet?
 
@@ -313,14 +852,80 @@ Questions
     2. [ ] De erstatter Folketinget ved lovbehandling
     3. [ ] De udnævner dommere
 
+    ## Hvordan inddrages interesseorganisationer konkret i lovarbejdet?
+
+    1. [ ] De har automatisk stemmeret i Folketinget
+    2. [x] De høres, mødes med ministerier og udvalg og deltager i arbejdsgrupper
+    3. [ ] De afsiger dom over lovforslag
+
+    ## Hvordan har forholdet mellem partier og interesseorganisationer ændret sig?
+
+    1. [ ] Båndene er blevet tættere og helt faste
+    2. [ ] Organisationer påvirker nu kun ét parti hver
+    3. [x] De tidligere tætte bånd er blevet løsere, og organisationerne søger bredere indflydelse
+
+    ## Hvordan fungerer medierne som bindeled mellem politikere og vælgere?
+
+    1. [x] De spreder debat, giver borgere en kanal og påvirker dagsordenen
+    2. [ ] De vedtager love og udpeger ministre
+    3. [ ] De må kun viderebringe regeringens synspunkt
+
+    ## Hvornår frigjorde de fleste aviser sig fra de politiske partier?
+
+    1. [ ] I 1849
+    2. [x] I løbet af 1960'erne
+    3. [ ] Efter 2020
+
     ## Hvorfor kaldes medierne undertiden den fjerde statsmagt?
 
     1. [ ] De vedtager love på vegne af Folketinget
     2. [ ] De kontrollerer domstolenes afgørelser
     3. [x] De holder øje med magthaverne og kan kritisere deres handlinger
 
+    ## Hvilken dobbelt virkning har sociale medier på den politiske debat?
+
+    1. [ ] De gør både borgere og journalister ude af stand til at deltage
+    2. [x] De giver mere direkte kontakt, men kan svække journalisters kritiske kontrol
+    3. [ ] De har helt erstattet alle andre medier
+
+    ## Hvor findes demokrati i hverdagen ifølge teksten?
+
+    1. [ ] Kun ved folketingsvalg
+    2. [ ] Kun i politiske partier
+    3. [x] Blandt andet i skolebestyrelser, elevråd, boligforeninger og samarbejdsudvalg
+
     ## Hvor stor en andel af den danske befolkning er medlem af mindst én forening ifølge teksten?
 
     1. [ ] Cirka 35 procent
     2. [x] Cirka 90 procent
     3. [ ] Cirka 50 procent
+
+    ## Hvor mange har udført frivilligt arbejde gennem en forening, og hvor mange foreninger er en dansker i gennemsnit medlem af?
+
+    1. [x] Cirka 35 procent har arbejdet frivilligt, og gennemsnittet er tre-fire medlemskaber
+    2. [ ] Cirka 90 procent har arbejdet frivilligt, og gennemsnittet er ét medlemskab
+    3. [ ] Cirka 10 procent har arbejdet frivilligt, og gennemsnittet er ti medlemskaber
+
+    ## Hvordan træner foreningslivet borgerne i demokrati?
+
+    1. [ ] Ved at undgå uenighed og afstemninger
+    2. [x] Ved at drøfte, indhente viden, argumentere, indgå kompromiser og stemme
+    3. [ ] Ved at lade én leder beslutte alt
+
+    ## Hvordan varierer den gennemsnitlige valgdeltagelse siden 2000?
+
+    1. [ ] 58 procent til Folketinget, 73 procent lokalt og 86 procent til EU
+    2. [ ] 73 procent ved alle valg
+    3. [x] 86 procent til Folketinget, 73 procent lokalt og 58 procent til Europa-Parlamentet
+
+    ## Hvilke forklaringer gives på den høje danske valgdeltagelse?
+
+    1. [x] Demokratisk opdragelse, foreningstradition og en historisk folkelig demokratibevægelse
+    2. [ ] Stemmepligt og bøder
+    3. [ ] At kun partimedlemmer kan stemme
+
+    ## Hvordan har politisk deltagelse ændret karakter?
+
+    1. [ ] Flere er partimedlemmer, og sociale medier bruges mindre
+    2. [x] Færre er partimedlemmer og græsrødder fylder mindre, mens nye former som underskrifter, donationer, forbrug og sociale medier bruges
+    3. [ ] Borgerne deltager ikke længere mellem valgene

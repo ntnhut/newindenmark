@@ -13,71 +13,119 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilket berømt oldtidsfund forestiller en hest, der trækker en solskive?
-
-    1. [ ] Gundestrupkedlen
-    2. [x] Solvognen
-    3. [ ] Jellingstenen
-
-    ## Hvad er billedkunst?
-
-    1. [x] Kunst, der blandt andet omfatter malerier og tegninger
-    2. [ ] Kun teater og dans
-    3. [ ] Kun bygninger og møbler
-
-    ## Hvilken periode stammer Solvognen fra?
-
-    1. [ ] Jernalderen
-    2. [x] Den ældre bronzealder
-    3. [ ] Middelalderen
-
     ## Hvad forestiller Solvognen?
 
-    1. [x] En hest, der trækker en solskive
-    2. [ ] En konge, der sejler over havet
-    3. [ ] En viking, der smeder et sværd
+    1. [x] Solen, der trækkes af en hest
+    2. [ ] En konge på en hest
+    3. [ ] Et skib med en sol som sejl
 
-    ## Hvor blev guldhornene fundet?
+    ## Hvornår stammer Solvognen fra?
 
-    1. [ ] Ved Trundholm Mose
-    2. [ ] På Christiansborg
-    3. [x] Ved Gallehus i Sønderjylland
+    1. [ ] Cirka 400 efter Kristus
+    2. [x] Cirka 1350 før Kristus
+    3. [ ] Cirka 900 efter Kristus
 
-    ## Hvad skete der med de oprindelige guldhorn?
+    ## Hvad viser Solvognen om bronzealderens religion?
 
-    1. [ ] De blev begravet i en kirke
-    2. [x] De blev stjålet og omsmeltet i 1802
-    3. [ ] De blev sendt til Rom i 1536
+    1. [ ] At månen blev trukket over himlen af en fugl
+    2. [ ] At solen ikke havde religiøs betydning
+    3. [x] At solen blev tilbedt og tænktes trukket over himlen af en hest
 
-    ## Hvad var kalkmaleriernes funktion i middelalderens kirker?
+    ## Hvilke hjælpere førte ifølge forestillingen solen gennem resten af døgnet?
 
-    1. [x] At formidle bibelske fortællinger til mennesker, der ikke kunne læse Bibelen
-    2. [ ] At vise kongens familieportrætter
-    3. [ ] At fungere som kort over handelsruter
+    1. [x] En slange, en fisk og to skibe
+    2. [ ] To heste og en fugl
+    3. [ ] En konge og fire krigere
 
-    ## Hvornår blev reformationen indført i Danmark?
+    ## Hvilke materialer er Solvognen fremstillet af?
 
-    1. [ ] 1050
-    2. [ ] 1660
-    3. [x] 1536
+    1. [ ] Sølv og jern
+    2. [x] Guld og bronze
+    3. [ ] Træ og sten
+
+    ## Hvor og hvornår blev guldhornene fundet?
+
+    1. [ ] Ved Jelling i 1802 og 1900
+    2. [x] Ved Gallehus i Sønderjylland i 1639 og 1734
+    3. [ ] Ved Trundholm Mose i 1350 og 1400
+
+    ## Hvornår stammer guldhornene fra?
+
+    1. [ ] Omkring 400 før Kristus
+    2. [ ] Omkring 900 efter Kristus
+    3. [x] Omkring 400 efter Kristus
+
+    ## Hvordan var guldhornene udsmykket?
+
+    1. [x] Med mange figurer og runer
+    2. [ ] Kun med latinske bogstaver
+    3. [ ] Med billeder af danske konger
+
+    ## Hvad skete der med de oprindelige guldhorn i 1802?
+
+    1. [ ] De blev flyttet til Rom
+    2. [x] De blev stjålet og omsmeltet
+    3. [ ] De blev begravet i en kirke
+
+    ## Hvorfor er detaljer i de genskabte guldhorn usikre?
+
+    1. [ ] De blev kun beskrevet mundtligt
+    2. [ ] Der findes ingen oplysninger om deres udseende
+    3. [x] De blev genskabt ud fra tegninger af de tabte originaler
+
+    ## Hvilken kunstform kom til Danmark med kristendommen fra 900-tallet?
+
+    1. [x] Kirkekunsten
+    2. [ ] Abstrakt kunst
+    3. [ ] Fotokunsten
+
+    ## Hvordan fremstilles Jesus på Harald Blåtands Jellingsten?
+
+    1. [ ] Som en romersk kejser
+    2. [x] Som en stærk og sejrende vikingekriger
+    3. [ ] Som en middelalderlig bonde
+
+    ## Hvilken funktion havde middelalderens kalkmalerier?
+
+    1. [ ] De viste kongens slægtstavle
+    2. [ ] De fungerede som kort over handelsruter
+    3. [x] De formidlede kristendommens budskaber som en slags tegneserier
+
+    ## Hvorfor var kalkmalerierne vigtige for befolkningen?
+
+    1. [x] De fleste kunne ikke læse Bibelen eller forstå kirkens latin
+    2. [ ] Befolkningen måtte ikke se andre kunstværker
+    3. [ ] De fleste talte kun latin
 
     ## Hvem brugte især kunsten til at vise rigdom og betydning efter reformationen?
 
-    1. [ ] Bønder og håndværkere
+    1. [ ] Bønderne og håndværkerne
     2. [x] Kongen og adelen
     3. [ ] Udenlandske handelsfolk
 
-    ## Hvem grundlagde Det Kongelige Danske Kunstakademi?
+    ## Hvad viser de 40 vævede tapeter på Kronborg?
 
-    1. [ ] Christian 4.
-    2. [x] Frederik 5.
-    3. [ ] Valdemar den Store
+    1. [x] Danske konger
+    2. [ ] Bibelens fortællinger
+    3. [ ] Skagensmalernes hverdagsliv
 
-    ## Hvor ligger Det Kongelige Danske Kunstakademi?
+    ## Hvordan støttede Christian 4. kunsten?
 
-    1. [x] På Charlottenborg ved Kongens Nytorv i København
-    2. [ ] På Christiansborgs Ridebane
-    3. [ ] I Universitetsparken i Aarhus
+    1. [ ] Han forbød udenlandske kunstnere at arbejde i Danmark
+    2. [ ] Han lukkede alle kongelige slotte for kunstnere
+    3. [x] Han hentede udenlandske malere til at male kongefamilien og udsmykke slottene
+
+    ## Hvorfor grundlagde Frederik 5. Det Kongelige Danske Kunstakademi?
+
+    1. [x] For at uddanne danske kunstnere på internationalt niveau
+    2. [ ] For at uddanne præster i latin
+    3. [ ] For at opbevare guldhornene
+
+    ## Hvor ligger Kunstakademiet?
+
+    1. [ ] På Christiansborgs Ridebane
+    2. [x] På Charlottenborg ved Kongens Nytorv
+    3. [ ] På ARoS i Aarhus
 
     ## Hvem skabte rytterstatuen af Frederik 5. på Amalienborg Slotsplads?
 
@@ -85,86 +133,206 @@ Questions
     2. [ ] C.W. Eckersberg
     3. [x] Jacques-François-Joseph Saly
 
+    ## Hvad var særligt ved prisen på rytterstatuen?
+
+    1. [ ] Den kostede mindre end ét af Amalienborgs palæer
+    2. [x] Den kostede mere end alle fire palæer tilsammen
+    3. [ ] Den blev finansieret uden udgifter
+
     ## Hvorfor kaldes første halvdel af 1800-tallet Guldalderen?
 
-    1. [ ] Fordi alle kunstværker blev fremstillet af guld
-    2. [x] Fordi dansk kultur, kunst og videnskab blomstrede
-    3. [ ] Fordi perioden var præget af store guldminer
+    1. [x] Dansk kultur, kunst og videnskab blomstrede
+    2. [ ] Alle kunstværker blev lavet af guld
+    3. [ ] Danmark fandt store guldminer
 
-    ## Hvor tilbragte Bertel Thorvaldsen mange år af sit liv?
+    ## Hvem regnes som Danmarkshistoriens bedst kendte billedhugger?
 
-    1. [ ] I Paris
-    2. [x] I Rom
-    3. [ ] I London
+    1. [ ] Asger Jorn
+    2. [x] Bertel Thorvaldsen
+    3. [ ] Per Kirkeby
 
-    ## Hvilket museum blev oprettet til Thorvaldsens skulpturer og samlinger?
+    ## Hvor boede Thorvaldsen i mange år fra 1797?
 
-    1. [ ] ARoS
-    2. [ ] Nationalmuseet
-    3. [x] Thorvaldsens Museum
+    1. [x] Rom
+    2. [ ] Paris
+    3. [ ] London
 
-    ## Hvad var særligt ved Thorvaldsens Museum, da det åbnede?
+    ## Hvilken kunst inspirerede Thorvaldsens skulpturer?
 
-    1. [x] Det var Danmarks første museumsbygning, som befolkningen havde adgang til
-    2. [ ] Det var det første museum, der kun viste fotografier
-    3. [ ] Det var et kongeligt slot uden kunstsamlinger
+    1. [ ] Vikingetidens runekunst
+    2. [ ] Skagensmalernes kunst
+    3. [x] Kunsten fra Romerriget
 
-    ## Hvad er Vilhelm Hammershøi især værdsat for at male?
+    ## Hvilket værk skabte Thorvaldsen blandt andet i Rom?
 
-    1. [ ] Dramatiske søslag
-    2. [x] Lys og skygge i boligens rum
-    3. [ ] Store abstrakte gobeliner
+    1. [ ] Rytterstatuen af Christian 9.
+    2. [x] Gravmonumentet over pave Pius 7.
+    3. [ ] Your rainbow panorama
 
-    ## Hvor slog Skagensmalerne sig ned?
+    ## Hvornår åbnede Thorvaldsens Museum?
 
-    1. [ ] I Odense
-    2. [ ] I København
-    3. [x] I Skagen
+    1. [ ] 1771
+    2. [x] 1848
+    3. [ ] 1900
 
-    ## Hvilke landskabelige forhold prægede Skagensmalernes billeder?
+    ## Hvad var særligt ved Thorvaldsens Museum?
 
-    1. [x] Lyset fra Skagerrak og Kattegat
-    2. [ ] Udsigten over Øresund og Limfjorden
-    3. [ ] De norske fjelde omkring byen
+    1. [x] Det var Danmarks første museumsbygning med offentlig adgang
+    2. [ ] Det var Danmarks første kunstakademi
+    3. [ ] Det viste kun moderne abstrakt kunst
 
-    ## Hvilken kunstner skabte bronzeportene i Ribe Domkirke?
+    ## Hvilken kunstner fra Guldalderen malede landskab og folkeliv omkring Rom?
 
-    1. [ ] Lene Adler Petersen
-    2. [x] Anne Marie Carl-Nielsen
-    3. [ ] Anna Ancher
+    1. [ ] Vilhelm Hammershøi
+    2. [x] C.W. Eckersberg
+    3. [ ] Michael Ancher
 
-    ## Hvilke byer indgår i navnet på kunstnergruppen Cobra?
+    ## Hvad er Vilhelm Hammershøi især værdsat for?
 
-    1. [ ] København, Oslo og Berlin
-    2. [ ] København, Paris og Rom
-    3. [x] København, Bruxelles og Amsterdam
+    1. [ ] Farverige slagscener
+    2. [ ] Skulpturer af konger
+    3. [x] Lys og skygge i boligens rum
 
-    ## Hvilket motiv inspirerede Asger Jorns hovedværk Stalingrad?
+    ## Hvem ses i Hammershøis Interiør fra Strandgade 30?
 
-    1. [x] Slaget ved Stalingrad under 2. Verdenskrig
-    2. [ ] En sejr ved Gallehus i bronzealderen
-    3. [ ] Byggeriet af Christiansborg
+    1. [x] Hans kone Ida, der står og læser
+    2. [ ] Dronningen på Amalienborg
+    3. [ ] En bonde fra Skagen
 
-    ## Hvad symboliserer de røde stænk i Jorns Stalingrad ifølge teksten?
+    ## Hvilken rekord satte maleriet ved salget i 2023?
 
-    1. [ ] Solens varme
-    2. [x] Blodet fra slaget
-    3. [ ] Dannebrog over byen
+    1. [ ] Det blev verdens dyreste maleri
+    2. [x] Det blev det dyrest solgte danske maleri
+    3. [ ] Det blev det første danske maleri solgt i USA
 
-    ## Hvor mange gobeliner består Bjørn Nørgaards hovedværk på Christiansborg af?
+    ## Hvilke kunstnere hørte til Skagensmalerne?
 
-    1. [ ] 7
-    2. [ ] 10
-    3. [x] 17
+    1. [ ] Thorvaldsen, Eckersberg og Saly
+    2. [x] P.S. Krøyer, Anna Ancher og Michael Ancher
+    3. [ ] Jorn, Kirkeby og Nørgaard
 
-    ## Hvad viser gobelinerne i riddersalen på Christiansborg?
+    ## Hvad malede Skagensmalerne?
 
-    1. [ ] Europas konger gennem middelalderen
-    2. [x] Danmarks historie fra vikingetiden til nutiden
-    3. [ ] Danske landskaber fra Skagen til Bornholm
+    1. [x] Den lokale befolknings hverdagsliv og deres eget kunstnerliv
+    2. [ ] Kun kongelige portrætter
+    3. [ ] Kun abstrakte former
 
-    ## Hvad kan publikum opleve i Olafur Eliassons Your rainbow panorama?
+    ## Hvad spillede en særlig rolle i Skagensmalernes billeder?
 
-    1. [x] At gå gennem en glasgangbro i forskellige regnbuefarver med udsigt over Aarhus
-    2. [ ] At se en samling af bronzealderens musikinstrumenter
-    3. [ ] At gå gennem en kopi af en middelalderkirke
+    1. [ ] Lyset fra Øresund og Storebælt
+    2. [ ] De norske fjelde
+    3. [x] Lyset fra Skagerrak og Kattegat
+
+    ## Hvad var Anne Marie Carl-Nielsen den første kvinde i verden til?
+
+    1. [ ] At male et dansk kongeslot
+    2. [x] At få bestilling på en rytterstatue af en konge
+    3. [ ] At blive medlem af Cobra
+
+    ## Hvilke værker er Anne Marie Carl-Nielsen kendt for?
+
+    1. [x] Rytterstatuen af Christian 9. og bronzeportene i Ribe Domkirke
+    2. [ ] Frederik 5.s rytterstatue og Kronborgs tapeter
+    3. [ ] Stalingrad og Your rainbow panorama
+
+    ## Hvilken ligestillingssag kæmpede Anne Marie Carl-Nielsen for?
+
+    1. [x] Kvinders adgang til kunstuddannelse og udstillinger på lige fod med mænd
+    2. [ ] Kvinders ret til at blive præster
+    3. [ ] Kvinders ret til at eje guldhornene
+
+    ## Hvilken kunstnergruppe var Asger Jorn med til at stifte?
+
+    1. [ ] Skagensmalerne
+    2. [x] Cobra
+    3. [ ] Guldaldergruppen
+
+    ## Hvilke byer gav Cobra sit navn?
+
+    1. [x] København, Bruxelles og Amsterdam
+    2. [ ] København, Berlin og Rom
+    3. [ ] Chicago, Boston og Aarhus
+
+    ## I hvilken periode eksisterede Cobra?
+
+    1. [ ] 1914-18
+    2. [x] 1948-51
+    3. [ ] 1957-72
+
+    ## Hvad er Asger Jorns hovedværk?
+
+    1. [ ] Den kvindelige Kristus
+    2. [ ] Your rainbow panorama
+    3. [x] Stalingrad
+
+    ## Hvad symboliserer de røde stænk i Stalingrad?
+
+    1. [ ] Solen
+    2. [x] Blod
+    3. [ ] Dannebrog
+
+    ## Hvilken type kunst er Per Kirkeby internationalt kendt for?
+
+    1. [x] Store abstrakte malerier med forhold til naturen
+    2. [ ] Middelalderlige kalkmalerier
+    3. [ ] Rytterstatuer af konger
+
+    ## Hvilke kunstformer har Lene Adler Petersen arbejdet med?
+
+    1. [ ] Kun maleri
+    2. [x] Film, aktioner, grafik, maleri og skulptur
+    3. [ ] Kun vævede tapeter
+
+    ## Hvad gjorde Lene Adler Petersen i aktionen Den kvindelige Kristus?
+
+    1. [ ] Hun malede Jesus som viking
+    2. [ ] Hun vævede 17 gobeliner
+    3. [x] Hun gik nøgen gennem Børsen med et kors
+
+    ## Hvad kritiserede Den kvindelige Kristus?
+
+    1. [x] Kapitalistiske og mandsdominerende normer
+    2. [ ] Middelalderens kalkmalerier
+    3. [ ] Skagensmalernes brug af lys
+
+    ## Hvad består Bjørn Nørgaards hovedværk på Christiansborg af?
+
+    1. [ ] 11 malerier
+    2. [ ] 15 skulpturer
+    3. [x] 17 store gobeliner
+
+    ## Hvad fortæller gobelinerne?
+
+    1. [x] Danmarks historie fra vikingetiden til nutiden
+    2. [ ] Kun historien om Christian 9.
+    3. [ ] Europas kunsthistorie fra Romerriget
+
+    ## Hvilken anledning førte til gaven af gobelinerne?
+
+    1. [ ] Dronningens 40-års fødselsdag
+    2. [x] Dronningens 50-års fødselsdag i 1990
+    3. [ ] Kunstakademiets 200-års jubilæum
+
+    ## Hvornår blev gobelinerne indviet?
+
+    1. [ ] 1990
+    2. [ ] 1995
+    3. [x] På Dronningens 60-års fødselsdag i 2000
+
+    ## Hvem skabte Your rainbow panorama?
+
+    1. [ ] Bjørn Nørgaard
+    2. [x] Olafur Eliasson
+    3. [ ] Asger Jorn
+
+    ## Hvor findes Your rainbow panorama?
+
+    1. [x] Oven på ARoS i Aarhus
+    2. [ ] På Amalienborg Slotsplads
+    3. [ ] På Thorvaldsens Museum
+
+    ## Hvad er Your rainbow panorama?
+
+    1. [ ] En 17 meter lang gobelin
+    2. [ ] En rytterstatue i bronze
+    3. [x] En 150 meter lang cirkelformet glasgang med regnbuefarver

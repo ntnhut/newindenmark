@@ -13,122 +13,242 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvad er et centralt princip i funktionalismen inden for arkitektur og design?
+    ## Hvad afspejler arkitektur og design ifølge teksten?
 
-    1. [ ] At bygninger altid skal være udsmykket med historiske motiver
-    2. [x] At form og udformning skal understøtte funktionen
-    3. [ ] At bygninger kun må bygges af træ
-
-    ## Hvornår fik funktionalismen stor betydning i Danmark?
-
-    1. [x] I 1920'erne
-    2. [ ] I 1720'erne
-    3. [ ] I 1980'erne
-
-    ## Hvad kan arkitektur og design afspejle?
-
-    1. [ ] Kun et lands klima
+    1. [ ] Kun et lands klima og natur
     2. [x] Et samfunds muligheder, holdninger og værdier
-    3. [ ] Kun arkitektens personlige økonomi
+    3. [ ] Kun arkitektens personlige smag
 
-    ## Hvad er et traditionelt træk ved dansk arkitektur og design?
+    ## Hvad har man traditionelt lagt vægt på i dansk arkitektur og design?
 
-    1. [x] Praktisk funktion og enkelhed
-    2. [ ] Overdådig udsmykning i alle bygninger
-    3. [ ] Brug af én bestemt byggestil i alle perioder
+    1. [x] Praktiske funktioner og enkelhed
+    2. [ ] Overdådig udsmykning og stærke farver
+    3. [ ] At alle bygninger følger samme historiske stil
 
-    ## Hvilken inspiration præger nogle eksklusive ejendomme fra cirka 1760-1860?
+    ## Hvor ses traditionen for praktiske funktioner og enkelhed blandt andet?
+
+    1. [ ] Kun i moderne højhuse
+    2. [ ] Kun i kongelige slotte
+    3. [x] I landsbykirker og bindingsværksgårde
+
+    ## Hvilken arkitektur inspirerede især de mere eksklusive ejendomme fra cirka 1760-1860?
 
     1. [ ] Japansk og kinesisk arkitektur
-    2. [ ] Vikingetidens skibsbyggeri
-    3. [x] Græsk og romersk arkitektur
+    2. [x] Græsk og romersk arkitektur
+    3. [ ] Gotisk og nordisk arkitektur
 
-    ## Hvem tegnede Vor Frue Kirke i København?
+    ## Hvilken by blev især præget af de eksklusive ejendomme fra cirka 1760-1860?
 
-    1. [ ] Jørn Utzon
-    2. [x] C.F. Hansen
-    3. [ ] Arne Jacobsen
+    1. [x] København
+    2. [ ] Ribe
+    3. [ ] Aalborg
+
+    ## Hvem tegnede Københavns domkirke, Vor Frue Kirke?
+
+    1. [ ] Arne Jacobsen
+    2. [ ] Jørn Utzon
+    3. [x] C.F. Hansen
 
     ## Hvornår blev Vor Frue Kirke opført?
 
-    1. [x] 1811-29
-    2. [ ] 1931-33
-    3. [ ] 1958-62
+    1. [ ] 1760-80
+    2. [x] 1811-29
+    3. [ ] 1931-33
 
-    ## Hvilket problem skulle funktionalismen blandt andet være med til at løse?
+    ## Hvordan kommer både romersk og græsk inspiration til udtryk i Vor Frue Kirke?
 
-    1. [ ] Mangel på museer i København
-    2. [ ] For få kongelige boliger
-    3. [x] Byernes dårlige boligstandard
+    1. [x] Dele ligner et romersk tempel, mens indgangen har en græsk tempelfront
+    2. [ ] Tårnet ligner et romersk palads, mens taget har græske mosaikker
+    3. [ ] Kirken er delt i en romersk og en græsk bygning
 
-    ## Hvilket socialt ideal lå bag funktionalismens enkle udtryk?
+    ## Hvad lægger funktionalismen især vægt på?
 
-    1. [ ] At skabe større forskel mellem samfundsklasser
-    2. [x] At fremme social lighed
-    3. [ ] At begrænse adgangen til moderne boliger
+    1. [ ] Historiske ornamenter
+    2. [x] Praktiske funktioner
+    3. [ ] Dyre materialer
 
-    ## Hvilken bygning er et eksempel på dansk funktionalisme?
+    ## Hvornår opstod funktionalismen?
 
-    1. [ ] Vadehavscentret
+    1. [ ] I 1820'erne
+    2. [ ] I 1970'erne
+    3. [x] I 1920'erne
+
+    ## Hvad bidrog funktionalismen først og fremmest til at forbedre?
+
+    1. [x] Byernes dårlige boligstandard
+    2. [ ] Landsbyernes kirkeudsmykning
+    3. [ ] Antallet af kongelige boliger
+
+    ## Hvad kom funktionalismen i arkitekturen senere til at præge?
+
+    1. [ ] Kun offentlige monumenter
+    2. [x] Opbygningen og udformningen af den danske velfærdsstat
+    3. [ ] Kun universitetsbygninger
+
+    ## Hvilken tanke lå bag at fjerne ornamenter og gøre huse og møbler mere ens og enkle?
+
+    1. [ ] At knytte dem tydeligere til bestemte samfundsklasser
+    2. [ ] At gøre dem vanskeligere at masseproducere
+    3. [x] At reducere deres tilhørsforhold til bestemte samfundsklasser
+
+    ## Hvad var funktionalismens politiske dagsorden?
+
+    1. [x] Mere social lighed
+    2. [ ] Større forskel mellem samfundsklasser
+    3. [ ] Færre boliger i byerne
+
+    ## Hvilken samfundsgruppe og livsstil er funktionalismen blevet et udtryk for?
+
+    1. [ ] Adelen og dens historiske livsstil
+    2. [x] Den brede danske middelklasse og dens moderne livsstil
+    3. [ ] Landbruget og dets traditionelle livsstil
+
+    ## Hvilken bygning nævnes som et eksempel på funktionalisme?
+
+    1. [ ] Vor Frue Kirke
     2. [ ] Operahuset i Sydney
     3. [x] Aarhus Universitet
 
-    ## Hvilken idé lå bag Aarhus Universitet som "akademisk landsby"?
+    ## Hvornår blev Aarhus Universitet opført?
 
-    1. [x] At samle universitetets mange formål i en åben og harmonisk helhed
-    2. [ ] At adskille alle fag fra hinanden uden fælles områder
-    3. [ ] At kopiere udformningen af et middelalderslot
+    1. [x] 1931-33
+    2. [ ] 1811-29
+    3. [ ] 1958-60
 
-    ## Hvad var særligt ved Poul Henningsens lampedesign?
+    ## Hvad var ideen bag Aarhus Universitet som en akademisk landsby?
 
-    1. [ ] Det brugte kun levende lys
-    2. [x] Det gjorde elektrisk lys blændfrit
-    3. [ ] Det kunne kun anvendes udendørs
+    1. [ ] At holde alle fag og aktiviteter helt adskilt
+    2. [x] At skabe åbenhed og harmoni og samle universitetets formål i en helhed
+    3. [ ] At efterligne et middelalderslot
+
+    ## Hvad rummer Universitetsparken ud over institutbygninger?
+
+    1. [ ] Et rådhus, et hospital og en havn
+    2. [ ] En lufthavn, en fabrik og et stadion
+    3. [x] Kollegier, en sø og vandløb
+
+    ## Hvilke to designere nævnes som andre eksempler på funktionalisme?
+
+    1. [x] Poul Henningsen og Børge Mogensen
+    2. [ ] C.F. Hansen og Jørn Utzon
+    3. [ ] Dorte Mandrup og Bjarke Ingels
+
+    ## Hvad blev Poul Henningsen, også kaldet PH, mest kendt for?
+
+    1. [ ] Sit møbelprogram for FDB
+    2. [x] Sit lampedesign
+    3. [ ] Operahuset i Sydney
+
+    ## Hvad gjorde PH's lampedesign ved det elektriske lys?
+
+    1. [ ] Det gjorde lyset stærkere og direkte
+    2. [ ] Det gjorde lyset farvet
+    3. [x] Det gjorde lyset blændfrit
 
     ## Hvor mange skærme består PH-lampen af?
 
-    1. [ ] To
-    2. [ ] Fem
-    3. [x] Tre
+    1. [x] Tre
+    2. [ ] To
+    3. [ ] Fem
 
-    ## For hvilken kæde udviklede Børge Mogensen et møbelprogram i 1940'erne?
+    ## Hvad kunne varieres i PH-lampens skærme for at skabe belysning til forskellige formål og priser?
 
-    1. [x] FDB, nuværende Coop
-    2. [ ] Nordisk Film
-    3. [ ] Det Kongelige Teater
+    1. [ ] Kun skærmenes højde
+    2. [x] Størrelser, materialer og farver
+    3. [ ] Kun antallet af pærer
 
-    ## Hvilke bygninger tegnede Arne Jacobsen?
+    ## Hvad udviklede Børge Mogensen i 1940'erne?
 
-    1. [ ] Kun private sommerhuse
-    2. [x] Blandt andet Danmarks Nationalbank og Aarhus Rådhus
-    3. [ ] Vor Frue Kirke og Aarhus Universitet
+    1. [ ] Et lampesystem for Aarhus Universitet
+    2. [ ] Et operahus for Sydney
+    3. [x] Et funktionalistisk møbelprogram for FDB
 
-    ## Hvilke møbler er eksempler på Arne Jacobsens design?
+    ## Hvor satte Børge Mogensens møbler blandt andet deres enkle præg?
 
-    1. [ ] PH-lampen og FDB-stolen
-    2. [ ] Skagensstolen og Kongestolen
-    3. [x] 7'eren og Ægget
+    1. [x] I hjem, rådhuse, skoler og sygehuse
+    2. [ ] Kun i private hjem
+    3. [ ] Kun på museer og slotte
 
-    ## Hvem tegnede operahuset i Sydney?
+    ## Hvilke områder satte Arne Jacobsen stort præg på?
 
-    1. [x] Jørn Utzon
-    2. [ ] Bjarke Ingels
-    3. [ ] Dorte Mandrup
+    1. [ ] Maleri og skulptur
+    2. [x] Arkitektur og design
+    3. [ ] Musik og litteratur
 
-    ## Hvilken bygning har Dorte Mandrup tegnet ved Ilulissat-fjorden?
+    ## Hvilke bygninger nævnes som eksempler på Arne Jacobsens arkitektur?
 
-    1. [ ] Amager Bakke
-    2. [x] Isfjordcenteret
-    3. [ ] Aarhus Rådhus
+    1. [ ] Vor Frue Kirke og Aarhus Universitet
+    2. [ ] Operahuset i Sydney og Copenhill
+    3. [x] Danmarks Nationalbank og Aarhus Rådhus
 
-    ## Hvad inspirerer Dorte Mandrups måde at forme bygninger på?
+    ## Hvilke stole nævnes som eksempler på Arne Jacobsens design?
 
-    1. [ ] Kun historiske møbelstile
-    2. [ ] Standardiserede skabeloner uden hensyn til stedet
-    3. [x] Omgivelserne og landskabets særlige kendetegn
+    1. [x] 7'eren og Ægget
+    2. [ ] PH-lampen og FDB-stolen
+    3. [ ] Svanen og Påfuglen
 
-    ## Hvad er særligt ved Amager Bakke, også kaldet Copenhill?
+    ## Hvad præger dansk arkitektur og design i dag ifølge teksten?
 
-    1. [ ] Det er både affaldsforbrænding og et rekreativt område
-    2. [x] Det kombinerer energieffektiv affaldsforbrænding med fritidsaktiviteter
-    3. [ ] Det er et museum for dansk funktionalisme
+    1. [ ] Én fælles national stil
+    2. [x] Stor mangfoldighed og globalt udsyn
+    3. [ ] En tilbagevenden til bindingsværk
+
+    ## Hvilken ikonisk bygning tegnede Jørn Utzon i slutningen af 1950'erne?
+
+    1. [ ] Vadehavscentret
+    2. [ ] Amager Bakke
+    3. [x] Operahuset i Sydney
+
+    ## Hvordan er operahuset i Sydney udformet?
+
+    1. [x] Som store opretstående skaller med et mønster af hvide klinker
+    2. [ ] Som en firkantet glasbygning med fladt tag
+    3. [ ] Som et romersk tempel med søjler
+
+    ## Hvad kan operahuset i Sydney minde om fra forskellige vinkler?
+
+    1. [ ] En landsbykirke, en gård eller et rådhus
+    2. [x] En katedral, sejl på et skib eller havets bølger
+    3. [ ] Et bjerg, en skov eller en sø
+
+    ## Hvad var Jørn Utzons operahus med til at bane vejen for?
+
+    1. [ ] En ensartet og anonym byggestil
+    2. [ ] En tilbagevenden til græske templer
+    3. [x] En mere eksperimenterende, ekspressiv og legende byggestil
+
+    ## Hvilke to byggerier af Dorte Mandrup nævnes?
+
+    1. [x] Isfjordcenteret og Vadehavscentret
+    2. [ ] Aarhus Universitet og Vor Frue Kirke
+    3. [ ] Danmarks Nationalbank og Aarhus Rådhus
+
+    ## Hvad kendetegner Dorte Mandrups stil?
+
+    1. [ ] Bygningerne følger samme skabelon uanset sted
+    2. [x] Omgivelserne inspirerer og former bygningerne
+    3. [ ] Bygningerne skjules helt fra landskabet
+
+    ## Hvem står sammen med sin tegnestue BIG bag flere prestigebyggerier i Danmark og udlandet?
+
+    1. [ ] Poul Henningsen
+    2. [ ] Børge Mogensen
+    3. [x] Bjarke Ingels
+
+    ## Hvornår blev Amager Bakke, også kaldet Copenhill, indviet?
+
+    1. [x] I 2019
+    2. [ ] I 1999
+    3. [ ] I 2022
+
+    ## Hvilke to hovedfunktioner har Copenhill?
+
+    1. [ ] Universitet og kollegium
+    2. [x] Energieffektiv affaldsforbrænding og rekreativ oase
+    3. [ ] Operahus og kunstmuseum
+
+    ## Hvilke fritidsmuligheder findes ifølge teksten på Copenhill?
+
+    1. [ ] Sejlads, fiskeri og ridning
+    2. [ ] Svømmehal, boldbaner og golfbane
+    3. [x] Skibakke, vandrerute og klatrevæg

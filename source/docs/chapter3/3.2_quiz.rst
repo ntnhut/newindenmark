@@ -13,18 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvad er et centralt princip i den nordiske velfærdsmodel?
-
-    1. [x] At velfærd finansieres gennem skatter og er bredt tilgængelig
-    2. [ ] At velfærd kun gives til personer med privat forsikring
-    3. [ ] At staten ikke har ansvar for sociale ydelser
-
-    ## Hvad bidrager omfordeling gennem skatter og ydelser til?
-
-    1. [ ] Større forskelle mellem borgerne
-    2. [x] Mindre økonomisk ulighed
-    3. [ ] At kommunerne afskaffes
-
     ## Hvilke to pligter følger ifølge teksten med borgernes rettigheder i velfærdssamfundet?
 
     1. [x] At betale skat og arbejde, hvis man kan
@@ -37,17 +25,29 @@ Questions
     2. [x] Selv gøre en aktiv indsats for at komme tilbage på arbejdsmarkedet
     3. [ ] Tilbagebetale alle offentlige ydelser
 
+    ## Hvad er et kendetegn ved den nordiske velfærdsmodel?
+
+    1. [x] Staten har et stort ansvar for velfærd fra vugge til grav
+    2. [ ] Kun personer med fast arbejde har ret til hjælp
+    3. [ ] Velfærd leveres hovedsageligt af private forsikringsselskaber
+
     ## Hvad finansierer de fleste danske velfærdsydelser?
 
     1. [ ] Kun sociale bidrag fra arbejdsgivere
     2. [ ] Betaling fra den enkelte bruger
     3. [x] Skatter og afgifter betalt af befolkningen i fællesskab
 
-    ## Hvad er et kendetegn ved den nordiske velfærdsmodel?
+    ## Hvad adskiller normalt retten til ydelser i Danmark fra ordningerne i flere lande syd for Danmark?
 
-    1. [x] Staten har et stort ansvar for velfærd fra vugge til grav
-    2. [ ] Kun personer med fast arbejde har ret til hjælp
-    3. [ ] Velfærd leveres hovedsageligt af private forsikringsselskaber
+    1. [x] Retten afhænger normalt ikke af tidligere arbejde og sociale bidrag
+    2. [ ] Retten afhænger altid af en privat forsikring
+    3. [ ] Retten gælder kun lønmodtagere
+
+    ## Hvem stilles velfærden til rådighed for?
+
+    1. [ ] Kun borgere uden arbejde
+    2. [x] Alle borgere, når de opfylder betingelserne
+    3. [ ] Kun borgere, der betaler kirkeskat
 
     ## Hvilken type serviceopgaver aflaster især familien i den danske velfærdsmodel?
 
@@ -55,11 +55,29 @@ Questions
     2. [x] Børnepasning og ældrepleje
     3. [ ] Bankdrift og varehandel
 
+    ## Hvad gør børnepasning og andre familieaflastende ordninger muligt på arbejdsmarkedet?
+
+    1. [ ] At kun én forælder behøver at arbejde
+    2. [ ] At forældre kun kan arbejde på deltid
+    3. [x] At både mænd og kvinder kan deltage aktivt, også når de har børn
+
     ## Hvem tog sig historisk ofte af ældre, børn og andre, der ikke kunne klare sig selv?
 
     1. [ ] Internationale organisationer
     2. [ ] Politiske partier
     3. [x] Familien eller lokale fællesskaber
+
+    ## Hvad har velfærdsstaten gradvist overtaget fra familier og lokale fællesskaber?
+
+    1. [x] En større del af hjælpen til ældre, børn og andre, der ikke kan klare sig selv
+    2. [ ] Alt ansvar for borgernes private økonomi
+    3. [ ] Opgaven med at skaffe alle borgere arbejde
+
+    ## Efter hvilket princip kan borgerne få økonomisk og praktisk hjælp i det system, der blev opbygget?
+
+    1. [ ] Efter den enkelte kommunes skiftende vurdering uden regler
+    2. [x] Efter ensartede kriterier
+    3. [ ] Kun efter medlemskab af en privat forening
 
     ## Hvornår blev de første skridt mod det moderne danske velfærdssamfund taget?
 
@@ -67,11 +85,29 @@ Questions
     2. [ ] I 1660'erne
     3. [ ] I 1970'erne
 
+    ## Hvilke samfundsændringer ledsagede de første skridt mod velfærdssamfundet i 1890'erne?
+
+    1. [ ] Industrien forsvandt, og byerne blev mindre
+    2. [ ] Landbruget ophørte, og befolkningen flyttede ud af byerne
+    3. [x] Landbruget blev omlagt, industrien voksede frem, og byerne voksede
+
+    ## Hvilke situationer blev efterhånden dækket af fastere regler om sociale ydelser?
+
+    1. [x] Sygdom, ulykke, arbejdsløshed og alderdom
+    2. [ ] Ferie, boligkøb og rejser
+    3. [ ] Kun arbejdsløshed
+
     ## Hvad ændrede socialreformen i 1933 ved tildelingen af hjælp?
 
     1. [ ] Den overlod alle afgørelser til private organisationer
     2. [x] Den indførte klarere regler for, hvornår og hvor meget man kunne få
     3. [ ] Den gjorde al offentlig hjælp midlertidig
+
+    ## Hvad skete der med sociallovgivningen ved socialreformen i 1933?
+
+    1. [ ] Fire love blev udvidet til 55 kommunale regler
+    2. [x] 55 socialpolitiske love blev samlet i fire folkeforsikringslove
+    3. [ ] Al sociallovgivning blev afskaffet
 
     ## Hvad betød afskaffelsen af de fleste deklasseringsbestemmelser i 1933?
 
@@ -91,17 +127,47 @@ Questions
     2. [x] Folkepension
     3. [ ] Barselsdagpenge
 
+    ## Hvad var forskellen på folkepensionen fra 1956 og 1964 og den tidligere hjælp til ældre?
+
+    1. [x] Folkepensionen omfattede alle ældre og ikke kun de svageste
+    2. [ ] Folkepensionen omfattede kun ældre i arbejde
+    3. [ ] Folkepensionen blev kun udbetalt af private ordninger
+
     ## Hvordan ændrede velfærdsstatens tilbud sig i efterkrigstiden?
 
     1. [ ] Den gik fra serviceydelser til kun at tilbyde privat forsikring
     2. [ ] Den afskaffede hjælp til familier
     3. [x] Den udvidede serviceydelser som børnepasning og hjemmehjælp
 
+    ## Hvilket princip supplerede i stigende grad hjælpen til den nødstedte borger?
+
+    1. [ ] At kun de rigeste kunne bruge serviceydelserne
+    2. [x] At hele befolkningen, rig som fattig, kunne nyde godt af ydelserne
+    3. [ ] At familier igen alene skulle stå for plejeopgaverne
+
     ## Hvilken udvikling gjorde offentlig børnepasning og ældrepleje særlig vigtig?
 
     1. [x] Flere kvinder kom ud på arbejdsmarkedet
     2. [ ] Færre familier boede i Danmark
     3. [ ] Arbejdsugen blev længere end 60 timer
+
+    ## Hvornår fandt den store udbygning af serviceydelserne især sted?
+
+    1. [ ] Fra 1890'erne til 1910'erne
+    2. [ ] Fra 1980 til omkring 2000
+    3. [x] Fra midten af 1960'erne til slutningen af 1970'erne
+
+    ## Hvordan ændrede gifte kvinders arbejdstid sig især fra 1980 til omkring 2000?
+
+    1. [x] Flertallet gik fra deltid til fuld tid eller næsten fuld tid
+    2. [ ] Flertallet forlod arbejdsmarkedet
+    3. [ ] Flertallet gik fra fuld tid til deltid
+
+    ## Hvor mange børn modtager ifølge teksten pasning i de yngre aldersgrupper?
+
+    1. [ ] Kun et mindretal af børn mellem 1 og 10 år
+    2. [x] Næsten alle 1-6-årige og de fleste 7-10-årige
+    3. [ ] Alle børn til og med 15 år
 
     ## Hvor længe har barsels- og forældreorloven med fulde dagpenge været gældende siden 2002?
 
@@ -115,17 +181,47 @@ Questions
     2. [x] Kraftig økonomisk vækst
     3. [ ] En periode uden vækst i den offentlige sektor
 
+    ## Hvad skete der med væksten i de offentlige udgifter fra 1980'erne?
+
+    1. [ ] Den steg hurtigere end nogensinde
+    2. [x] Den blev begrænset, så den omtrent fulgte den generelle økonomiske vækst
+    3. [ ] De offentlige udgifter blev halveret
+
     ## Hvorfor er den stigende forsørgerbyrde en udfordring for velfærdsstaten?
 
     1. [ ] Der bliver færre ældre, men flere unge
     2. [ ] Flere borgere forlader velfærdsordningerne
     3. [x] Der bliver færre til at betale for velfærden, mens flere skal bruge den
 
+    ## Hvad er de vigtigste årsager til det stigende demografiske pres?
+
+    1. [x] Stigende middellevetid og mange årtiers lave fødselstal
+    2. [ ] Faldende levealder og høje fødselstal
+    3. [ ] Flere børn i daginstitutioner og længere barsel
+
+    ## Hvordan ændrede andelen af borgere over 64 år sig fra 1980 til 2025?
+
+    1. [ ] Den faldt fra 21 til 14 procent
+    2. [ ] Den var uændret på 14 procent
+    3. [x] Den steg fra 14 til 21 procent
+
+    ## Hvilken hovedløsning nævnes på det demografiske pres?
+
+    1. [ ] At forkorte den erhvervsaktive alder
+    2. [x] At udvide den erhvervsaktive alder
+    3. [ ] At afskaffe folkepensionen
+
     ## Hvordan ændres folkepensionsalderen ifølge reglerne beskrevet i teksten?
 
     1. [x] Den hæves gradvist, fordi danskerne lever længere
     2. [ ] Den sænkes hvert år
     3. [ ] Den fastsættes af den enkelte kommune
+
+    ## Hvilke folkepensionsaldre angiver teksten for 2022, 2030 og 2035?
+
+    1. [ ] 65, 66 og 67 år
+    2. [x] 67, 68 og 69 år
+    3. [ ] 68, 69 og 70 år
 
     ## Hvad var efterlønnen, da den blev indført i 1979?
 
@@ -139,11 +235,41 @@ Questions
     2. [ ] Alle, der fylder 60 år
     3. [x] Personer med en lang tilknytning til arbejdsmarkedet
 
+    ## Hvilke konkrete krav beskrives for tidlig pension fra 2022?
+
+    1. [x] Som 61-årig at have været 42-44 år på arbejdsmarkedet
+    2. [ ] Som 60-årig at have været 20 år på arbejdsmarkedet
+    3. [ ] At have modtaget dagpenge i mindst syv år
+
+    ## Hvor meget tidligere kan personer, der opfylder kravene, gå på tidlig pension?
+
+    1. [ ] Præcis fem år tidligere
+    2. [x] Ét til tre år før folkepensionsalderen
+    3. [ ] Højst seks måneder tidligere
+
+    ## Hvorfor kaldes tidlig pension også Arne-pensionen?
+
+    1. [ ] Ordningen blev foreslået af en minister ved navn Arne
+    2. [ ] Den gælder kun bryggeriarbejdere
+    3. [x] Bryggeriarbejderen Arne Juhl blev ansigtet på valgkampen for ordningen
+
+    ## Hvordan var efterlønsordningen indrettet fra 2023 ifølge teksten?
+
+    1. [x] Man kunne få efterløn fra 64 til 67 år
+    2. [ ] Man kunne få efterløn fra 60 til 67 år
+    3. [ ] Man kunne få efterløn fra 62 til 69 år
+
     ## Hvordan er dagpengeperioden blevet ændret siden 1993?
 
     1. [x] Den er gradvist blevet afkortet og har været to år siden 2010
     2. [ ] Den er blevet forlænget fra to til syv år
     3. [ ] Den er blevet afskaffet for alle arbejdsløse
+
+    ## Hvilket krav til ledige er blevet større samtidig med den kortere dagpengeperiode?
+
+    1. [ ] At de kun søger arbejde inden for deres uddannelse
+    2. [x] At de tager andet arbejde end det, de er uddannet til
+    3. [ ] At de flytter til udlandet for at arbejde
 
     ## Hvad er et beskæftigelsesfradrag?
 
@@ -157,11 +283,77 @@ Questions
     2. [ ] En ordning, hvor man automatisk får førtidspension
     3. [x] Man arbejder efter sin evne og får offentlig støtte for resten
 
+    ## Hvem er fleksjob blandt andet tænkt som en mulighed for?
+
+    1. [x] Personer med varigt og væsentligt nedsat arbejdsevne
+    2. [ ] Alle personer over 60 år
+    3. [ ] Personer, der ønsker kortere barsel
+
     ## Hvilken gruppe havde ifølge teksten en lavere beskæftigelsesandel i 2023 end personer med dansk oprindelse?
 
     1. [x] Indvandrere med ikke-vestlig baggrund
     2. [ ] Alle personer over 65 år
     3. [ ] Personer, der arbejder i landbruget
+
+    ## Hvilke beskæftigelsesandele angiver teksten for 25-64-årige i 2023?
+
+    1. [ ] 83 procent for ikke-vestlige indvandrere og 67 procent for personer med dansk oprindelse
+    2. [x] 67 procent for ikke-vestlige indvandrere og 83 procent for personer med dansk oprindelse
+    3. [ ] 50 procent for begge grupper
+
+    ## Hvad bidrager høj beskæftigelse i Danmark til?
+
+    1. [ ] Lavere velstand og en mindre offentlig sektor
+    2. [ ] At velfærden kan finansieres uden skatter
+    3. [x] Høj velstand og finansiering af en udbygget offentlig sektor
+
+    ## Hvordan foregår den økonomiske omfordeling i velfærdssamfundet?
+
+    1. [x] Gennem skatter og gennem ydelser til alle, især personer uden arbejde
+    2. [ ] Kun gennem private forsikringer
+    3. [ ] Kun gennem kommunernes serviceydelser
+
+    ## Hvorfor faldt uligheden betydeligt fra 1945 til 1980?
+
+    1. [ ] Boligpriserne i København faldt hurtigt
+    2. [x] Velfærdssamfundet blev udbygget, lønnen steg, og ledigheden var længe lav
+    3. [ ] Indkomstskatten blev afskaffet
+
+    ## Hvilke forhold har blandt andet øget uligheden siden 1980'erne?
+
+    1. [ ] Mindre lønforskelle og faldende boligpriser
+    2. [ ] Mere omfordeling gennem skattesystemet
+    3. [x] Mindre skatteomfordeling, større lønforskelle og stigende boligværdier i København
+
+    ## Hvordan er Danmarks økonomiske lighed sammenlignet med andre landes?
+
+    1. [ ] Danmark har meget lav økonomisk lighed
+    2. [x] Danmark har fortsat forholdsvis stor økonomisk lighed
+    3. [ ] Teksten siger, at alle lande har samme grad af lighed
+
+    ## Hvilke indtægter finansierer blandt andet velfærdssamfundet?
+
+    1. [x] Indkomstskat, moms og afgifter på varer og tjenester
+    2. [ ] Kun indkomstskat
+    3. [ ] Kun betaling for offentlige serviceydelser
+
+    ## Hvem har ret til at udskrive indkomstskat?
+
+    1. [ ] Kun staten
+    2. [ ] Kun kommunerne
+    3. [x] Både staten og kommunerne
+
+    ## Hvornår blev indkomstskatten indført som permanent skat?
+
+    1. [ ] I 1890
+    2. [x] I 1903
+    3. [ ] I 1933
+
+    ## Hvilke indkomster er som udgangspunkt skattepligtige?
+
+    1. [x] Næsten alle indkomster, uanset hvor de kommer fra
+    2. [ ] Kun løn fra privat arbejde
+    3. [ ] Kun indkomster over én million kroner
 
     ## Hvad betyder progressiv indkomstskat?
 
@@ -181,6 +373,48 @@ Questions
     2. [x] Den del af indkomsten, man ikke betaler indkomstskat af
     3. [ ] Et beløb, som kommunerne udbetaler til virksomheder
 
+    ## Hvor stort er bundfradraget i tekstens eksempel for 2026?
+
+    1. [ ] 12.000 kroner
+    2. [x] 54.100 kroner
+    3. [ ] 618.400 kroner
+
+    ## Hvilke almindelige skattesatser angiver teksten for indkomst over 51.600 kroner?
+
+    1. [x] 12 procent til staten og cirka 25 procent til kommunen
+    2. [ ] 25 procent til staten og 12 procent til kommunen
+    3. [ ] 7,5 procent til staten og ingen kommuneskat
+
+    ## Hvad betaler medlemmer af folkekirken typisk i kirkeskat ifølge teksten?
+
+    1. [ ] Omkring 10 procent
+    2. [ ] Præcis 7,5 procent
+    3. [x] Omkring 1 procent
+
+    ## Hvilke tre skatter på de højeste indkomster nævnes?
+
+    1. [ ] Kommuneskat, kirkeskat og moms
+    2. [x] Mellemskat, topskat og toptopskat
+    3. [ ] Bundskat, boligskat og arveskat
+
+    ## Hvilke satser angiver teksten for mellemskat, topskat og toptopskat?
+
+    1. [x] 7,5 procent, 15 procent og 20 procent
+    2. [ ] 12 procent, 25 procent og 30 procent
+    3. [ ] 5 procent, 10 procent og 15 procent
+
+    ## Ved hvilke årlige indkomster begynder de tre skatter ifølge teksten?
+
+    1. [ ] 54.100 kroner, 618.400 kroner og 750.000 kroner
+    2. [x] 618.400 kroner, 750.000 kroner og 2,5 millioner kroner
+    3. [ ] 750.000 kroner, 1 million kroner og 2 millioner kroner
+
+    ## Hvilke to slags velfærdsopgaver udfører den offentlige sektor?
+
+    1. [x] Kontante ydelser og offentlige serviceydelser
+    2. [ ] Kun økonomisk hjælp og skatteopkrævning
+    3. [ ] Private pensioner og frivilligt arbejde
+
     ## Hvilken andel af de offentlige udgifter går omtrent til kontante ydelser ifølge teksten?
 
     1. [ ] En tiendedel
@@ -199,6 +433,12 @@ Questions
     2. [x] Behandling på et sygehus
     3. [ ] Arbejdsløshedsdagpenge
 
+    ## Hvem fastlægger gennem lovgivning rammerne for velfærdssamfundet?
+
+    1. [ ] Kommunerne og regionerne alene
+    2. [ ] Private virksomheder
+    3. [x] Folketinget og regeringen
+
     ## Hvem leverer de fleste velfærdsydelser i praksis?
 
     1. [ ] EU's institutioner
@@ -211,11 +451,53 @@ Questions
     2. [ ] At drive alle folkeskoler
     3. [ ] At opkræve alle kommunale skatter
 
+    ## Hvorfor kaldes kommunerne borgernes hovedindgang til den offentlige sektor?
+
+    1. [x] De har flest af de opgaver, der er tæt på den enkelte borger
+    2. [ ] De vedtager alle landets love
+    3. [ ] De driver politi, forsvar og universiteter
+
+    ## Hvilken opgave hører ifølge teksten til kommunerne?
+
+    1. [ ] Forsvar og retsvæsen
+    2. [x] Børnepasning, folkeskole og ældrepleje
+    3. [ ] Universiteter og forskning
+
+    ## Hvilken anden gruppe opgaver hører til kommunerne?
+
+    1. [ ] Politi, domstole og militær
+    2. [ ] Gymnasier og videregående uddannelser
+    3. [x] Jobcentre, integration, sociale ydelser og affaldsindsamling
+
+    ## Hvilke overordnede opgaver løser staten blandt andet?
+
+    1. [x] Politi, retsvæsen og forsvar
+    2. [ ] Vuggestuer, børnehaver og hjemmehjælp
+    3. [ ] Kommunal affaldsindsamling
+
+    ## Hvilke uddannelses- og vidensopgaver hører ifølge teksten til staten?
+
+    1. [ ] Folkeskoler og kommunale biblioteker
+    2. [x] Ungdomsuddannelser, videregående uddannelser og forskning
+    3. [ ] Kun private friskoler
+
+    ## Hvilken opgave overtog staten fra kommunerne ved strukturreformen i 2007?
+
+    1. [ ] Driften af alle folkeskoler
+    2. [ ] Ansvaret for al ældrepleje
+    3. [x] Al skatteopkrævning
+
     ## Hvad betyder udlicitering af en velfærdsopgave?
 
     1. [ ] Det offentlige stopper med at betale for opgaven
     2. [x] En privat virksomhed udfører en opgave, som det offentlige fortsat betaler for
     3. [ ] Opgaven overtages af en anden kommune
+
+    ## Hvilket eksempel på frit valg mellem offentlig og privat leverandør nævnes?
+
+    1. [x] Hjemmehjælp fra kommunen eller en privat leverandør
+    2. [ ] Politi fra staten eller en privat leverandør
+    3. [ ] Folkepension fra kommunen eller en bank
 
     ## Hvilken rolle spiller frivillige organisationer typisk i velfærdssamfundet?
 
@@ -223,14 +505,80 @@ Questions
     2. [ ] De bestemmer, hvem der kan modtage folkepension
     3. [x] De supplerer den offentlige service med frivillig indsats
 
+    ## Hvilke tilbud driver frivillige organisationer blandt andet?
+
+    1. [ ] Politi, domstole og fængsler
+    2. [x] Krisecentre, besøgsordninger og væresteder
+    3. [ ] Gymnasier og universiteter
+
+    ## På hvilket fritidsområde spiller frivillige en særlig stor rolle?
+
+    1. [ ] Bankvæsen
+    2. [ ] Skatteopkrævning
+    3. [x] Sport, blandt andet som trænere for børn
+
     ## Hvordan finansieres friskoler typisk?
 
     1. [x] De får et stort offentligt tilskud, og forældrene betaler en mindre del
     2. [ ] De finansieres udelukkende af staten uden forældrebetaling
     3. [ ] De drives af kommunerne som en del af folkeskolesystemet
 
+    ## Hvem ejer en friskole?
+
+    1. [ ] Kommunen
+    2. [x] En forening bag skolen
+    3. [ ] Staten
+
+    ## Hvad bygger driften af de fleste friskoler på?
+
+    1. [x] En bestemt pædagogisk idé eller ønsket om en lokal skole
+    2. [ ] Et krav om samme undervisningsform som alle kommunale skoler
+    3. [ ] Et ønske om helt at undgå offentlig støtte
+
+    ## Hvordan ændrede andelen af børn i friskoler eller private skoler sig fra 2007 til 2023?
+
+    1. [ ] Den faldt fra 19 til 12 procent
+    2. [ ] Den var uændret på 12 procent
+    3. [x] Den steg fra cirka 12 til 19 procent
+
+    ## Hvordan inddrages forældre blandt andet i skoler og daginstitutioner?
+
+    1. [ ] De overtager den daglige undervisning
+    2. [x] Gennem forældrevalgte bestyrelser, møder, aktiviteter og kontaktforældre
+    3. [ ] Kun gennem betaling af skolepenge
+
     ## Hvad er arbejdsmarkedspensionen et supplement til?
 
     1. [ ] Dagpenge ved arbejdsløshed
     2. [x] Folkepensionen
     3. [ ] Kontanthjælp
+
+    ## Hvem aftaler typisk arbejdsmarkedspensionerne?
+
+    1. [x] Fagforeninger og arbejdsgiverorganisationer gennem overenskomster
+    2. [ ] Kommunerne og regionerne
+    3. [ ] Banker og frivillige foreninger
+
+    ## Hvor stor en del af lønnen indbetales typisk til arbejdsmarkedspension?
+
+    1. [ ] 1-3 procent
+    2. [ ] 5-8 procent
+    3. [x] 12-17 procent
+
+    ## Hvad er forskellen på folkepension og arbejdsmarkedspension ifølge teksten?
+
+    1. [ ] Begge afhænger kun af privat opsparing
+    2. [x] Folkepension sikrer basale behov, mens arbejdsmarkedspension afhænger af arbejdsindkomst
+    3. [ ] Folkepension afhænger af lønnen, mens arbejdsmarkedspension er ens for alle
+
+    ## Hvad dækker arbejdsmarkedets pensionsordninger typisk ud over alderdomspension?
+
+    1. [x] Støtte ved kritisk sygdom og sikring ved sygdom og død
+    2. [ ] Arbejdsløshedsdagpenge og kontanthjælp
+    3. [ ] Gratis børnepasning og ældrepleje
+
+    ## Hvor kan den enkelte desuden spare privat op til pension?
+
+    1. [ ] Kun hos kommunen
+    2. [ ] Kun gennem en fagforening
+    3. [x] I en bank eller et forsikringsselskab

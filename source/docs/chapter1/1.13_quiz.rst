@@ -319,17 +319,77 @@ Questions
     2. [ ] Antallet af personer med dansk indfødsret
     3. [ ] Værdien af landets valuta alene
 
+    ## Hvad skete der med arbejdsløsheden og statsbudgettet efter finanskrisen?
+
+    1. [ ] Arbejdsløsheden faldt straks, og overskuddet voksede
+    2. [x] Arbejdsløsheden steg i nogle år, og budgetoverskuddet blev til underskud
+    3. [ ] Begge dele var uændrede
+
+    ## Hvordan klarede Danmark sig med statsgæld og underskud sammenlignet med de fleste andre EU-lande?
+
+    1. [x] Danmark blev ikke ramt af lige så store problemer
+    2. [ ] Danmark blev ramt langt hårdere end alle andre
+    3. [ ] Danmark havde præcis samme udvikling
+
+    ## Hvordan har Danmarks økonomiske forhold til udlandet udviklet sig?
+
+    1. [ ] Udlandsgælden er vokset, og handelsbalancen har konstant underskud
+    2. [ ] Udlandet og Danmark skylder altid hinanden det samme
+    3. [x] Udlandsgælden er vendt til et tilgodehavende, og handelsoverskuddet har sat rekorder
+
     ## Hvilken udvikling har præget dansk økonomi siden midten af 2010'erne ifølge teksten?
 
     1. [ ] Lavere vækst og stigende arbejdsløshed hvert år
     2. [ ] Vedvarende underskud på statsbudgettet
     3. [x] Højere vækst, offentligt overskud og lavere arbejdsløshed
 
+    ## Hvilke tal angiver teksten for statsoverskuddet i 2024 og arbejdsløsheden i april 2026?
+
+    1. [x] 133 milliarder kroner og 3,1 procent
+    2. [ ] 382 milliarder kroner og 6,0 procent
+    3. [ ] 5 milliarder kroner og 15 procent
+
+    ## Hvem afløste Anders Fogh Rasmussen som statsminister i 2009?
+
+    1. [ ] Helle Thorning-Schmidt
+    2. [x] Lars Løkke Rasmussen
+    3. [ ] Mette Frederiksen
+
+    ## Hvem blev Danmarks første kvindelige statsminister, og hvornår sad hun?
+
+    1. [ ] Mette Frederiksen, 2009-11
+    2. [ ] Inger Støjberg, 2015-19
+    3. [x] Helle Thorning-Schmidt, 2011-15
+
+    ## Hvilket fælles mål har mange velfærdsreformer haft?
+
+    1. [x] At flytte flere fra overførselsindkomst til arbejdsmarkedet
+    2. [ ] At få flere til at forlade arbejdsmarkedet
+    3. [ ] At afskaffe alle offentlige ydelser
+
     ## Hvad er en langsigtet udfordring for velfærdsstaten?
 
-    1. [x] At flere skal betale for velfærd, mens færre er i den arbejdsdygtige alder
+    1. [x] At færre skal betale for velfærd, mens flere skal nyde godt af den
     2. [ ] At befolkningen bliver yngre, og der fødes flere børn
     3. [ ] At der ikke længere er behov for sundhedsvæsen og ældreomsorg
+
+    ## Hvilke udviklinger skaber denne udfordring for velfærdsstaten?
+
+    1. [ ] Faldende levealder, flere fødsler og lavere forventninger
+    2. [x] Længere levetid, lavere fødselstal og højere forventninger til pleje og sundhed
+    3. [ ] Kortere uddannelse og tidligere start på arbejdslivet
+
+    ## Hvorfor bliver arbejdsstyrken presset fra flere sider?
+
+    1. [x] Der bliver flere ældre, færre i arbejdsalderen, og arbejdslivet starter senere
+    2. [ ] Der bliver færre ældre og flere unge i arbejde
+    3. [ ] Alle ledige er forsvundet fra arbejdsmarkedet
+
+    ## Hvad betyder det at øge arbejdsudbuddet?
+
+    1. [ ] At få færre til at arbejde
+    2. [ ] At sænke alle lønninger
+    3. [x] At få flere til at arbejde, tjene penge og betale skat
 
     ## Hvor længe har dagpengeperioden været siden reformen i 2010 ifølge teksten?
 
@@ -343,11 +403,23 @@ Questions
     2. [ ] At alle skulle gå tidligere på pension
     3. [ ] At afskaffe arbejdsløshedskasser
 
-    ## Hvad var et hovedformål med restriktionerne under Covid-19-pandemien?
+    ## Hvilke andre reformmål fra 2012-13 nævnes?
 
-    1. [ ] At lukke permanent alle danske sygehuse
-    2. [ ] At få alle borgere til at rejse mere
-    3. [x] At undgå, at mange blev smittet samtidig og overbelastede sygehusene
+    1. [ ] Flere på førtidspension og kontanthjælp
+    2. [x] Færre på førtidspension og kontanthjælp
+    3. [ ] Kortere arbejdsliv for alle
+
+    ## Hvordan skulle skatte- og studiereformer bidrage til mere arbejdskraft?
+
+    1. [x] Lavere skat på arbejde og tilskyndelse til tidligere og hurtigere studier
+    2. [ ] Højere skat på arbejde og længere studier
+    3. [ ] Afskaffelse af alle uddannelser
+
+    ## Hvor og hvornår blev coronavirusset først opdaget?
+
+    1. [x] I Kina i 2019
+    2. [ ] I Danmark i 2020
+    3. [ ] I USA i 2021
 
     ## Hvornår blev det første Covid-19-tilfælde registreret i Danmark?
 
@@ -355,11 +427,53 @@ Questions
     2. [x] Februar 2020
     3. [ ] December 2020
 
+    ## Hvad var et hovedformål med restriktionerne under Covid-19-pandemien?
+
+    1. [ ] At lukke permanent alle danske sygehuse
+    2. [ ] At få alle borgere til at rejse mere
+    3. [x] At undgå, at mange blev smittet samtidig og overbelastede sygehusene
+
+    ## Hvilke tiltag prægede hverdagen under pandemien?
+
+    1. [ ] Fri rejse, åbne skoler og fulde stadioner
+    2. [x] Mundbind, rejsebegrænsninger, hjemsendelse og periodiske lukninger
+    3. [ ] Kun lukning af offentlige kontorer
+
+    ## Hvad var formålet med den omfattende testning?
+
+    1. [x] At finde smittede, som skulle blive hjemme og undgå videre smitte
+    2. [ ] At erstatte alle vaccinationer
+    3. [ ] At afgøre, hvem der måtte gå i skole permanent
+
+    ## Hvordan udviklede coronavirusset og smittebølgerne sig ifølge teksten?
+
+    1. [ ] Virusset ændrede sig ikke, og der var én bølge
+    2. [ ] Virusset blev mindre smitsomt efter hver ændring
+    3. [x] Virusset muterede til mere smitsomme varianter, og Danmark blev ramt af tre store bølger
+
     ## Hvilket middel blev udviklet og brugt til at forebygge alvorlig Covid-19-sygdom?
 
     1. [ ] Antibiotika mod alle virus
     2. [ ] En ny type antibiotika
     3. [x] Vacciner mod coronavirus
+
+    ## Hvornår blev den første dansker vaccineret mod coronavirus?
+
+    1. [ ] Februar 2020
+    2. [x] December 2020
+    3. [ ] December 2022
+
+    ## Hvor stor en del af Danmarks befolkning blev vaccineret med to eller tre stik?
+
+    1. [x] Cirka 90 procent
+    2. [ ] Cirka 25 procent
+    3. [ ] Cirka 50 procent
+
+    ## Hvor mange registrerede døde med coronavirus nævner teksten globalt og i Danmark?
+
+    1. [ ] Cirka 100.000 globalt og 100 i Danmark
+    2. [ ] Cirka 90 millioner globalt og 1 million i Danmark
+    3. [x] Næsten syv millioner globalt og næsten 10.000 i Danmark
 
     ## Hvilket nyt parti blev først valgt til Folketinget i 2011?
 
@@ -367,17 +481,41 @@ Questions
     2. [ ] Alternativet
     3. [ ] Moderaterne
 
+    ## Hvilken politik forbindes Liberal Alliance med i teksten?
+
+    1. [x] Skattelettelser, større arbejdsincitament, lavere offentlige udgifter og mere marked
+    2. [ ] Højere offentlige udgifter og mindre privat økonomi
+    3. [ ] Fokus alene på landdistrikter
+
     ## Hvilket område har Alternativet især ønsket at sætte fokus på?
 
     1. [ ] Lavere prioritering af miljø og natur
     2. [x] Klima, natur og miljø
     3. [ ] Udvidelse af Danmarks kolonier
 
+    ## Hvornår blev Alternativet første gang valgt til Folketinget?
+
+    1. [ ] I 2011
+    2. [x] I 2015
+    3. [ ] I 2022
+
     ## Hvem stiftede Danmarksdemokraterne?
 
     1. [ ] Lars Løkke Rasmussen
     2. [ ] Pia Kjærsgaard
     3. [x] Inger Støjberg
+
+    ## Hvilke emner lægger Danmarksdemokraterne vægt på?
+
+    1. [ ] Mere indvandring og færre tilbud uden for byerne
+    2. [ ] Kun samarbejde om EU
+    3. [x] Kritik af indvandring og bedre muligheder i tyndt befolkede områder
+
+    ## Hvem stiftede Moderaterne?
+
+    1. [x] Lars Løkke Rasmussen
+    2. [ ] Inger Støjberg
+    3. [ ] Mette Frederiksen
 
     ## Hvordan beskriver Moderaterne sin placering i dansk politik?
 
@@ -391,8 +529,38 @@ Questions
     2. [ ] Staten bør overtage alle private hjem
     3. [ ] Borgerne bør have mindre indflydelse på deres eget liv
 
+    ## Hvordan var regeringen efter folketingsvalget i 2019 sammensat?
+
+    1. [x] En socialdemokratisk mindretalsregering med Radikale Venstre, SF og Enhedslisten som støttepartier
+    2. [ ] En flertalsregering af Venstre og Konservative
+    3. [ ] En regering af Socialdemokratiet, Venstre og Moderaterne
+
     ## Hvilke tre partier indgik i regeringen efter folketingsvalget i 2022?
 
     1. [ ] Socialdemokratiet, SF og Enhedslisten
     2. [ ] Venstre, Dansk Folkeparti og Liberal Alliance
     3. [x] Socialdemokratiet, Venstre og Moderaterne
+
+    ## Hvilken tendens viste folketingsvalget i 2026 for de fem ældste partier?
+
+    1. [ ] Deres samlede stemmeandel steg til 81 procent
+    2. [x] Deres samlede andel faldt til 57 procent, mens 43 procent stemte på de syv yngste partier
+    3. [ ] De fik alle Folketingets mandater
+
+    ## Hvilke partier dannede regering efter valget i 2026?
+
+    1. [ ] Socialdemokratiet, Venstre og Moderaterne
+    2. [ ] Venstre, Liberal Alliance og Konservative
+    3. [x] Socialdemokratiet, SF, Moderaterne og Radikale Venstre
+
+    ## Hvor mange partier blev valgt til Folketinget i Danmark i 2026, ud over de nordatlantiske medlemmer?
+
+    1. [x] 12 partier
+    2. [ ] 7 partier
+    3. [ ] 16 partier
+
+    ## Hvor mange medlemmer vælges tilsammen i Grønland og på Færøerne?
+
+    1. [ ] To
+    2. [x] Fire
+    3. [ ] Otte

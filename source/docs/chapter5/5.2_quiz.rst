@@ -13,194 +13,506 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilket sprog blev ofte brugt i middelalderens skriftlige værker?
+    ## Hvilket sprog og skriftsystem blev brugt i den ældste danske litteratur?
 
-    1. [ ] Engelsk
-    2. [ ] Svensk
-    3. [x] Latin
+    1. [x] Oldnordisk skrevet med runer
+    2. [ ] Latin skrevet med græske bogstaver
+    3. [ ] Dansk skrevet med kyrilliske bogstaver
 
-    ## Hvem skrev *Gesta Danorum*, et vigtigt tidligt værk om Danmarks historie?
-
-    1. [x] Saxo
-    2. [ ] Ludvig Holberg
-    3. [ ] N.F.S. Grundtvig
-
-    ## Hvilket skriftsystem blev brugt i den ældste danske litteratur?
-
-    1. [ ] Det kyrilliske alfabet
-    2. [x] Runer
-    3. [ ] Det arabiske alfabet
-
-    ## Hvad betyder ordet "runer" ifølge teksten?
+    ## Hvad betyder ordet ”runer” ifølge teksten?
 
     1. [ ] Konger
-    2. [ ] Sange
-    3. [x] Hemmeligheder
+    2. [x] Hemmeligheder
+    3. [ ] Sange
+
+    ## Hvilken kraft blev runerne ofte tillagt?
+
+    1. [ ] Politisk magt
+    2. [ ] Militær styrke
+    3. [x] Magisk kraft
 
     ## Hvor findes den mest kendte danske runeindskrift?
 
-    1. [ ] På en sten ved Roskilde Domkirke
-    2. [x] På Harald Blåtands Jellingsten
-    3. [ ] På en mur i Kronborg
+    1. [x] På Harald Blåtands Jellingsten
+    2. [ ] På muren i Kronborg
+    3. [ ] I Roskilde Domkirke
 
     ## Hvad fortæller Harald Blåtand på Jellingstenen?
 
-    1. [x] At han vandt Danmark og Norge og gjorde danerne kristne
-    2. [ ] At han grundlagde universitetet i København
-    3. [ ] At han rejste til Rom for at skrive en bog
+    1. [ ] At han grundlagde København
+    2. [x] At han vandt Danmark og Norge og gjorde danerne kristne
+    3. [ ] At han skrev den første danske lov
+
+    ## Hvor længe blev runeskriften brugt i dele af Norden?
+
+    1. [ ] Kun indtil Jellingstenen blev rejst
+    2. [ ] Kun før vikingetiden
+    3. [x] Også længe efter at latinske bogstaver blev indført
 
     ## Hvilket sprog blev en stor del af middelalderens litteratur skrevet på?
 
-    1. [ ] Oldengelsk
-    2. [ ] Fransk
-    3. [x] Latin
+    1. [ ] Fransk
+    2. [x] Latin
+    3. [ ] Engelsk
 
-    ## Hvad var et vigtigt formål med Saxos Gesta Danorum?
+    ## Hvem skrev Gesta Danorum?
 
-    1. [ ] At beskrive livet på en dansk kaffefarm
-    2. [x] At fremstille Danmark som et selvstændigt land
-    3. [ ] At forklare reglerne for høflig bordskik
+    1. [x] Saxo
+    2. [ ] Ludvig Holberg
+    3. [ ] Henrik Pontoppidan
 
-    ## Hvem var Valdemar den Store?
+    ## Hvornår blev Gesta Danorum skrevet?
 
-    1. [ ] En dansk digter fra 1800-tallet
-    2. [x] Danmarks konge på Saxos tid
-    3. [ ] En svensk teaterinstruktør
+    1. [ ] I begyndelsen af 900-tallet
+    2. [x] I begyndelsen af 1200-tallet
+    3. [ ] I slutningen af 1800-tallet
+
+    ## Hvad skulle Gesta Danorum blandt andet vise?
+
+    1. [ ] At Danmark skulle være underlagt Tyskland
+    2. [ ] At Valdemar den Store ikke var retmæssig konge
+    3. [x] At Danmark var selvstændigt, og Valdemar den Store var landets retmæssige hersker
+
+    ## Hvordan fortæller Saxo om dansk historie?
+
+    1. [x] Med drama, fantasi og humor
+    2. [ ] Kun med tørre lovtekster
+    3. [ ] Som en samling bordskiksregler
 
     ## Hvem skrev Jammers Minde?
 
     1. [ ] Emma Gad
-    2. [ ] Karen Blixen
-    3. [x] Leonora Christina
+    2. [x] Leonora Christina
+    3. [ ] Karen Blixen
 
-    ## Hvad handler Jammers Minde især om?
+    ## Hvad skildrer Jammers Minde?
 
-    1. [x] Leonora Christinas fængselsophold
-    2. [ ] En bondes rejse til København
-    3. [ ] En gruppe unge menneskers skoleliv
+    1. [ ] Livet på en kaffefarm
+    2. [ ] En landsbydegns ulykkelige kærlighed
+    3. [x] Leonora Christinas lange fængselsophold og anklagerne om landsforræderi
 
-    ## Hvilke idealer ville Ludvig Holberg fremme?
+    ## Hvilke personlige emner beskriver Leonora Christina?
 
-    1. [ ] Militær disciplin og kongelig censur
-    2. [x] Oplysning, tolerance og kritisk tænkning
-    3. [ ] Rigdom, berømmelse og adelige privilegier
+    1. [x] Kampen for at finde mening og hendes iagttagelser af omgivelserne
+    2. [ ] Drømmen om at blive herremand
+    3. [ ] Industrialiseringen af Danmark
 
-    ## Hvad sker der med Jeppe i komedien Jeppe på Bjerget?
+    ## Hvem var oplysningstidens mest fremtrædende dansk-norske forfatter?
 
-    1. [ ] Han bliver udnævnt til konge af Danmark
-    2. [ ] Han rejser til Afrika for at drive en farm
-    3. [x] Han bliver bildt ind, at han er herremand
+    1. [ ] H.C. Andersen
+    2. [x] Ludvig Holberg
+    3. [ ] Johannes V. Jensen
 
-    ## Hvilken dansk by blev H.C. Andersen født i?
+    ## Hvilke idealer ville Holberg fremme?
 
-    1. [ ] Aarhus
+    1. [x] Oplysning, tolerance og kritisk tænkning
+    2. [ ] Censur, enevælde og militær disciplin
+    3. [ ] Nationalromantik og oldtidsfund
+
+    ## Hvilken genre skrev Holberg blandt andet?
+
+    1. [ ] Kriminalromaner
+    2. [ ] Autofiktion
+    3. [x] Satiriske komedier
+
+    ## Hvad bliver Jeppe bildt ind i Jeppe på Bjerget?
+
+    1. [ ] At han er konge
+    2. [x] At han er herremand
+    3. [ ] At han er forfatter
+
+    ## Hvordan fremstilles Jeppe, da han tror, han er herremand?
+
+    1. [x] Han bliver lige så tyrannisk som de sædvanlige magthavere
+    2. [ ] Han bliver en retfærdig og mild leder
+    3. [ ] Han nægter at bruge sin nye magt
+
+    ## Hvor blev H.C. Andersen født?
+
+    1. [ ] København
     2. [x] Odense
-    3. [ ] Ribe
+    3. [ ] Aarhus
 
-    ## Hvad kendetegner H.C. Andersens eventyr ifølge teksten?
+    ## Hvilken genre gjorde især H.C. Andersen verdensberømt?
 
-    1. [ ] De er kun skrevet for voksne med interesse for politik
-    2. [x] De rummer både fantasi og emner, der også er vigtige for voksne
-    3. [ ] De handler udelukkende om danske konger
+    1. [x] Eventyr
+    2. [ ] Historiske romaner
+    3. [ ] Politiske kampskrifter
 
-    ## Hvilket værk af Adam Oehlenschläger er Danmarks ene nationalsang?
+    ## Til hvor mange sprog er H.C. Andersens eventyr oversat?
 
-    1. [ ] "Guldhornene"
-    2. [ ] "Kong Christian stod ved højen mast"
-    3. [x] "Der er et yndigt land"
+    1. [ ] Cirka 25
+    2. [ ] Cirka 75
+    3. [x] Over 125
+
+    ## Hvilket af disse værker er et H.C. Andersen-eventyr?
+
+    1. [ ] Lykke-Per
+    2. [x] Den grimme ælling
+    3. [ ] Kongens Fald
+
+    ## Hvilken Disney-film er inspireret af H.C. Andersen?
+
+    1. [x] Den lille havfrue
+    2. [ ] Snehvide
+    3. [ ] Løvernes konge
+
+    ## Hvad kendetegner H.C. Andersens eventyr?
+
+    1. [ ] De henvender sig kun til små børn
+    2. [x] De kombinerer børnenes fantasi med voksne emner som fattigdom og dobbeltmoral
+    3. [ ] De handler kun om danske konger
 
     ## Hvad ville nationalromantikken fremhæve?
 
     1. [x] Det særligt danske i kultur, natur og historie
-    2. [ ] Det moderne storbyliv i andre lande
-    3. [ ] Kun religiøse temaer i litteraturen
+    2. [ ] Kun udenlandsk storbykultur
+    3. [ ] Industrien og arbejderbevægelsen
 
-    ## Hvad var særligt ved Steen Steensen Blichers litterære motiver?
+    ## Hvem skrev ”Der er et yndigt land”?
 
-    1. [ ] De handlede kun om livet ved det kongelige hof
-    2. [x] De skildrede mennesker og liv i det dengang fjerne Jylland
-    3. [ ] De beskrev primært kunstnere i Italien
+    1. [ ] Steen Steensen Blicher
+    2. [x] Adam Oehlenschläger
+    3. [ ] Martin Andersen Nexø
 
-    ## Hvad ønskede forfatterne under det moderne gennembrud?
+    ## Hvad handler Oehlenschlägers ”Guldhornene” om?
 
-    1. [ ] At vende tilbage til middelalderens skriftsprog
-    2. [ ] At undgå at omtale samfundets normer
-    3. [x] At udfordre holdninger til blandt andet religion og kønsroller
+    1. [x] To guldhorn, som blev fundet og senere stjålet og smeltet om
+    2. [ ] En kaffefarm i Kenya
+    3. [ ] En fattig ung mands forelskelse
+
+    ## Hvilket område og hvilke mennesker skrev Steen Steensen Blicher om?
+
+    1. [ ] Hoffet og adelen i København
+    2. [ ] Koloniherrer i Afrika
+    3. [x] Jylland og blandt andet bønder, præster, embedsmænd og fattige
+
+    ## Hvilket værk skrev Blicher?
+
+    1. [x] Brudstykker af en Landsbydegns Dagbog
+    2. [ ] Den kroniske uskyld
+    3. [ ] Den Afrikanske Farm
+
+    ## Hvad oplever hovedpersonen i Blichers dagbogsroman?
+
+    1. [ ] Han bliver en berømt konge
+    2. [x] Han lever fattigt og forelsker sig ulykkeligt i en adelig pige
+    3. [ ] Han rejser til Kenya og driver en farm
+
+    ## Hvad ville det moderne gennembrud gøre op med?
+
+    1. [ ] Den industrielle udvikling
+    2. [x] Nationalromantikken og samfundets traditioner
+    3. [ ] Brugen af romaner og noveller
+
+    ## Hvilke holdninger udfordrede det moderne gennembruds forfattere?
+
+    1. [x] Holdninger til religion, kultur, familieliv og kønsroller
+    2. [ ] Kun holdninger til oldnordiske runer
+    3. [ ] Kun holdninger til landbrugsproduktion
+
+    ## Hvem skrev Ved Vejen?
+
+    1. [ ] Henrik Pontoppidan
+    2. [x] Herman Bang
+    3. [ ] Johannes V. Jensen
 
     ## Hvilken roman af Henrik Pontoppidan handler om Per?
 
     1. [x] Lykke-Per
-    2. [ ] Kongens Fald
-    3. [ ] Den kroniske uskyld
+    2. [ ] Pelle Erobreren
+    3. [ ] Kongens Fald
 
-    ## Hvilken pris modtog Henrik Pontoppidan i 1917?
+    ## Hvilken modsætning oplever Per i Lykke-Per?
 
-    1. [ ] De Gyldne Palmer
+    1. [ ] Modsætningen mellem Danmark og Kenya
+    2. [x] Det moderne samfunds muligheder og en ny rodløs tilværelse
+    3. [ ] Modsætningen mellem skole og universitet
+
+    ## Hvilke planer har Per?
+
+    1. [ ] At genindføre middelalderens samfund
+    2. [ ] At blive præst som sin far
+    3. [x] At modernisere Danmark
+
+    ## Hvilken pris modtog Pontoppidan i 1917?
+
+    1. [ ] En Oscar
     2. [x] Nobelprisen i litteratur
-    3. [ ] Oscar for bedste film
+    3. [ ] Nordisk Råds filmpris
 
     ## Hvilke mennesker skrev Martin Andersen Nexø især om?
 
-    1. [ ] Velhavende kunstsamlere
-    2. [x] Fattige mennesker og deres kamp for bedre vilkår
-    3. [ ] Danske komponister på turné
+    1. [x] Fattige mennesker og deres kamp for bedre arbejds- og levevilkår
+    2. [ ] Konger og adelige i middelalderen
+    3. [ ] Kunstnere i Paris
 
-    ## Hvad er Emma Gad især kendt for?
+    ## Hvilke romaner gjorde Martin Andersen Nexø særlig kendt?
 
-    1. [ ] Romanen Den Afrikanske Farm
-    2. [ ] Digtet "Sommerfugledalen"
-    3. [x] Bogen Takt og Tone
+    1. [ ] Ved Vejen og Lykke-Per
+    2. [ ] Rødby-Puttgarden og Hafni fortæller
+    3. [x] Pelle Erobreren og Ditte Menneskebarn
 
-    ## Hvilken historisk periode skildrer Johannes V. Jensens Kongens Fald?
+    ## Hvilke emner skrev Emma Gad skuespil om?
 
-    1. [x] 1500-tallets Danmark
-    2. [ ] Bronzealderen
-    3. [ ] 1960'ernes København
+    1. [ ] Vikingetogter og runer
+    2. [x] Kønsroller, moral og politik
+    3. [ ] Naturvidenskab og industri
 
-    ## Hvad handler Himmerlandshistorier især om?
+    ## Hvad er Emma Gad først og fremmest kendt for?
 
-    1. [ ] Livet på en kaffefarm i Kenya
-    2. [x] Bønder og fattigfolk i Himmerland
-    3. [ ] Teaterlivet i 1700-tallets Norge
-
-    ## Hvilket værk beskriver Karen Blixens liv på en kaffefarm i Kenya?
-
-    1. [ ] Barndommens Gade
+    1. [x] Takt og Tone
     2. [ ] Jammers Minde
-    3. [x] Den Afrikanske Farm
+    3. [ ] Barndommens Gade
 
-    ## Hvilken roman af Tove Ditlevsen skildrer opvækst på Vesterbro?
+    ## Hvad indeholder Takt og Tone?
 
-    1. [x] Barndommens Gade
-    2. [ ] Rødby-Puttgarden
-    3. [ ] Pelle Erobreren
+    1. [ ] Regler for politiske valg
+    2. [ ] En historie om Christian 2.
+    3. [x] Konkrete råd om god opførsel i hverdagens situationer
 
-    ## Hvad handler Klaus Rifbjergs Den kroniske uskyld blandt andet om?
+    ## Hvilken periode skildrer Johannes V. Jensens Kongens Fald?
 
-    1. [ ] En dansk kunstnergruppe i efterkrigstiden
-    2. [x] Ungdoms- og skoleliv samt de voksnes snæversyn
-    3. [ ] En historisk kamp om den danske trone
+    1. [ ] Vikingetiden
+    2. [x] 1500-tallets Danmark
+    3. [ ] 1960'ernes Danmark
 
-    ## Hvilket emne forbindes især med Suzanne Brøggers romaner?
+    ## Hvad handler Kongens Fald blandt andet om?
 
-    1. [ ] Skibsfart i vikingetiden
-    2. [ ] Arkitektur og byplanlægning
+    1. [x] Christian 2.s forgæves kamp for at beholde magten
+    2. [ ] Harald Blåtands kristning af danerne
+    3. [ ] Danmarks besættelse under 2. Verdenskrig
+
+    ## Hvem handler Himmerlandshistorier om?
+
+    1. [x] Bønder og fattigfolk i Himmerland
+    2. [ ] Arbejdere på Vesterbro
+    3. [ ] Koloniherrer i Kenya
+
+    ## Hvornår modtog Johannes V. Jensen Nobelprisen i litteratur?
+
+    1. [ ] 1917
+    2. [ ] 1937
+    3. [x] 1944
+
+    ## Hvilket værk er Karen Blixen bedst kendt for?
+
+    1. [x] Den Afrikanske Farm
+    2. [ ] Den kroniske uskyld
+    3. [ ] Farskibet
+
+    ## Hvad skildrer Den Afrikanske Farm?
+
+    1. [x] Blixens liv på en kaffefarm i Kenya
+    2. [ ] En færgerute mellem Danmark og Tyskland
+    3. [ ] En arbejderfamilie på Vesterbro
+
+    ## Hvordan forholder Blixen sig til koloniherrerne?
+
+    1. [ ] Hun støtter uden kritik deres behandling af afrikanerne
+    2. [x] Hun er præget af deres tankegang, men også kritisk over for deres behandling af befolkningen
+    3. [ ] Hun omtaler slet ikke kolonitiden
+
+    ## Hvilke emner gjorde Karen Blixens fortællinger verdenskendte?
+
+    1. [ ] Kun dansk politik
+    2. [ ] Teknologi og naturvidenskab
+    3. [x] Menneskelige lidenskaber, længsler og livsdramaer
+
+    ## Hvilken baggrund havde Tove Ditlevsen?
+
+    1. [x] Hun voksede op i en fattig arbejderfamilie på Vesterbro
+    2. [ ] Hun voksede op på en kaffefarm i Kenya
+    3. [ ] Hun kom fra en velhavende adelsfamilie
+
+    ## Hvilke emner skrev Tove Ditlevsen om?
+
+    1. [x] At være barn, kvinde og fattig
+    2. [ ] Kun dansk middelalderhistorie
+    3. [ ] Kun livet ved hoffet
+
+    ## Hvilket værk er et af Tove Ditlevsens hovedværker?
+
+    1. [ ] Rødby-Puttgarden
+    2. [x] Barndommens Gade
+    3. [ ] Verdenssøn
+
+    ## Hvor er Tove Ditlevsen blevet populær i nyere tid?
+
+    1. [ ] Kun i Danmark
+    2. [ ] Kun i de nordiske lande
+    3. [x] Blandt andet i USA, Storbritannien og Tyskland
+
+    ## Hvad handler Klaus Rifbjergs Den kroniske uskyld om?
+
+    1. [x] Ungdom, skoleliv og kritik af de voksnes snæversyn
+    2. [ ] En konges kamp om magten
+    3. [ ] En kvindes rejse gennem Danmark
+
+    ## Hvad kendetegnede Klaus Rifbjerg som forfatter?
+
+    1. [ ] Han skrev kun én roman
+    2. [x] Han var en af 1900-tallets mest produktive danske forfattere
+    3. [ ] Han skrev kun på engelsk
+
+    ## Hvilket tema forbindes især med Suzanne Brøggers romaner?
+
+    1. [ ] Nationalromantik
+    2. [ ] Kolonihistorie
     3. [x] Kvindefrigørelse
 
-    ## Hvilken digtsamling blev Yahya Hassans debut?
+    ## Hvad inspirerede flere andre forfattere fra midten af 1960'erne?
 
-    1. [ ] Verdenssøn
-    2. [x] Yahya Hassan
-    3. [ ] Sommerfugledalen
+    1. [x] Rockmusik, ungdomsoprør og populærkultur
+    2. [ ] Middelalderens klosterliv
+    3. [ ] Kun klassisk musik
 
-    ## Hvad er auto-fiktion?
+    ## Hvem skrev ”Sommerfugledalen”?
 
-    1. [x] En genre, der blander erfaringer fra forfatterens eget liv med fiktive elementer
-    2. [ ] En genre, der kun genfortæller middelalderlige sagn
-    3. [ ] En form for teater uden dialog
+    1. [ ] Naja Marie Aidt
+    2. [x] Inger Christensen
+    3. [ ] Michael Strunge
 
-    ## Hvilken forfatter skrev roman-trilogien, der begynder med Hvis der skulle komme et menneske forbi?
+    ## Hvordan blev Inger Christensen internationalt anerkendt?
 
-    1. [ ] Glenn Bech
-    2. [ ] Helle Helle
-    3. [x] Thomas Korsgaard
+    1. [ ] Hendes værker blev aldrig oversat
+    2. [ ] Hun modtog Nobelprisen i 1991
+    3. [x] Hendes værker blev oversat bredt, og hun blev nævnt som Nobelpriskandidat
+
+    ## Hvad handler Naja Marie Aidts Carls bog om?
+
+    1. [x] Sorgen efter hendes unge søns tragiske død
+    2. [ ] En rejse til Brighton
+    3. [ ] Et ungdomsliv i et ghettokvarter
+
+    ## Hvilke genrer har Naja Marie Aidt skrevet?
+
+    1. [ ] Kun skuespil
+    2. [x] Digte, romaner og noveller
+    3. [ ] Kun historiske romaner
+
+    ## Hvilke emner skrev Michael Strunge digte om?
+
+    1. [x] Drømme, depression, kærlighed, oprør og storbyliv
+    2. [ ] Kun landbrug og landsbyliv
+    3. [ ] Kun middelalderens konger
+
+    ## Hvad er Michael Strunges hovedværk?
+
+    1. [ ] Yahya Hassan
+    2. [ ] Sommerfugledalen
+    3. [x] Verdenssøn
+
+    ## Hvad var særligt ved Yahya Hassans debutdigtsamling?
+
+    1. [ ] Den blev kun solgt i få hundrede eksemplarer
+    2. [x] Den blev Danmarks bedst sælgende digtsamling med over 100.000 eksemplarer
+    3. [ ] Den blev skrevet på latin
+
+    ## Hvilke erfaringer beskriver Yahya Hassan?
+
+    1. [x] Opvækst og ungdom som indvandrer i et ghettokvarter
+    2. [ ] Livet som kaffefarmer i Kenya
+    3. [ ] Livet i en præstefamilie i 1800-tallet
+
+    ## Hvorfor skabte Yahya Hassans digte debat?
+
+    1. [ ] De undgik alle samfundsproblemer
+    2. [ ] De handlede kun om kærlighed
+    3. [x] De pegede på sociale problemer og sammenstød mellem normer
+
+    ## Hvad kendetegner Helle Helles skrivestil og miljøer?
+
+    1. [ ] Dramatiske krigsscener i storbyer
+    2. [x] Nedtonede beskrivelser af hverdagsliv i mindre danske byer
+    3. [ ] Historiske fortællinger om middelalderen
+
+    ## Hvilken roman gav Helle Helle et større publikum?
+
+    1. [x] Rødby-Puttgarden
+    2. [ ] Lykke-Per
+    3. [ ] Jammers Minde
+
+    ## Hvem skildres i Rødby-Puttgarden?
+
+    1. [x] Søstrene Jane og Tine, som arbejder på færgen
+    2. [ ] En forfatter på en kaffefarm
+    3. [ ] En ung mand i en præstefamilie
+
+    ## Hvad gør Hafni i Hafni fortæller?
+
+    1. [ ] Hun rejser til Kenya for at drive en farm
+    2. [x] Hun rejser gennem Danmark for at fejre sin skilsmisse
+    3. [ ] Hun flytter til Rødby for at arbejde på en færge
+
+    ## Hvor møder læseren Hafni igen i Hey Hafni?
+
+    1. [ ] I Odense
+    2. [ ] I New York
+    3. [x] I Brighton
+
+    ## Hvad er autofiktion?
+
+    1. [x] En blanding af forfatterens egne erfaringer og fiktive elementer
+    2. [ ] En genre uden forbindelse til forfatterens liv
+    3. [ ] En samling regler om god opførsel
+
+    ## Hvilke temaer er almindelige i autofiktionen ifølge teksten?
+
+    1. [x] Opvækst, dysfunktionelle familier og følelsen af ikke at høre til
+    2. [ ] Kun konger og krige
+    3. [ ] Kun naturvidenskabelige opdagelser
+
+    ## Hvad handler Leonora Christina Skovs Den, der lever stille om?
+
+    1. [ ] En kvindes kaffefarm i Kenya
+    2. [x] En opvækst med krav om accept og valget mellem egne følelser og forældrenes kærlighed
+    3. [ ] En ung mands skoleliv i København
+
+    ## Hvilken erkendelse skaber en konflikt for hovedpersonen i Den, der lever stille?
+
+    1. [x] At hun er lesbisk
+    2. [ ] At hun vil være landmand
+    3. [ ] At hun vil flytte til Kenya
+
+    ## Hvad har Thomas Korsgaard og Glenn Bechs forfatterskaber til fælles?
+
+    1. [x] De tager afsæt i familier og miljøer med sociale og psykiske problemer
+    2. [ ] De beskriver begge middelalderens konger
+    3. [ ] De skriver kun om udenlandske storbyer
+
+    ## Hvilken roman indleder Thomas Korsgaards trilogi?
+
+    1. [ ] Man skulle nok have været der
+    2. [x] Hvis der skulle komme et menneske forbi
+    3. [ ] En dag vil vi grine af det
+
+    ## Hvad skildrer Thomas Korsgaards trilogi?
+
+    1. [x] En opvækst med fattigdom, manglende kærlighed og fysisk og psykisk vold
+    2. [ ] En lykkelig opvækst uden sociale problemer
+    3. [ ] En karriere ved Det Kongelige Teater
+
+    ## Hvilket traume beskriver Glenn Bech i Farskibet?
+
+    1. [ ] Morens udvandring
+    2. [ ] En ulykke på en færge
+    3. [x] Farens selvmord
+
+    ## Hvad betyder ”giftig maskulinitet” i teksten?
+
+    1. [ ] En fredelig og tolerant måde at være mand på
+    2. [x] Dominerende, intolerant og voldelig mandlig adfærd
+    3. [ ] En litterær genre om konger
+
+    ## Hvilke normer kritiserer Glenn Bech blandt andet?
+
+    1. [x] Normer om køn og seksualitet
+    2. [ ] Kun regler for bordskik
+    3. [ ] Kun regler for stavning
+
+    ## Hvad kritiserer Glenn Bech i Jeg anerkender ikke længere jeres autoritet?
+
+    1. [ ] Provinsens manglende kendskab til København
+    2. [ ] H.C. Andersens eventyr
+    3. [x] Storbyeliters manglende kendskab til provinsen og mindre privilegerede grupper

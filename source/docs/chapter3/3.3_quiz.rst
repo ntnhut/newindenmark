@@ -13,18 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken udvikling har præget det danske erhvervsliv?
-
-    1. [ ] Fra service til landbrug
-    2. [ ] Fra industri til landbrug
-    3. [x] Fra landbrug over industri til viden og service
-
-    ## Hvad betyder det, at Danmark har en åben økonomi?
-
-    1. [x] Danmark handler meget med andre lande
-    2. [ ] Danmark kun handler inden for landets grænser
-    3. [ ] Danmark ikke importerer varer
-
     ## Hvilken udvikling har arbejdsmarkedet i Danmark gennemgået?
 
     1. [ ] Fra servicesamfund til landbrugssamfund
@@ -36,6 +24,12 @@ Questions
     1. [x] Udnyttelse af viden og produktion af tjenesteydelser
     2. [ ] Kun produktion af råvarer i landbruget
     3. [ ] Udvinding af kul og jernmalm
+
+    ## Hvilken type arbejdskraft er videns- og servicesamfundet i høj grad afhængigt af?
+
+    1. [ ] Ufaglært arbejdskraft uden brug af ny viden
+    2. [x] Højtuddannet arbejdskraft, der udnytter viden og skaber nye ideer
+    3. [ ] Kun arbejdskraft i landbruget
 
     ## Hvornår voksede industri og håndværk hurtigt i Danmark?
 
@@ -49,11 +43,23 @@ Questions
     2. [x] Landbrugsvarer
     3. [ ] Olie og naturgas
 
+    ## Hvilke landbrugsvarer satsede Danmark især på gennem andelsmejerier og -slagterier?
+
+    1. [x] Kød, smør og ost af høj kvalitet
+    2. [ ] Kaffe, te og kakao
+    3. [ ] Korn som den eneste eksportvare
+
     ## Hvor stor en andel af arbejdsstyrken arbejder i selve landbruget i dag ifølge teksten?
 
     1. [ ] Cirka 20 procent
     2. [ ] Cirka 10 procent
     3. [x] Cirka to procent
+
+    ## Hvorfor arbejder så få i selve landbruget, selv om produktionen fortsat er stor?
+
+    1. [ ] Landbrugsproduktionen er flyttet helt til udlandet
+    2. [x] Landbruget er blevet voldsomt effektiviseret siden 1950'erne
+    3. [ ] Danmark er holdt op med at eksportere fødevarer
 
     ## Hvad betyder begrebet fødevareklynge?
 
@@ -61,11 +67,35 @@ Questions
     2. [ ] At alle fødevarer produceres af én gård
     3. [ ] At fødevarehandlen kun foregår lokalt
 
+    ## Hvilken kritik har bidraget til landbrugets grønne omstilling?
+
+    1. [ ] At landbruget bruger for lidt jord
+    2. [ ] At dyrene altid går ude
+    3. [x] At der bruges for meget gift mod ukrudt, svampe og insekter
+
+    ## Hvor stor en andel af dansk landbrug var økologisk i 2023 ifølge teksten?
+
+    1. [ ] 2 procent
+    2. [x] 11,4 procent
+    3. [ ] 30 procent
+
     ## Hvad er et kendetegn ved økologisk landbrug ifølge teksten?
 
     1. [ ] Det anvender flere kemiske sprøjtemidler end konventionelt landbrug
     2. [x] Det drives blandt andet uden kemiske sprøjtemidler og kunstgødning
     3. [ ] Dyrene holdes altid indendørs uden adgang til plads
+
+    ## Hvilke forhold har dyr i økologisk landbrug ifølge teksten?
+
+    1. [x] Bedre plads i staldene og bedre mulighed for at komme ud
+    2. [ ] Mindre plads og ingen adgang til det fri
+    3. [ ] Samme krav som i alle andre landbrug uden forskel
+
+    ## Hvornår fandt den første store industrialiseringsbølge sted?
+
+    1. [ ] Fra slutningen af 1950'erne til 1970
+    2. [ ] Fra begyndelsen af 1970'erne
+    3. [x] I slutningen af 1800-tallet og begyndelsen af 1900-tallet
 
     ## Hvornår fandt den anden store bølge af industrialisering sted i Danmark?
 
@@ -79,11 +109,35 @@ Questions
     2. [ ] Landbruget
     3. [ ] Fiskeriet
 
+    ## Hvor stor en del af de beskæftigede arbejder i dag i privat eller offentlig servicevirksomhed?
+
+    1. [ ] Cirka halvdelen
+    2. [x] Næsten fire ud af fem
+    3. [ ] Cirka to procent
+
+    ## Hvor stor en andel af lønmodtagerne arbejder i den offentlige sektor?
+
+    1. [x] Omkring 30 procent
+    2. [ ] Omkring 2 procent
+    3. [ ] Omkring 80 procent
+
+    ## Hvorfor er produktionen af landbrugs- og industrivarer steget, selv om antallet af ansatte er faldet?
+
+    1. [ ] Flere mennesker arbejder længere uden maskiner
+    2. [ ] Danmark importerer alle varerne
+    3. [x] Mekanisering og hurtig teknologisk udvikling har øget produktionen
+
     ## Hvilke danske fødevarevirksomheder er nævnt som internationale giganter?
 
     1. [ ] LEGO og Vestas
     2. [x] Danish Crown og Arla
     3. [ ] Mærsk og GN Store Nord
+
+    ## Hvilke placeringer havde Danish Crown, Arla og Carlsberg på verdensmarkedet ifølge teksten?
+
+    1. [x] Danish Crown var næststørste svineslagteri, Arla blandt de ti største mejerier og Carlsberg fjerdestørste bryggeri
+    2. [ ] Alle tre var verdens største i deres brancher
+    3. [ ] Ingen af dem var blandt de ti største
 
     ## Hvilken dansk virksomhed er den største nævnte medicinalvirksomhed?
 
@@ -91,11 +145,29 @@ Questions
     2. [ ] Widex
     3. [x] Novo Nordisk
 
+    ## Hvilken betydning har Novo Nordisks placering i Danmark?
+
+    1. [ ] Den har kun betydning for medicinaluddannelser
+    2. [x] Den har stor betydning for økonomi, eksport og beskæftigelse
+    3. [ ] Den har kun betydning for hjemmemarkedet
+
     ## Hvad fremstiller de danske virksomheder GN Store Nord, William Demant og Widex?
 
     1. [x] Høreapparater
     2. [ ] Vindmøller
     3. [ ] Medicin
+
+    ## Hvor stor en del af verdens høreapparater fremstiller Danmark?
+
+    1. [ ] Cirka to procent
+    2. [ ] Cirka en tiendedel
+    3. [x] Over en tredjedel
+
+    ## Hvornår blev LEGO grundlagt?
+
+    1. [x] I 1932
+    2. [ ] I 1906
+    3. [ ] I 1970
 
     ## Hvad betyder LEGO ifølge teksten?
 
@@ -109,17 +181,41 @@ Questions
     2. [ ] Aarhus
     3. [x] Billund
 
+    ## Hvilket produkt er LEGO især kendt for?
+
+    1. [ ] Legetøj af træ
+    2. [x] Legoklodser i plastik
+    3. [ ] Elektroniske spil
+
     ## Hvilket dansk rederi var verdens næststørste containerrederi i 2023?
 
     1. [ ] Danish Crown
     2. [x] Mærsk
     3. [ ] Carlsberg
 
+    ## Hvilken placering havde Danmarks handelsflåde i verden i 2024?
+
+    1. [ ] Den var verdens største
+    2. [ ] Den var verdens næststørste
+    3. [x] Den var verdens tiendestørste
+
     ## Hvilken dansk virksomhed var verdens største vindmølleproducent i 2024 ifølge teksten?
 
     1. [x] Vestas
     2. [ ] Arla
     3. [ ] LEGO
+
+    ## På hvilket andet grønt område står Danmark stærkt ifølge teksten?
+
+    1. [x] Energibesparelser som isolation og energieffektive produkter
+    2. [ ] Udvinding af kul
+    3. [ ] Produktion af benzinbiler
+
+    ## Hvad betyder det, at Danmark har en meget åben økonomi?
+
+    1. [ ] Danmark producerer alt selv
+    2. [x] Handel med udlandet spiller en meget stor rolle
+    3. [ ] Danmark importerer, men eksporterer ikke
 
     ## Hvor stor en andel af Danmarks samlede produktion udgør eksporten omtrent?
 
@@ -139,6 +235,30 @@ Questions
     2. [x] USA
     3. [ ] Norge
 
+    ## Hvordan er eksporten til EU-landene samlet set sammenlignet med eksporten til USA?
+
+    1. [ ] Den er klart mindre
+    2. [ ] Den er præcis lige stor
+    3. [x] Den er klart større
+
+    ## Hvilke lande var Danmarks tre største handelspartnere i 2024?
+
+    1. [x] USA, Tyskland og Sverige
+    2. [ ] Kina, Norge og Holland
+    3. [ ] Storbritannien, Frankrig og Italien
+
+    ## Hvilken handelspolitik har danske regeringer i moderne tid normalt støttet?
+
+    1. [ ] Mindst mulig handel mellem lande
+    2. [x] Mest mulig fri handel mellem lande
+    3. [ ] Handel kun med de nordiske lande
+
+    ## Hvordan har Danmarks eksport og import typisk forholdt sig til hinanden siden 1990'erne?
+
+    1. [ ] Importen har næsten altid været højere
+    2. [ ] De har hvert år været præcis lige store
+    3. [x] Eksporten har stort set alle år været højere end importen
+
     ## Hvilke internationale organisationer arbejder blandt andet for friere handel?
 
     1. [ ] NATO og FN
@@ -156,3 +276,9 @@ Questions
     1. [ ] Kun råvareudvinding
     2. [x] Produktudvikling, salg og ledelse
     3. [ ] Ingen funktioner
+
+    ## Hvilken fordel for danske virksomheder nævnes som en anden følge af globaliseringen?
+
+    1. [x] Der er opstået nye store markeder for danske produkter
+    2. [ ] Alle varer kan nu produceres uden arbejdskraft
+    3. [ ] Virksomhederne behøver ikke længere at eksportere

@@ -13,29 +13,23 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvem indgår typisk kollektive overenskomster på arbejdsmarkedet?
-
-    1. [ ] Folketinget og domstolene
-    2. [x] Arbejdsgivere og fagforeninger
-    3. [ ] Kommunerne og regionerne
-
-    ## Hvad er flexicurity?
-
-    1. [x] En kombination af fleksible ansættelsesforhold og økonomisk sikkerhed
-    2. [ ] En ordning, hvor alle lønninger fastsættes af Folketinget
-    3. [ ] En lov om fast pension for alle ansatte
-
-    ## Hvilke tre parter samarbejder i den danske arbejdsmarkedsmodel?
-
-    1. [ ] Kommuner, regioner og EU
-    2. [ ] Domstole, politi og Folketing
-    3. [x] Staten, arbejdsgiverne og lønmodtagerne
-
     ## Hvor stor en andel af befolkningen mellem 16 og 64 år var i beskæftigelse i 2025?
 
     1. [x] 77,6 procent
     2. [ ] 68 procent
     3. [ ] 50 procent
+
+    ## Hvilke beskæftigelsesandele angiver teksten for mænd og kvinder i 2025?
+
+    1. [ ] 75,8 procent for mænd og 79,4 procent for kvinder
+    2. [x] 79,4 procent for mænd og 75,8 procent for kvinder
+    3. [ ] 68 procent for begge grupper
+
+    ## Hvad kendetegner generelt arbejdskraften på det danske arbejdsmarked?
+
+    1. [ ] Den har sjældent uddannelse efter folkeskolen
+    2. [ ] Den arbejder hovedsageligt uden teknologi
+    3. [x] Den er godt uddannet
 
     ## Hvad er efter- og videreuddannelse?
 
@@ -43,17 +37,47 @@ Questions
     2. [x] Løbende uddannelse i løbet af arbejdslivet
     3. [ ] Uddannelse, der alene gives til arbejdsgivere
 
+    ## Hvorfor er uddannelse blevet mere nødvendig på arbejdsmarkedet?
+
+    1. [x] Mange job uden uddannelseskrav er automatiseret, flyttet eller sparet væk
+    2. [ ] Alle arbejdspladser kræver en universitetsgrad ved lov
+    3. [ ] Efteruddannelse er blevet forbudt
+
+    ## Hvor langt tilbage går rødderne til den særlige danske arbejdsmarkedsmodel?
+
+    1. [ ] Til 1990'erne
+    2. [x] Mere end 100 år
+    3. [ ] Til 1950'erne
+
     ## Hvilke to hovedorganisationer repræsenterer lønmodtagere og arbejdsgivere?
 
     1. [ ] KL og Danske Regioner
     2. [ ] OECD og WTO
     3. [x] FH og DA
 
+    ## Hvorfor organiserede arbejderne sig oprindeligt i fagforeninger?
+
+    1. [ ] For at fastsætte skatter
+    2. [x] For at kæmpe for bedre løn- og arbejdsvilkår
+    3. [ ] For at lede virksomhederne
+
     ## Hvad kaldes Septemberforliget også?
 
     1. [x] Arbejdsmarkedets Grundlov
     2. [ ] Den danske arbejdsplan
     3. [ ] Forligsinstitutionen
+
+    ## Hvornår blev Septemberforliget indgået?
+
+    1. [x] I 1899
+    2. [ ] I 1910
+    3. [ ] I 1998
+
+    ## Hvad anerkendte fagforeninger og arbejdsgiverorganisationer med Septemberforliget?
+
+    1. [ ] At staten alene skulle fastsætte lønnen
+    2. [ ] At arbejdsgiverne skulle lede fagforeningerne
+    3. [x] Hinandens ret til at forhandle på medlemmernes vegne
 
     ## Hvad er en kollektiv overenskomst?
 
@@ -67,11 +91,23 @@ Questions
     2. [ ] Folketinget
     3. [x] Arbejdsgiveren
 
+    ## Hvilke andre rettigheder har arbejdsgiveren ifølge Septemberforliget?
+
+    1. [x] At ansætte og afskedige medarbejdere
+    2. [ ] At forbyde medlemskab af fagforeninger
+    3. [ ] At ændre en gældende overenskomst alene
+
     ## Hvad betyder fredspligt under en gældende overenskomst?
 
     1. [x] Strejke og lockout er ikke tilladt, mens overenskomsten gælder
     2. [ ] Arbejdsgiveren kan ikke ansætte nye medarbejdere
     3. [ ] Medarbejderne må ikke melde sig ind i en fagforening
+
+    ## Hvilke fem elementer fremhæves i den danske arbejdsmarkedsmodel?
+
+    1. [ ] Statslig lønfastsættelse, privat forsikring, lav organisering, faste job og kommunal styring
+    2. [x] Organisering, selvregulering, overenskomster, trepartssamarbejde og flexicurity
+    3. [ ] Mindsteløn ved lov, strejkeforbud, statsansættelse, pension og skat
 
     ## Hvilken andel af lønmodtagerne var medlem af en fagforening i 2025 ifølge teksten?
 
@@ -79,11 +115,41 @@ Questions
     2. [x] 68 procent
     3. [ ] 95 procent
 
+    ## Hvem kan være medlem af fagforeninger på det danske arbejdsmarked?
+
+    1. [ ] Kun offentligt ansatte
+    2. [ ] Kun privatansatte
+    3. [x] Både privatansatte og offentligt ansatte
+
     ## Hvad er FH?
 
     1. [ ] En organisation for kommuner
     2. [ ] En organisation for domstole
     3. [x] Fagbevægelsens Hovedorganisation
+
+    ## Hvor mange forbund og medlemmer organiserer FH cirka?
+
+    1. [x] Cirka 600 forbund og 1,3 millioner medlemmer
+    2. [ ] 11 organisationer og 23.000 medlemmer
+    3. [ ] 18.000 forbund og 650.000 medlemmer
+
+    ## Hvad organiserer DA ifølge teksten?
+
+    1. [ ] 600 faglige forbund
+    2. [x] 11 arbejdsgiverorganisationer med cirka 23.000 virksomheder
+    3. [ ] Alle offentligt ansatte
+
+    ## Hvordan beskrives Dansk Industri (DI)?
+
+    1. [ ] Som en fagforening under FH
+    2. [ ] Som Danmarks næststørste kommuneorganisation
+    3. [x] Som landets største arbejdsgiver- og erhvervsorganisation og DA's største medlem
+
+    ## Hvilken organisation er den næststørste erhvervsorganisation?
+
+    1. [x] Dansk Erhverv
+    2. [ ] FH
+    3. [ ] Forligsinstitutionen
 
     ## Hvad betyder foreningsfrihed på arbejdsmarkedet?
 
@@ -97,17 +163,41 @@ Questions
     2. [ ] Ja, men kun ved nyansættelse
     3. [x] Nej
 
+    ## Må en arbejdsgiver kræve medlemskab af en bestemt fagforening ved nyansættelse?
+
+    1. [ ] Ja, i private virksomheder
+    2. [x] Nej
+    3. [ ] Ja, hvis overenskomsten er udløbet
+
     ## Hvem fastsætter løn og arbejdsvilkår i Danmark som hovedregel?
 
     1. [ ] Folketinget alene
     2. [x] Arbejdsmarkedets parter gennem aftaler
     3. [ ] EU-Kommissionen
 
+    ## Hvilke emner reguleres ofte gennem aftaler i stedet for lov?
+
+    1. [x] Arbejdstid, overtidsbetaling, opsigelsesvarsler og mindsteløn
+    2. [ ] Skatter, forsvar og politi
+    3. [ ] Folketingsvalg og kommunale budgetter
+
     ## Har Danmark en lovbestemt mindsteløn?
 
     1. [ ] Ja, den fastsættes hvert år af regeringen
     2. [x] Nej, mindsteløn aftales gennem overenskomster
     3. [ ] Ja, men kun for offentligt ansatte
+
+    ## Hvilke nyere forbedringer af forældreorlov nævnes i teksten?
+
+    1. [ ] At al forældreorlov er blevet afskaffet
+    2. [ ] At staten fastsætter samme løn for alle under orlov
+    3. [x] Fuld løn inklusive pension i en større del af orlovsperioden
+
+    ## Hvorfor søger arbejdsmarkedets parter selv at løse konflikter og tilpasse aftaler?
+
+    1. [x] De kan tilpasse hurtigere og bedre, og parterne accepterer aftaler, de selv har indgået
+    2. [ ] Staten må aldrig deltage i arbejdsmarkedspolitik
+    3. [ ] Alle brancher har præcis de samme behov
 
     ## Hvor stor en del af det danske arbejdsmarked er dækket af kollektive overenskomster?
 
@@ -120,6 +210,12 @@ Questions
     1. [ ] Kun skatter og kommunale budgetter
     2. [ ] Kun regler for folketingsvalg
     3. [x] Løn, pension, arbejdstid, ferie og opsigelse
+
+    ## Hvem skal have overenskomstens løn- og arbejdsvilkår hos en arbejdsgiver, der har indgået den?
+
+    1. [ ] Kun fagforeningens ledelse
+    2. [x] Alle ansatte
+    3. [ ] Kun nyansatte
 
     ## Hvad kan ske, hvis parterne ikke bliver enige om en ny overenskomst?
 
@@ -145,11 +241,23 @@ Questions
     2. [ ] Et lovforslag om mindsteløn
     3. [x] Et forslag til et kompromis mellem arbejdsmarkedets parter
 
+    ## Hvad kan forligsmanden gøre ud over at indkalde til forhandling og foreslå et kompromis?
+
+    1. [ ] Afskedige de strejkende
+    2. [ ] Opløse fagforeningerne
+    3. [x] Udskyde en truende konflikt, typisk et par uger
+
     ## Hvad skete der under den seneste storkonflikt på det private arbejdsmarked i 1998?
 
     1. [x] Mange busser kørte ikke, og butikkerne havde problemer med varelevering
     2. [ ] Alle offentlige skoler blev nedlagt
     3. [ ] Danmark forlod arbejdsmarkedets parter
+
+    ## Hvordan har Folketinget typisk standset en storkonflikt?
+
+    1. [ ] Ved at forbyde alle fremtidige overenskomster
+    2. [x] Ved at gøre forligsmandens mæglingsforslag til lov
+    3. [ ] Ved at lade kommunerne fastsætte lønnen
 
     ## Hvad er trepartssamarbejde?
 
@@ -163,6 +271,12 @@ Questions
     2. [ ] Kun kommunale skolevalg
     3. [x] Arbejdsmiljø, arbejdsformidling, uddannelse og arbejdsløshedsforsikring
 
+    ## Hvad skal trepartssamarbejdet bidrage til?
+
+    1. [x] Et arbejdsmarked, der er fleksibelt for arbejdsgivere og trygt for lønmodtagere
+    2. [ ] Et arbejdsmarked uden jobskifte
+    3. [ ] At staten fastsætter alle lønninger
+
     ## Hvad betyder fleksibilitet i flexicurity-modellen for arbejdsgiverne?
 
     1. [x] Det er relativt nemt at ansætte og afskedige medarbejdere
@@ -174,6 +288,12 @@ Questions
     1. [ ] Ingen kan blive afskediget
     2. [x] Arbejdsløse har økonomisk støtte og hjælp til at komme tilbage i arbejde
     3. [ ] Alle får samme løn uanset arbejde
+
+    ## Hvilken fordel giver flexicurity lønmodtagerne ved jobskifte?
+
+    1. [ ] De kan ikke miste deres arbejde
+    2. [ ] De beholder automatisk samme løn
+    3. [x] Den økonomiske sikkerhed gør det mindre risikabelt at skifte job
 
     ## Hvilken hjælp kan arbejdsløse få for at komme tilbage på arbejdsmarkedet?
 

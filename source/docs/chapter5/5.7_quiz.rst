@@ -13,200 +13,446 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvad var Asta Nielsen særligt kendt for?
-
-    1. [ ] At være komponist
-    2. [x] At være international stumfilmstjerne
-    3. [ ] At tegne møbler
-
-    ## Hvilken genre forbindes Asta Nielsen især med?
-
-    1. [x] Stumfilm
-    2. [ ] Dokumentarfilm om natur
-    3. [ ] Tegnefilm
-
     ## Hvornår blev de første film optaget i Danmark?
 
     1. [ ] Omkring 1850
     2. [x] Omkring år 1900
     3. [ ] Efter 2. Verdenskrig
 
-    ## Hvad viste de tidligste film, der blev optaget i Danmark?
+    ## Hvad handlede de første film optaget i Danmark om?
 
-    1. [x] Reportager om samfundet
-    2. [ ] Eventyr om vikinger
-    3. [ ] Kun teaterforestillinger
+    1. [x] De var reportager om samfundet
+    2. [ ] De var eventyr om vikinger
+    3. [ ] De var optagelser af operaer
 
-    ## Hvornår blev Nordisk Film grundlagt?
+    ## Hvad skete der med den danske filmindustri efter grundlæggelsen af Nordisk Film i 1906?
 
-    1. [ ] 1889
-    2. [ ] 1943
-    3. [x] 1906
+    1. [ ] Den producerede kun film til Danmark
+    2. [ ] Den voksede langsomt frem til 1950
+    3. [x] Den voksede hurtigt og blev kendt i mange lande
 
-    ## Hvor indspillede Asta Nielsen mange film?
+    ## Hvem var Danmarks første filmstjerne?
 
-    1. [ ] I Norge
-    2. [x] I Tyskland
-    3. [ ] I USA
+    1. [ ] Sofie Gråbøl
+    2. [x] Asta Nielsen
+    3. [ ] Trine Dyrholm
 
-    ## Hvilke virkemidler kendetegnede Carl Th. Dreyers film?
+    ## Hvor indspillede Asta Nielsen mange stumfilm i første halvdel af 1900-tallet?
 
-    1. [ ] Hurtigt tempo og lange totalbilleder
-    2. [ ] Mange farverige animationer
+    1. [x] I Tyskland
+    2. [ ] I USA
+    3. [ ] I Norge
+
+    ## Hvilke egenskaber blev Asta Nielsen fejret for?
+
+    1. [ ] Sin komiske sangstemme og dans
+    2. [ ] Sin evne til at instruere dokumentarfilm
+    3. [x] Sin erotiske udstråling og evne til at udtrykke hele følelsesregisteret
+
+    ## Hvordan beskrives Carl Th. Dreyers plads i den danske filmhistorie?
+
+    1. [x] Som den ældre danske filmhistories vigtigste instruktør
+    2. [ ] Som Danmarks første filmstjerne
+    3. [ ] Som den mest brugte tv-instruktør i 1970'erne
+
+    ## Hvilke to film nævnes som grundlag for Carl Th. Dreyers berømmelse?
+
+    1. [ ] Sult og Soldaten og Jenny
+    2. [x] Vredens Dag og La passion de Jeanne d'Arc
+    3. [ ] Ordet og De røde heste
+
+    ## Hvilke virkemidler udmærkede Dreyers film?
+
+    1. [ ] Hurtige klip og farverige animationer
+    2. [ ] Store tekniske effekter og hurtigt tempo
     3. [x] Nærbilleder og langsomt filmtempo
 
-    ## Hvilket drama bygger Dreyers film Ordet på?
+    ## Hvilken forfatters drama bygger Dreyers Ordet på?
 
-    1. [x] Et drama af Kaj Munk
-    2. [ ] En roman af Karen Blixen
-    3. [ ] En komedie af Ludvig Holberg
+    1. [x] Kaj Munks
+    2. [ ] Karen Blixens
+    3. [ ] Martin Andersen Nexøs
 
-    ## Hvad har de tidlige film Ditte Menneskebarn, Soldaten og Jenny og Sult til fælles?
+    ## Hvad sker der i den scene, som Ordet kulminerer med?
 
-    1. [ ] De er alle romantiske musicals
-    2. [x] De skildrer blandt andet fattigdom og udstødelse
-    3. [ ] De handler alle om danske konger
+    1. [ ] En landmand vinder et hestevæddeløb
+    2. [x] En ung mor vækkes til live fra de døde
+    3. [ ] En forfatter forlader Kristiania
 
-    ## Hvem skrev romanen, som Ditte Menneskebarn bygger på?
+    ## Hvilke fælles temaer har Ditte Menneskebarn, Soldaten og Jenny og Sult?
 
-    1. [ ] Knut Hamsun
-    2. [ ] Morten Korch
-    3. [x] Martin Andersen Nexø
+    1. [ ] Krig og besættelse
+    2. [ ] Rigdom og berømmelse
+    3. [x] Fattigdom og udstødelse
 
-    ## Hvor foregår Henning Carlsens film Sult?
+    ## Hvilken romanforfatter skrev forlægget til Ditte Menneskebarn?
 
-    1. [x] I Kristiania, det nuværende Oslo
-    2. [ ] I Korsbæk på Lolland
-    3. [ ] I en dansk landsby ved Skagen
+    1. [x] Martin Andersen Nexø
+    2. [ ] Knut Hamsun
+    3. [ ] Morten Korch
 
-    ## Hvilken film blev Danmarks mest sete film ifølge teksten?
+    ## Hvilken norsk forfatters roman bygger Sult på?
 
-    1. [ ] Ordet
+    1. [ ] Bjarne Reuter
+    2. [x] Knut Hamsuns
+    3. [ ] Lise Nørgaards
+
+    ## Hvad fastholder Ditte i fattigdommens onde cirkel i Ditte Menneskebarn?
+
+    1. [ ] Hun mister sin gård efter et væddeløb
+    2. [ ] Hun bliver falsk anklaget for en forbrydelse
+    3. [x] Hun udsættes for vold og bliver selv gravid uden at være gift
+
+    ## Hvilket problem truer Jenny med straf og udstødelse i Soldaten og Jenny?
+
+    1. [x] Hun har fået foretaget en abort, som dengang var forbudt
+    2. [ ] Hun har forladt sin familie i Korsbæk
+    3. [ ] Hun har mistet sit arbejde som lærer
+
+    ## Hvor foregår Sult?
+
+    1. [ ] I den fiktive by Korsbæk
+    2. [x] I Kristiania, det nuværende Oslo
+    3. [ ] I en københavnsk forstad
+
+    ## Hvordan forsøger den unge forfatter i Sult blandt andet at skaffe penge og arbejde?
+
+    1. [ ] Han vinder et hestevæddeløb
+    2. [ ] Han melder sig til en filmrolle
+    3. [x] Han prøver at pantsætte sine ejendele og ydmyger sig for et job
+
+    ## Hvilken periode var en storhedstid for kommercielle folkekomedier?
+
+    1. [x] 1950-1975
+    2. [ ] 1900-1925
+    3. [ ] 1980-2005
+
+    ## Hvilken film blev ifølge teksten Danmarks mest sete film?
+
+    1. [ ] Busters Verden
     2. [x] De røde heste
-    3. [ ] Busters verden
+    3. [ ] Ordet
 
-    ## Hvad handler De røde heste om?
+    ## Hvordan redder den unge landmand sin gård i De røde heste?
 
-    1. [ ] En ung forfatter i Kristiania
-    2. [ ] En kriminalsag i København
-    3. [x] En ung landmand, der redder sin gård ved at vinde et hestevæddeløb
+    1. [ ] Ved at sælge sine heste
+    2. [ ] Ved at afsløre en forbryderbande
+    3. [x] Ved at vinde et stort hestevæddeløb
 
-    ## Hvor mange film består Olsenbanden-serien af?
+    ## Hvor mange film består Erik Ballings Olsenbanden-serie af?
 
-    1. [ ] 7
-    2. [x] 14
-    3. [ ] 24
+    1. [x] 14
+    2. [ ] 24
+    3. [ ] 7
 
-    ## Hvad er typisk for Olsenbandens planer?
+    ## Hvad er Olsenbanden-filmene inspireret af?
 
-    1. [x] De vil begå et kup, men planerne går som regel galt
-    2. [ ] De forsøger at opklare mord i en provinsby
-    3. [ ] De arbejder på at lave en film uden tekniske effekter
+    1. [ ] Stumfilm
+    2. [x] Tegnefilm
+    3. [ ] Tv-teater
 
-    ## Hvor udspiller tv-serien Matador sig?
+    ## Hvad sker der som regel med Olsenbandens planer om et stort kup?
 
-    1. [ ] I den virkelige by Rødbyhavn
-    2. [ ] I København omkring år 1900
-    3. [x] I den fiktive provinsby Korsbæk
+    1. [ ] De gør altid banden til millionærer
+    2. [ ] Politiet ansætter banden
+    3. [x] Planerne går helt galt på en komisk måde
 
-    ## Hvor mange afsnit har Matador?
+    ## Hvor blev Olsenbanden-serien kopieret?
 
-    1. [ ] 14
-    2. [x] 24
-    3. [ ] 52
+    1. [x] I Norge og Sverige
+    2. [ ] I Tyskland og Frankrig
+    3. [ ] I USA og Storbritannien
+
+    ## I hvilken periode foregår tv-serien Matador?
+
+    1. [ ] Omkring år 1900
+    2. [x] I 1930'ernes og 1940'ernes Danmark
+    3. [ ] I 1970'ernes Danmark
+
+    ## Hvor udspiller Matador sig?
+
+    1. [ ] I det virkelige København
+    2. [ ] I Kristiania
+    3. [x] I den fiktive sjællandske provinsby Korsbæk
+
+    ## Hvad følger seerne blandt andet i Matador?
+
+    1. [x] Indbyggernes familieliv, karriere, kærlighed og kamp med kønsrollerne
+    2. [ ] En forbryderbandes kup i 1960'erne
+    3. [ ] Fire læreres forsøg med alkohol
+
+    ## Hvor mange afsnit har Matador, og hvornår blev de vist første gang?
+
+    1. [ ] 14 afsnit i 1968-75
+    2. [x] 24 afsnit i 1978-82
+    3. [ ] 36 afsnit i 1984-88
 
     ## Hvem skrev blandt andre manuskriptet til Matador?
 
-    1. [x] Lise Nørgaard
-    2. [ ] Asta Nielsen
-    3. [ ] Astrid Henning-Jensen
+    1. [ ] Asta Nielsen
+    2. [ ] Susanne Bier
+    3. [x] Lise Nørgaard
 
-    ## Hvad hjalp Buster igennem vanskelighederne i Busters verden?
+    ## Hvorfra fik mange begivenheder i Matador inspiration?
 
-    1. [ ] Hans familie flyttede til en ny by
-    2. [ ] Han fik arbejde som tryllekunstner på et teater
+    1. [x] Fra Lise Nørgaards egen barndom og ungdom
+    2. [ ] Fra Morten Korchs romaner
+    3. [ ] Fra Kaj Munks dramaer
+
+    ## Hvilken romanforfatter skrev forlægget til Busters Verden?
+
+    1. [ ] Astrid Lindgren
+    2. [x] Bjarne Reuter
+    3. [ ] Tove Ditlevsen
+
+    ## Hvad hjælper Buster gennem vanskelighederne hjemme og i skolen?
+
+    1. [ ] Hans evner som skuespiller
+    2. [ ] Hans læreres støtte
     3. [x] Hans fantasi og evner for tryllekunst
 
-    ## Hvad anerkendte Folketinget i 1982 ved at forbedre vilkårene for danske børnefilm?
+    ## Hvad gjorde Folketinget for danske børnefilm i 1982?
 
-    1. [ ] At børnefilm kun skulle vises på tv
+    1. [x] Det gav dem bedre økonomiske vilkår
+    2. [ ] Det forbød dem at handle om mobning
+    3. [ ] Det gjorde dem til en del af tv-teatret
+
+    ## Hvad anerkendte Folketinget samtidig ved beslutningen i 1982?
+
+    1. [ ] At alle børnefilm skulle bygge på romaner
     2. [x] Børnefilmgenrens kunstneriske betydning
-    3. [ ] At alle film skulle være baseret på romaner
+    3. [ ] At børnefilm kun var for voksne
 
     ## Hvilke temaer står centralt i Nils Malmros' Kundskabens træ?
 
-    1. [ ] Krig og kongemagt
-    2. [ ] Kunst og arkitektur
-    3. [x] Mobning og forelskelser blandt unge i en skoleklasse
+    1. [ ] Fattigdom og arbejdsløshed blandt voksne
+    2. [ ] Filmkunst og skuespil
+    3. [x] Mobning og forelskelser i en klasse af pubertetsbørn
 
-    ## Hvad lovede instruktørerne bag Dogme 95 at prioritere?
+    ## Hvordan fremstilles de voksne i Kundskabens træ?
 
-    1. [x] Den gode historie frem for tekniske effekter
-    2. [ ] Store kulisser frem for skuespillernes præstationer
-    3. [ ] Kun dokumentarfilm om samfundet
+    1. [x] De forstår ikke de unges liv og indbyrdes forhold
+    2. [ ] De løser hurtigt de unges problemer
+    3. [ ] De deltager selv i klassens fællesskab
 
-    ## Hvem skrev Dogme 95-manifestet sammen med Lars von Trier?
+    ## Hvorfor genkendte både unge og voksne sig ofte i Malmros' film?
 
-    1. [ ] Erik Balling, Bille August og Gabriel Axel
-    2. [x] Thomas Vinterberg, Søren Kragh-Jacobsen og Kristian Levring
-    3. [ ] Nils Malmros, Henning Carlsen og Johan Jacobsen
+    1. [ ] Filmene handlede om deres hjemby
+    2. [x] De kunne genkende hans skildring af den tidlige ungdom
+    3. [ ] Alle filmene byggede på kendte romaner
 
-    ## Hvad handler Lars von Triers dogmefilm Idioterne om?
+    ## Hvem skrev Dogme 95-manifestet sammen?
 
-    1. [ ] En gruppe unge, der rejser til Skagen
-    2. [ ] En dansk landmand, der vinder et væddeløb
-    3. [x] Voksne, der spiller "idioter" for at provokere og udfordre sig selv
+    1. [ ] Erik Balling, Nils Malmros, Bille August og Gabriel Axel
+    2. [ ] Carl Th. Dreyer, Kaj Munk, Henning Carlsen og Johan Jacobsen
+    3. [x] Lars von Trier, Thomas Vinterberg, Søren Kragh-Jacobsen og Kristian Levring
+
+    ## Hvad forpligtede de fire dogmebrødre sig til?
+
+    1. [x] At lave enkle film med den gode historie frem for tekniske effekter
+    2. [ ] At lave kostbare film med mange effekter
+    3. [ ] At filmatisere klassiske danske romaner
+
+    ## Hvordan blev Dogme 95 og dogmefilmene modtaget?
+
+    1. [ ] De blev kun kendt blandt danske instruktører
+    2. [x] Manifestet vakte opsigt, og flere film fik succes i Danmark og udlandet
+    3. [ ] De blev afvist af både publikum og kritikere
+
+    ## Hvad gør gruppen i Lars von Triers Idioterne?
+
+    1. [ ] De forsøger at opklare et mord
+    2. [ ] De drikker alkohol hele dagen
+    3. [x] De spiller "idioter" for at provokere omgivelserne og realisere sig selv
+
+    ## Hvad afslører Idioterne om gruppen og omgivelserne?
+
+    1. [x] Gruppens selvoptagethed og omgivelsernes manglende tolerance
+    2. [ ] Gruppens fattigdom og omgivelsernes rigdom
+    3. [ ] Gruppens mod og omgivelsernes beundring
 
     ## Hvilken pris vandt Lars von Trier for Dancer in the Dark?
 
     1. [ ] En Oscar
     2. [x] Den Gyldne Palme
-    3. [ ] En Golden Globe for Hævnen
+    3. [ ] En Golden Globe
+
+    ## Hvem havde hovedrollen i Dancer in the Dark?
+
+    1. [ ] Trine Dyrholm
+    2. [ ] Asta Nielsen
+    3. [x] Björk
+
+    ## Hvilken pris vandt Thomas Vinterbergs Festen i Cannes i 1998?
+
+    1. [x] Juryens specialpris, Prix du Jury
+    2. [ ] Den Gyldne Palme
+    3. [ ] En Oscar
 
     ## Hvilken film af Thomas Vinterberg vandt en Oscar i 2021?
 
-    1. [x] Druk
-    2. [ ] Festen
+    1. [ ] Festen
+    2. [x] Druk
     3. [ ] Jagten
+
+    ## Hvad forsøger de fire gymnasielærere i Druk?
+
+    1. [ ] At holde helt op med at drikke
+    2. [ ] At lave en film om deres skole
+    3. [x] At gøre livet mere spændende ved at have alkohol i blodet hele dagen
+
+    ## Hvordan udvikler lærernes forsøg sig i Druk?
+
+    1. [x] Det går først godt, men kommer ud af kontrol og ender i en tragisk ulykke
+    2. [ ] Det mislykkes straks uden følger
+    3. [ ] Det fortsætter med succes til filmen slutter
+
+    ## Hvad handler Druk også om ud over alkoholprojektet?
+
+    1. [ ] At bevare fuld kontrol hele livet
+    2. [x] At slippe kontrollen, mærke livet og konsekvenserne heraf
+    3. [ ] At opnå international berømmelse
+
+    ## Hvem var den første danske instruktør, der vandt en Oscar?
+
+    1. [ ] Bille August
+    2. [ ] Susanne Bier
+    3. [x] Gabriel Axel
 
     ## Hvilken film gav Gabriel Axel en Oscar?
 
-    1. [ ] Pelle Erobreren
-    2. [ ] Dancer in the Dark
-    3. [x] Babettes Gæstebud
+    1. [x] Babettes Gæstebud
+    2. [ ] Pelle Erobreren
+    3. [ ] Hævnen
 
-    ## Hvilken dansk instruktør vandt både en Oscar og De Gyldne Palmer for Pelle Erobreren?
+    ## Hvad sker der med den strenge kristne menighed i Babettes Gæstebud?
 
-    1. [ ] Susanne Bier
-    2. [x] Bille August
-    3. [ ] Carl Th. Dreyer
+    1. [ ] Den afviser måltidet og forlader byen
+    2. [x] Et overdådigt måltid gør pludselig medlemmerne gladere og bedre
+    3. [ ] Den vinder penge og bygger en kirke
 
-    ## Hvilken film indbragte Susanne Bier både en Oscar og en Golden Globe?
+    ## Hvilke priser vandt Bille August for Pelle Erobreren?
 
-    1. [x] Hævnen
-    2. [ ] Sult
-    3. [ ] Soldaten og Jenny
+    1. [ ] En Golden Globe og Prix du Jury
+    2. [ ] Kun en Oscar
+    3. [x] En Oscar og De Gyldne Palmer
 
-    ## Hvilken pris modtog Mads Mikkelsen for sin rolle i Jagten?
+    ## Hvilken forfatters roman bygger Pelle Erobreren på?
 
-    1. [ ] En Oscar for bedste instruktør
-    2. [ ] Den Gyldne Palme for Druk
-    3. [x] Prisen for bedste mandlige skuespiller ved Cannes Filmfestival
+    1. [x] Martin Andersen Nexøs
+    2. [ ] Karen Blixens
+    3. [ ] Knut Hamsuns
 
-    ## Hvem spiller Mads Mikkelsen i James Bond-filmen Casino Royale?
+    ## Hvilke priser vandt Susanne Bier for Hævnen?
+
+    1. [ ] Prix du Jury og Den Gyldne Palme
+    2. [x] En Oscar og en Golden Globe
+    3. [ ] To Oscar-priser
+
+    ## Hvilket spørgsmål sætter Hævnen fokus på?
+
+    1. [x] Hvornår det er rigtigt eller forkert at hævne sig
+    2. [ ] Hvordan en filmstjerne bliver berømt
+    3. [ ] Hvorfor en familie flytter i kollektiv
+
+    ## Hvilken pris modtog Mads Mikkelsen for Jagten?
+
+    1. [x] Prisen for bedste mandlige skuespiller i Cannes i 2012
+    2. [ ] En Oscar for bedste instruktør i 2012
+    3. [ ] Den Gyldne Palme i 2021
+
+    ## Hvad bliver Mads Mikkelsens rolle Lucas falsk anklaget for i Jagten?
+
+    1. [ ] Mord
+    2. [x] Pædofili
+    3. [ ] Tyveri
+
+    ## Hvad sker der med historielæreren Martin, når han får alkohol i kroppen i Druk?
+
+    1. [ ] Han mister straks sit arbejde
+    2. [ ] Han bliver mere usikker og uengageret
+    3. [x] Han genvinder arbejdsglæde og selvtillid og engagerer eleverne
+
+    ## Hvem spiller Mads Mikkelsen i Casino Royale?
 
     1. [x] James Bonds hovedmodstander
-    2. [ ] James Bonds chef
-    3. [ ] En dansk filminstruktør
+    2. [ ] James Bond
+    3. [ ] En dansk politibetjent
 
-    ## Hvilken rolle blev Sofie Gråbøl især kendt for i Forbrydelsen?
+    ## Hvilken anden dansk skuespiller spiller terroristen, der dræber Mads Mikkelsens figur i Casino Royale?
 
-    1. [ ] En lærerinde på et børnehjem
-    2. [x] Vicekriminalkommissær Sarah Lund
-    3. [ ] En ung landmand fra Jylland
+    1. [ ] Bille August
+    2. [x] Jesper Christensen
+    3. [ ] Erik Balling
 
-    ## Hvilken rolle spiller Trine Dyrholm i filmen Dronningen?
+    ## Hvem spiller Jesper Christensen i Bænken?
 
-    1. [ ] En kriminalkommissær, der opklarer et mord
-    2. [ ] En sangerinde i en dansk rockgruppe
-    3. [x] Advokaten Anne
+    1. [ ] En gymnasielærer ved navn Martin
+    2. [ ] En forfatter uden penge til mad
+    3. [x] Alkoholikeren Kaj
+
+    ## Hvad konfronteres Kaj med, da hans datter flytter ind i ejendommen i Bænken?
+
+    1. [x] Sin fortid, manglende ansvarsfølelse og sit forspildte liv
+    2. [ ] En falsk anklage og landsbyens udstødelse
+    3. [ ] Et krav om at vinde et hestevæddeløb
+
+    ## Hvilken rolle har Jesper Christensen i Drabet?
+
+    1. [ ] En politibetjent, der opklarer et drab
+    2. [x] En gymnasielærer, der mister sin moralske dømmekraft
+    3. [ ] En alkoholiker, der møder sin datter
+
+    ## Hvilken rolle gjorde for alvor Sofie Gråbøl kendt i filmen Barndommens Gade?
+
+    1. [ ] Lærerinden Lillian
+    2. [ ] Vicekriminalkommissær Sarah Lund
+    3. [x] Den 14-årige Ester
+
+    ## Hvilken konflikt oplever Ester i Barndommens Gade?
+
+    1. [x] Hun er fanget mellem barndom og voksenliv, hårde vilkår og drømmen om at bryde fri
+    2. [ ] Hun skal vælge mellem to filmroller
+    3. [ ] Hun forsøger at redde sin families gård
+
+    ## Hvem spiller Sofie Gråbøl i Der kommer en dag?
+
+    1. [ ] Advokaten Anne
+    2. [x] Lærerinden Lillian
+    3. [ ] Marianne
+
+    ## Hvad vakler Lillian mellem i Der kommer en dag?
+
+    1. [ ] At blive på børnehjemmet eller flytte til udlandet
+    2. [ ] At støtte to forskellige elever
+    3. [x] Loyalitet mod arbejdsgiveren og ønsket om at kæmpe for drengene
+
+    ## Hvilken rolle spiller Sofie Gråbøl i tv-serien Forbrydelsen?
+
+    1. [x] Vicekriminalkommissær Sarah Lund
+    2. [ ] Advokaten Anne
+    3. [ ] Filmstjernen Asta Nielsen
+
+    ## Hvad skal Sarah Lund opklare i Forbrydelsen?
+
+    1. [ ] Et kup begået af en forbryderbande
+    2. [x] Mordet på en 19-årig kvinde
+    3. [ ] En politibetjents død i en politisk sag
+
+    ## Hvilken rolle spiller Trine Dyrholm i Hævnen?
+
+    1. [ ] Anna, der bor i et kollektiv
+    2. [ ] Advokaten Anne
+    3. [x] Marianne, hvis mand har været utro, og hvis søn bliver mobbet
+
+    ## Hvad oplever Trine Dyrholms figur Anna i Kollektivet?
+
+    1. [x] Hendes idealer om fri kærlighed udfordres, da manden forelsker sig i en yngre kollega
+    2. [ ] Hun bliver falsk anklaget og udstødt
+    3. [ ] Hun mister sin moralske dømmekraft efter et drab
+
+    ## Hvordan sætter advokaten Anne sin moral over styr i Dronningen?
+
+    1. [ ] Hun nægter at forsvare børn og unge
+    2. [x] Hun forfører sin 17-årige stedsøn
+    3. [ ] Hun skjuler sin mands utroskab

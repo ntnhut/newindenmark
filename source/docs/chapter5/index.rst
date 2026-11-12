@@ -21,7 +21,11 @@ Kapitel 5 - Dansk kulturliv
    5.3e_modernisme_quiz
    5.3f_samtidskunst_quiz
    5.4
-   5.4_quiz
+   5.4a_tidlig_musik_quiz
+   5.4b_nationalmusik_og_carl_nielsen_quiz
+   5.4c_jazz_og_populaermusik_quiz
+   5.4d_nyere_popmusik_quiz
+   5.4e_eurovision_quiz
    5.5
    5.5_quiz
    5.6

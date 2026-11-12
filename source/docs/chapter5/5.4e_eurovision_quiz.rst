@@ -1,0 +1,44 @@
+Quiz til Danmark i Eurovision
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor mange gange har Danmark vundet Eurovision Song Contest?
+
+    1. [ ] Én gang
+    2. [ ] To gange
+    3. [x] Tre gange
+
+    ## Hvem fremførte Danmarks første vindersang, Dansevise, i 1963?
+
+    1. [x] Grethe og Jørgen Ingmann
+    2. [ ] Brødrene Olsen
+    3. [ ] Emmelie de Forest
+
+    ## Hvilken duo vandt Eurovision for Danmark i 2000?
+
+    1. [ ] TV2
+    2. [x] Brødrene Olsen
+    3. [ ] Aqua
+
+    ## Hvilken sang vandt for Danmark i 2013?
+
+    1. [ ] Fly on the Wings of Love
+    2. [ ] Dansevise
+    3. [x] Only Teardrops
+
+    ## Hvem sang Only Teardrops?
+
+    1. [ ] MØ
+    2. [x] Emmelie de Forest
+    3. [ ] Anne Linnet

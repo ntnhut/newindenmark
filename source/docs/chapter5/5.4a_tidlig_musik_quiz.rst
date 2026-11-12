@@ -1,0 +1,81 @@
+Quiz til tidlig dansk musik
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke musikinstrumenter fra bronzealderen er bevaret i Danmark?
+
+    1. [x] Store horn, der kaldes lurer
+    2. [ ] Violiner af træ
+    3. [ ] Trompeter af sølv
+
+    ## Fra hvilken periode stammer de bevarede lurer?
+
+    1. [ ] Middelalderen
+    2. [x] Bronzealderen
+    3. [ ] 1800-tallet
+
+    ## Hvad ved man om lurernes oprindelige anvendelse?
+
+    1. [ ] De blev kun brugt i kirker
+    2. [ ] De blev brugt til opera
+    3. [x] Det vides ikke med sikkerhed
+
+    ## Hvordan er lurerne blevet fundet?
+
+    1. [x] Parvis
+    2. [ ] Altid enkeltvis
+    3. [ ] I grupper på ti
+
+    ## Hvor meget ved man om dansk musik før kristendommens indførelse?
+
+    1. [ ] Man har detaljerede noder fra perioden
+    2. [x] Oplysningerne er meget sparsomme
+    3. [ ] Man ved, at al musik var kirkemusik
+
+    ## Hvilken musiktradition kom til Danmark med kristendommen?
+
+    1. [ ] Jazz
+    2. [x] Katolsk kirkemusik
+    3. [ ] Rockmusik
+
+    ## Hvorfor kaldes reformationen den syngende revolution?
+
+    1. [x] Menighedens salmesang blev vigtig i gudstjenesten
+    2. [ ] Alle instrumenter blev forbudt
+    3. [ ] Kongen oprettede et operahus
+
+    ## Hvornår udkom den første kongeligt autoriserede salmebog?
+
+    1. [ ] 1536
+    2. [x] 1569
+    3. [ ] 1819
+
+    ## Hvilken salmedigter skrev om, at livet ikke er evigt?
+
+    1. [x] Thomas Kingo
+    2. [ ] N.F.S. Grundtvig
+    3. [ ] B.S. Ingemann
+
+    ## Hvilken salmedigter forbindes med en inderlig og følelsesfuld tro?
+
+    1. [ ] Thomas Kingo
+    2. [x] Hans Adolph Brorson
+    3. [ ] Johannes Ewald
+
+    ## Hvilke salmedigtere hyldede naturen, barnet og livet på jorden som Guds skaberværk?
+
+    1. [ ] Kingo og Brorson
+    2. [ ] Ewald og Oehlenschläger
+    3. [x] Grundtvig og Ingemann
+

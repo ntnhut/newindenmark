@@ -1,0 +1,93 @@
+Quiz til dansk nationalmusik og Carl Nielsen
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad skete der i dansk musik omkring år 1800?
+
+    1. [x] Tyske musikere og komponister indvandrede og fornyede musikken
+    2. [ ] Al udenlandsk musik blev forbudt
+    3. [ ] Jazz blev den dominerende genre
+
+    ## Hvem skrev musikken til Elverhøi?
+
+    1. [ ] Hans Ernst Krøyer
+    2. [x] Friedrich Kuhlau
+    3. [ ] Carl Nielsen
+
+    ## Hvad er Elverhøi?
+
+    1. [ ] En moderne rockopera
+    2. [ ] En salmebog
+    3. [x] Et nationalromantisk festspil fra 1828
+
+    ## Hvem skrev teksten til ”Kong Christian stod ved højen mast”?
+
+    1. [x] Johannes Ewald
+    2. [ ] Adam Oehlenschläger
+    3. [ ] Hans Ernst Krøyer
+
+    ## Hvilken status har ”Kong Christian stod ved højen mast”?
+
+    1. [ ] Den er kun en teatersang
+    2. [x] Den er en af Danmarks nationalsange og landets kongesang
+    3. [ ] Den er Danmarks eneste nationalsang
+
+    ## Hvem skrev teksten til ”Der er et yndigt land”?
+
+    1. [ ] Johannes Ewald
+    2. [x] Adam Oehlenschläger
+    3. [ ] Carl Nielsen
+
+    ## Hvem komponerede i 1835 musikken til ”Der er et yndigt land”?
+
+    1. [x] Hans Ernst Krøyer
+    2. [ ] Friedrich Kuhlau
+    3. [ ] Thomas Kingo
+
+    ## Hvad er usædvanligt ved Danmarks nationalsange?
+
+    1. [ ] Danmark har ingen nationalsang
+    2. [ ] Begge er skrevet af samme person
+    3. [x] Danmark har som et af få lande to nationalsange
+
+    ## Hvor havde Carl Nielsen sine musikalske rødder?
+
+    1. [x] I det folkelige musikliv på Fyn
+    2. [ ] I amerikansk jazz
+    3. [ ] I operaen i Rom
+
+    ## Hvilken betydning har Carl Nielsen i dansk musikhistorie?
+
+    1. [ ] Han regnes kun som salmedigter
+    2. [x] Han regnes som den mest fremtrædende danske komponist nogensinde
+    3. [ ] Han skrev kun filmmusik
+
+    ## Hvilke typer musik skrev Carl Nielsen?
+
+    1. [ ] Kun salmer
+    2. [ ] Kun pop og rock
+    3. [x] Operaer, symfonier, kammermusik og sange
+
+    ## Hvordan udviklede Carl Nielsens musik sig?
+
+    1. [x] Den tog afsæt i romantikken og forenede det folkelige med det moderne
+    2. [ ] Den afviste både enkel og kompliceret musik
+    3. [ ] Den byggede udelukkende på jazz
+
+    ## Hvem var Carl Nielsen gift med?
+
+    1. [ ] Anne Linnet
+    2. [x] Billedhuggeren Anne Marie Carl-Nielsen
+    3. [ ] Grethe Ingmann
+

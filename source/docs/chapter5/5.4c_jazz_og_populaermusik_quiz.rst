@@ -1,0 +1,93 @@
+Quiz til jazz og populærmusik
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke danske jazzmusikere nævnes i teksten?
+
+    1. [x] Leo Mathisen, Palle Mikkelborg og Marilyn Mazur
+    2. [ ] Kim Larsen, Anne Linnet og Lukas Forchhammer
+    3. [ ] Kuhlau, Krøyer og Carl Nielsen
+
+    ## Hvorfor boede amerikanske jazzmusikere som Stan Getz i København i 1960'erne?
+
+    1. [ ] For at skrive danske salmer
+    2. [x] De søgte et kunstnerisk fristed fra uro og raceforfølgelse i USA
+    3. [ ] De skulle deltage i Eurovision
+
+    ## Hvad blev Bent Fabricius Bjerre kendt for?
+
+    1. [ ] At skrive runesange
+    2. [ ] At lede Gasolin
+    3. [x] At skrive melodier til film og tv-serier som Matador
+
+    ## Hvem var forsanger i Gasolin?
+
+    1. [x] Kim Larsen
+    2. [ ] Steffen Brandt
+    3. [ ] Lukas Forchhammer
+
+    ## Hvilke genrer kombinerede Gasolin?
+
+    1. [ ] Jazz og klassisk musik
+    2. [x] Pop og rock
+    3. [ ] Salmer og opera
+
+    ## Hvilke sange nævnes som Gasolin-sange?
+
+    1. [ ] Nærmest lykkelig og Barbie Girl
+    2. [ ] 7 Years og Pilgrim
+    3. [x] Kvinde min og Hva' gør vi nu, lille du?
+
+    ## Hvorfor bruges mange af Kim Larsens sange ved familiefester?
+
+    1. [x] De udtrykker følelser, humor og solidaritet enkelt og underfundigt
+    2. [ ] De er alle skrevet som nationalsange
+    3. [ ] De handler kun om historiske konger
+
+    ## Hvad handler Anne Linnets ”Smuk og dejlig” om?
+
+    1. [ ] En konges kamp
+    2. [x] Lesbisk kærlighed
+    3. [ ] En rejse til Fyn
+
+    ## Hvilket band kaldte sig selv ”Danmarks kedeligste orkester”?
+
+    1. [ ] Gasolin
+    2. [x] TV2
+    3. [ ] Aqua
+
+    ## Hvilke emner synger TV2 blandt andet om?
+
+    1. [x] Hverdagen, kærligheden og modet til at gribe livet
+    2. [ ] Kun middelalderens kirkeliv
+    3. [ ] Kun amerikansk politik
+
+    ## Hvilket TV2-nummer nævnes som et af bandets mest kendte?
+
+    1. [ ] Barbie Girl
+    2. [ ] Dansevise
+    3. [x] Nærmest lykkelig
+
+    ## Hvilket nummer blev et globalt hit for Aqua?
+
+    1. [x] Barbie Girl
+    2. [ ] 7 Years
+    3. [ ] Kamikaze
+
+    ## Hvor mange cd'er har Aqua solgt ifølge teksten?
+
+    1. [ ] Cirka 2,8 millioner
+    2. [x] Cirka 28 millioner
+    3. [ ] Cirka 280 millioner
+

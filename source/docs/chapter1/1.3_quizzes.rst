@@ -1,0 +1,8 @@
+Quizzer til 1.3
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   1.3a_magtkamp_quiz
+   1.3b_pest_kalmarunion_quiz

@@ -1,0 +1,108 @@
+Quiz til 1.2.1 Det danske rige tager form
+=========================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad skete der med Danmark i vikingetiden?
+
+    1. [ ] Landet blev delt mellem mange udenlandske konger
+    2. [x] Landet blev samlet under én konge, og magten begyndte at blive centraliseret
+    3. [ ] Kongemagten blev afskaffet
+
+    ## Hvad foretog vikingerne sig på deres togter i Europa?
+
+    1. [x] De handlede, plyndrede og slog sig ned
+    2. [ ] De byggede kun kirker
+    3. [ ] De rejste kun som fredelige turister
+
+    ## Hvilken religiøs forandring skete der i vikingetiden?
+
+    1. [ ] De fleste danskere blev muslimer
+    2. [ ] Asatroen blev indført for første gang
+    3. [x] De fleste danskere blev kristne
+
+    ## Hvad arbejdede langt de fleste mennesker i vikingetiden som?
+
+    1. [ ] Soldater og præster
+    2. [x] Bønder eller handelsmænd
+    3. [ ] Fabriksarbejdere eller embedsmænd
+
+    ## Hvem er den første kendte konge, som omkring år 700 samlede en del af det senere Danmark?
+
+    1. [x] Angantyr
+    2. [ ] Gorm den Gamle
+    3. [ ] Knud den Store
+
+    ## Hvornår kendes selve ordet Danmark fra?
+
+    1. [ ] Begyndelsen af 700-tallet
+    2. [x] Slutningen af 800-tallet
+    3. [ ] Midten af 1000-tallet
+
+    ## Hvad betyder navnet Danmark ifølge teksten?
+
+    1. [ ] Kongens land ved havet
+    2. [ ] De nordiske øers rige
+    3. [x] Danernes grænseområde
+
+    ## Hvor ses navnet Danmark første gang brugt inden for landets grænser?
+
+    1. [x] På en runesten fra cirka 955
+    2. [ ] På et vikingeskib fra 800-tallet
+    3. [ ] På en kirke fra midten af 800-tallet
+
+    ## Hvem rejste runestenen fra cirka 955, og hvem skulle den minde om?
+
+    1. [ ] Harald Blåtand rejste den til minde om Ansgar
+    2. [x] Gorm den Gamle rejste den til minde om Thyra
+    3. [ ] Svend Tveskæg rejste den til minde om Knud den Store
+
+    ## Hvad var runer?
+
+    1. [ ] Vikingernes mønter
+    2. [x] Vikingetidens skrifttegn
+    3. [ ] En type ringborg
+
+    ## Hvem regnes som den første konge, der regerede hele Danmark?
+
+    1. [ ] Gorm den Gamle
+    2. [x] Harald Blåtand
+    3. [ ] Svend Tveskæg
+
+    ## Hvilket andet område var Harald Blåtand også konge over?
+
+    1. [x] Dele af Norge
+    2. [ ] Hele England
+    3. [ ] Normandiet
+
+    ## Hvor står Gorm den Gamles og Harald Blåtands runesten i dag?
+
+    1. [ ] I Ribe
+    2. [ ] I Hedeby
+    3. [x] I Jelling
+
+    ## Hvorfor opførte Harald Blåtand omkring år 980 ringborge i forskellige dele af landet?
+
+    1. [x] For at sikre riget mod fjender
+    2. [ ] For at holde religiøse ceremonier
+    3. [ ] For at opbevare varer fra de arabiske lande
+
+    ## Hvad viser de store ringborge om den danske konge omkring år 980?
+
+    1. [ ] Kongen kunne kun bestemme i Jelling
+    2. [x] Kongen kunne indkræve skatter og skaffe store mængder arbejdskraft
+    3. [ ] Kongen måtte låne arbejdskraft fra England
+
+    ## Hvad fortæller ringborgene om Danmark på dette tidspunkt?
+
+    1. [ ] Danmark bestod af uafhængige bystater
+    2. [ ] Danmark var styret af handelsmænd
+    3. [x] Danmark var ét rige samlet under én centralmagt
+

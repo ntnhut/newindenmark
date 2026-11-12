@@ -1,0 +1,102 @@
+Quiz til 1.6.2 Den Florissante periode og Englandskrige
+=======================================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad betyder ordet ”florissant”?
+
+    1. [ ] Krigsførende
+    2. [ ] Oplyst
+    3. [x] Blomstrende
+
+    ## Hvad kendetegnede Den Florissante Periode?
+
+    1. [x] Dansk søfart blomstrede, og København blev en international storhavn
+    2. [ ] Danmark var i vedvarende krig med alle stormagter
+    3. [ ] Al dansk handel blev standset
+
+    ## Hvorfor kunne neutrale danske skibe fragte mange af stormagternes varer?
+
+    1. [ ] Danmark kontrollerede alle europæiske havne
+    2. [x] De krigsførende stormagter blokerede hinandens havne og sejlruter
+    3. [ ] De danske skibe tilhørte Storbritannien
+
+    ## Hvad skete der med de værdifulde laster, som kom til København?
+
+    1. [ ] De blev givet til den danske hær
+    2. [ ] De blev opbevaret uden at blive solgt
+    3. [x] De blev videresolgt til andre europæiske lande
+
+    ## Hvad blev neutralitetshandelen på længere sigt en vej ind i?
+
+    1. [x] Napoleonskrigene
+    2. [ ] Svenskekrigene
+    3. [ ] Treårskrigen
+
+    ## Hvorfor kaldes Napoleonskrigene også Englandskrigene i Danmark?
+
+    1. [ ] Danmark var allieret med England mod Frankrig
+    2. [x] Danmark blev allieret med Frankrig i krig mod England
+    3. [ ] Krigene foregik kun i England
+
+    ## Hvilken begivenhed førte til, at Napoleonskrigene begyndte i 1792?
+
+    1. [ ] Stavnsbåndets ophævelse i 1788
+    2. [ ] Slaget på Reden i 1801
+    3. [x] Den Franske Revolution i 1789
+
+    ## Hvad gjorde Danmark i Napoleonskrigenes første tid?
+
+    1. [x] Danmark var neutralt og handlede med både Storbritannien og Frankrig
+    2. [ ] Danmark var straks allieret med Frankrig
+    3. [ ] Danmark standsede al søfart
+
+    ## Hvorfor angreb Storbritannien den danske flåde i 1801?
+
+    1. [ ] Danmark havde besat britiske havne
+    2. [x] Storbritannien ville forhindre Danmarks handel med Frankrig
+    3. [ ] Danmark havde erobret Norge fra Sverige
+
+    ## Hvor fandt Slaget på Reden sted?
+
+    1. [ ] Ved grænsen til Tyskland
+    2. [x] I farvandet lige uden for Københavns havn
+    3. [ ] Ved Norges vestkyst
+
+    ## Hvorfor bombarderede briterne København i 1807?
+
+    1. [x] De ville forhindre Napoleon i at bruge den danske flåde til sin blokade
+    2. [ ] De ville hjælpe Danmark med at erobre Sverige
+    3. [ ] De ville gennemtvinge en dansk grundlov
+
+    ## Hvad gjorde briterne med den danske flåde i forbindelse med bombardementet?
+
+    1. [ ] De ødelagde kun handelsskibene
+    2. [ ] De gav flåden til Frankrig
+    3. [x] De erobrede hele flåden
+
+    ## Hvilken side valgte Danmark efter nederlaget i 1807?
+
+    1. [ ] Storbritannien
+    2. [x] Frankrig
+    3. [ ] Sverige
+
+    ## Hvad måtte Danmark afgive ved fredsaftalen i 1814?
+
+    1. [ ] Færøerne til Storbritannien
+    2. [x] Norge til Sverige
+    3. [ ] Grønland til Frankrig
+
+    ## Hvor længe havde Danmark og Norge været i union, da den sluttede i 1814?
+
+    1. [ ] Godt 100 år
+    2. [ ] Godt 200 år
+    3. [x] Over 400 år
+

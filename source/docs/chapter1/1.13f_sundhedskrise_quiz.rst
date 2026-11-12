@@ -1,0 +1,72 @@
+Quiz til 1.13.6 Sundhedskrise
+=============================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor og hvornår blev coronavirusset først opdaget?
+
+    1. [x] I Kina i 2019
+    2. [ ] I Danmark i 2020
+    3. [ ] I USA i 2021
+
+    ## Hvornår blev det første Covid-19-tilfælde registreret i Danmark?
+
+    1. [ ] December 2019
+    2. [x] Februar 2020
+    3. [ ] December 2020
+
+    ## Hvad var et hovedformål med restriktionerne under Covid-19-pandemien?
+
+    1. [ ] At lukke permanent alle danske sygehuse
+    2. [ ] At få alle borgere til at rejse mere
+    3. [x] At undgå, at mange blev smittet samtidig og overbelastede sygehusene
+
+    ## Hvilke tiltag prægede hverdagen under pandemien?
+
+    1. [ ] Fri rejse, åbne skoler og fulde stadioner
+    2. [x] Mundbind, rejsebegrænsninger, hjemsendelse og periodiske lukninger
+    3. [ ] Kun lukning af offentlige kontorer
+
+    ## Hvad var formålet med den omfattende testning?
+
+    1. [x] At finde smittede, som skulle blive hjemme og undgå videre smitte
+    2. [ ] At erstatte alle vaccinationer
+    3. [ ] At afgøre, hvem der måtte gå i skole permanent
+
+    ## Hvordan udviklede coronavirusset og smittebølgerne sig ifølge teksten?
+
+    1. [ ] Virusset ændrede sig ikke, og der var én bølge
+    2. [ ] Virusset blev mindre smitsomt efter hver ændring
+    3. [x] Virusset muterede til mere smitsomme varianter, og Danmark blev ramt af tre store bølger
+
+    ## Hvilket middel blev udviklet og brugt til at forebygge alvorlig Covid-19-sygdom?
+
+    1. [ ] Antibiotika mod alle virus
+    2. [ ] En ny type antibiotika
+    3. [x] Vacciner mod coronavirus
+
+    ## Hvornår blev den første dansker vaccineret mod coronavirus?
+
+    1. [ ] Februar 2020
+    2. [x] December 2020
+    3. [ ] December 2022
+
+    ## Hvor stor en del af Danmarks befolkning blev vaccineret med to eller tre stik?
+
+    1. [x] Cirka 90 procent
+    2. [ ] Cirka 25 procent
+    3. [ ] Cirka 50 procent
+
+    ## Hvor mange registrerede døde med coronavirus nævner teksten globalt og i Danmark?
+
+    1. [ ] Cirka 100.000 globalt og 100 i Danmark
+    2. [ ] Cirka 90 millioner globalt og 1 million i Danmark
+    3. [x] Næsten syv millioner globalt og næsten 10.000 i Danmark
+

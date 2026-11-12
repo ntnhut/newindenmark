@@ -1,0 +1,156 @@
+Quiz til 1.4.2 Christian 4. og Svenskekrigene
+=============================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor længe var Christian 4. konge?
+
+    1. [ ] Næsten 20 år
+    2. [ ] Næsten 40 år
+    3. [x] Næsten 60 år
+
+    ## Hvilket område satte Christian 4. blandt andet sit præg på?
+
+    1. [x] Kunst og arkitektur
+    2. [ ] Oversættelsen af Jyske Lov
+    3. [ ] Oprettelsen af Kalmarunionen
+
+    ## Hvilke bygningsværker lod Christian 4. blandt andet opføre?
+
+    1. [ ] Jellingstenene, Kronborg og Amalienborg
+    2. [x] Frederiksborg Slot, Børsen, Rosenborg Slot og Rundetårn
+    3. [ ] Roskilde Domkirke, Hammershus og Tirpitz
+
+    ## Hvilke byer grundlagde Christian 4. uden for det nuværende Danmark?
+
+    1. [x] Kristianstad, Kristiansand og Kristiania
+    2. [ ] Stockholm, Bergen og Helsinki
+    3. [ ] Kalmar, Tallinn og Lübeck
+
+    ## Hvad hedder Kristiania i dag?
+
+    1. [ ] Bergen
+    2. [x] Oslo
+    3. [ ] Trondheim
+
+    ## Hvilket område dominerede Danmark, da Christian 4. overtog regeringsmagten?
+
+    1. [ ] Området omkring Middelhavet
+    2. [x] Området omkring Østersøen
+    3. [ ] Området omkring Atlanterhavet
+
+    ## Hvilken krig trak Christian 4. Danmark ind i i 1625?
+
+    1. [x] Trediveårskrigen
+    2. [ ] Napoleonskrigene
+    3. [ ] Første Verdenskrig
+
+    ## Hvor foregik Trediveårskrigen især?
+
+    1. [ ] I Norge
+    2. [ ] I England
+    3. [x] I Tyskland
+
+    ## Hvad skete der med magtbalancen i Østersøområdet efter Danmarks nederlag og udtræden af krigen i 1629?
+
+    1. [ ] Danmark blev den førende magt
+    2. [x] Sverige blev den førende magt
+    3. [ ] Nederlandene overtog området
+
+    ## Hvad skete der i 1643?
+
+    1. [x] Sverige angreb Danmark
+    2. [ ] Danmark angreb Nederlandene
+    3. [ ] Bornholm gjorde oprør mod Danmark
+
+    ## Hvilke områder måtte Danmark blandt andet afstå til Sverige i 1645?
+
+    1. [ ] Skåne, Blekinge og Bornholm for altid
+    2. [x] Halland i 30 år, Gotland og dele af Norge
+    3. [ ] Sjælland, Fyn og Lolland
+
+    ## Hvordan var Danmarks situation ved Christian 4.s død i 1648?
+
+    1. [ ] Danmark var igen den førende magt ved Østersøen
+    2. [ ] Danmark havde erobret hele Sverige
+    3. [x] Danmark var i dyb krise
+
+    ## Hvor mange gange var Danmark i krig med Sverige i årene 1657-60?
+
+    1. [ ] Én gang
+    2. [x] To gange
+    3. [ ] Fire gange
+
+    ## Hvordan kom svenske tropper til Jylland under den første krig?
+
+    1. [ ] De sejlede fra Stockholm gennem Øresund
+    2. [x] De marcherede op fra en krig i Polen
+    3. [ ] De kom fra Norge over Skagerrak
+
+    ## Hvorfor kunne den danske flåde ikke forsvare øerne i vinteren 1657-58?
+
+    1. [x] Et tykt lag is havde lagt sig i havet
+    2. [ ] Flåden var blevet solgt til Nederlandene
+    3. [ ] Alle skibene lå i Norge
+
+    ## Hvordan nåede svenskerne frem til Fyn, Langeland, Lolland og Sjælland?
+
+    1. [ ] De byggede broer mellem alle øerne
+    2. [ ] De brugte den danske flåde
+    3. [x] De gik over isen
+
+    ## Hvilke landsdele måtte Danmark for altid afstå ved Roskilde-freden i 1658?
+
+    1. [ ] Fyn, Lolland og Falster
+    2. [x] Skåne, Halland og Blekinge samt flere norske områder
+    3. [ ] Jylland og Slesvig
+
+    ## Hvad skete der på Bornholm efter Roskilde-freden?
+
+    1. [ ] Øen forblev svensk resten af 1600-tallet
+    2. [x] Befolkningen gjorde oprør og styrtede det svenske styre
+    3. [ ] Øen blev overdraget til Nederlandene
+
+    ## Hvorfor begyndte Sverige endnu en krig senere i 1658?
+
+    1. [ ] Den svenske konge ville generobre Bornholm fra Nederlandene
+    2. [ ] Sverige ville hjælpe Danmark mod en tysk invasion
+    3. [x] Den svenske konge fortrød, at han ikke havde erobret hele Danmark
+
+    ## Hvad vil det sige, at svenskerne belejrede København?
+
+    1. [x] De omringede byen for at få den til at overgive sig
+    2. [ ] De byggede en ny bymur omkring byen
+    3. [ ] De afskar kun byens forbindelse til Norge
+
+    ## Hvem hjalp København med at modstå den svenske belejring?
+
+    1. [ ] England
+    2. [x] Nederlandene
+    3. [ ] Frankrig
+
+    ## Hvilke økonomiske og geografiske tab fulgte med de afståede landområder?
+
+    1. [x] Befolkning, frugtbar jord, handel og en lang kystlinje til Østersøen
+    2. [ ] Alle danske havne ved Nordsøen
+    3. [ ] Hele den danske flåde og alle kolonier
+
+    ## Hvilken strategisk kontrol mistede Danmark?
+
+    1. [ ] Kontrollen med begge sider af Storebælt
+    2. [ ] Kontrollen med hele Nordsøkysten
+    3. [x] Kontrollen med begge sider af Øresund
+
+    ## Hvilken rolle havde Danmark ikke længere efter tabene til Sverige?
+
+    1. [x] En rolle som magtfaktor i Nordeuropa
+    2. [ ] En rolle som protestantisk land
+    3. [ ] En rolle som selvstændigt kongerige
+

@@ -1,0 +1,60 @@
+Quiz til 1.12.2 Oliekrise
+=========================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad udløste den første oliekrise i 1973?
+
+    1. [x] En kraftig stigning i oliepriserne fra arabiske lande
+    2. [ ] At Danmark stoppede sin olieproduktion i Nordsøen
+    3. [ ] Et fald i prisen på naturgas
+
+    ## Hvorfor steg olieprisen ifølge teksten i 1973?
+
+    1. [ ] For at belønne lande, der støttede Israel
+    2. [x] For at lægge pres på vestlige lande, der støttede Israel i Yom Kippur-krigen
+    3. [ ] Fordi Danmark havde meldt sig ud af EF
+
+    ## Hvorfor ramte olieprisstigningen dansk økonomi hårdt?
+
+    1. [ ] Danmark var helt afhængig af olieeksport
+    2. [ ] Olie blev kun brugt til udenlandske rejser
+    3. [x] Olie var vigtig for industri, biler og opvarmning, og Danmark importerede det meste
+
+    ## Hvilke følger fik den første oliekrise for vækst og beskæftigelse?
+
+    1. [x] Væksten faldt betydeligt, og mange blev arbejdsløse
+    2. [ ] Væksten steg, og arbejdsløsheden forsvandt
+    3. [ ] Danmark blev straks selvforsynende med olie
+
+    ## Hvilken international udvikling førte til endnu en kraftig olieprisstigning i 1979-80?
+
+    1. [x] Uroligheder i Iran og den efterfølgende krig mellem Iran og Irak
+    2. [ ] Sovjetunionens opløsning
+    3. [ ] Berlinmurens fald
+
+    ## Hvorfor faldt olieprisen igen i 1980'erne?
+
+    1. [ ] Al olieproduktion i Mellemøsten stoppede
+    2. [x] Der blev udvundet mere olie andre steder, og olie blev delvist erstattet af andre energikilder
+    3. [ ] Verdens samlede energiforbrug ophørte
+
+    ## Hvilke energikilder bidrog til at mindske olieforbruget?
+
+    1. [ ] Kun olie fra Mellemøsten
+    2. [x] Blandt andet naturgas, kul, atomkraft og vedvarende energi
+    3. [ ] Kun benzin og diesel
+
+    ## Hvilke energibesparende tiltag skabte oliekriserne interesse for?
+
+    1. [x] Bedre boligisolering og mere energieffektive biler og apparater
+    2. [ ] Dårligere isolering og større olieforbrug
+    3. [ ] Afskaffelse af alle køleskabe og biler
+

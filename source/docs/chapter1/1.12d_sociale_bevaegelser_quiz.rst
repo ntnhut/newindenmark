@@ -1,0 +1,89 @@
+Quiz til 1.12.4 Sociale bevægelser
+==================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken bevægelse arbejdede for bedre vilkår for kvinder i 1970'erne?
+
+    1. [x] Rødstrømpebevægelsen
+    2. [ ] Modstandsbevægelsen
+    3. [ ] Andelsbevægelsen
+
+    ## Hvordan arbejdede rødstrømpebevægelsen for bedre vilkår?
+
+    1. [ ] Gennem militære aktioner
+    2. [x] Gennem politiske aktioner
+    3. [ ] Gennem EF's landbrugsstøtte
+
+    ## Hvad vedtog Folketinget i 1976 om løn?
+
+    1. [ ] At kvinder skulle have lavere løn end mænd
+    2. [x] En lov om lige løn for samme arbejde
+    3. [ ] At alle skulle have samme løn uanset arbejde
+
+    ## Hvornår vedtog Folketinget fri abort i Danmark?
+
+    1. [ ] 1966
+    2. [ ] 1976
+    3. [x] 1973
+
+    ## Hvad gav loven fra 1973 danske kvinder ret til?
+
+    1. [x] Selv at vælge abort indtil den 12. graviditetsuge
+    2. [ ] Kun at få abort af hensyn til deres helbred
+    3. [ ] At få fri abort uden nogen tidsgrænse
+
+    ## Hvilket parti blev dannet blandt andet på grund af modstanden mod fri abort?
+
+    1. [ ] Fremskridtspartiet
+    2. [x] Kristeligt Folkeparti, nu Kristendemokraterne
+    3. [ ] Socialistisk Folkeparti
+
+    ## Hvad er grænsen for fri abort ifølge tekstens oplysninger om 2025?
+
+    1. [ ] Den 12. graviditetsuge
+    2. [ ] Den 15. graviditetsuge
+    3. [x] Den 18. graviditetsuge
+
+    ## Hvad var græsrodsbevægelser typisk?
+
+    1. [x] Grupper, der arbejdede for ét bestemt politisk mål
+    2. [ ] Partier, der altid havde statsministerposten
+    3. [ ] Offentlige kontorer under ministerierne
+
+    ## Hvad arbejdede fredsbevægelsen blandt andet imod?
+
+    1. [x] Militær oprustning og våbenkapløbet
+    2. [ ] Udbygning af daginstitutioner
+    3. [ ] Lige løn for samme arbejde
+
+    ## Hvilken beslutning traf Folketinget i 1985 om Danmarks energiforsyning?
+
+    1. [ ] At indføre atomkraftværker hurtigst muligt
+    2. [x] At planlægge energiforsyningen uden atomkraft
+    3. [ ] At stoppe al brug af vedvarende energi
+
+    ## Hvad var en vigtig årsag til beslutningen om at planlægge uden atomkraft?
+
+    1. [ ] Et EF-direktiv forbød atomkraft
+    2. [x] Tusindvis af danskeres demonstrationer og folkelige modstand
+    3. [ ] Danmark havde allerede mange atomkraftværker
+
+    ## Hvilken atomulykke i 1986 påvirkede modstanden mod atomkraft?
+
+    1. [x] Ulykken på Tjernobyl
+    2. [ ] Ulykken på Three Mile Island i 1979
+    3. [ ] Ulykken i Fukushima i 2011
+
+    ## Hvad har ifølge teksten skabt en nyere debat om atomkraft?
+
+    1. [ ] Faldende energipriser og mindre fokus på klima
+    2. [ ] Et forbud fra EU mod vedvarende energi
+    3. [x] Klimakrise, høje energipriser og en mere positiv befolkningsholdning

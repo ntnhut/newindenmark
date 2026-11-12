@@ -1,0 +1,78 @@
+Quiz til 1.11.2 Større velfærd
+==============================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kendetegnede den økonomiske udvikling i Danmark fra 1957 til 1973?
+
+    1. [x] En langvarig højkonjunktur med vækst og høj beskæftigelse
+    2. [ ] En periode med faldende produktion og massearbejdsløshed
+    3. [ ] En økonomisk lukning over for resten af verden
+
+    ## Hvad blev højkonjunkturen i 1960'erne ofte kaldt?
+
+    1. [ ] De sparsomme 60'ere
+    2. [x] De glade 60'ere
+    3. [ ] De kolde 60'ere
+
+    ## Hvilken økonomisk udvikling skete fra begyndelsen af 1960'erne?
+
+    1. [ ] Danmark eksporterede kun landbrugsvarer
+    2. [ ] Danmark stoppede al eksport
+    3. [x] Industrien blev en større eksportsektor end landbruget
+
+    ## Hvornår blev folkepensionen indført?
+
+    1. [ ] 1945
+    2. [x] 1956
+    3. [ ] 1968
+
+    ## Hvad besluttede Folketinget i 1964 om daginstitutioner?
+
+    1. [x] Kommunerne skulle oprette det nødvendige antal pladser
+    2. [ ] Daginstitutioner skulle drives af private familier alene
+    3. [ ] Alle børnehaver skulle lukkes
+
+    ## Hvilken økonomisk følge havde udbygningen af velfærdsstaten?
+
+    1. [ ] Skatter og afgifter blev afskaffet
+    2. [ ] Skatterne faldt kraftigt
+    3. [x] Skatter og afgifter steg meget
+
+    ## Hvilken ændring skete der med mange kvinders arbejdsliv fra 1960'erne?
+
+    1. [x] Flere kvinder fik uddannelse og kom ud på arbejdsmarkedet
+    2. [ ] Kvinder blev udelukket fra uddannelser
+    3. [ ] Alle kvinder fik samme løn som mænd
+
+    ## Hvilket ligestillingsproblem havde kvinder fortsat på arbejdsmarkedet?
+
+    1. [x] De fik ofte lavere løn end mænd for det samme arbejde
+    2. [ ] De måtte ikke arbejde uden for hjemmet
+    3. [ ] De kunne ikke bruge daginstitutioner
+
+    ## Hvilke goder fik flere danskere råd til under højkonjunkturen?
+
+    1. [ ] Kun mad og brændsel
+    2. [x] Blandt andet tv, køleskabe, vaskemaskiner og biler
+    3. [ ] Kun varer produceret i Danmark
+
+    ## Hvordan ændrede arbejdsugen sig fra 1958 til 1974?
+
+    1. [ ] Den blev længere fra 40 til 48 timer
+    2. [ ] Den forblev uændret på 48 timer
+    3. [x] Den blev kortere fra 48 til 40 timer
+
+    ## Hvilken ændring skete der med ferien fra 1953 til 1972?
+
+    1. [x] Den voksede fra to til fire uger
+    2. [ ] Den blev reduceret fra fire til to uger
+    3. [ ] Alle fik ret til otte ugers ferie
+

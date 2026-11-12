@@ -1,0 +1,126 @@
+Quiz til 1.7.1 Den 1. Slesvigske krig
+=====================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad voksede i Europa og Danmark i første halvdel af 1800-tallet?
+
+    1. [x] Nationalbevidstheden
+    2. [ ] Tilslutningen til enevælden
+    3. [ ] Den katolske kirkes magt
+
+    ## Hvem kæmpede mod hinanden i borgerkrigen 1848-50?
+
+    1. [ ] Danmark og Sverige
+    2. [x] Kongeriget Danmark og tysksindede oprørere i Slesvig og Holsten
+    3. [ ] Preussen og Østrig
+
+    ## Hvad blev resultatet af krigen i 1848-50?
+
+    1. [x] Danmark vandt, men det nationale problem blev ikke løst
+    2. [ ] Tyskerne vandt og overtog hele Danmark
+    3. [ ] Slesvig blev delt mellem Danmark og Sverige
+
+    ## Hvad mistede Danmark efter nederlaget i 1864?
+
+    1. [ ] Norge og Island
+    2. [ ] Skåne og Bornholm
+    3. [x] Slesvig og Holsten
+
+    ## Hvad bestod den danske helstat af i midten af 1800-tallet?
+
+    1. [ ] Danmark, Norge og Sverige
+    2. [x] Kongeriget Danmark samt hertugdømmerne Slesvig og Holsten
+    3. [ ] Danmark, Island og Grønland
+
+    ## Hvem regerede i alle tre dele af helstaten?
+
+    1. [x] Den danske konge
+    2. [ ] Den preussiske ministerpræsident
+    3. [ ] Den tyske kejser
+
+    ## Hvilke ideer skabte spændinger mellem den dansk- og tysktalende befolkning?
+
+    1. [ ] Tanker om enevælde og stavnsbånd
+    2. [x] Øget nationalfølelse og demokratiske tanker
+    3. [ ] Ideer om katolicisme og reformation
+
+    ## Hvad ønskede mange indbyggere i Holsten?
+
+    1. [ ] At Holsten skulle blive en del af Sverige
+    2. [ ] At Holsten skulle forenes med Danmark uden Slesvig
+    3. [x] At løsrive sig fra Danmark og tilslutte sig Det Tyske Forbund
+
+    ## Hvorfor var befolkningens holdning i Slesvig delt?
+
+    1. [x] Dansktalende ville blive i Danmark, mens tysktalende ville tilslutte sig Det Tyske Forbund
+    2. [ ] Halvdelen ville være en del af Sverige, og halvdelen ville være en del af Norge
+    3. [ ] Befolkningen var uenig om, hvilken konge der skulle regere i Holsten
+
+    ## Hvad kaldes uenigheden om Slesvigs tilhørsforhold?
+
+    1. [ ] Det nordiske problem
+    2. [x] Det slesvigske problem
+    3. [ ] Det preussiske spørgsmål
+
+    ## Hvilket krav fik Slesvig og Holsten afslag på i 1848?
+
+    1. [ ] Et krav om at blive en del af Sverige
+    2. [x] Et krav om en selvstændig fri forfatning
+    3. [ ] Et krav om at genindføre enevælden
+
+    ## Hvad ønskede Danmark, at den kommende danske grundlov også skulle gælde for?
+
+    1. [x] Slesvig, men ikke Holsten
+    2. [ ] Holsten, men ikke Slesvig
+    3. [ ] Hele Det Tyske Forbund
+
+    ## Hvem støttede oprørerne i Slesvig og Holsten militært?
+
+    1. [ ] Frankrig og Storbritannien
+    2. [ ] Rusland og Sverige
+    3. [x] Det Tyske Forbund og Preussen
+
+    ## Hvor vandt den danske hær et slag i juli 1849?
+
+    1. [ ] Ved Dybbøl
+    2. [x] Ved Fredericia
+    3. [ ] Ved Isted
+
+    ## Hvorfor trak Det Tyske Forbund og Preussen deres hjælpetropper ud i 1850?
+
+    1. [x] Rusland pressede dem til det
+    2. [ ] De var blevet allieret med Danmark
+    3. [ ] Holsten bad dem forlade krigen
+
+    ## Hvad kendetegnede slaget ved Isted i juli 1850?
+
+    1. [ ] Det var krigens første og mindste slag
+    2. [x] Det var krigens blodigste slag med tusindvis af døde og sårede
+    3. [ ] Det blev vundet af Preussen efter svensk hjælp
+
+    ## Hvad blev løsningen efter stormagternes mægling i Den 1. Slesvigske Krig?
+
+    1. [ ] Slesvig og Holsten blev en del af Preussen
+    2. [ ] Slesvig blev dansk, og Holsten blev svensk
+    3. [x] Begge hertugdømmer forblev i den danske helstat
+
+    ## Hvilket andet navn har Den 1. Slesvigske Krig?
+
+    1. [x] Treårskrigen
+    2. [ ] Englandskrigen
+    3. [ ] Trediveårskrigen
+
+    ## Hvad havde Danmark lovet stormagterne efter Den 1. Slesvigske Krig?
+
+    1. [ ] At afstå Slesvig til Preussen
+    2. [x] Ikke at binde Slesvig tættere til Danmark end Holsten
+    3. [ ] At gøre Holsten til en del af Sverige
+

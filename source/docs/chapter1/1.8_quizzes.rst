@@ -1,0 +1,10 @@
+Quizzer til 1.8
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   1.8a_industri_arbejder_quiz
+   1.8b_andelsbevaegelsen_quiz
+   1.8c_parlamentarisme_quiz
+   1.8d_kvindebevaegelsen_quiz

@@ -1,0 +1,95 @@
+Quiz til 1.8.4 Kvindebevægelsen
+===============================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår blev Dansk Kvindesamfund stiftet?
+
+    1. [ ] 1847
+    2. [x] 1871
+    3. [ ] 1915
+
+    ## Hvilken status har Dansk Kvindesamfund?
+
+    1. [x] Det er Danmarks ældste kvindeorganisation
+    2. [ ] Det var Danmarks første arbejderparti
+    3. [ ] Det var arbejdsgivernes hovedorganisation
+
+    ## Hvilke uddannelsesmuligheder fik kvinder adgang til i 1875?
+
+    1. [ ] Kun private grundskoler
+    2. [x] Studentereksamen og universitetet
+    3. [ ] Uddannelse som officerer og præster
+
+    ## Hvornår blev de offentlige gymnasier åbnet for piger?
+
+    1. [ ] 1875
+    2. [ ] 1880
+    3. [x] 1903
+
+    ## Hvilken økonomisk ret fik gifte kvinder i 1880?
+
+    1. [x] Retten til at hæve og bruge deres egen løn
+    2. [ ] Retten til at bestemme statens skatter
+    3. [ ] Retten til at eje alle familiens værdier
+
+    ## Hvilken adgang fik kvinder til offentlige stillinger i 1921?
+
+    1. [ ] Adgang til alle stillinger uden undtagelse
+    2. [x] Lige adgang til de fleste stillinger, men ikke i forsvaret eller som præster
+    3. [ ] Adgang kun til stillinger i forsvaret
+
+    ## Hvad blev besluttet på den socialistiske kvindekonference i København i 1910?
+
+    1. [ ] At kvinder straks skulle have valgret i alle lande
+    2. [ ] At Dansk Kvindesamfund skulle blive et parti
+    3. [x] At der skulle være en international kampdag for kvinder
+
+    ## Hvornår fik kvindernes internationale kampdag sin faste dato den 8. marts?
+
+    1. [ ] 1910
+    2. [x] 1921
+    3. [ ] 1953
+
+    ## Hvilken valgret fik kvinder i 1903?
+
+    1. [x] Valgret til folkekirkens menighedsråd
+    2. [ ] Valgret til sogne- og byråd
+    3. [ ] Valgret til Folketinget og Landstinget
+
+    ## Hvilken valgret fik kvinder i 1908?
+
+    1. [ ] Valgret til Folketinget
+    2. [x] Valgret til sogne- og byråd
+    3. [ ] Valgret til Landstinget
+
+    ## Hvad ændrede grundloven i 1915 med virkning fra 1918?
+
+    1. [ ] Kvinder fik kun valgret til menighedsråd
+    2. [ ] Kvinder fik adgang til at blive præster
+    3. [x] Kvinder fik valgret til Folketinget og Landstinget
+
+    ## Hvordan placerede kvinders parlamentariske valgret Danmark internationalt?
+
+    1. [x] Danmark var blandt de første lande i verden til at indføre den
+    2. [ ] Danmark var det sidste land i Europa til at indføre den
+    3. [ ] Danmark indførte den samtidig med alle andre lande
+
+    ## Hvem fik også valgret med grundlovsændringen i 1915?
+
+    1. [ ] Kun godsejere med høj indkomst
+    2. [x] Tjenestefolk uden egen husstand
+    3. [ ] Kun medlemmer af fagforeninger
+
+    ## Hvad blev den samlede følge af valgretsudvidelsen?
+
+    1. [ ] Valgretten blev begrænset til et mindre mindretal
+    2. [ ] Valgretten blev afskaffet til Landstinget
+    3. [x] Valgretten kom til at omfatte flertallet af befolkningen

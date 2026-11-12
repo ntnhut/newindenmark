@@ -1,0 +1,83 @@
+Quiz til 1.6.3 Vejen til en fri grundlov
+========================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken begivenhed i 1789 påvirkede de demokratiske strømninger i 1800-tallet?
+
+    1. [x] Den Franske Revolution
+    2. [ ] Københavns Bombardement
+    3. [ ] Stavnsbåndets indførelse
+
+    ## Hvad skete der i mange europæiske hovedstæder i 1848?
+
+    1. [ ] Enevælden blev styrket
+    2. [x] Der udbrød revolution
+    3. [ ] Napoleonskrigene begyndte
+
+    ## Hvad krævede borgerskabet i København i marts 1848?
+
+    1. [ ] At stavnsbåndet skulle genindføres
+    2. [ ] At Norge igen skulle blive dansk
+    3. [x] At Frederik 7. skulle indføre en fri forfatning
+
+    ## Hvordan reagerede Frederik 7. på kravet om en fri forfatning?
+
+    1. [x] Han fulgte kravet under presset fra folkestemningen
+    2. [ ] Han lod hæren opløse borgerskabet
+    3. [ ] Han bad Sverige overtage Danmark
+
+    ## Hvad vil det sige, at Frederik 7. blev konstitutionel konge?
+
+    1. [ ] Han regerede fortsat helt alene
+    2. [x] Han skulle regere med folket på grundlag af grundloven
+    3. [ ] Han blev valgt for fire år ad gangen
+
+    ## Hvornår underskrev Frederik 7. Danmarks første frie forfatning?
+
+    1. [ ] 5. juni 1814
+    2. [x] 5. juni 1849
+    3. [ ] 5. juni 1864
+
+    ## Hvad blev Folketinget og Landstinget samlet kaldt?
+
+    1. [x] Rigsdagen
+    2. [ ] Statsrådet
+    3. [ ] Rigsrådet
+
+    ## Hvem fik valgret til Rigsdagen med grundloven i 1849?
+
+    1. [ ] Alle voksne kvinder og mænd
+    2. [x] Mænd over 30 år med egen husstand
+    3. [ ] Alle mænd over 18 år
+
+    ## Hvad krævedes der for at kunne vælges til Folketinget?
+
+    1. [ ] Man skulle være fyldt 30 år og have høj indkomst
+    2. [ ] Man skulle være fyldt 40 år
+    3. [x] Man skulle være fyldt 25 år
+
+    ## Hvilke krav gjaldt for medlemmer af Landstinget?
+
+    1. [x] De skulle være fyldt 40 år og have en høj indkomst
+    2. [ ] De skulle være fyldt 25 år uden økonomiske krav
+    3. [ ] De skulle være godsejere udpeget af kongen
+
+    ## Hvem havde hverken valgret eller ret til at blive valgt i 1849?
+
+    1. [ ] Borgere med egen husstand
+    2. [ ] Alle mænd over 30 år
+    3. [x] Kvinder og fattige
+
+    ## Hvordan var grundloven i 1849 sammenlignet med de fleste andre staters forfatninger på den tid?
+
+    1. [ ] Mindre demokratisk og mere enevældig
+    2. [x] Meget demokratisk og liberal
+    3. [ ] Helt uden lovgivende forsamlinger

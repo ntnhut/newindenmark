@@ -1,0 +1,48 @@
+Quiz til 1.10.2 Redningen af de danske jøder
+============================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor mange jøder levede der cirka i Danmark i 1940?
+
+    1. [ ] 800
+    2. [x] 8.000
+    3. [ ] 80.000
+
+    ## Hvor mange danske jøder nåede at flygte fra nazisternes forfølgelser?
+
+    1. [ ] Omkring 500
+    2. [ ] Omkring 2.000
+    3. [x] Mere end 7.000
+
+    ## Hvordan blev de fleste danske jøder reddet i oktober 1943?
+
+    1. [x] Danske medborgere hjalp dem til Sverige
+    2. [ ] Tyskerne sendte dem til Island
+    3. [ ] USA evakuerede dem med fly
+
+    ## Hvad skete der med op mod 500 danske jøder?
+
+    1. [ ] De blev islandske statsborgere
+    2. [x] De blev sendt til koncentrationslejre i Tyskland
+    3. [ ] De blev interneret i Sverige
+
+    ## Hvad var Holocaust?
+
+    1. [ ] De allieredes befrielse af Europa
+    2. [ ] Tysklands invasion af Sovjetunionen
+    3. [x] Nazi-Tysklands folkemord på Europas jøder
+
+    ## Hvor mange af Europas jøder myrdede Nazi-Tyskland under krigen?
+
+    1. [x] Seks millioner
+    2. [ ] Cirka 500.000
+    3. [ ] Ni-ti millioner
+

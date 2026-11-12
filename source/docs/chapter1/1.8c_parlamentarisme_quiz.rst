@@ -1,0 +1,144 @@
+Quiz til 1.8.3 Parlamentarismens gennembrud
+===========================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken politisk gruppe stod svækket efter krigen i 1864?
+
+    1. [ ] Godsejerne
+    2. [x] Det nationalliberale borgerskab
+    3. [ ] Arbejderbevægelsen
+
+    ## Hvem fik større politisk magt efter nederlaget i 1864?
+
+    1. [x] Konservative kredse støttet af godsejerne
+    2. [ ] De kooperative virksomheder
+    3. [ ] Dansk Kvindesamfund
+
+    ## Hvad ændrede grundloven fra 1866 ved valget til Landstinget?
+
+    1. [ ] Alle voksne fik lige stemmeret
+    2. [ ] Landstinget blev afskaffet
+    3. [x] Kongen og mænd med de højeste indtægter valgte de fleste pladser
+
+    ## Hvilken adgang til at stemme blev bevaret til Folketinget?
+
+    1. [ ] Kun kongens og godsejernes stemmeret
+    2. [x] Den noget bredere adgang til at stemme
+    3. [ ] Kvinders og tjenestefolks lige valgret
+
+    ## Hvilket problem løste grundloven fra 1866 ikke?
+
+    1. [x] Hvordan man skulle handle, når Folketinget og Landstinget var uenige
+    2. [ ] Hvordan man skulle fordele overskud i andelsvirksomheder
+    3. [ ] Hvordan arbejdsgivere skulle lede arbejdet
+
+    ## Hvad kaldes den politiske strid mellem højre- og venstrekræfterne i slutningen af 1800-tallet?
+
+    1. [ ] Systemskiftet
+    2. [x] Forfatningskampen
+    3. [ ] Septemberforliget
+
+    ## Hvornår organiserede højre- og venstrekræfterne sig i partierne Højre og Venstre?
+
+    1. [ ] Omkring 1847
+    2. [x] Omkring 1870
+    3. [ ] Omkring 1915
+
+    ## Hvem repræsenterede Venstre, og hvor havde partiet flertal?
+
+    1. [x] Bønderne, og partiet havde flertal i Folketinget
+    2. [ ] Godsejerne, og partiet havde flertal i Landstinget
+    3. [ ] Arbejderne, og partiet havde flertal i begge kamre
+
+    ## Hvor havde det konservative parti Højre flertal?
+
+    1. [ ] I Folketinget
+    2. [x] I Landstinget
+    3. [ ] I begge kamre
+
+    ## Hvem ledede de Højre-regeringer, som kongen udpegede?
+
+    1. [ ] Thorvald Stauning
+    2. [ ] Viggo Hørup
+    3. [x] Godsejeren J.B.S. Estrup
+
+    ## Hvad var de provisoriske finanslove?
+
+    1. [x] Foreløbige finanslove gennemført af Højre-regeringer trods mindretal i Folketinget
+    2. [ ] Love, der gav kvinder valgret til Rigsdagen
+    3. [ ] Aftaler mellem arbejdsgivere og fagforeninger
+
+    ## Hvad blev resultatet af konflikten mellem Højre-regeringen og Venstres flertal?
+
+    1. [ ] Landstinget blev straks afskaffet
+    2. [x] Lovgivningsarbejdet gik i stå
+    3. [ ] Socialdemokratiet overtog regeringen
+
+    ## Hvad blev indført med Systemskiftet i 1901?
+
+    1. [ ] Enevælden
+    2. [ ] Kvinders valgret
+    3. [x] Det parlamentariske princip
+
+    ## Hvad betyder det parlamentariske princip?
+
+    1. [x] En regering må ikke have et flertal i Folketinget imod sig
+    2. [ ] Kongen vælger regeringen uden hensyn til Folketinget
+    3. [ ] Landstinget bestemmer alene, hvem der regerer
+
+    ## Hvornår blev det parlamentariske princip skrevet ind i grundloven?
+
+    1. [ ] 1901
+    2. [ ] 1915
+    3. [x] 1953
+
+    ## Hvilket parti overtog regeringsmagten for første gang i 1901?
+
+    1. [ ] Højre
+    2. [x] Venstre
+    3. [ ] Socialdemokratiet
+
+    ## Hvordan blev Det Radikale Venstre dannet i 1905?
+
+    1. [x] Af udbrydere fra Venstre
+    2. [ ] Ved en sammenslutning af Højre og Socialdemokratiet
+    3. [ ] Som arbejderbevægelsens første parti
+
+    ## Hvem stemte især på Det Radikale Venstre?
+
+    1. [ ] Godsejere og fabrikanter
+    2. [x] Akademikere og husmænd
+    3. [ ] Officerer og præster
+
+    ## Hvad blev det gamle parti Højre til i 1915-16?
+
+    1. [ ] Det Radikale Venstre
+    2. [ ] Socialdemokratiet
+    3. [x] Det Konservative Folkeparti
+
+    ## Hvad markerede Højres reorganisering?
+
+    1. [x] Partiet ville nå bredere vælgergrupper og anerkendte parlamentarisme og lige valgret
+    2. [ ] Partiet ville genindføre enevælden
+    3. [ ] Partiet ville kun repræsentere godsejerne
+
+    ## Hvad lagde Socialdemokratiet stor vægt på i den økonomiske politik?
+
+    1. [ ] Lavere skatter uden omfordeling
+    2. [x] Økonomisk omfordeling mellem rig og fattig
+    3. [ ] Genindførelse af godsejernes privilegier
+
+    ## Hvad ønskede Venstre og Det Konservative Folkeparti i højere grad?
+
+    1. [ ] Højere skatter og mere omfordeling
+    2. [ ] Afskaffelse af økonomisk frihed
+    3. [x] Lave skatter og økonomisk frihed
+

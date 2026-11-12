@@ -1,0 +1,77 @@
+Quiz til 1.11.3 Ungdomsoprør og nye kulturelle strømninger
+==========================================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad var en årsag til ungdomsoprøret i slutningen af 1960'erne?
+
+    1. [ ] Unge ønskede at genetablere professorvældet
+    2. [ ] Unge ønskede at afskaffe al uddannelse
+    3. [x] Unge satte spørgsmålstegn ved traditionelle normer og autoriteter
+
+    ## Hvilke emner satte mange unge blandt andet spørgsmålstegn ved?
+
+    1. [x] USA's krig i Vietnam og kernefamilien
+    2. [ ] NATO's artikel 5 og Marshall-planen
+    3. [ ] Folkepensionen og étkammersystemet
+
+    ## Hvilken betydning fik p-pillen, som kunne sælges lovligt fra 1966?
+
+    1. [x] Den gav kvinder mulighed for selv at styre, om de ønskede at blive gravide
+    2. [ ] Den afskaffede retten til abort
+    3. [ ] Den blev obligatorisk for alle kvinder
+
+    ## Hvilken ny måde at leve sammen på blev mere accepteret?
+
+    1. [ ] Par måtte kun bo sammen efter vielsen
+    2. [x] Par kunne bo sammen og få børn uden at være gift
+    3. [ ] Unge skulle fortsat bo hos deres forældre
+
+    ## Hvornår blev fristaden Christiania oprettet?
+
+    1. [ ] 1953
+    2. [x] 1971
+    3. [ ] 1989
+
+    ## Hvordan blev Christiania oprettet?
+
+    1. [ ] Folketinget byggede en ny universitetsby
+    2. [ ] NATO overdrog en base til studerende
+    3. [x] Unge besatte Bådsmandsstrædes Kaserne
+
+    ## Hvad krævede studerende under studenteroprøret fra 1968?
+
+    1. [ ] Mindre indflydelse på universiteterne
+    2. [ ] At alle universiteter blev lukket
+    3. [x] Mere indflydelse og nye ledelses- og undervisningsformer
+
+    ## Hvad gjorde studerende og yngre undervisere oprør imod?
+
+    1. [x] Professorvældet på universiteterne
+    2. [ ] Det parlamentariske princip
+    3. [ ] Grundlovens tronfølgeregler
+
+    ## Hvornår blev det forbudt for lærere at slå elever i folkeskolen?
+
+    1. [ ] 1956
+    2. [ ] 1997
+    3. [x] 1967
+
+    ## Hvilken pædagogik afløste den strengere og mere autoritære opdragelse?
+
+    1. [ ] En pædagogik baseret på straf og lydighed
+    2. [x] En pædagogik baseret på dialog og samarbejde
+    3. [ ] En pædagogik uden kontakt mellem børn og voksne
+
+    ## Hvornår blev det også forbudt for forældre at slå deres egne børn?
+
+    1. [x] 1997
+    2. [ ] 1967
+    3. [ ] 2009

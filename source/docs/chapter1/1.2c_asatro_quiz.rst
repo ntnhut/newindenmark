@@ -1,0 +1,101 @@
+Quiz til 1.2.3 Asatro
+=====================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad betyder asatro?
+
+    1. [x] Troen på aserne, som var guder
+    2. [ ] Troen på én kristen gud
+    3. [ ] Troen på kongens guddommelighed
+
+    ## Hvad var centralt i asatroens ofringer, ritualer og ceremonier?
+
+    1. [ ] At vælge en ny konge
+    2. [x] At give gaver til guderne
+    3. [ ] At indgå handelsaftaler
+
+    ## Hvad kunne man ifølge teksten ofre til guderne?
+
+    1. [ ] Kun smykker og mønter
+    2. [ ] Kun mad og redskaber
+    3. [x] Smykker, mad, redskaber, dyr og mennesker
+
+    ## Hvor kunne ofringerne foregå?
+
+    1. [x] Ved helligsteder i naturen eller ved vikingernes huse
+    2. [ ] Kun i kirker i Hedeby og Ribe
+    3. [ ] Kun inde i ringborgene
+
+    ## Hvem var gudernes konge i asatroen?
+
+    1. [ ] Thor
+    2. [ ] Freja
+    3. [x] Odin
+
+    ## Hvordan beskrives Odin ofte?
+
+    1. [ ] Som en ung mand med en hammer
+    2. [x] Som en ældre mand med ét øje og to ravne på skuldrene
+    3. [ ] Som en kvinde, der var gudinde for frugtbarhed
+
+    ## Hvad var Freja gudinde for?
+
+    1. [x] Frugtbarhed
+    2. [ ] Handel
+    3. [ ] Havet
+
+    ## Hvad var Thor gud for?
+
+    1. [ ] Skrift og handel
+    2. [x] Torden og krig
+    3. [ ] Frugtbarhed og høst
+
+    ## Hvilke ugedage har navne med rødder i Odin og Thor?
+
+    1. [ ] Mandag og fredag
+    2. [ ] Tirsdag og lørdag
+    3. [x] Onsdag og torsdag
+
+    ## Hvad betyder stednavnet Odense ifølge teksten?
+
+    1. [x] Odins helligdom
+    2. [ ] Thors havn
+    3. [ ] Danernes grænse
+
+    ## Hvad betyder navnet Tórshavn?
+
+    1. [ ] Odins helligdom
+    2. [x] Thors havn
+    3. [ ] Kongens borg
+
+    ## Hvem byggede kirker i Hedeby og Ribe i midten af 800-tallet?
+
+    1. [ ] Gorm den Gamle
+    2. [x] Den tyske missionær Ansgar
+    3. [ ] Knud den Store
+
+    ## Hvad skete der med Harald Blåtand omkring år 965?
+
+    1. [ ] Han blev konge af England
+    2. [ ] Han byggede kirker i Hedeby og Ribe
+    3. [x] Han blev døbt
+
+    ## Hvad står der på Harald Blåtands Jellingsten?
+
+    1. [x] At Harald vandt sig hele Danmark og Norge og gjorde danerne kristne
+    2. [ ] At Gorm den Gamle erobrede England i 1013
+    3. [ ] At Ansgar byggede alle Danmarks kirker
+
+    ## Hvorfor kaldes Harald Blåtands Jellingsten ofte Danmarks dåbsattest?
+
+    1. [ ] Den viser, at Harald byggede de første ringborge
+    2. [ ] Den fortæller, at vikingerne handlede med arabiske lande
+    3. [x] Den fortæller, at Harald gjorde danerne kristne

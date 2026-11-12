@@ -1,0 +1,138 @@
+Quiz til 1.13.1 Danmark i det nye Europa
+========================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår skiftede EF navn til Den Europæiske Union (EU)?
+
+    1. [x] 1992
+    2. [ ] 1993
+    3. [ ] 2001
+
+    ## Hvilken økonomisk begivenhed ramte Danmark og mange andre lande i 2008?
+
+    1. [ ] Oliekrisen i 1973
+    2. [ ] Den Sorte Død
+    3. [x] Finanskrisen
+
+    ## Hvornår ramte Covid-19-pandemien Danmark?
+
+    1. [ ] 2008
+    2. [ ] 2015
+    3. [x] 2020
+
+    ## Hvilke begivenheder markerede afslutningen på Den Kolde Krig?
+
+    1. [x] Berlinmurens fald og Sovjetunionens opløsning
+    2. [ ] Oliekrisen og Jordskredsvalget
+    3. [ ] Danmarks medlemskab af EF og NATO
+
+    ## Hvornår faldt Berlinmuren, og hvornår blev Sovjetunionen opløst?
+
+    1. [x] Berlinmuren faldt i 1989, og Sovjetunionen blev opløst i 1991
+    2. [ ] Berlinmuren faldt i 1991, og Sovjetunionen blev opløst i 1989
+    3. [ ] Begge begivenheder fandt sted i 1993
+
+    ## Hvilke tre baltiske lande fik Danmark tætte forbindelser med efter Den Kolde Krig?
+
+    1. [ ] Finland, Sverige og Norge
+    2. [x] Estland, Letland og Litauen
+    3. [ ] Polen, Tyskland og Tjekkiet
+
+    ## Hvad gjorde Danmark efter Iraks besættelse af Kuwait i 1990?
+
+    1. [x] Sendte et krigsskib for at hjælpe med at håndhæve handelsblokaden mod Irak
+    2. [ ] Sendte soldater for at støtte Iraks besættelse
+    3. [ ] Meldte sig ud af FN
+
+    ## Hvilken rolle havde danske soldater i Bosnien og Kroatien i midten af 1990'erne?
+
+    1. [ ] De deltog i en dansk besættelse af landene
+    2. [x] De var udstationeret som FN-styrker for at bidrage til fred
+    3. [ ] De skulle beskytte Berlinmuren
+
+    ## Hvad skete der i Jugoslavien i 1991-92?
+
+    1. [ ] Landet blev medlem af Danmark
+    2. [x] Landet blev opløst i en række selvstændige stater, som kom i konflikt
+    3. [ ] Landet blev genforenet med Sovjetunionen
+
+    ## Hvordan deltog Danmark i konflikten i Kosovo i 1999?
+
+    1. [x] Danske jagerfly deltog i NATO's aktioner
+    2. [ ] Danmark sendte et handelsskib til Irak
+    3. [ ] Danmark stod uden for alle internationale aktioner
+
+    ## Hvad afspejlede navneændringen fra EF til EU?
+
+    1. [ ] At medlemslandene stoppede alt samarbejde om handel
+    2. [x] At samarbejdet blev udvidet fra økonomiske emner til flere politiske områder
+    3. [ ] At Danmark straks indførte euroen
+
+    ## Hvor mange medlemslande blev enige om det udvidede samarbejde i 1992?
+
+    1. [ ] Seks
+    2. [x] 12
+    3. [ ] 27
+
+    ## Hvad stemte et lille flertal af danskerne nej til i 1992?
+
+    1. [ ] Edinburgh-aftalen
+    2. [ ] Danmarks medlemskab af NATO
+    3. [x] Maastricht-traktaten
+
+    ## Hvor stor en andel stemte nej til Maastricht-traktaten?
+
+    1. [x] 50,7 procent
+    2. [ ] 56,7 procent
+    3. [ ] 63,3 procent
+
+    ## Hvad betød Edinburgh-aftalen, som et flertal stemte ja til i 1993?
+
+    1. [x] Danmark fik fire forbehold over for EU-samarbejdet
+    2. [ ] Danmark forlod EU
+    3. [ ] Danmark indførte euroen
+
+    ## Hvilke fire områder omfattede de danske EU-forbehold oprindeligt?
+
+    1. [ ] Handel, landbrug, fiskeri og miljø
+    2. [x] Unionsborgerskab, euro, forsvar samt fælles rets- og udlændingepolitik
+    3. [ ] NATO, FN, Grønland og Færøerne
+
+    ## Hvilke to EU-forbehold gælder fortsat ifølge teksten?
+
+    1. [ ] Unionsborgerskab og forsvar
+    2. [ ] Fælles valuta og forsvar
+    3. [x] Euroen samt fælles rets- og udlændingepolitik
+
+    ## Hvad betyder euroforbeholdet konkret for Danmark?
+
+    1. [x] Danmark har fortsat kronen som national valuta
+    2. [ ] Danmark har både kronen og euroen som officiel valuta
+    3. [ ] Danmark må ikke handle med eurolandene
+
+    ## Hvornår blev Enhedslisten valgt ind i Folketinget for første gang?
+
+    1. [ ] 1989
+    2. [x] 1994
+    3. [ ] 2001
+
+    ## Hvad var medvirkende til Enhedslistens første valg til Folketinget?
+
+    1. [ ] Støtte til euroen i hele befolkningen
+    2. [x] Modstand mod EU i dele af befolkningen
+    3. [ ] Kravet om dansk deltagelse i alle EU-områder
+
+    ## Hvordan er et klart flertal af danskerne ifølge teksten indstillet til EU-medlemskabet?
+
+    1. [x] Positivt
+    2. [ ] Negativt
+    3. [ ] Helt uden holdning
+

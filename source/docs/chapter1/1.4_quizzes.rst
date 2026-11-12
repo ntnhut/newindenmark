@@ -1,0 +1,9 @@
+Quizzer til 1.4
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   1.4a_reformation_quiz
+   1.4b_christian4_svenskekrige_quiz
+   1.4c_enevaelde_quiz

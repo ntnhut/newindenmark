@@ -1,0 +1,156 @@
+Quiz til 1.8.1 Den første industrialisering og arbejderbevægelsen
+=================================================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kendetegnede Danmark i slutningen af 1800-tallet og begyndelsen af 1900-tallet?
+
+    1. [x] Industrialisering, stigende velstand og omfattende modernisering
+    2. [ ] Tilbagevenden til et middelalderligt samfund
+    3. [ ] Faldende handel og afskaffelse af politiske partier
+
+    ## Hvilke partier stod over for hinanden i den markante indenrigspolitiske konflikt?
+
+    1. [ ] Socialdemokratiet og Det Radikale Venstre
+    2. [x] Godsejerpartiet Højre og bondepartiet Venstre
+    3. [ ] Dansk Kvindesamfund og Højre
+
+    ## Hvilke nye bevægelser fremhæves i teksten?
+
+    1. [ ] Højskole-, freds- og miljøbevægelsen
+    2. [ ] Modstands-, ungdoms- og studenterbevægelsen
+    3. [x] Arbejder-, andels- og kvindebevægelsen
+
+    ## Hvor begyndte industrialiseringen så småt allerede i midten af 1700-tallet?
+
+    1. [x] England
+    2. [ ] Danmark
+    3. [ ] Sverige
+
+    ## Hvilke forhold var vigtige for industrialiseringens begyndelse?
+
+    1. [ ] Elektricitet, biler og fly
+    2. [x] Dampmaskinen, jernbanerne og store kulreserver
+    3. [ ] Vindmøller, motorveje og olie
+
+    ## Hvornår og hvor åbnede den første jernbane inden for Danmarks nuværende grænser?
+
+    1. [ ] I 1801 mellem København og Helsingør
+    2. [ ] I 1901 mellem Aarhus og Aalborg
+    3. [x] I 1847 mellem København og Roskilde
+
+    ## Hvornår slog industrialiseringen for alvor igennem i Danmark?
+
+    1. [ ] I første halvdel af 1700-tallet
+    2. [x] I sidste halvdel af 1800-tallet
+    3. [ ] Først i sidste halvdel af 1900-tallet
+
+    ## Hvornår blev Danmark ifølge teksten et egentligt industrisamfund?
+
+    1. [x] Efter 2. Verdenskrig
+    2. [ ] Umiddelbart efter 1847
+    3. [ ] Før industrialiseringen i England
+
+    ## Hvorfor flyttede mange mennesker fra landet til byerne?
+
+    1. [ ] For at blive godsejere
+    2. [x] For at arbejde i industrien eller med håndværk
+    3. [ ] For at undgå jernbanerne
+
+    ## Hvilken ny samfundsgruppe opstod med industrialiseringen?
+
+    1. [ ] En ny adel
+    2. [ ] En klasse af storbønder
+    3. [x] En gruppe af arbejdere
+
+    ## Hvor arbejdede og boede byernes nye arbejdere ofte?
+
+    1. [x] De arbejdede på fabrikker eller værksteder og boede i små lejligheder
+    2. [ ] De arbejdede på godser og boede på herregårde
+    3. [ ] De arbejdede i ministerier og boede på slotte
+
+    ## Hvilke fælles krav havde industriarbejderne?
+
+    1. [ ] Lavere løn og længere arbejdstid
+    2. [x] Højere løn, rimelige arbejdstider og bedre sikkerhed
+    3. [ ] Ret til at vælge kongen
+
+    ## Hvornår blev Den internationale Arbejderforening for Danmark grundlagt?
+
+    1. [ ] Oktober 1847
+    2. [x] Oktober 1871
+    3. [ ] September 1899
+
+    ## Hvilken international bevægelse var Arbejderforeningen en del af?
+
+    1. [x] Den socialistiske bevægelse
+    2. [ ] Den konservative bevægelse
+    3. [ ] Andelsbevægelsen
+
+    ## Hvilke handlinger opfordrede arbejderbevægelsens ledere til?
+
+    1. [ ] At købe egne godser og mejerier
+    2. [ ] At støtte Højres provisoriske finanslove
+    3. [x] Strejker og demonstrationer for bedre vilkår og højere løn
+
+    ## Hvilken ret fastholdt arbejdsgiverne?
+
+    1. [x] Retten til at lede og fordele arbejdet
+    2. [ ] Retten til at forbyde alle politiske partier
+    3. [ ] Retten til at udpege medlemmer af Folketinget
+
+    ## Hvad var Slaget på Fælleden i maj 1872?
+
+    1. [ ] Et militært slag mellem Danmark og Preussen
+    2. [x] Et arbejdermøde, der endte i sammenstød med politi og soldater
+    3. [ ] En langvarig strejke mellem DA og FH
+
+    ## Hvad blev resultatet af Slaget på Fælleden?
+
+    1. [ ] Mange blev dræbt, men ingen blev fængslet
+    2. [ ] Arbejderne overtog regeringsmagten
+    3. [x] Ingen blev dræbt, men mange blev fængslet
+
+    ## Hvornår blev Socialdemokratiet et selvstændigt parti?
+
+    1. [ ] 1871
+    2. [x] 1878
+    3. [ ] 1884
+
+    ## Hvornår blev de første to socialdemokrater valgt til Folketinget?
+
+    1. [x] 1884
+    2. [ ] 1899
+    3. [ ] 1905
+
+    ## Hvad var Septemberforliget i 1899?
+
+    1. [ ] En ændring af grundloven
+    2. [ ] En aftale mellem Højre og Venstre om regeringsmagten
+    3. [x] En historisk aftale mellem arbejdsgivernes og arbejdernes hovedorganisationer
+
+    ## Hvilken ret bevarede arbejdsgiverne med Septemberforliget?
+
+    1. [x] Retten til at lede og fordele arbejdet
+    2. [ ] Retten til at afskaffe alle fagforeninger
+    3. [ ] Retten til at fastsætte valgloven
+
+    ## Hvilke rettigheder fik arbejderne anerkendt med Septemberforliget?
+
+    1. [ ] Retten til at overtage virksomheder uden betaling
+    2. [x] Retten til at organisere sig, forhandle kollektivt og strejke efter regler
+    3. [ ] Retten til at vælge arbejdsgivernes ledere
+
+    ## Hvad kaldes den danske måde at indgå aftaler på arbejdsmarkedet?
+
+    1. [ ] Forfatningskampen
+    2. [ ] Den Florissante Periode
+    3. [x] Den Danske Model
+

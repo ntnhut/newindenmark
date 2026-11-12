@@ -1,8 +1,5 @@
-Quizzes for Section 1.3
-==========================================
-
-Questions
----------------------------------
+Quiz til 1.3.1 Magtkamp mellem konge, adel og kirke
+===================================================
 
 .. quizdown::
 
@@ -235,74 +232,3 @@ Questions
     2. [x] Det faldt ned fra himlen og sikrede dansk sejr
     3. [ ] Det blev taget fra en svensk hær
 
-    ## Hvordan var Danmark præget fra midten af 1200-tallet og ind i 1300-tallet?
-
-    1. [x] Af splittelse og borgerkrig
-    2. [ ] Af en stabil union med England
-    3. [ ] Af enevældigt arvekongedømme
-
-    ## Hvad lykkedes det Valdemar Atterdag at gøre?
-
-    1. [ ] At indføre Jyske Lov
-    2. [x] At samle riget igen og genopbygge statsmagten
-    3. [ ] At oprette ærkebispesædet i Lund
-
-    ## Hvornår ramte Den Sorte Død Danmark og resten af Europa?
-
-    1. [ ] Omkring 1150
-    2. [ ] Omkring 1250
-    3. [x] Omkring 1350
-
-    ## Hvor stor en del af befolkningen slog Den Sorte Død op mod ihjel?
-
-    1. [ ] En tiendedel
-    2. [x] Halvdelen
-    3. [ ] Tre fjerdedele
-
-    ## Hvordan styrkede pesten Valdemar Atterdags magt?
-
-    1. [x] Han inddrog meget af den jord, som havde tilhørt de døde
-    2. [ ] Han blev valgt til pave
-    3. [ ] Han afskaffede alle skatter til kirken
-
-    ## Hvem fik magten efter Valdemar Atterdags død i 1375?
-
-    1. [ ] Erik Klipping
-    2. [x] Hans datter Margrete 1.
-    3. [ ] Frederik 3.
-
-    ## Hvilke områder omfattede Norge, da Margrete 1. blev regent dér?
-
-    1. [ ] Sverige, Finland og Skåne
-    2. [ ] England, Normandiet og Island
-    3. [x] Færøerne, Island og dele af Grønland
-
-    ## Hvilke riger samlede Margrete 1. i Kalmarunionen i 1397?
-
-    1. [x] Danmark, Norge og Sverige
-    2. [ ] Danmark, England og Norge
-    3. [ ] Danmark, Tyskland og Sverige
-
-    ## Hvilket land var den dominerende magt i Kalmarunionen?
-
-    1. [ ] Norge
-    2. [x] Danmark
-    3. [ ] Sverige
-
-    ## Hvorfor fik Kalmarunionen sit navn?
-
-    1. [ ] Margrete 1. blev født i Kalmar
-    2. [ ] Kalmar var Danmarks hovedstad
-    3. [x] Unionstraktaten blev underskrevet i byen Kalmar
-
-    ## Hvornår blev Kalmarunionen endeligt opløst?
-
-    1. [ ] 1397
-    2. [ ] 1450
-    3. [x] 1523
-
-    ## Hvad skete der med Sverige og Norge efter Kalmarunionens opløsning?
-
-    1. [x] Sverige rev sig løs, mens Norge forblev i union med Danmark til 1814
-    2. [ ] Norge rev sig løs, mens Sverige forblev i union med Danmark til 1814
-    3. [ ] Begge lande forblev i union med Danmark til 1814

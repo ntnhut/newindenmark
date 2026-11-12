@@ -1,0 +1,10 @@
+Quizzer til 1.9
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   1.9a_foerste_verdenskrig_quiz
+   1.9b_spanske_syge_quiz
+   1.9c_genforening_forfatningskrise_quiz
+   1.9d_krise_socialreformer_quiz

@@ -1,0 +1,9 @@
+Quizzer til 1.6
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   1.6a_stavnsbaand_landboreformer_quiz
+   1.6b_florissante_englandskrige_quiz
+   1.6c_fri_grundlov_quiz

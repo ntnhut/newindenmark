@@ -1,0 +1,66 @@
+Quiz til 1.13.5 Velfærdsstatens udfordringer
+============================================
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket fælles mål har mange velfærdsreformer haft?
+
+    1. [x] At flytte flere fra overførselsindkomst til arbejdsmarkedet
+    2. [ ] At få flere til at forlade arbejdsmarkedet
+    3. [ ] At afskaffe alle offentlige ydelser
+
+    ## Hvad er en langsigtet udfordring for velfærdsstaten?
+
+    1. [x] At færre skal betale for velfærd, mens flere skal nyde godt af den
+    2. [ ] At befolkningen bliver yngre, og der fødes flere børn
+    3. [ ] At der ikke længere er behov for sundhedsvæsen og ældreomsorg
+
+    ## Hvilke udviklinger skaber denne udfordring for velfærdsstaten?
+
+    1. [ ] Faldende levealder, flere fødsler og lavere forventninger
+    2. [x] Længere levetid, lavere fødselstal og højere forventninger til pleje og sundhed
+    3. [ ] Kortere uddannelse og tidligere start på arbejdslivet
+
+    ## Hvorfor bliver arbejdsstyrken presset fra flere sider?
+
+    1. [x] Der bliver flere ældre, færre i arbejdsalderen, og arbejdslivet starter senere
+    2. [ ] Der bliver færre ældre og flere unge i arbejde
+    3. [ ] Alle ledige er forsvundet fra arbejdsmarkedet
+
+    ## Hvad betyder det at øge arbejdsudbuddet?
+
+    1. [ ] At få færre til at arbejde
+    2. [ ] At sænke alle lønninger
+    3. [x] At få flere til at arbejde, tjene penge og betale skat
+
+    ## Hvor længe har dagpengeperioden været siden reformen i 2010 ifølge teksten?
+
+    1. [ ] Et halvt år
+    2. [x] To år
+    3. [ ] Fem år
+
+    ## Hvad var et mål med Tilbagetrækningsreformen fra 2011?
+
+    1. [x] At folk i gennemsnit skulle trække sig senere tilbage fra arbejdsmarkedet
+    2. [ ] At alle skulle gå tidligere på pension
+    3. [ ] At afskaffe arbejdsløshedskasser
+
+    ## Hvilke andre reformmål fra 2012-13 nævnes?
+
+    1. [ ] Flere på førtidspension og kontanthjælp
+    2. [x] Færre på førtidspension og kontanthjælp
+    3. [ ] Kortere arbejdsliv for alle
+
+    ## Hvordan skulle skatte- og studiereformer bidrage til mere arbejdskraft?
+
+    1. [x] Lavere skat på arbejde og tilskyndelse til tidligere og hurtigere studier
+    2. [ ] Højere skat på arbejde og længere studier
+    3. [ ] Afskaffelse af alle uddannelser
+

@@ -1,0 +1,63 @@
+Quiz til Europa-Parlamentet
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvordan vælges medlemmerne af Europa-Parlamentet?
+
+    1. [x] Direkte af vælgerne i EU's medlemslande
+    2. [ ] Af EU-Domstolen
+    3. [ ] Af de nationale regeringer alene
+
+    ## Hvilken økonomisk beslutning skal Europa-Parlamentet blandt andet træffe?
+
+    1. [x] Det skal vedtage EU's udgiftsbudget
+    2. [ ] Det skal opkræve indkomstskat i medlemslandene
+    3. [ ] Det skal fastsætte kommunernes skatteprocenter
+
+    ## Hvor mange medlemmer har Europa-Parlamentet ifølge teksten?
+
+    1. [ ] 179
+    2. [x] 720
+    3. [ ] 450
+
+    ## Hvor mange danske medlemmer er der i Europa-Parlamentet ifølge teksten?
+
+    1. [ ] 12
+    2. [x] 15
+    3. [ ] 27
+
+    ## Hvor ofte afholdes valg til Europa-Parlamentet?
+
+    1. [ ] Hvert andet år
+    2. [ ] Hvert fjerde år
+    3. [x] Hvert femte år
+
+    ## Hvordan er medlemmerne organiseret i Europa-Parlamentet?
+
+    1. [ ] Efter hvilket land de kommer fra
+    2. [x] I partier eller grupper efter deres politiske holdninger
+    3. [ ] Efter hvilke udvalg i Europa-Parlamentet de arbejder i
+
+    ## Hvordan fordelte de fleste danske mandater sig efter valget til Europa-Parlamentet i juni 2024?
+
+    1. [x] SF og Socialdemokratiet fik tre hver, mens Venstre fik to
+    2. [ ] Venstre og Socialdemokratiet fik tre hver, mens SF fik to
+    3. [ ] SF og Venstre fik tre hver, mens Socialdemokratiet fik to
+
+    ## Hvad skete der med Alternativet ved valget til Europa-Parlamentet i 2024?
+
+    1. [ ] Partiet fik ét mandat
+    2. [ ] Partiet fik to mandater
+    3. [x] Partiet fik ikke nok stemmer til at blive valgt
+

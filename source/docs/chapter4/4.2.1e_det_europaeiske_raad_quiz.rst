@@ -1,0 +1,33 @@
+Quiz til Det Europæiske Råd
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem repræsenterer Danmark i Det Europæiske Råd?
+
+    1. [ ] Den danske EU-kommissær
+    2. [x] Statsministeren
+    3. [ ] En dansk dommer
+
+    ## Hvad fastlægger lederne på møderne i Det Europæiske Råd?
+
+    1. [x] De overordnede politiske rammer for EU-samarbejdet
+    2. [ ] Den endelige fortolkning af EU-regler i nationale retssager
+    3. [ ] Den konkrete udformning af alle forslag til ny EU-lovgivning
+
+    ## Hvordan træffes beslutningerne i Det Europæiske Råd som hovedregel?
+
+    1. [ ] Ved simpelt flertal
+    2. [ ] Ved kvalificeret flertal
+    3. [x] Ved enighed
+

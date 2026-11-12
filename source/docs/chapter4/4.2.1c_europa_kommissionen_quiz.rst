@@ -1,0 +1,57 @@
+Quiz til Europa-Kommissionen
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken institution stiller som hovedregel forslag til ny EU-lovgivning?
+
+    1. [x] Europa-Kommissionen
+    2. [ ] EU-Domstolen
+    3. [ ] Europarådet
+
+    ## Hvilke institutioner vedtager, ændrer eller forkaster som hovedregel Europa-Kommissionens lovforslag?
+
+    1. [ ] Det Europæiske Råd og EU-Domstolen
+    2. [x] Rådet for Den Europæiske Union og Europa-Parlamentet
+    3. [ ] Europarådet og Den Europæiske Menneskerettighedsdomstol
+
+    ## Hvor mange medlemmer har Europa-Kommissionen, og hvordan er Danmark repræsenteret?
+
+    1. [ ] 15 medlemmer, heraf to fra Danmark
+    2. [ ] 47 medlemmer, heraf tre fra Danmark
+    3. [x] 27 medlemmer, heraf én kommissær fra Danmark
+
+    ## Hvilken institution kontrollerer, om medlemslandene overholder EU-lovgivningen?
+
+    1. [ ] Europa-Parlamentet
+    2. [x] Europa-Kommissionen
+    3. [ ] Det Europæiske Råd
+
+    ## Hvor længe udpeges medlemmerne af Europa-Kommissionen ad gangen?
+
+    1. [ ] To år
+    2. [ ] Fire år
+    3. [x] Fem år
+
+    ## Hvilke interesser skal EU-kommissærerne arbejde for?
+
+    1. [x] EU's interesser og ikke deres hjemlands interesser
+    2. [ ] Kun deres eget medlemslands interesser
+    3. [ ] Kun Europa-Parlamentets største partis interesser
+
+    ## Hvem har været Danmarks EU-kommissær siden 2024, og hvilket område har han ansvar for?
+
+    1. [ ] Margrethe Vestager; konkurrencepolitik
+    2. [x] Dan Jørgensen; energi og boliger
+    3. [ ] Dan Jørgensen; konkurrencepolitik
+

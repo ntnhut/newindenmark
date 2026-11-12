@@ -1,0 +1,27 @@
+Quiz til Rådet for Den Europæiske Union
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem mødes i Rådet for Den Europæiske Union?
+
+    1. [ ] EU-landenes stats- og regeringsledere
+    2. [x] Ministre fra medlemslandenes regeringer
+    3. [ ] Medlemmerne af Europa-Kommissionen
+
+    ## Hvor ofte skifter EU-formandskabet land, og hvornår har Danmark formandskabet ifølge teksten?
+
+    1. [ ] Hvert år; hele 2026
+    2. [x] Hver sjette måned; fra 1. juli til 31. december 2025
+    3. [ ] Hvert femte år; fra 2025 til 2030
+

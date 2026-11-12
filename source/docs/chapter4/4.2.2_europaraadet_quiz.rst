@@ -1,0 +1,80 @@
+Quiz til 4.2.2 Europarådet
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvornår blev Europarådet oprettet, og hvor længe har Danmark været medlem?
+
+    1. [x] Det blev oprettet i 1949, og Danmark har været medlem siden oprettelsen
+    2. [ ] Det blev oprettet i 1958, og Danmark blev medlem i 1973
+    3. [ ] Det blev oprettet i 1993, og Danmark blev medlem i 1999
+
+    ## Hvor mange europæiske stater er ifølge teksten medlemmer af Europarådet i dag?
+
+    1. [ ] 10
+    2. [ ] 27
+    3. [x] 47
+
+    ## Er Europarådet en institution i EU?
+
+    1. [x] Nej, Europarådet er en selvstændig organisation
+    2. [ ] Ja, det er Europa-Parlamentets andet navn
+    3. [ ] Ja, det er EU's øverste domstol
+
+    ## Hvad skal et land anerkende, før det kan blive medlem af Europarådet?
+
+    1. [ ] Euroen som national valuta
+    2. [x] Borgernes personlige og politiske frihedsrettigheder
+    3. [ ] EU-lovgivningens forrang på alle områder
+
+    ## Hvilke mål for Europarådet nævner teksten?
+
+    1. [ ] At indføre en fælles valuta og fjerne handelshindringer mellem medlemslandene
+    2. [x] At sikre tæt samarbejde mellem medlemslandene og udbygge det europæiske demokrati
+    3. [ ] At vedtage fælles lovgivning om landbrug, fiskeri og det indre marked
+
+    ## Hvad skete der med Ruslands medlemskab af Europarådet efter angrebet på Ukraine i 2022?
+
+    1. [ ] Rusland forlod frivilligt Europarådet før angrebet
+    2. [x] Rusland blev suspenderet fra Europarådet
+    3. [ ] Rusland beholdt sit medlemskab uden ændringer
+
+    ## Hvilken konvention udarbejdede Europarådet i 1950?
+
+    1. [ ] Maastricht-traktaten
+    2. [x] Den Europæiske Menneskerettighedskonvention
+    3. [ ] Edinburgh-aftalen
+
+    ## Hvilken domstol er knyttet til Europarådet?
+
+    1. [ ] EU-Domstolen
+    2. [ ] Højesteret
+    3. [x] Den Europæiske Menneskerettighedsdomstol
+
+    ## Hvilke grundlæggende frihedsrettigheder nævner teksten som eksempler?
+
+    1. [ ] Fri bevægelighed for varer, tjenesteydelser og kapital
+    2. [x] Ytringsfrihed, forsamlingsfrihed og religionsfrihed
+    3. [ ] Fri adgang til fælles valuta, visum og statsborgerskab
+
+    ## Hvilken status fik Den Europæiske Menneskerettighedskonvention i Danmark i 1992?
+
+    1. [ ] Den blev placeret over grundloven
+    2. [x] Den blev indarbejdet i dansk lov og står på linje med andre love, men under grundloven
+    3. [ ] Den blev erstattet af EU-lovgivning
+
+    ## Hvem kan under nærmere betingelser indbringe en sag mod Danmark for Den Europæiske Menneskerettighedsdomstol?
+
+    1. [x] Enkeltpersoner
+    2. [ ] Kun Folketinget
+    3. [ ] Kun Europa-Kommissionen

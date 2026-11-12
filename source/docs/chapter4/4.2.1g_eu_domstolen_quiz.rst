@@ -1,0 +1,27 @@
+Quiz til EU-Domstolen
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvordan er Danmark repræsenteret ved EU-Domstolen?
+
+    1. [ ] Danmark har to dommere
+    2. [ ] Danmark deler én dommer med de øvrige nordiske EU-lande
+    3. [x] Danmark har én dommer
+
+    ## Hvad er EU-Domstolens opgave?
+
+    1. [ ] At stille forslag til ny EU-lovgivning
+    2. [ ] At fastlægge de overordnede politiske rammer for EU
+    3. [x] At sikre, at EU-lovgivningen overholdes og fortolkes
+

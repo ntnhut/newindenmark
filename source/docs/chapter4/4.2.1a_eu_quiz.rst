@@ -1,0 +1,153 @@
+Quiz til 4.2.1 Den Europæiske Union
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilket samarbejde var et af de første skridt mod EU?
+
+    1. [x] Det Europæiske Kul- og Stålfællesskab
+    2. [ ] Europarådet
+    3. [ ] Nordisk Råd
+
+    ## Hvornår blev Det Europæiske Kul- og Stålfællesskab oprettet?
+
+    1. [ ] 1949
+    2. [x] 1952
+    3. [ ] 1973
+
+    ## Hvor mange lande grundlagde Kul- og Stålfællesskabet?
+
+    1. [ ] Fire
+    2. [ ] Ti
+    3. [x] Seks
+
+    ## Hvilket økonomisk formål havde det tidlige europæiske samarbejde?
+
+    1. [x] At genrejse Europa økonomisk og socialt efter krigens ødelæggelser
+    2. [ ] At indføre en fælles valuta umiddelbart efter krigen
+    3. [ ] At oprette en fælles europæisk menneskerettighedsdomstol
+
+    ## Hvilke to fællesskaber blev Kul- og Stålfællesskabet udvidet med i 1958?
+
+    1. [ ] Europarådet og Schengen-samarbejdet
+    2. [x] Det Europæiske Økonomiske Fællesskab og Det Europæiske Atomenergifællesskab
+    3. [ ] NATO og Den Europæiske Menneskerettighedsdomstol
+
+    ## Hvad var et centralt formål med det bredere økonomiske samarbejde i EF?
+
+    1. [ ] At indføre en fælles udenrigs- og sikkerhedspolitik
+    2. [ ] At etablere fælles regler om personkontrol ved de ydre grænser
+    3. [x] At afskaffe handelshindringer og etablere et mere fælles marked
+
+    ## Hvornår trådte EU's indre marked i kraft?
+
+    1. [ ] 1958
+    2. [x] 1993
+    3. [ ] 2004
+
+    ## Hvad kan bevæge sig frit inden for EU's indre marked?
+
+    1. [ ] Kun varer
+    2. [ ] Kun personer og kapital
+    3. [x] Varer, tjenesteydelser, personer og kapital
+
+    ## Hvad skete der med EF-samarbejdet i 1993 ud over indførelsen af det indre marked?
+
+    1. [x] EF skiftede navn til EU, og samarbejdet blev udvidet til flere politiske områder
+    2. [ ] EF beholdt sit navn, men indførte euroen i alle medlemslandene
+    3. [ ] EF blev omdannet til Europarådet med fokus på menneskerettigheder
+
+    ## Hvor mange medlemslande har EU ifølge teksten?
+
+    1. [x] 27
+    2. [ ] 15
+    3. [ ] 47
+
+    ## Hvilket år blev Danmark medlem af EF, det nuværende EU?
+
+    1. [ ] 1957
+    2. [x] 1973
+    3. [ ] 1995
+
+    ## Hvilke lande blev medlemmer af EU sammen med Danmark i 1973?
+
+    1. [ ] Sverige og Finland
+    2. [x] Irland og Storbritannien
+    3. [ ] Spanien og Portugal
+
+    ## Hvornår forlod Storbritannien EU?
+
+    1. [ ] 2013
+    2. [ ] 2015
+    3. [x] 2020
+
+    ## Hvad er et overordnet formål med EU?
+
+    1. [x] At løse fælles europæiske problemer gennem samarbejde
+    2. [ ] At lade EU overtage alle nationale politikområder
+    3. [ ] At administrere Den Europæiske Menneskerettighedskonvention
+
+    ## Hvilke generelle målsætninger for EU nævner teksten?
+
+    1. [ ] At begrænse Europas rolle i verden og overlade borgernes rettigheder til medlemslandene
+    2. [x] At fremme økonomisk og social udvikling, styrke Europas rolle og borgernes rettigheder samt sikre frihed, sikkerhed og retfærdighed
+    3. [ ] At indføre ens skatter, uddannelser og regeringer i alle medlemslandene
+
+    ## Hvor mange EU-lande har euroen som fælles valuta ifølge teksten?
+
+    1. [ ] 15
+    2. [x] 20
+    3. [ ] 27
+
+    ## Hvad er formålet med Schengen-samarbejdet?
+
+    1. [ ] At oprette en fælles europæisk domstol for straffesager
+    2. [ ] At indføre euroen i alle europæiske lande
+    3. [x] At skabe et område uden indre grænser med en fælles ydre grænse
+
+    ## Hvilke praktiske ændringer har Schengen-samarbejdet som udgangspunkt medført?
+
+    1. [x] Personkontrollen ved de indre grænser er fjernet, og der er lavet fælles visumregler
+    2. [ ] Personkontrollen er bevaret, men medlemslandene har fået en fælles valuta
+    3. [ ] De nationale visumregler er bevaret, mens kontrollen ved de ydre grænser er fjernet
+
+    ## Hvilken virkning kan EU-lovgivning have i medlemslandene?
+
+    1. [ ] Den får først virkning for borgerne, når hvert nationalt parlament har vedtaget den igen
+    2. [x] Den kan gælde direkte for borgerne og have samme virkning som landets egen lovgivning
+    3. [ ] Den gælder for nationale myndigheder, men kan ikke gælde direkte for borgerne
+
+    ## Hvad kan ske, når EU træffer en flertalsafgørelse?
+
+    1. [x] Et forslag kan vedtages, selv om ikke alle medlemslande er enige
+    2. [ ] Et forslag kan kun vedtages, hvis samtlige medlemslande er enige
+    3. [ ] Et land, der stemmer imod, er ikke bundet af den vedtagne beslutning
+
+    ## Hvad er GDPR?
+
+    1. [ ] En aftale om fælles europæisk forsvar
+    2. [x] EU's databeskyttelsesforordning
+    3. [ ] Et program for udviklingsbistand
+
+    ## Hvornår trådte GDPR i kraft, og hvad regulerer forordningen?
+
+    1. [ ] I 1993; den regulerer handel med varer mellem EU-landene
+    2. [x] I 2018; den stiller krav til behandlingen af personoplysninger
+    3. [ ] I 2022; den regulerer EU-landenes militære operationer
+
+    ## Hvad betyder Den åbne koordinationsmetode?
+
+    1. [ ] Medlemslandene vedtager bindende fælles lovgivning, som erstatter deres nationale politikker
+    2. [ ] Europa-Kommissionen fastsætter alene nationale mål og kan straffe lande, der ikke gennemfører dem
+    3. [x] Landene sætter fælles mål og rapporterer om deres indsats, uden at anbefalingerne er bindende
+

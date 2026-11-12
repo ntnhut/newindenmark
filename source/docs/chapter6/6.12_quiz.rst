@@ -13,17 +13,17 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvad er undervisningspligten i Danmark?
+    ## Hvorfor er uddannelse vigtig for samfundets og den enkeltes økonomi?
 
-    1. [ ] En pligt til at gå på universitetet
-    2. [x] En pligt til at modtage undervisning, som kan opfyldes i folkeskolen eller på anden måde
-    3. [ ] En pligt til at gå på en privatskole
+    1. [ ] Uddannelse erstatter behovet for kundskaber på arbejdsmarkedet
+    2. [x] Kundskaber har værdi i arbejdslivet og hænger sammen med velstand og indkomst
+    3. [ ] Uddannelse har kun betydning for fælles kultur og ikke for arbejdslivet
 
-    ## Hvilken skoleform tilbyder typisk undervisning fra 0. til 9. klasse?
+    ## Hvilken anden betydning har uddannelse ifølge teksten?
 
-    1. [x] Folkeskolen
-    2. [ ] Folketinget
-    3. [ ] Nordisk Råd
+    1. [x] Den giver fælles viden, identitet og forståelse af samfundet
+    2. [ ] Den sikrer, at alle vælger det samme arbejde
+    3. [ ] Den fjerner behovet for praktiske kundskaber
 
     ## Hvornår åbnede Københavns Universitet?
 
@@ -67,17 +67,47 @@ Questions
     2. [ ] Kun folkeskolen
     3. [ ] Kun en erhvervsuddannelse
 
+    ## Hvilket fagligt krav gælder ved privatskole eller hjemmeundervisning?
+
+    1. [ ] Eleven skal følge præcis samme skema som i den lokale folkeskole
+    2. [x] Eleven skal opnå samme faglige niveau som i folkeskolen
+    3. [ ] Eleven skal gå til eksamen hvert år fra 0. klasse
+
     ## Hvilke klassetrin består folkeskolens almindelige grundforløb af?
 
     1. [ ] 1.-7. klasse
     2. [x] En børnehaveklasse og ni års grundlæggende skolegang
     3. [ ] 0.-12. klasse
 
+    ## Hvilke værdier skal folkeskolens virke være præget af?
+
+    1. [ ] Konkurrence, lydighed og ensretning
+    2. [x] Åndsfrihed, ligeværd og demokrati
+    3. [ ] Udenadslære, karakterer og eksamen
+
+    ## Hvordan kan forældre få indflydelse på deres barns skole?
+
+    1. [ ] Ved selv at udpege skolens ledelse
+    2. [x] Ved at deltage i forældremøder og blive medlem af skolebestyrelsen
+    3. [ ] Ved at fastsætte de nationale karakterregler
+
+    ## Hvilken ret har eleverne i forbindelse med elevråd og skolebestyrelse?
+
+    1. [x] De kan danne elevråd og vælge mindst to medlemmer til skolebestyrelsen
+    2. [ ] De kan alene udpege alle medlemmer af skolebestyrelsen
+    3. [ ] De kan først deltage efter 10. klasse
+
     ## Hvornår begynder elever normalt at få karakterer i folkeskolen?
 
     1. [x] Fra 8. klasse
     2. [ ] Fra 0. klasse
     3. [ ] Først efter 10. klasse
+
+    ## Hvor ofte får elever fra 8. klasse karakterer i en række fag?
+
+    1. [ ] Én gang i hele skoleforløbet
+    2. [x] Mindst to gange om året
+    3. [ ] Hver uge
 
     ## Hvor mange karakterer er der på den danske 7-trins-skala?
 
@@ -97,6 +127,18 @@ Questions
     2. [ ] 02 og 4
     3. [ ] 10 og 12
 
+    ## Er det obligatorisk at fortsætte i uddannelse efter de ti års undervisningspligt?
+
+    1. [ ] Ja, alle skal tage en gymnasial uddannelse
+    2. [x] Nej, men de fleste job kræver mere end ti års skolegang
+    3. [ ] Ja, alle skal tage en universitetsuddannelse
+
+    ## Hvad gælder for de fleste uddannelser i Danmark?
+
+    1. [x] De er gratis for den enkelte borger
+    2. [ ] De er kun åbne for personer under 25 år
+    3. [ ] De kræver betaling af kirkeskat
+
     ## Hvad er en erhvervsuddannelse typisk rettet mod?
 
     1. [ ] Kun forskning på et universitet
@@ -109,17 +151,47 @@ Questions
     2. [ ] Stx
     3. [x] Hhx
 
+    ## Hvilke gymnasiale uddannelser nævner teksten?
+
+    1. [ ] Stx, VUC, master og erhvervspraktik
+    2. [ ] Hhx, folkeskole, VUC og junior-mesterlære
+    3. [x] Stx, hhx, htx og HF
+
     ## Hvor lang er en kort videregående uddannelse typisk?
 
     1. [x] 2-3 år
     2. [ ] 5-6 år
     3. [ ] 8-10 år
 
+    ## Hvor lange er mellemlange og lange videregående uddannelser typisk?
+
+    1. [ ] Mellemlange 2-3 år og lange 3-4 år
+    2. [x] Mellemlange 3-4 år og lange 5-6 år
+    3. [ ] Mellemlange 5-6 år og lange 8-10 år
+
     ## Hvilke muligheder findes der for voksne, der vil fortsætte deres uddannelse?
 
     1. [ ] Kun at starte i 0. klasse igen
     2. [x] Erhvervsuddannelser, VUC-fag og efteruddannelse blandt andet
     3. [ ] Ingen muligheder efter 25-årsalderen
+
+    ## Hvordan ændrede andelen, der tog en gymnasial uddannelse, sig fra 1982 til 2023?
+
+    1. [ ] Den faldt fra 72 procent til 36 procent
+    2. [x] Den steg fra 36 procent til 72 procent
+    3. [ ] Den steg fra 19 procent til 36 procent
+
+    ## Hvordan ændrede andelen, der tog en erhvervsfaglig uddannelse, sig i samme periode?
+
+    1. [x] Den faldt fra 36 procent til 19 procent
+    2. [ ] Den steg fra 19 procent til 36 procent
+    3. [ ] Den var uændret på 36 procent
+
+    ## Cirka hvor mange gennemførte en kandidatuddannelse i 2025?
+
+    1. [ ] 6.000
+    2. [ ] 10.000
+    3. [x] 29.000
 
     ## Hvad er en udfordring ved, at færre vælger erhvervsuddannelser?
 
@@ -132,6 +204,12 @@ Questions
     1. [ ] At alle studerende får tilbudt et job efter eksamen
     2. [ ] At universiteterne skal tilbyde flere pladser på alle fag
     3. [x] At der sættes et loft over optaget på uddannelser med høj ledighed blandt nyuddannede
+
+    ## Hvornår blev ledighedsbaseret dimensionering besluttet?
+
+    1. [x] 2014
+    2. [ ] 2024
+    3. [ ] 2030
 
     ## Hvor længe skal elever i de større folkeskoleklasser fremover i erhvervspraktik?
 
@@ -150,3 +228,15 @@ Questions
     1. [x] En ny erhvervs- og professionsrettet gymnasieuddannelse
     2. [ ] En ny karakter på 7-trins-skalaen
     3. [ ] En voksenuddannelse i dansk sprog
+
+    ## Hvornår etableres epx, og hvilken undervisning skal den kombinere?
+
+    1. [ ] Fra 2025 med kun boglig undervisning
+    2. [x] Fra 2030 med praktisk og boglig undervisning
+    3. [ ] Fra 2030 med kun oplæring i virksomheder
+
+    ## Hvilke uddannelser skal epx gradvist erstatte?
+
+    1. [ ] Stx og htx
+    2. [ ] Erhvervsuddannelser og VUC
+    3. [x] HF og 10. klasse

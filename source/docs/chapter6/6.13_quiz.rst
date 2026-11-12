@@ -13,18 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken beskrivelse af familielivet i Danmark er rigtig?
-
-    1. [ ] Alle familier består af gifte forældre og deres børn
-    2. [ ] Familier kan kun bestå af enlige voksne
-    3. [x] Familier kan have mange forskellige former
-
-    ## Hvilket ansvar har forældre som udgangspunkt over for deres børn?
-
-    1. [x] At drage omsorg for dem og tage ansvar for deres opvækst
-    2. [ ] At lade staten træffe alle beslutninger om deres hverdag
-    3. [ ] At sikre, at de bliver medlem af Folkekirken
-
     ## Hvilken samlivsform var tidligere den mest almindelige familietype?
 
     1. [x] En gift mand og kvinde med deres børn
@@ -43,23 +31,47 @@ Questions
     2. [ ] Partnerskab uden fælles bopæl
     3. [ ] Ægteskab mellem personer af samme køn
 
+    ## Hvor stor en andel af alle samboende par var i 2026 en gift mand og kvinde?
+
+    1. [ ] 31 procent
+    2. [ ] 55 procent
+    3. [x] 73 procent
+
+    ## Hvordan ændrede andelen af gifte 30-årige kvinder sig fra 1970 til 2026?
+
+    1. [x] Den faldt fra 88 procent til 31 procent
+    2. [ ] Den steg fra 31 procent til 88 procent
+    3. [ ] Den faldt fra 73 procent til 55 procent
+
     ## Har ugifte samlevende automatisk samme juridiske og økonomiske forpligtelser som ægtepar?
 
     1. [ ] Ja, de får automatisk samme rettigheder efter én måned
     2. [ ] Ja, hvis de har fælles adresse
     3. [x] Nej
 
-    ## Hvilket land var først i verden til at indføre registreret partnerskab for par af samme køn?
+    ## Indtil hvilket år kunne seksuelle relationer mellem personer af samme køn straffes?
 
-    1. [x] Danmark
-    2. [ ] Holland
-    3. [ ] Sverige
+    1. [x] 1933
+    2. [ ] 1981
+    3. [ ] 1989
 
     ## Hvornår blev homoseksualitet fjernet fra Sundhedsstyrelsens liste over psykiske sygdomme?
 
     1. [ ] 1933
     2. [x] 1981
     3. [ ] 2012
+
+    ## Hvornår indførte Danmark registreret partnerskab for personer af samme køn?
+
+    1. [ ] 1981
+    2. [x] 1989
+    3. [ ] 2001
+
+    ## Hvilket land var først i verden til at indføre registreret partnerskab for par af samme køn?
+
+    1. [x] Danmark
+    2. [ ] Holland
+    3. [ ] Sverige
 
     ## Hvornår fik personer af samme køn mulighed for at indgå ægteskab i Danmark?
 
@@ -79,11 +91,35 @@ Questions
     2. [ ] 31 procent
     3. [ ] 73 procent
 
+    ## Hvilke forhold nævnes som forklaringer på, at flere voksne lever alene?
+
+    1. [ ] Færre skilsmisser og færre ældre
+    2. [x] Flere skilsmisser og flere ældre, hvis ægtefælle er død
+    3. [ ] Flere registrerede partnerskaber og færre enlige
+
+    ## Hvilke rettigheder har mænd og kvinder ifølge teksten?
+
+    1. [ ] Forskellige rettigheder i familielivet
+    2. [x] Samme rettigheder i det politiske og økonomiske liv og i familielivet
+    3. [ ] Kun samme rettigheder, hvis de er gift
+
     ## Hvad er myndighedsalderen i Danmark?
 
     1. [ ] 13 år
     2. [x] 18 år
     3. [ ] 21 år
+
+    ## Hvad gælder som udgangspunkt for børn under 13 år?
+
+    1. [ ] De må frit arbejde uden for hjemmet
+    2. [x] De må ikke arbejde uden for hjemmet
+    3. [ ] De er myndige, hvis forældrene giver tilladelse
+
+    ## Hvad kan myndighederne gøre, hvis et barn udsættes for vold eller behandles dårligt?
+
+    1. [ ] Lade barnet indgå ægteskab før det fylder 18 år
+    2. [ ] Overdrage forældremyndigheden til Folketinget
+    3. [x] Tvangsfjerne barnet og anbringe det hos en anden familie
 
     ## Kan forældre tvinge deres barn til at indgå ægteskab?
 
@@ -91,14 +127,38 @@ Questions
     2. [ ] Ja, hvis familien godkender det
     3. [x] Nej, ægteskab skal indgås frivilligt
 
+    ## Hvilke grundlæggende betingelser for at indgå ægteskab nævner teksten?
+
+    1. [x] Begge skal have lovligt ophold, være fyldt 18 år og gifte sig frivilligt
+    2. [ ] Begge skal være danske statsborgere og eje en fælles bolig
+    3. [ ] Begge skal have forældrenes samtykke uanset alder
+
+    ## Hvad har en ægtefælle ret til, hvis kun den ene ønsker skilsmisse, og der ikke er særlige forhold?
+
+    1. [ ] Skilsmisse straks uden separation
+    2. [x] Seks måneders separation og derefter skilsmisse
+    3. [ ] Separation uden mulighed for senere skilsmisse
+
     ## Hvad gælder, hvis begge ægtefæller er enige om at blive skilt?
 
     1. [x] De kan få skilsmisse straks
     2. [ ] De skal altid vente seks måneder
     3. [ ] De skal først have tilladelse fra Folketinget
 
+    ## Hvornår kan en ægtefælle få skilsmisse straks, selv om parret ikke er enige?
+
+    1. [ ] Når ægtefællerne har boet sammen i ét år
+    2. [ ] Når den ene ønsker at flytte til en anden kommune
+    3. [x] Når der foreligger særlige forhold som utroskab eller vold
+
     ## Hvad gælder som udgangspunkt for forældremyndigheden efter en skilsmisse?
 
     1. [ ] Den overgår automatisk til kommunen
     2. [x] Forældrene fortsætter med at have fælles forældremyndighed
     3. [ ] Den tilfalder altid den forælder, der tjener mest
+
+    ## Hvem afgør spørgsmålet, hvis en forælder ønsker forældremyndigheden alene?
+
+    1. [ ] Folketinget
+    2. [x] Retten
+    3. [ ] Barnets skole

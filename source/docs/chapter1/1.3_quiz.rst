@@ -13,85 +13,169 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken union samlede Danmark, Norge og Sverige under én regent?
+    ## Hvilke grupper kæmpede ofte mod hinanden om magten i middelalderen?
+
+    1. [x] Kongen, kirken og adelen
+    2. [ ] Bønderne, købmændene og håndværkerne
+    3. [ ] Danmark, England og Frankrig
+
+    ## Hvordan udviklede forholdet mellem kongemagten og kirken sig med tiden?
+
+    1. [ ] De blev helt uafhængige af hinanden
+    2. [x] De kom til at hænge tættere sammen
+    3. [ ] Kirken afskaffede kongemagten
+
+    ## Hvilke to begivenheder eller nyskabelser fremhæves i teksten om middelalderen?
+
+    1. [ ] Grundloven og industrialiseringen
+    2. [ ] Reformationen og enevælden
+    3. [x] Jyske Lov og Den Sorte Død
+
+    ## Hvilken union samlede hele Norden i middelalderen?
 
     1. [x] Kalmarunionen
     2. [ ] Hansaforbundet
     3. [ ] Nordisk Råd
 
-    ## Hvad blev Den Sorte Død også kaldt?
-
-    1. [ ] Den engelske syge
-    2. [x] Pesten
-    3. [ ] Spanskesygen
-
     ## Hvad skete der med kongemagten efter Knud den Stores død i 1035?
 
-    1. [ ] Den blev straks afskaffet
-    2. [x] Den blev svækket i en ustabil periode
-    3. [ ] Den blev overtaget af paven
+    1. [ ] Den blev overtaget af paven
+    2. [x] Den blev svækket i en ustabil periode, hvor flere konger blev myrdet
+    3. [ ] Den blev straks gjort enevældig
 
-    ## Hvem dræbte Knud den Hellige i 1086?
+    ## Hvor og hvornår blev Knud den Hellige dræbt?
 
-    1. [x] Stormænd, der var utilfredse med hans krav
-    2. [ ] En svensk hær
-    3. [ ] Munke fra Lund
+    1. [ ] I Lund i 1103
+    2. [x] I Sankt Albani Kirke i Odense i 1086
+    3. [ ] I Tallinn i 1219
+
+    ## Hvorfor var stormændene utilfredse med Knud den Hellige?
+
+    1. [x] De skulle betale bøder, hvis de ikke deltog i militærtjeneste
+    2. [ ] De skulle betale en tiendedel af høsten til kongen
+    3. [ ] De måtte ikke eje jord i Danmark
+
+    ## Hvad viste mordet på Knud den Hellige om kongernes mulighed for at regere?
+
+    1. [ ] Kongerne kunne regere uden at tage hensyn til andre
+    2. [ ] Kongerne skulle have pavens tilladelse til alle beslutninger
+    3. [x] Kongerne måtte lave aftaler med stormændene
 
     ## Hvad var håndfæstninger?
 
-    1. [x] Aftaler om magtfordelingen mellem kongen og stormændene
+    1. [x] Kontrakter om magtfordelingen mellem kongen og stormændene
     2. [ ] Kirkens regler for betaling af tiende
-    3. [ ] Militære alliancer mellem Danmark og Norge
+    3. [ ] Aftaler om handel mellem nordiske byer
 
-    ## Hvem underskrev den første håndfæstning i 1282?
+    ## Hvem underskrev den første håndfæstning, og hvornår?
 
-    1. [ ] Valdemar Atterdag
-    2. [ ] Knud den Hellige
-    3. [x] Erik Klipping
+    1. [ ] Knud den Hellige i 1086
+    2. [x] Erik Klipping i 1282
+    3. [ ] Valdemar Atterdag i 1350
 
-    ## Hvem havde stor indflydelse på kristendommen i Danmark før en selvstændig dansk kirke opstod?
+    ## Hvem underskrev den sidste håndfæstning i 1648?
 
-    1. [x] Ærkebiskoppen i Hamborg-Bremen
-    2. [ ] Kongen af Sverige
-    3. [ ] Biskoppen i Roskilde alene
+    1. [ ] Christian 4.
+    2. [ ] Erik Klipping
+    3. [x] Frederik 3.
 
-    ## Hvor mange stifter var den danske kirke inddelt i i 1000-tallet?
+    ## Hvornår blev den sidste håndfæstning annulleret?
 
-    1. [ ] Fire
-    2. [x] Otte
-    3. [ ] Tolv
+    1. [x] Da det enevældige arvekongedømme blev indført i 1660-61
+    2. [ ] Da Jyske Lov blev vedtaget i 1241
+    3. [ ] Da Kalmarunionen blev oprettet i 1397
 
-    ## Hvilken by fik en ærkebiskop i 1103 med hele Norden under sig?
+    ## Hvem var kristendommen i Danmark underlagt i de første mere end 100 år efter Harald Blåtands dåb?
 
-    1. [ ] Ribe
-    2. [ ] Odense
-    3. [x] Lund
+    1. [ ] Ærkebiskoppen i Lund
+    2. [x] Ærkebiskoppen i Hamborg-Bremen
+    3. [ ] Kongen af Sverige
+
+    ## Hvorfor svækkede kirkens tilknytning til Hamborg-Bremen Danmark?
+
+    1. [ ] Kirken forbød danske konger at have en hær
+    2. [ ] Alle danske skatter blev sendt til Sverige
+    3. [x] De tyske kejsere havde stor indflydelse på ærkebiskoppen
+
+    ## Hvordan var den selvstændige danske kirke organiseret i 1000-tallet?
+
+    1. [x] I otte stifter med en biskop som øverste leder i hvert stift
+    2. [ ] I tre kongeriger med en stormand som leder
+    3. [ ] I én menighed ledet direkte fra Hamborg
+
+    ## Hvad skete der i Lund i 1103?
+
+    1. [ ] Jyske Lov blev underskrevet
+    2. [x] Byen fik en ærkebiskop med hele Norden under sig
+    3. [ ] Kalmarunionen blev opløst
+
+    ## Hvad betød oprettelsen af ærkebispesædet i Lund for Norden?
+
+    1. [ ] Norden kom under den tyske kejsers direkte styre
+    2. [ ] Norden forlod den katolske kirke
+    3. [x] Norden blev et selvstændigt kirkeligt område direkte under paven
 
     ## Hvad var tiende?
 
-    1. [x] En skat til kirken på en tiendedel af høst eller produktion
-    2. [ ] En bøde til kongen for ikke at deltage i krig
-    3. [ ] En afgift for at komme ind i en by
+    1. [x] En skat til kirken på en tiendedel af høsten eller anden produktion
+    2. [ ] En bøde til kongen for manglende militærtjeneste
+    3. [ ] En afgift på handel med Sverige
 
-    ## Hvad var aflad i middelalderens kirke?
+    ## Hvilken indflydelse havde kirken på menneskers liv i middelalderen?
 
-    1. [ ] En pligt til at arbejde for kongen
-    2. [x] Tilgivelse for synd, som ofte kunne fås ved at betale kirken
-    3. [ ] En aftale om at vælge en ny biskop
+    1. [ ] Kirken bestemte kun over kongens hær
+    2. [x] Kirken bestemte i høj grad, hvad man måtte tro, og hvordan man skulle leve
+    3. [ ] Kirken beskæftigede sig kun med udenrigshandel
 
-    ## Hvad var en vigtig funktion for mange middelalderlige klostre?
+    ## Hvor mange kirker var der blevet bygget i Danmark omkring 1250?
 
-    1. [ ] At opkræve skat for kongen
-    2. [ ] At uddanne kongelige soldater
-    3. [x] At tage sig af syge og fattige
+    1. [ ] Op mod 300
+    2. [x] Op mod 3.000
+    3. [ ] Op mod 30.000
 
-    ## Hvem lavede lovene i den periode, hvor kongemagten blev stærkere fra midten af 1100-tallet?
+    ## Hvad var aflad?
 
-    1. [x] Kongen
-    2. [ ] Paven
-    3. [ ] De tyske kejsere
+    1. [ ] En aftale om fordeling af magten
+    2. [ ] En skat på en tiendedel af høsten
+    3. [x] Tilgivelse for synd, som ofte kunne fås ved at betale kirken
 
-    ## Hvilket år blev Jyske Lov udstedt?
+    ## Hvad skulle kirkens messe hver søndag skabe?
+
+    1. [x] Forsoning mellem Gud og mennesker
+    2. [ ] En ny aftale mellem kongen og stormændene
+    3. [ ] Militær støtte til korstogene
+
+    ## Hvem levede i klostrene?
+
+    1. [ ] Konger og stormænd
+    2. [x] Munke og nonner
+    3. [ ] Soldater og købmænd
+
+    ## Hvilken social opgave varetog mange klostre?
+
+    1. [ ] De opkrævede kongens bøder
+    2. [ ] De uddannede soldater
+    3. [x] De tog sig af syge og fattige
+
+    ## Hvorfor måtte middelalderens danske konger sørge for at have kirken på deres side?
+
+    1. [x] Kirken ejede store jordområder og var en international organisation med stor indflydelse
+    2. [ ] Kirken kontrollerede alle ringborge i Danmark
+    3. [ ] Kirken valgte alle landets stormænd
+
+    ## Hvornår fik kongemagten fornyet styrke?
+
+    1. [ ] Fra midten af 900-tallet til midten af 1000-tallet
+    2. [x] Fra midten af 1100-tallet til midten af 1200-tallet
+    3. [ ] Fra midten af 1300-tallet til midten af 1400-tallet
+
+    ## Hvad viser de love, der blev lavet i denne periode, om kongemagten?
+
+    1. [ ] Paven var begyndt at lave alle danske love
+    2. [x] Det var nu kongen, der lavede lovene
+    3. [ ] Slægterne havde overtaget lovgivningen
+
+    ## Hvornår blev Jyske Lov udstedt?
 
     1. [ ] 1103
     2. [ ] 1219
@@ -99,69 +183,117 @@ Questions
 
     ## Hvilken praksis tog Jyske Lov afstand fra?
 
-    1. [ ] Handel med andre lande
+    1. [ ] Betaling af tiende
     2. [x] Blodhævn mellem slægter
-    3. [ ] Betaling af tiende til kirken
+    3. [ ] Handel med andre lande
 
-    ## Hvad betyder sædvaneret?
+    ## Hvad var sædvaneret?
 
-    1. [x] Regler, der bygger på uskrevne traditioner
-    2. [ ] Love, som kun gælder i kirker
-    3. [ ] En aftale mellem konger og paver
+    1. [x] Ret, der byggede på uskrevne regler
+    2. [ ] Love, som kun gjaldt for kirken
+    3. [ ] Kontrakter mellem kongen og stormændene
 
-    ## Hvor stammer ordene "Med lov skal man land bygge" fra?
+    ## Hvor stammer sætningen ”Med lov skal man land bygge” fra?
 
-    1. [ ] Kongeloven
-    2. [ ] Kalmarunionens traktat
-    3. [x] Indledningen til Jyske Lov
+    1. [ ] Danske Lov
+    2. [x] Indledningen til Jyske Lov
+    3. [ ] Kalmarunionens traktat
+
+    ## Hvor gjaldt Jyske Lov oprindeligt?
+
+    1. [ ] I hele Norden
+    2. [ ] Kun på Sjælland
+    3. [x] Kun i Jylland
+
+    ## Hvad skete der senere med store dele af Jyske Lov?
+
+    1. [x] De blev skrevet ind i Danske Lov fra 1683
+    2. [ ] De blev til Kalmarunionens traktat
+    3. [ ] De blev annulleret af Erik Klipping i 1282
+
+    ## Hvad var Danske Lov fra 1683?
+
+    1. [ ] Den første lov, som kun gjaldt kirken
+    2. [x] Den første fælles lov for hele Danmark
+    3. [ ] Den sidste håndfæstning
 
     ## Hvad var formålet med de danske korstog omkring Østersøen?
 
-    1. [ ] At erobre handelsbyer fra England
-    2. [x] At omvende ikke-kristne befolkninger til kristendommen
-    3. [ ] At beskytte Danmark mod pesten
+    1. [ ] At beskytte Danmark mod pesten
+    2. [ ] At opkræve tiende for kirken
+    3. [x] At omvende ikke-kristne befolkninger til kristendommen
 
-    ## Hvornår gik et kendt dansk korstog til Estland?
+    ## Hvornår gik et af de mest kendte danske korstog til Estland?
 
     1. [x] 1219
     2. [ ] 1282
     3. [ ] 1397
 
-    ## Hvad fortæller sagnet om Dannebrog under slaget ved Tallinn?
+    ## Hvad fortælles der om Dannebrog under slaget ved Tallinn?
 
-    1. [ ] At det blev givet til Margrete 1.
-    2. [ ] At det blev taget fra en svensk hær
-    3. [x] At det faldt ned fra himlen og sikrede dansk sejr
+    1. [ ] Det blev givet til Margrete 1.
+    2. [x] Det faldt ned fra himlen og sikrede dansk sejr
+    3. [ ] Det blev taget fra en svensk hær
 
-    ## Hvem samlede det danske rige igen efter en periode med splittelse?
+    ## Hvordan var Danmark præget fra midten af 1200-tallet og ind i 1300-tallet?
 
-    1. [ ] Erik Klipping
-    2. [x] Valdemar Atterdag
-    3. [ ] Frederik 3.
+    1. [x] Af splittelse og borgerkrig
+    2. [ ] Af en stabil union med England
+    3. [ ] Af enevældigt arvekongedømme
 
-    ## Hvornår ramte Den Sorte Død Danmark?
+    ## Hvad lykkedes det Valdemar Atterdag at gøre?
 
-    1. [ ] Omkring 1100
+    1. [ ] At indføre Jyske Lov
+    2. [x] At samle riget igen og genopbygge statsmagten
+    3. [ ] At oprette ærkebispesædet i Lund
+
+    ## Hvornår ramte Den Sorte Død Danmark og resten af Europa?
+
+    1. [ ] Omkring 1150
     2. [ ] Omkring 1250
     3. [x] Omkring 1350
 
-    ## Hvilken virkning fik pesten på kong Valdemar Atterdags magt?
+    ## Hvor stor en del af befolkningen slog Den Sorte Død op mod ihjel?
 
-    1. [x] Den styrkede kongen, blandt andet fordi han overtog jord fra døde
-    2. [ ] Den gjorde kongen til leder af den katolske kirke
-    3. [ ] Den førte straks til Kalmarunionens opløsning
+    1. [ ] En tiendedel
+    2. [x] Halvdelen
+    3. [ ] Tre fjerdedele
 
-    ## Hvilke lande blev samlet i Kalmarunionen i 1397?
+    ## Hvordan styrkede pesten Valdemar Atterdags magt?
 
-    1. [ ] Danmark, England og Norge
-    2. [x] Danmark, Norge og Sverige
+    1. [x] Han inddrog meget af den jord, som havde tilhørt de døde
+    2. [ ] Han blev valgt til pave
+    3. [ ] Han afskaffede alle skatter til kirken
+
+    ## Hvem fik magten efter Valdemar Atterdags død i 1375?
+
+    1. [ ] Erik Klipping
+    2. [x] Hans datter Margrete 1.
+    3. [ ] Frederik 3.
+
+    ## Hvilke områder omfattede Norge, da Margrete 1. blev regent dér?
+
+    1. [ ] Sverige, Finland og Skåne
+    2. [ ] England, Normandiet og Island
+    3. [x] Færøerne, Island og dele af Grønland
+
+    ## Hvilke riger samlede Margrete 1. i Kalmarunionen i 1397?
+
+    1. [x] Danmark, Norge og Sverige
+    2. [ ] Danmark, England og Norge
     3. [ ] Danmark, Tyskland og Sverige
+
+    ## Hvilket land var den dominerende magt i Kalmarunionen?
+
+    1. [ ] Norge
+    2. [x] Danmark
+    3. [ ] Sverige
 
     ## Hvorfor fik Kalmarunionen sit navn?
 
-    1. [ ] Unionens første konge blev født i Kalmar
-    2. [ ] Byen var Danmarks hovedstad
-    3. [x] Unionstraktaten blev underskrevet i Kalmar
+    1. [ ] Margrete 1. blev født i Kalmar
+    2. [ ] Kalmar var Danmarks hovedstad
+    3. [x] Unionstraktaten blev underskrevet i byen Kalmar
 
     ## Hvornår blev Kalmarunionen endeligt opløst?
 
@@ -169,8 +301,8 @@ Questions
     2. [ ] 1450
     3. [x] 1523
 
-    ## Hvornår forblev Norge i union med Danmark?
+    ## Hvad skete der med Sverige og Norge efter Kalmarunionens opløsning?
 
-    1. [ ] Indtil 1648
-    2. [x] Indtil 1814
-    3. [ ] Indtil 1864
+    1. [x] Sverige rev sig løs, mens Norge forblev i union med Danmark til 1814
+    2. [ ] Norge rev sig løs, mens Sverige forblev i union med Danmark til 1814
+    3. [ ] Begge lande forblev i union med Danmark til 1814

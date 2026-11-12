@@ -13,164 +13,362 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?
-    
-    1. [x] Christian den 4.
-    2. [ ] Christian den 7.
-    3. [ ] Christian den 10.
+    ## Hvilken religiøs retning blev indført i Danmark med reformationen i 1536?
 
-    ## Hvornår blev reformationen gennemført i Danmark?
+    1. [ ] Katolicismen
+    2. [x] Protestantismen
+    3. [ ] Den ortodokse kristendom
 
-    1. [ ] 1397
-    2. [x] 1536
-    3. [ ] 1660
+    ## Hvem kom den danske kirke under efter reformationen?
 
-    ## Hvilken styreform blev indført i Danmark i 1660?
+    1. [x] Kongen
+    2. [ ] Paven
+    3. [ ] Adelen
 
-    1. [ ] Parlamentarisme
-    2. [ ] Republik
-    3. [x] Enevælde
+    ## Hvordan styrkede reformationen kongens økonomiske magt?
 
-    ## Hvilken kirke var den danske kirke en del af i middelalderen?
+    1. [ ] Kongen overtog Sveriges skatteindtægter
+    2. [ ] Kongen blev fritaget for at betale skat
+    3. [x] Kongen overtog kirkens ejendom
 
-    1. [x] Den katolske kirke
-    2. [ ] Den ortodokse kirke
-    3. [ ] Den anglikanske kirke
+    ## Hvem var den danske kirke underlagt i middelalderen?
 
-    ## Hvem ledede en af de protestantiske bevægelser, der ønskede at reformere kirken?
+    1. [ ] Den svenske konge
+    2. [x] Paven i Rom
+    3. [ ] Den tyske kejser
 
-    1. [ ] Ansgar
-    2. [ ] Hans Tausen
-    3. [x] Martin Luther
+    ## Hvad blev de bevægelser kaldt, som omkring år 1500 ville reformere kirken?
+
+    1. [x] Protestantiske bevægelser
+    2. [ ] Enevældige bevægelser
+    3. [ ] Katolske bispedømmer
+
+    ## Hvem ledede en af de protestantiske bevægelser i Nordeuropa?
+
+    1. [ ] Hans Tausen
+    2. [x] Den tyske munk Martin Luther
+    3. [ ] Christian 4.
+
+    ## Hvad førte det protestantiske oprør til i store dele af Nordeuropa?
+
+    1. [ ] Kirkerne blev lagt direkte under paven
+    2. [x] Der blev grundlagt uafhængige protestantiske kirker i samarbejde med konger og fyrster
+    3. [ ] Konger og fyrster mistede al indflydelse på kirken
+
+    ## Hvornår kom Martin Luthers ideer til Danmark?
+
+    1. [ ] I 1420'erne
+    2. [x] I 1520'erne
+    3. [ ] I 1620'erne
 
     ## Hvem udbredte især Martin Luthers ideer i Danmark?
 
-    1. [x] Hans Tausen
-    2. [ ] J.B.S. Estrup
-    3. [ ] Christian 4.
+    1. [x] Præsten Hans Tausen
+    2. [ ] Kong Frederik 3.
+    3. [ ] Biskop Absalon
 
-    ## Hvad mente Martin Luther om frelse?
+    ## Hvordan kunne man ifølge Martin Luther opnå frelse?
 
-    1. [ ] Den kunne købes ved at betale aflad
-    2. [x] Den kunne opnås ved tro
-    3. [ ] Den blev givet af kongen
+    1. [ ] Ved at købe aflad
+    2. [ ] Ved at gøre mange gode gerninger
+    3. [x] Ved at tro
 
-    ## Hvilken begivenhed fandt sted i Danmark i 1534?
+    ## Hvad udviklede diskussionerne om kristendommen sig til i Danmark?
 
-    1. [x] Borgerkrig mellem katolske magthavere og protestanter
-    2. [ ] Enevælden blev afskaffet
-    3. [ ] Danmark blev medlem af EF
+    1. [x] En folkelig opstand mod den rige og magtfulde katolske kirke
+    2. [ ] En krig mod Sverige om Østersøen
+    3. [ ] En bevægelse for at styrke pavens magt
 
-    ## Hvilken konge gennemførte reformationen i 1536?
+    ## Hvad udbrød der i Danmark i 1534?
 
-    1. [ ] Frederik 3.
-    2. [x] Christian 3.
-    3. [ ] Christian 4.
+    1. [ ] En krig mod Nederlandene
+    2. [x] Borgerkrig mellem katolske magthavere og protestanter
+    3. [ ] Et oprør på Bornholm mod Sverige
 
-    ## Hvad overtog kongen efter reformationen?
+    ## Hvem vandt borgerkrigen i 1536?
 
-    1. [x] Kirkens værdier og jord
-    2. [ ] Pavedømmet i Rom
-    3. [ ] De svenske provinser
+    1. [ ] De katolske biskopper under pavens ledelse
+    2. [ ] Adelen under Frederik 3.s ledelse
+    3. [x] Protestanterne under Christian 3.s ledelse
 
-    ## Hvilken ændring skete der med kirkens sprog efter reformationen?
+    ## Hvad betød reformationen for de katolske biskopper og kirkens politiske magt?
 
-    1. [ ] Dansk blev erstattet af tysk
-    2. [ ] Latin blev gjort til fælles talesprog
-    3. [x] Bibelen blev oversat, og gudstjenester foregik på dansk
+    1. [x] Biskopperne blev afsat, og kirkens politiske magt blev meget mindre
+    2. [ ] Biskopperne overtog kongens magt
+    3. [ ] Kirkens politiske magt blev uændret
 
-    ## Hvem kunne udnævne præster og biskopper efter reformationen?
+    ## Hvad overtog kongen fra den katolske kirke efter reformationen?
+
+    1. [ ] Pavens embede i Rom
+    2. [x] Kirkens store værdier og jord
+    3. [ ] Sveriges provinser
+
+    ## Hvad skete der med klostrene efter reformationen?
+
+    1. [ ] De blev gjort til katolske bispesæder
+    2. [ ] De blev overtaget af paven
+    3. [x] Kongen lukkede dem
+
+    ## Hvilken sproglig ændring medførte reformationen?
+
+    1. [x] Biblen blev oversat, og gudstjenester og salmesang foregik på dansk
+    2. [ ] Dansk blev erstattet af latin i kirken
+    3. [ ] Tysk blev landets eneste kirkesprog
+
+    ## Hvorfor mente Martin Luther, at kirken skulle bruge folks eget sprog?
+
+    1. [ ] Kun præster skulle kunne læse Biblen
+    2. [x] Alle skulle have adgang til kristendommen på deres eget sprog
+    3. [ ] Kongen skulle kunne skjule kirkens lære for folket
+
+    ## Hvem kunne efter reformationen udnævne præster og biskopper?
 
     1. [ ] Paven
     2. [x] Kongen
-    3. [ ] Folketinget
+    3. [ ] Befolkningen
 
-    ## Hvilket af disse bygningsværker blev opført under Christian 4.?
+    ## Hvordan kunne den reformerede kirke og den danske bibel styrke kongemagten?
 
-    1. [x] Rundetårn
-    2. [ ] Jellingstenene
-    3. [ ] Christiansborg Slot
+    1. [ ] De gav paven mere magt i Danmark
+    2. [ ] De gjorde hvert område sprogligt uafhængigt
+    3. [x] De knyttede stat, kirke, sprog og befolkning tættere sammen
 
-    ## Hvilken europæisk storkrig deltog Danmark i under Christian 4.?
+    ## Hvilken senere styreform bidrog reformationens stærke statsmagt til?
 
-    1. [x] Den Trediveårige Krig
+    1. [x] Kongelig enevælde i 1660-61
+    2. [ ] Republik i 1536
+    3. [ ] Parlamentarisme i 1648
+
+    ## Hvor længe var Christian 4. konge?
+
+    1. [ ] Næsten 20 år
+    2. [ ] Næsten 40 år
+    3. [x] Næsten 60 år
+
+    ## Hvilket område satte Christian 4. blandt andet sit præg på?
+
+    1. [x] Kunst og arkitektur
+    2. [ ] Oversættelsen af Jyske Lov
+    3. [ ] Oprettelsen af Kalmarunionen
+
+    ## Hvilke bygningsværker lod Christian 4. blandt andet opføre?
+
+    1. [ ] Jellingstenene, Kronborg og Amalienborg
+    2. [x] Frederiksborg Slot, Børsen, Rosenborg Slot og Rundetårn
+    3. [ ] Roskilde Domkirke, Hammershus og Tirpitz
+
+    ## Hvilke byer grundlagde Christian 4. uden for det nuværende Danmark?
+
+    1. [x] Kristianstad, Kristiansand og Kristiania
+    2. [ ] Stockholm, Bergen og Helsinki
+    3. [ ] Kalmar, Tallinn og Lübeck
+
+    ## Hvad hedder Kristiania i dag?
+
+    1. [ ] Bergen
+    2. [x] Oslo
+    3. [ ] Trondheim
+
+    ## Hvilket område dominerede Danmark, da Christian 4. overtog regeringsmagten?
+
+    1. [ ] Området omkring Middelhavet
+    2. [x] Området omkring Østersøen
+    3. [ ] Området omkring Atlanterhavet
+
+    ## Hvilken krig trak Christian 4. Danmark ind i i 1625?
+
+    1. [x] Trediveårskrigen
     2. [ ] Napoleonskrigene
-    3. [ ] Krimkrigen
+    3. [ ] Første Verdenskrig
 
-    ## Hvilken provins måtte Danmark blandt andet afstå til Sverige i 1645?
+    ## Hvor foregik Trediveårskrigen især?
 
-    1. [ ] Skåne
-    2. [ ] Blekinge
-    3. [x] Halland
+    1. [ ] I Norge
+    2. [ ] I England
+    3. [x] I Tyskland
 
-    ## Hvad gjorde det muligt for de svenske tropper at gå over havet til de danske øer i vinteren 1657-58?
+    ## Hvad skete der med magtbalancen i Østersøområdet efter Danmarks nederlag og udtræden af krigen i 1629?
 
-    1. [ ] En bro bygget af den danske hær
-    2. [x] Et tykt lag is
-    3. [ ] En aftale med den danske flåde
+    1. [ ] Danmark blev den førende magt
+    2. [x] Sverige blev den førende magt
+    3. [ ] Nederlandene overtog området
 
-    ## Hvilken fredsaftale førte til, at Danmark afstod Skåne, Halland og Blekinge til Sverige?
+    ## Hvad skete der i 1643?
 
-    1. [x] Freden i Roskilde i 1658
-    2. [ ] Freden i Kiel i 1814
-    3. [ ] Versaillestraktaten i 1919
+    1. [x] Sverige angreb Danmark
+    2. [ ] Danmark angreb Nederlandene
+    3. [ ] Bornholm gjorde oprør mod Danmark
 
-    ## Hvad skete der med Bornholm efter Roskilde-freden?
+    ## Hvilke områder måtte Danmark blandt andet afstå til Sverige i 1645?
 
-    1. [ ] Øen forblev svensk
-    2. [ ] Øen blev overdraget til Norge
-    3. [x] Befolkningen gjorde oprør, og øen blev igen dansk
+    1. [ ] Skåne, Blekinge og Bornholm for altid
+    2. [x] Halland i 30 år, Gotland og dele af Norge
+    3. [ ] Sjælland, Fyn og Lolland
 
-    ## Hvem hjalp Danmark med at modstå svenskernes belejring af København?
+    ## Hvordan var Danmarks situation ved Christian 4.s død i 1648?
+
+    1. [ ] Danmark var igen den førende magt ved Østersøen
+    2. [ ] Danmark havde erobret hele Sverige
+    3. [x] Danmark var i dyb krise
+
+    ## Hvor mange gange var Danmark i krig med Sverige i årene 1657-60?
+
+    1. [ ] Én gang
+    2. [x] To gange
+    3. [ ] Fire gange
+
+    ## Hvordan kom svenske tropper til Jylland under den første krig?
+
+    1. [ ] De sejlede fra Stockholm gennem Øresund
+    2. [x] De marcherede op fra en krig i Polen
+    3. [ ] De kom fra Norge over Skagerrak
+
+    ## Hvorfor kunne den danske flåde ikke forsvare øerne i vinteren 1657-58?
+
+    1. [x] Et tykt lag is havde lagt sig i havet
+    2. [ ] Flåden var blevet solgt til Nederlandene
+    3. [ ] Alle skibene lå i Norge
+
+    ## Hvordan nåede svenskerne frem til Fyn, Langeland, Lolland og Sjælland?
+
+    1. [ ] De byggede broer mellem alle øerne
+    2. [ ] De brugte den danske flåde
+    3. [x] De gik over isen
+
+    ## Hvilke landsdele måtte Danmark for altid afstå ved Roskilde-freden i 1658?
+
+    1. [ ] Fyn, Lolland og Falster
+    2. [x] Skåne, Halland og Blekinge samt flere norske områder
+    3. [ ] Jylland og Slesvig
+
+    ## Hvad skete der på Bornholm efter Roskilde-freden?
+
+    1. [ ] Øen forblev svensk resten af 1600-tallet
+    2. [x] Befolkningen gjorde oprør og styrtede det svenske styre
+    3. [ ] Øen blev overdraget til Nederlandene
+
+    ## Hvorfor begyndte Sverige endnu en krig senere i 1658?
+
+    1. [ ] Den svenske konge ville generobre Bornholm fra Nederlandene
+    2. [ ] Sverige ville hjælpe Danmark mod en tysk invasion
+    3. [x] Den svenske konge fortrød, at han ikke havde erobret hele Danmark
+
+    ## Hvad vil det sige, at svenskerne belejrede København?
+
+    1. [x] De omringede byen for at få den til at overgive sig
+    2. [ ] De byggede en ny bymur omkring byen
+    3. [ ] De afskar kun byens forbindelse til Norge
+
+    ## Hvem hjalp København med at modstå den svenske belejring?
 
     1. [ ] England
     2. [x] Nederlandene
-    3. [ ] Rusland
+    3. [ ] Frankrig
 
-    ## Hvad mistede Danmark ved tabet af landområder til Sverige?
+    ## Hvilke økonomiske og geografiske tab fulgte med de afståede landområder?
 
-    1. [x] Befolkning, landbrugsjord og adgang til Østersøen
-    2. [ ] Sin adgang til Nordsøen og hele sin flåde
-    3. [ ] Alle sine kolonier i Asien
+    1. [x] Befolkning, frugtbar jord, handel og en lang kystlinje til Østersøen
+    2. [ ] Alle danske havne ved Nordsøen
+    3. [ ] Hele den danske flåde og alle kolonier
 
-    ## Hvilket privilegium havde adelen før enevældens indførelse?
+    ## Hvilken strategisk kontrol mistede Danmark?
 
-    1. [ ] Den kunne udnævne paven
-    2. [x] Den var fritaget for at betale skat
-    3. [ ] Den havde eneret på al udenrigshandel
+    1. [ ] Kontrollen med begge sider af Storebælt
+    2. [ ] Kontrollen med hele Nordsøkysten
+    3. [x] Kontrollen med begge sider af Øresund
 
-    ## Hvad skete der med adelens skattepligt i 1660?
+    ## Hvilken rolle havde Danmark ikke længere efter tabene til Sverige?
 
-    1. [x] Adelen blev pålagt at betale skat blandt andet til genopbygning
-    2. [ ] Adelen blev fritaget for alle afgifter
-    3. [ ] Skatterne blev overført til kirken
+    1. [x] En rolle som magtfaktor i Nordeuropa
+    2. [ ] En rolle som protestantisk land
+    3. [ ] En rolle som selvstændigt kongerige
 
-    ## Hvilken ændring i arvefølgen accepterede adelen i 1660?
+    ## Hvorfor voksede kravet om at afskaffe adelens særlige fordele?
 
-    1. [ ] Kongen skulle vælges af bønderne
-    2. [ ] Tronen skulle gå på skift mellem adelsfamilier
-    3. [x] Kongemagten skulle gå automatisk i arv til kongens nærmeste arving
+    1. [ ] Danmark havde vundet store områder fra Sverige
+    2. [x] Krigene var tabt, og landets økonomi var dårlig
+    3. [ ] Adelen ønskede selv at betale mere i skat
 
-    ## Hvad kunne kongen gøre under enevælden uden først at spørge andre?
+    ## Hvor stor en del af Danmarks befolkning udgjorde adelen?
+
+    1. [ ] Omkring ti procent
+    2. [ ] Omkring fem procent
+    3. [x] Under én procent
+
+    ## Hvilket skatteprivilegium havde adelen?
+
+    1. [x] Adelen skulle ikke betale skat
+    2. [ ] Adelen betalte kun skat til paven
+    3. [ ] Adelen bestemte selv skattesatsen for kongen
+
+    ## Hvilken politisk magt havde adelen før enevælden?
+
+    1. [ ] Den kunne vælge paven
+    2. [x] Den kunne vælge en ny konge og gennem en håndfæstning kræve del i magten
+    3. [ ] Den kunne udnævne Sveriges konge
+
+    ## Hvad skulle adelen yde til gengæld for sine privilegier?
+
+    1. [ ] Kirkens tiende
+    2. [ ] Arbejdskraft til kongens byggerier
+    3. [x] Militær støtte til kongen i krig
+
+    ## Hvad blev adelen pålagt i oktober 1660?
+
+    1. [x] At betale skat blandt andet til landets genopbygning
+    2. [ ] At overtage kirkens jord
+    3. [ ] At genindføre katolicismen
+
+    ## Hvilken ændring i kongemagten accepterede adelen i 1660?
+
+    1. [ ] Kongen skulle vælges af befolkningen
+    2. [ ] Tronen skulle gå på skift mellem adelsslægter
+    3. [x] Kongemagten skulle automatisk gå i arv til kongens nærmeste arving
+
+    ## Hvad betød enevælden, som blev indført i 1660-61?
+
+    1. [ ] Kongen delte magten ligeligt med adelen
+    2. [x] Kongen regerede landet helt alene
+    3. [ ] Kirken overtog statsmagten
+
+    ## Hvad kunne kongen gøre uden at spørge andre under enevælden?
 
     1. [x] Ansætte embedsmænd, indføre love og opkræve skatter
-    2. [ ] Ændre alle regler i den katolske kirke
-    3. [ ] Bestemme over andre europæiske monarker
+    2. [ ] Bestemme over alle andre europæiske konger
+    3. [ ] Ændre den katolske kirkes regler i Rom
 
-    ## Hvilket dokument fastslog kongens enevældige magt fra 1665?
+    ## Hvilke institutioner opstod under enevælden?
 
-    1. [ ] Jyske Lov
-    2. [ ] Håndfæstningen
-    3. [x] Kongeloven
+    1. [ ] En folkevalgt rigsdag og lokale republikker
+    2. [x] En central statsadministration og en permanent hær
+    3. [ ] Et selvstændigt katolsk bispedømme
 
-    ## Hvilken begrænsning satte Kongeloven for kongen?
+    ## Hvad var Kongeloven fra 1665?
 
-    1. [ ] Han skulle dele riget mellem sine børn
-    2. [x] Han måtte ikke afgive sin enevældige magt
-    3. [ ] Han skulle vælges af Rigsdagen
+    1. [ ] En håndfæstning, der delte magten med adelen
+    2. [ ] Den første fælles kirkelov under paven
+    3. [x] En nedskrevet grundlov for det enevældige monarki
 
-    ## Hvornår blev Kongeloven afløst som grundlag for kongens magt?
+    ## Hvad fastslog Kongeloven først og fremmest?
 
-    1. [ ] 1536
-    2. [ ] 1660
-    3. [x] 1849
+    1. [x] At kongen havde næsten ubegrænset magt
+    2. [ ] At kongen skulle vælges af adelen
+    3. [ ] At Danmark igen skulle være katolsk
+
+    ## Hvad måtte kongen ikke gøre ifølge Kongeloven?
+
+    1. [ ] Ansætte embedsmænd eller opkræve skatter
+    2. [x] Afgive sin enevældige magt eller dele kongeriget mellem sine børn
+    3. [ ] Lade hele riget gå i arv til tronfølgeren
+
+    ## Hvilken kirke skulle kongen tilhøre ifølge Kongeloven?
+
+    1. [ ] Den katolske kirke
+    2. [x] Den protestantiske kirke
+    3. [ ] Den ortodokse kirke
+
+    ## Hvor længe var Kongeloven grundlaget for kongens enevældige magt?
+
+    1. [ ] Til reformationen i 1536
+    2. [ ] Til Roskilde-freden i 1658
+    3. [x] Til den første demokratiske grundlov i 1849

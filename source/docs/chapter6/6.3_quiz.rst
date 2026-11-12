@@ -13,47 +13,47 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilke farver har Dannebrog?
-
-    1. [ ] Blå og gul
-    2. [x] Rød og hvid
-    3. [ ] Grøn og hvid
-
-    ## Hvilket mønster ses på Dannebrog?
+    ## Hvordan ser Dannebrog ud?
 
     1. [x] Et hvidt kors på en rød baggrund
-    2. [ ] En rød cirkel på hvid baggrund
-    3. [ ] Tre lodrette striber
+    2. [ ] Et rødt kors på en hvid baggrund
+    3. [ ] Et hvidt kors på en blå baggrund
 
     ## Hvad betyder navnet Dannebrog ifølge teksten?
 
-    1. [ ] Kongens skjold
+    1. [ ] Kongens fane eller hærens fane
     2. [x] Danernes fane eller rødfarvet fane
-    3. [ ] Det nordiske kors
+    3. [ ] Korsfarernes fane eller nordisk fane
 
     ## Hvad fortæller legenden om Dannebrog?
 
-    1. [x] At flaget faldt ned fra himlen under et slag i Estland i 1219
-    2. [ ] At flaget blev tegnet af Christian 4. i 1642
-    3. [ ] At flaget blev fundet på Bornholm i 1940
+    1. [x] Flaget faldt ned fra himlen under et slag i Estland i 1219 og sikrede danskerne sejren
+    2. [ ] Danske konger begyndte at bruge flaget under en krig i 1400-tallet
+    3. [ ] Flaget blev indført af flåden under et slag i 1700-tallet
 
     ## Hvilken oprindelse for Dannebrog vurderes som sandsynlig i teksten?
 
     1. [ ] Det var oprindeligt et handelsflag fra Holland
-    2. [ ] Det blev skabt som symbol for Folketinget
-    3. [x] Det kan have været en fane brugt af riddere på korstog
+    2. [ ] Det blev skabt som symbol for den danske flåde
+    3. [x] Det var sandsynligvis en fane, som riddere brugte på korstog
 
-    ## Hvornår blev Dannebrog brugt som fane af danske konger i krig?
+    ## Hvordan beskriver teksten Dannebrogs alder?
+
+    1. [ ] Det er et af Europas nyeste nationalflag
+    2. [x] Det regnes som et af verdens ældste nationalflag
+    3. [ ] Det blev først et nationalflag i midten af 1800-tallet
+
+    ## Siden hvornår har danske konger brugt Dannebrog som fane i krig?
 
     1. [x] Siden 1400-tallet
-    2. [ ] Siden 900-tallet
-    3. [ ] Først fra 1945
+    2. [ ] Siden 1200-tallet
+    3. [ ] Siden 1800-tallet
 
-    ## Hvem måtte bruge Dannebrog i 1600- og 1700-tallet?
+    ## Hvem brugte Dannebrog i 1600- og 1700-tallet?
 
-    1. [ ] Alle borgere uden begrænsninger
+    1. [ ] Alle borgere og virksomheder
     2. [x] Myndighederne og flåden
-    3. [ ] Kun danske købmænd i udlandet
+    3. [ ] Kun kongen og kirken
 
     ## Hvornår blev det populært blandt befolkningen at flage med Dannebrog?
 
@@ -61,26 +61,50 @@ Questions
     2. [ ] Efter 2. Verdenskrig
     3. [x] Fra midten af 1800-tallet
 
+    ## Ved hvilke festlige lejligheder flager mange danskere ifølge teksten?
+
+    1. [ ] Kun ved valg til Folketinget
+    2. [x] For eksempel ved private fødselsdage og officielle mærkedage
+    3. [ ] Kun ved kongehusets fødselsdage
+
     ## Hvordan bruges Dannebrog ved en begravelse eller bisættelse?
 
-    1. [x] Det hejses halvt op på flagstangen indtil begravelsen eller bisættelsen
-    2. [ ] Det sættes på taget af kirken
-    3. [ ] Det hejses kun efter ceremonien
+    1. [x] Det hejses halvt op indtil begravelsen eller bisættelsen har fundet sted
+    2. [ ] Det hejses helt op indtil ceremonien er afsluttet
+    3. [ ] Det må først hejses efter ceremonien
 
-    ## Hvilken historisk mærkedag markeres den 5. maj med Dannebrog?
+    ## Hvornår skal alle offentlige myndigheder blandt andet flage?
+
+    1. [ ] Ved alle private fødselsdage
+    2. [x] Ved kirkelige højtider og kongehusets fødselsdage
+    3. [ ] Ved alle mærkedage i de øvrige nordiske lande
+
+    ## Hvilken mærkedag markeres den 5. maj med Dannebrog?
 
     1. [ ] Grundlovsdag
     2. [x] Danmarks befrielse
-    3. [ ] Nordens dag
+    3. [ ] Valdemarsdag
 
-    ## Hvilke landes flag må man gerne flage med uden politiets tilladelse?
+    ## Hvilken mærkedag markeres den 5. juni med Dannebrog?
 
-    1. [ ] Alle landes flag
-    2. [ ] Kun EU-landenes flag
+    1. [x] Grundlovsdag
+    2. [ ] Danmarks befrielse
+    3. [ ] Dannebrogsdag
+
+    ## Hvilke flag må man ifølge teksten flage med uden politiets tilladelse ud over Dannebrog?
+
+    1. [ ] Alle EU-landenes og NATO-landenes flag
+    2. [ ] Kun Grønlands og Færøernes flag
     3. [x] De nordiske landes flag samt Grønlands, Færøernes, FN's og EU's flag
 
     ## Hvem uddeler Dannebrogordenen?
 
     1. [x] Kongen
     2. [ ] Folketingets formand
-    3. [ ] Nordisk Råd
+    3. [ ] Statsministeren
+
+    ## Hvem kan modtage Dannebrogordenen ifølge teksten?
+
+    1. [ ] Alle, der har haft Dannebrog hejst på en officiel flagdag
+    2. [x] Blandt andre embedsmænd, politikere, kulturpersoner, militærfolk, erhvervsfolk og forskere, der har fremmet Danmarks interesser
+    3. [ ] Kun medlemmer af kongehuset og flåden

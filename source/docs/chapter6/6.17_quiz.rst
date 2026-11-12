@@ -19,12 +19,6 @@ Questions
     2. [ ] At havene bliver mindre salte
     3. [x] Udledning af drivhusgasser
 
-    ## Hvilket område er centralt i Den Grønne Trepart?
-
-    1. [x] Omstilling af landbrug og arealanvendelse
-    2. [ ] Indførelse af enevælde
-    3. [ ] Udvidelse af den danske olieproduktion
-
     ## Hvilke energikilder kaldes fossile brændsler?
 
     1. [ ] Sol, vind og vandkraft
@@ -49,11 +43,23 @@ Questions
     2. [ ] Mindre end en tiendedel grad
     3. [ ] Præcis ti grader
 
+    ## Hvor meget varmere forudser FN, at klimaet kan blive ved slutningen af århundredet sammenlignet med 1850-1900?
+
+    1. [ ] 0,1-0,4 grader
+    2. [x] 1,4-4,4 grader
+    3. [ ] 10-14 grader
+
     ## Hvor meget er Danmarks udledning faldet siden 1990 ifølge teksten?
 
     1. [ ] Cirka 15 procent
     2. [x] Cirka 47 procent
     3. [ ] Cirka 70 procent
+
+    ## Hvordan har den globale udledning udviklet sig siden 1990?
+
+    1. [ ] Den er faldet med cirka 47 procent ligesom Danmarks
+    2. [x] Den er steget betydeligt
+    3. [ ] Den er helt ophørt i de fleste lande
 
     ## Hvor stor en del af verdens klimagasser udleder Danmark omtrent?
 
@@ -79,6 +85,18 @@ Questions
     2. [x] Rådgive regeringen og vurdere klimapolitikken
     3. [ ] Drive Danmarks vindmølleparker
 
+    ## Hvornår blev Klimarådet oprettet?
+
+    1. [x] 2014
+    2. [ ] 2019
+    3. [ ] 2025
+
+    ## Hvornår blev de fleste politiske partier enige om den nye klimalov?
+
+    1. [ ] 2014
+    2. [x] 2019
+    3. [ ] 2024
+
     ## Hvad er målet i den danske klimalov for 2030?
 
     1. [x] At reducere udledningen med 70 procent i forhold til 1990
@@ -103,6 +121,12 @@ Questions
     2. [ ] Cirka 6 procent
     3. [ ] Cirka 90 procent
 
+    ## Hvordan har vedvarende energis andel af Danmarks energiforbrug udviklet sig fra 1990 til 2024?
+
+    1. [ ] Den faldt fra cirka 50 procent til 6 procent
+    2. [x] Den steg fra cirka 6 procent til 50 procent
+    3. [ ] Den var uændret på cirka 52 procent
+
     ## Hvilken vigtig milepæl inden for havvind nåede Danmark i 1991?
 
     1. [ ] Danmark byggede en energiø ved Bornholm
@@ -121,11 +145,47 @@ Questions
     2. [ ] At erstatte strømforbindelser til nabolandene
     3. [x] At sende strøm til blandt andet Sjælland og Tyskland
 
+    ## Hvornår skal energiøen ved Bornholm efter planen opføres?
+
+    1. [ ] I slutningen af 2020'erne
+    2. [x] I midten af 2030'erne
+    3. [ ] Efter 2050
+
+    ## Hvad besluttede Danmark at udbyde i maj 2025?
+
+    1. [ ] 2,8 GW ny olie- og gasproduktion
+    2. [x] Mindst 2,8 GW havvind fordelt på tre havvindmølleparker
+    3. [ ] Tre nye kulkraftværker i Nordsøen
+
     ## Hvordan fungerer en varmepumpe?
 
     1. [x] Den bruger varme fra for eksempel jord og luft og hæver temperaturen med elektricitet
     2. [ ] Den fremstiller varme ved at brænde kul i alle hjem
     3. [ ] Den leder varme fra boligen direkte ud i jorden
+
+    ## Hvordan bruges bilafgifterne i den grønne omstilling?
+
+    1. [ ] De er ens for alle biler uanset udledning
+    2. [x] De indrettes efter, hvor meget bilerne udleder af drivhusgasser
+    3. [ ] De gør benzin- og dieselbiler afgiftsfrie
+
+    ## Hvorfor er interessen for grøn energi vokset yderligere efter Ruslands angreb på Ukraine?
+
+    1. [ ] Grøn energi kan øge Europas import af russisk olie
+    2. [x] Grøn energi kan gøre Europa mere uafhængigt af russisk energi
+    3. [ ] Europa har besluttet helt at stoppe produktionen af elektricitet
+
+    ## Hvad har Danmark og flere andre Nordsølande aftalt frem mod 2050?
+
+    1. [x] At bygge mange nye vindmøller i Nordsøområdet
+    2. [ ] At genåbne alle lukkede kulminer
+    3. [ ] At erstatte havvind med olieproduktion
+
+    ## Hvor stor en del af Danmarks areal udgør landbruget?
+
+    1. [ ] 15 procent
+    2. [ ] 47 procent
+    3. [x] 60 procent
 
     ## Hvad handler Den Grønne Trepart blandt andet om?
 
@@ -145,6 +205,12 @@ Questions
     2. [ ] Den altid er dækket af havvand
     3. [x] Dyrkning frigiver kulstof fra døde planterester i den fugtige jord
 
+    ## Hvor stor en del af landbrugsjorden er lavbundsjord, og hvor stor en del af landbrugets CO2-udledning forårsager den?
+
+    1. [ ] 15 procent af jorden og cirka 15 procent af udledningen
+    2. [x] Syv procent af jorden og cirka halvdelen af udledningen
+    3. [ ] 60 procent af jorden og næsten hele udledningen
+
     ## Hvad kan landbrugets gødskning føre til i kystområder og fjorde?
 
     1. [x] Ilt-svind, som gør det sværere for fisk og anden natur at leve
@@ -156,3 +222,9 @@ Questions
     1. [ ] En afgift på alle naturbesøg
     2. [x] En direkte CO2-afgift på landbrugets udledning
     3. [ ] En afgift på brug af vindenergi
+
+    ## Hvilken kritik af landbrugets CO2-afgift nævner teksten?
+
+    1. [ ] At den kun gælder vindmøller og varmepumper
+    2. [x] At den kan flytte produktion og job ud af landet, eller at den er for lav
+    3. [ ] At den omlægger for meget byjord til landbrug

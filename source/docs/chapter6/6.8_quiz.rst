@@ -13,23 +13,17 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken dansk fysiker modtog Nobelprisen i fysik i 1922?
-
-    1. [ ] Tycho Brahe
-    2. [x] Niels Bohr
-    3. [ ] H.C. Ørsted
-
-    ## Hvad var Niels Bohr især kendt for at forske i?
-
-    1. [x] Atomers opbygning
-    2. [ ] Vikingehandel
-    3. [ ] Nordisk mytologi
-
     ## Hvor foregår en stor del af dansk forskning?
 
     1. [ ] Kun i Folketinget
     2. [x] På universiteterne
     3. [ ] Kun på offentlige museer
+
+    ## Inden for hvilke områder er Danmark særligt internationalt kendt for sin forskning?
+
+    1. [ ] Arkæologi, litteratur og landbrug
+    2. [x] Medicin, biokemi og teknologi
+    3. [ ] Astronomi, søfart og filosofi
 
     ## Hvad kortlagde Tycho Brahe med stor præcision?
 
@@ -55,6 +49,12 @@ Questions
     2. [x] At det er en muskel
     3. [ ] At det styrer planeternes bevægelser
 
+    ## Hvilken anden anatomisk opdagelse gjorde Niels Steensen?
+
+    1. [x] Han viste, hvordan vi græder
+    2. [ ] Han påviste Jordens indre kerne
+    3. [ ] Han opdagede natrium-kaliumpumpen
+
     ## Hvad opdagede Ole Rømer om lys?
 
     1. [ ] At lys ikke kan bevæge sig gennem rummet
@@ -73,6 +73,12 @@ Questions
     2. [x] At Asien og Nordamerika er adskilt af vand
     3. [ ] At Jorden har en indre kerne
 
+    ## Hvilke steder er opkaldt efter Vitus Bering?
+
+    1. [ ] Bornholm, Øresund og Nordsøen
+    2. [x] Bering Øen, Beringhavet og Beringstrædet
+    3. [ ] Alaska, Sibirien og Grønland
+
     ## Hvad opdagede H.C. Ørsted i 1820?
 
     1. [ ] At lys kan bremses helt
@@ -84,6 +90,12 @@ Questions
     1. [x] Ilt og brint
     2. [ ] Atom og celle
     3. [ ] Stjerne og planet
+
+    ## Hvilket vigtigt værk udgav Søren Kierkegaard i 1843?
+
+    1. [ ] Clara Raphael. Tolv Breve
+    2. [x] Enten – Eller
+    3. [ ] Højskolesangbogen
 
     ## Hvad er grundtanken i Søren Kierkegaards eksistentialistiske filosofi?
 
@@ -103,11 +115,29 @@ Questions
     2. [ ] En debat om indførelsen af elektricitet
     3. [x] En debat om kvinders rolle og ligestilling
 
+    ## Hvilken stilling fik Mathilde Fibiger som den første kvinde i Danmark?
+
+    1. [ ] Universitetsprofessor
+    2. [ ] Læge
+    3. [x] Embedsmand som telegraf ved Den Danske Statstelegraf
+
+    ## Hvor mange Thule-ekspeditioner gennemførte Knud Rasmussen?
+
+    1. [ ] Fem
+    2. [x] Syv
+    3. [ ] Tolv
+
     ## Hvor langt rejste Knud Rasmussen på sin femte Thule-ekspedition?
 
     1. [ ] 1.800 km
     2. [x] 18.000 km
     3. [ ] 180.000 km
+
+    ## Hvad påviste Knud Rasmussen blandt inuitgrupper over store afstande?
+
+    1. [x] At de havde fælles kultur, mytologi og traditioner
+    2. [ ] At de alle talte dansk
+    3. [ ] At de var flyttet fra Europa i 1800-tallet
 
     ## Hvilken pris modtog Niels Bohr i 1922?
 
@@ -115,17 +145,41 @@ Questions
     2. [ ] Nobelprisen i litteratur
     3. [ ] Nobelprisen i kemi
 
+    ## Hvad arbejdede Niels Bohr især med ud over sin atommodel?
+
+    1. [ ] Anatomi og lægevidenskab
+    2. [x] Kvantemekanik og debatten om atomenergi og atomvåben
+    3. [ ] Geologi og Jordens indre kerne
+
     ## Hvad påviste Inge Lehmann om Jordens indre?
 
     1. [ ] At Jorden ikke har en fast kerne
     2. [ ] At Jordens overflade er helt ensartet
     3. [x] At Jorden har en indre kerne
 
+    ## Hvornår offentliggjorde Inge Lehmann sin opdagelse af Jordens indre kerne?
+
+    1. [ ] 1922
+    2. [x] 1936
+    3. [ ] 1997
+
     ## Hvilken opdagelse gav Jens Christian Skou Nobelprisen i kemi?
 
     1. [x] Natrium-kaliumpumpen
     2. [ ] Elektromagnetismen
     3. [ ] Kvantemekanikken
+
+    ## Hvornår modtog Jens Christian Skou Nobelprisen i kemi?
+
+    1. [ ] 1957
+    2. [ ] 1992
+    3. [x] 1997
+
+    ## Hvad gjorde Lene Vestergaard Hau i 1999?
+
+    1. [ ] Hun opdagede elektromagnetismen
+    2. [x] Hun nedsatte lysets udbredelseshastighed
+    3. [ ] Hun påviste Jordens indre kerne
 
     ## Hvad gjorde Lene Vestergaard Hau med en lysimpuls i 2001?
 
@@ -138,3 +192,15 @@ Questions
     1. [ ] Atomfission
     2. [ ] Elektromagnetisme
     3. [x] Klik-kemi
+
+    ## Hvornår og inden for hvilket fag modtog Morten Meldal Nobelprisen?
+
+    1. [ ] I 1997 i fysik
+    2. [x] I 2022 i kemi
+    3. [ ] I 2022 i medicin
+
+    ## Hvad kan klik-kemi blandt andet bruges til?
+
+    1. [ ] At kortlægge stjernehimlen
+    2. [x] At teste og fremstille ny medicin hurtigere
+    3. [ ] At måle lysets hastighed mellem planeter

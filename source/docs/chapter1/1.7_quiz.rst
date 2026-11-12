@@ -13,116 +13,236 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilket år led Danmark nederlag i krigen mod Preussen og Østrig?
+    ## Hvad voksede i Europa og Danmark i første halvdel af 1800-tallet?
 
-    1. [ ] 1849
-    2. [x] 1864
-    3. [ ] 1920
+    1. [x] Nationalbevidstheden
+    2. [ ] Tilslutningen til enevælden
+    3. [ ] Den katolske kirkes magt
 
-    ## Hvilket område mistede Danmark efter krigen i 1864?
+    ## Hvem kæmpede mod hinanden i borgerkrigen 1848-50?
 
-    1. [x] Slesvig, Holsten og Lauenborg
-    2. [ ] Norge og Island
-    3. [ ] Skåne, Halland og Blekinge
+    1. [ ] Danmark og Sverige
+    2. [x] Kongeriget Danmark og tysksindede oprørere i Slesvig og Holsten
+    3. [ ] Preussen og Østrig
+
+    ## Hvad blev resultatet af krigen i 1848-50?
+
+    1. [x] Danmark vandt, men det nationale problem blev ikke løst
+    2. [ ] Tyskerne vandt og overtog hele Danmark
+    3. [ ] Slesvig blev delt mellem Danmark og Sverige
+
+    ## Hvad mistede Danmark efter nederlaget i 1864?
+
+    1. [ ] Norge og Island
+    2. [ ] Skåne og Bornholm
+    3. [x] Slesvig og Holsten
 
     ## Hvad bestod den danske helstat af i midten af 1800-tallet?
 
-    1. [ ] Danmark, Norge og Island
+    1. [ ] Danmark, Norge og Sverige
     2. [x] Kongeriget Danmark samt hertugdømmerne Slesvig og Holsten
-    3. [ ] Danmark, Sverige og Finland
+    3. [ ] Danmark, Island og Grønland
 
-    ## Hvad var det slesvigske problem?
+    ## Hvem regerede i alle tre dele af helstaten?
 
-    1. [x] Uenighed om, hvorvidt Slesvig skulle høre til Danmark eller Det Tyske Forbund
-    2. [ ] En strid om, hvem der skulle være konge af Norge
-    3. [ ] En konflikt om kirkens ret til at opkræve tiende
+    1. [x] Den danske konge
+    2. [ ] Den preussiske ministerpræsident
+    3. [ ] Den tyske kejser
 
-    ## Hvad ønskede mange tysksindede i Holsten?
+    ## Hvilke ideer skabte spændinger mellem den dansk- og tysktalende befolkning?
 
-    1. [ ] At Holsten blev en del af Sverige
-    2. [ ] At hele Danmark blev en del af Norge
-    3. [x] At Holsten løsrev sig fra Danmark og sluttede sig til Det Tyske Forbund
+    1. [ ] Tanker om enevælde og stavnsbånd
+    2. [x] Øget nationalfølelse og demokratiske tanker
+    3. [ ] Ideer om katolicisme og reformation
 
-    ## Hvilke lande støttede hertugdømmernes side i Den 1. Slesvigske Krig?
+    ## Hvad ønskede mange indbyggere i Holsten?
+
+    1. [ ] At Holsten skulle blive en del af Sverige
+    2. [ ] At Holsten skulle forenes med Danmark uden Slesvig
+    3. [x] At løsrive sig fra Danmark og tilslutte sig Det Tyske Forbund
+
+    ## Hvorfor var befolkningens holdning i Slesvig delt?
+
+    1. [x] Dansktalende ville blive i Danmark, mens tysktalende ville tilslutte sig Det Tyske Forbund
+    2. [ ] Halvdelen ville være en del af Sverige, og halvdelen ville være en del af Norge
+    3. [ ] Befolkningen var uenig om, hvilken konge der skulle regere i Holsten
+
+    ## Hvad kaldes uenigheden om Slesvigs tilhørsforhold?
+
+    1. [ ] Det nordiske problem
+    2. [x] Det slesvigske problem
+    3. [ ] Det preussiske spørgsmål
+
+    ## Hvilket krav fik Slesvig og Holsten afslag på i 1848?
+
+    1. [ ] Et krav om at blive en del af Sverige
+    2. [x] Et krav om en selvstændig fri forfatning
+    3. [ ] Et krav om at genindføre enevælden
+
+    ## Hvad ønskede Danmark, at den kommende danske grundlov også skulle gælde for?
+
+    1. [x] Slesvig, men ikke Holsten
+    2. [ ] Holsten, men ikke Slesvig
+    3. [ ] Hele Det Tyske Forbund
+
+    ## Hvem støttede oprørerne i Slesvig og Holsten militært?
 
     1. [ ] Frankrig og Storbritannien
-    2. [x] Det Tyske Forbund og Preussen
-    3. [ ] Norge og Sverige
+    2. [ ] Rusland og Sverige
+    3. [x] Det Tyske Forbund og Preussen
 
-    ## Hvilket slag i 1849 blev en dansk sejr?
+    ## Hvor vandt den danske hær et slag i juli 1849?
 
-    1. [ ] Slaget ved Dybbøl
-    2. [ ] Slaget ved Tallinn
-    3. [x] Slaget ved Fredericia
+    1. [ ] Ved Dybbøl
+    2. [x] Ved Fredericia
+    3. [ ] Ved Isted
 
-    ## Hvilket slag i 1850 var det blodigste under Den 1. Slesvigske Krig?
+    ## Hvorfor trak Det Tyske Forbund og Preussen deres hjælpetropper ud i 1850?
 
-    1. [x] Slaget ved Isted
-    2. [ ] Slaget på Reden
-    3. [ ] Slaget ved Dybbøl
+    1. [x] Rusland pressede dem til det
+    2. [ ] De var blevet allieret med Danmark
+    3. [ ] Holsten bad dem forlade krigen
 
-    ## Hvad blev resultatet efter Den 1. Slesvigske Krig?
+    ## Hvad kendetegnede slaget ved Isted i juli 1850?
 
-    1. [ ] Slesvig blev straks en del af Sverige
-    2. [ ] Danmark mistede hele Jylland
-    3. [x] Slesvig og Holsten forblev i den danske helstat
+    1. [ ] Det var krigens første og mindste slag
+    2. [x] Det var krigens blodigste slag med tusindvis af døde og sårede
+    3. [ ] Det blev vundet af Preussen efter svensk hjælp
 
-    ## Hvilken forfatning vedtog Danmark i 1863?
+    ## Hvad blev løsningen efter stormagternes mægling i Den 1. Slesvigske Krig?
 
-    1. [x] En fælles forfatning for Danmark og Slesvig, men ikke Holsten
-    2. [ ] En fælles forfatning for Danmark, Norge og Sverige
-    3. [ ] En forfatning, der indførte enevælde
+    1. [ ] Slesvig og Holsten blev en del af Preussen
+    2. [ ] Slesvig blev dansk, og Holsten blev svensk
+    3. [x] Begge hertugdømmer forblev i den danske helstat
+
+    ## Hvilket andet navn har Den 1. Slesvigske Krig?
+
+    1. [x] Treårskrigen
+    2. [ ] Englandskrigen
+    3. [ ] Trediveårskrigen
+
+    ## Hvad havde Danmark lovet stormagterne efter Den 1. Slesvigske Krig?
+
+    1. [ ] At afstå Slesvig til Preussen
+    2. [x] Ikke at binde Slesvig tættere til Danmark end Holsten
+    3. [ ] At gøre Holsten til en del af Sverige
+
+    ## Hvordan brød Danmark dette løfte i 1863?
+
+    1. [x] Rigsdagen vedtog en fælles forfatning for Danmark og Slesvig, men ikke Holsten
+    2. [ ] Danmark gav Slesvig en selvstændig konge
+    3. [ ] Danmark indlemmede Holsten, men ikke Slesvig
+
+    ## Hvem var Otto von Bismarck i 1864?
+
+    1. [ ] Den danske konge
+    2. [x] Preussens magtfulde ministerpræsident
+    3. [ ] Den østrigske kejser
 
     ## Hvilke lande erklærede krig mod Danmark i februar 1864?
 
     1. [ ] Rusland og Frankrig
     2. [x] Preussen og Østrig
-    3. [ ] Storbritannien og Norge
+    3. [ ] Storbritannien og Sverige
+
+    ## Hvilken hjælp manglede Danmark i Den 2. Slesvigske Krig?
+
+    1. [x] Hjælp fra de europæiske stormagter
+    2. [ ] Hjælp fra Slesvig og Holsten
+    3. [ ] Hjælp fra den danske flåde
+
+    ## Hvad var Dannevirke?
+
+    1. [ ] En ø ud for Sønderborg
+    2. [ ] En ny forfatning for Slesvig
+    3. [x] Et forsvarsanlæg, der havde været en stærk forsvarslinje siden vikingetiden
 
     ## Hvorfor måtte den danske hær forlade Dannevirke i februar 1864?
 
-    1. [ ] Forsvarsstillingen var blevet oversvømmet
-    2. [x] Den danske hær var i undertal og måtte evakueres
-    3. [ ] Krigen var allerede afsluttet ved en fredsaftale
+    1. [ ] Anlægget var blevet oversvømmet
+    2. [x] Modstanderne var i overtal
+    3. [ ] Krigen var allerede afsluttet
 
-    ## Hvilken dansk forsvarsstilling blev angrebet den 18. april 1864?
+    ## Hvor holdt hovedparten af de danske soldater forsvarsstilling efter tilbagetrækningen?
 
-    1. [x] Dybbøl
-    2. [ ] Fredericia
-    3. [ ] Dannevirke
+    1. [x] Ved Dybbøl nær Sønderborg
+    2. [ ] Ved Fredericia
+    3. [ ] Ved København
 
-    ## Hvilken ø erobrede Preussen i slutningen af juni 1864?
+    ## Hvad skete der ved Dybbøl den 18. april 1864?
+
+    1. [ ] Danmark vandt krigens afgørende slag
+    2. [x] Preusserne angreb efter et langt bombardement og besejrede de danske styrker
+    3. [ ] Østrig trak sig ud af krigen
+
+    ## Hvilken ø erobrede preusserne i slutningen af juni 1864?
 
     1. [ ] Fyn
     2. [ ] Bornholm
     3. [x] Als
 
-    ## Hvor stor en del af befolkningen mistede den danske konge efter nederlaget i 1864?
+    ## Hvilke områder måtte Danmark afstå efter nederlaget i 1864?
 
-    1. [ ] Cirka en tiendedel
-    2. [x] Cirka to femtedele
-    3. [ ] Næsten hele befolkningen
+    1. [x] Slesvig, Holsten og Lauenborg
+    2. [ ] Norge, Island og Færøerne
+    3. [ ] Skåne, Halland og Blekinge
 
-    ## Hvornår blev de dansksindede områder i den nordlige del af Slesvig genforenet med Danmark?
+    ## Hvor meget af sin befolkning og sit territorium mistede den danske konge?
+
+    1. [ ] En tiendedel af befolkningen og halvdelen af territoriet
+    2. [x] Cirka to femtedele af befolkningen og en tredjedel af territoriet
+    3. [ ] Halvdelen af befolkningen og to tredjedele af territoriet
+
+    ## Hvilke sparsomt befolkede lande hørte fortsat til riget efter 1864?
+
+    1. [ ] Norge, Sverige og Finland
+    2. [ ] Skåne, Halland og Blekinge
+    3. [x] Grønland, Færøerne og Island samt indtil 1917 Dansk Vestindien
+
+    ## Hvordan ændrede befolkningen i riget sig efter 1864?
+
+    1. [x] Den blev mere ensartet i sprog, forfatning og kultur
+    2. [ ] Den blev opdelt i flere tysktalende områder
+    3. [ ] Den fik ingen fælles forfatning
+
+    ## Hvad skete der med den danske nationale identitet efter nederlaget?
+
+    1. [ ] Den forsvandt næsten helt
+    2. [ ] Den blev erstattet af en tysk identitet
+    3. [x] Den voksede sig endnu stærkere
+
+    ## Hvor boede mange sønderjyder, der fortsat følte sig danske?
+
+    1. [ ] I Sverige nord for grænsen
+    2. [x] I det tyske kejserrige syd for grænsen
+    3. [ ] På de dansk-vestindiske øer
+
+    ## Hvornår blev de dansksindede områder i det nordlige Slesvig genforenet med Danmark?
 
     1. [ ] 1864
-    2. [ ] 1901
+    2. [ ] 1871
     3. [x] 1920
 
-    ## Hvilken sikkerhedspolitik valgte Danmark efter nederlaget i 1864?
+    ## Hvilken international position havde Danmark efter 1864?
+
+    1. [ ] Danmark var fortsat en nordeuropæisk stormagt
+    2. [x] Danmark var en småstat uden indflydelse på stormagternes beslutninger
+    3. [ ] Danmark blev en del af det tyske kejserrige
+
+    ## Hvad gjorde Bismarck i 1871?
+
+    1. [x] Han samlede de tyske stater i et stærkt kejserrige
+    2. [ ] Han genforenede Nordslesvig med Danmark
+    3. [ ] Han opløste Preussen og Østrig
+
+    ## Hvilken frygt fandtes i Danmark efter 1864?
+
+    1. [ ] At Danmark ville blive tvunget til at overtage Norge
+    2. [ ] At Danmark igen ville blive en stormagt
+    3. [x] At Danmark kunne blive udslettet som selvstændig stat
+
+    ## Hvilken sikkerhedspolitik valgte Danmark efter nederlaget?
 
     1. [x] Streng neutralitet og et svagt militært forsvar
-    2. [ ] En fast alliance med Preussen
+    2. [ ] En fast militær alliance med Preussen
     3. [ ] Aktiv deltagelse i alle europæiske konflikter
-
-    ## Hvem var Otto von Bismarck?
-
-    1. [ ] Den danske konge under krigen i 1864
-    2. [ ] Den østrigske øverstbefalende ved Dybbøl
-    3. [x] Preussens magtfulde ministerpræsident
-
-    ## Hvad var en vigtig følge af Danmarks nederlag i 1864?
-
-    1. [ ] Danmark blev en europæisk stormagt
-    2. [x] Danmark blev en småstat med begrænset indflydelse på stormagterne
-    3. [ ] Danmark overtog styret af Det Tyske Forbund

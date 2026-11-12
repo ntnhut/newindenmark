@@ -13,23 +13,17 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvem har hovedansvaret for driften af de offentlige sygehuse i Danmark?
-
-    1. [ ] Kommunerne
-    2. [x] Regionerne
-    3. [ ] Folketingets udvalg
-
-    ## Hvordan finansieres det offentlige sundhedsvæsen hovedsageligt?
-
-    1. [x] Gennem skatter
-    2. [ ] Gennem brugerbetaling ved alle behandlinger
-    3. [ ] Gennem medlemskontingenter til fagforeninger
-
     ## Hvad har blandt andet fået udgifterne til sundhedsvæsenet til at stige?
 
     1. [x] Flere ældre og dyrere behandlingsmuligheder
     2. [ ] Færre sygdomme og billigere teknologi
     3. [ ] At sygehusene er blevet mindre
+
+    ## Hvor stor en del af Danmarks samlede økonomi udgjorde sundhedsvæsenet i 2025?
+
+    1. [ ] 5,2 procent
+    2. [x] 9,4 procent
+    3. [ ] 19 procent
 
     ## Hvad var middellevetiden i Danmark omtrent i 1800-tallet?
 
@@ -37,11 +31,23 @@ Questions
     2. [x] 40 år
     3. [ ] 60 år
 
+    ## Hvad var middellevetiden for kvinder og mænd i 2024-2025?
+
+    1. [x] 83,9 år for kvinder og 80,3 år for mænd
+    2. [ ] 80,3 år for kvinder og 83,9 år for mænd
+    3. [ ] Cirka 40 år for begge køn
+
     ## Hvilken kombination af faktorer har forbedret folkesundheden?
 
     1. [ ] Mindre adgang til mad og færre læger
     2. [ ] Flere arbejdstimer og mindre hygiejne
     3. [x] Mere mad, lægevidenskab, bedre hygiejne og et udbygget sundhedsvæsen
+
+    ## Hvad var sygekasserne?
+
+    1. [ ] Private sygehuse for personer uden læge
+    2. [x] Forsikringsordninger, der dækkede sygdomsudgifter mod et fast bidrag
+    3. [ ] Kommunale ordninger, der kun betalte for tandpleje
 
     ## Hvornår blev sygekasserne afløst af den offentlige sygesikring?
 
@@ -61,11 +67,29 @@ Questions
     2. [ ] Brækkede knogler og forstuvninger
     3. [x] Kræft, hjertekarsygdomme, sukkersyge og KOL
 
+    ## Hvordan udviklede andelen af svært overvægtige sig fra 1987 til 2023?
+
+    1. [ ] Den faldt fra 19 procent til 5-6 procent
+    2. [x] Den steg fra 5-6 procent til 19 procent
+    3. [ ] Den var uændret på cirka 16 procent
+
     ## Hvad menes der med social ulighed i sundhed?
 
     1. [x] At sygdomsrisiko og levealder hænger sammen med sociale forhold som uddannelse
     2. [ ] At alle borgere betaler samme pris for alle behandlinger
     3. [ ] At kun ældre kan gå til læge
+
+    ## Hvor meget kortere lever ufaglærte i gennemsnit end akademikere?
+
+    1. [ ] Et-to år
+    2. [x] Fem-syv år
+    3. [ ] Ti-tolv år
+
+    ## Hvilke aldersgrænser gælder for køb af alkohol i butikker ifølge teksten?
+
+    1. [ ] 16 år for al alkohol
+    2. [x] 16 år for øl op til 6 procent og 18 år for stærkere alkohol
+    3. [ ] 18 år for øl og 21 år for stærkere alkohol
 
     ## Hvilken aldersgrænse gælder for køb af cigaretter?
 
@@ -79,17 +103,41 @@ Questions
     2. [ ] Den påvirker kun personer under 18 år
     3. [x] Den er den største enkeltstående årsag til sygdom og død i Danmark
 
+    ## Cirka hvor mange mennesker dør årligt som følge af rygning?
+
+    1. [ ] 1.600
+    2. [x] 16.000
+    3. [ ] 60.000
+
+    ## Hvor gælder der blandt andet rygeforbud?
+
+    1. [x] På offentlige indendørs steder, arbejdspladser og skoler
+    2. [ ] Kun i private hjem
+    3. [ ] Kun udendørs på skolernes områder
+
     ## Hvilke borgere har oplevet den største stigning i dårligt mentalt helbred?
 
     1. [x] Unge i alderen 16-24 år
     2. [ ] Børn under seks år
     3. [ ] Borgere over 80 år
 
+    ## Hvordan udviklede andelen med dårligt mentalt helbred sig fra 2010 til 2021?
+
+    1. [ ] Den faldt fra 17,4 procent til 10 procent
+    2. [x] Den steg fra 10 procent til 17,4 procent
+    3. [ ] Den var uændret på cirka 16 procent
+
     ## Hvem står for driften af langt størstedelen af sundhedsvæsenet?
 
     1. [ ] Kommunerne alene
     2. [x] De fem regioner
     3. [ ] Folkekirken
+
+    ## Hvilken hjælp giver regionerne gratis til borgere med bopæl i landet?
+
+    1. [ ] Al tandpleje og medicin uanset alder
+    2. [x] Sygehusbehandling og hjælp hos praktiserende læge og speciallæge
+    3. [ ] Alle behandlinger hos psykolog og fysioterapeut uden henvisning
 
     ## Hvad er egen læge typisk for borgeren i sundhedsvæsenet?
 
@@ -108,6 +156,18 @@ Questions
     1. [ ] For at gøre afstanden til behandling større
     2. [x] For at styrke kvaliteten og give bedre adgang til erfaring og udstyr
     3. [ ] For at gøre sygehusbehandling betalingspligtig
+
+    ## Hvad er en ulempe ved at samle behandlinger på færre og større sygehuse?
+
+    1. [ ] Lægerne får mindre erfaring med komplicerede behandlinger
+    2. [x] Mange har fået længere afstand til et sygehus, og byer har mistet arbejdspladser
+    3. [ ] Sygehusene kan ikke købe moderne udstyr
+
+    ## Hvad gælder som hovedregel for betaling til medicin og psykolog?
+
+    1. [ ] Alt er altid gratis uden betingelser
+    2. [x] Der kan gives tilskud, men patienten betaler ofte en del selv
+    3. [ ] Regionen betaler kun, hvis patienten ikke har egen læge
 
     ## Hvilken behandling er gratis for børn og unge op til og med 21 år?
 

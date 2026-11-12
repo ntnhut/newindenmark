@@ -13,13 +13,7 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilket land blev Dansk Vestindien solgt til i 1917?
-
-    1. [ ] Frankrig
-    2. [ ] Storbritannien
-    3. [x] USA
-
-    ## I hvilket århundrede begyndte Danmarks koloniale ekspansion?
+    ## I hvilket århundrede begyndte Danmark at blive en kolonimagt?
 
     1. [ ] 1400-tallet
     2. [x] 1600-tallet
@@ -27,9 +21,21 @@ Questions
 
     ## Hvad vil det sige, at Danmark var en kolonimagt?
 
-    1. [x] Danmark erhvervede områder uden for landet og erklærede dem som del af riget
-    2. [ ] Danmark blev styret af en anden europæisk stat
-    3. [ ] Danmark kun handlede med sine nabolande
+    1. [x] Danmark erhvervede områder uden for landet og erklærede dem som en del af riget
+    2. [ ] Danmark overlod sine landområder til andre europæiske lande
+    3. [ ] Danmark begrænsede sin handel til de nordiske lande
+
+    ## Hvad gjorde det muligt for europæerne at krydse oceanerne og sejle til andre verdensdele?
+
+    1. [ ] Fælles europæiske visumregler og frihandel
+    2. [x] Bedre skibe, større viden om navigation og tidligere opdagelsesrejser
+    3. [ ] Jernbaner mellem Europa, Asien og Afrika
+
+    ## Hvilket land blev med tiden den dominerende kolonimagt?
+
+    1. [ ] Danmark
+    2. [ ] Portugal
+    3. [x] Storbritannien
 
     ## Hvilke danske handelskolonier lå i det nuværende Indien?
 
@@ -37,29 +43,65 @@ Questions
     2. [x] Trankebar og Serampore
     3. [ ] Calcutta og Delhi
 
-    ## Hvilke varer blev blandt andet hentet fra Kina til Europa?
+    ## Hvilke varer fragtede danske skibe blandt andet fra kolonierne i Indien til Europa?
+
+    1. [x] Krydderier, salpeter og bomuldsvarer
+    2. [ ] Sukker, sælskind og hvalkød
+    3. [ ] Te, porcelæn og silke
+
+    ## Hvilke varer blev blandt andet hentet fra Kina?
 
     1. [ ] Kaffe, kakao og gummi
-    2. [ ] Sølv, jern og kul
+    2. [ ] Salpeter, sukker og bomuld
     3. [x] Te, porcelæn og silke
 
-    ## Hvad blev der bygget på Guldkysten i det nuværende Ghana?
+    ## Hvilken handel var den største og mest indbringende for den danske handelsflåde i 1700-tallet?
+
+    1. [ ] Handlen med Grønland
+    2. [x] Handlen med Kina
+    3. [ ] Handlen med Ghana
+
+    ## Hvad byggede Danmark på Guldkysten i det nuværende Ghana?
 
     1. [x] Forter
-    2. [ ] Jernbaner
-    3. [ ] Sukkerfabrikker
+    2. [ ] Handelskolonier som Trankebar og Serampore
+    3. [ ] Sukkerrørsplantager ejet af den danske konge
 
-    ## Hvad blev slaverne på De Dansk Vestindiske Øer især tvunget til at arbejde med?
+    ## Hvor mange slaver blev ifølge teksten sejlet fra Guldkysten til Dansk Vestindien?
 
-    1. [ ] Udvinding af jernmalm
-    2. [x] Sukkerrørsproduktion
-    3. [ ] Bygning af skibe
+    1. [ ] Cirka 10.000
+    2. [ ] Cirka 50.000
+    3. [x] Over 100.000
 
-    ## Hvornår blev slavehandelen forbudt?
+    ## Hvilke øer udgjorde de danske kolonier i Vestindien?
+
+    1. [ ] Grønland, Island og Færøerne
+    2. [x] Sankt Thomas, Sankt Croix og Sankt Jan
+    3. [ ] Trankebar, Serampore og Guldkysten
+
+    ## Hvilket arbejde blev slaverne på De Dansk Vestindiske Øer blandt andet tvunget til at udføre?
+
+    1. [ ] At fremstille krudt af salpeter
+    2. [x] At arbejde i sukkerrørsplantager og plantageejernes huse
+    3. [ ] At bygge danske forter på Guldkysten
+
+    ## Hvor blev sukkeret fra De Dansk Vestindiske Øer transporteret hen?
+
+    1. [ ] Til Serampore
+    2. [ ] Til London
+    3. [x] Til København
+
+    ## Hvornår blev den danske slavehandel forbudt?
 
     1. [ ] 1721
-    2. [ ] 1848
-    3. [x] 1803
+    2. [x] 1803
+    3. [ ] 1848
+
+    ## Indtil hvilket år var det stadig tilladt at holde slaver på De Dansk Vestindiske Øer?
+
+    1. [ ] 1803
+    2. [ ] 1917
+    3. [x] 1848
 
     ## Hvem var den første kristne missionær, der ankom til Grønland i 1721?
 
@@ -67,19 +109,31 @@ Questions
     2. [ ] Martin Luther
     3. [ ] Ansgar
 
-    ## Hvilke kolonier i Indien og Ghana solgte Danmark til Storbritannien?
+    ## Hvilke mål havde den danskstøttede mission i Grønland?
 
-    1. [x] Trankebar og forterne på Guldkysten
-    2. [ ] De Dansk Vestindiske Øer
-    3. [ ] Grønland og Færøerne
+    1. [ ] At oprette sukkerrørsplantager og bygge forter
+    2. [x] At gøre befolkningen kristen og sælge grønlandske varer
+    3. [ ] At overdrage Grønland til Storbritannien
+
+    ## Til hvilket land solgte Danmark sine kolonier i Indien og Ghana i midten af 1800-tallet?
+
+    1. [ ] Frankrig
+    2. [x] Storbritannien
+    3. [ ] USA
+
+    ## Hvilket land købte De Dansk Vestindiske Øer i 1917?
+
+    1. [ ] Storbritannien
+    2. [ ] Spanien
+    3. [x] USA
 
     ## Hvad hedder De Dansk Vestindiske Øer i dag?
 
-    1. [ ] Puerto Rico
+    1. [ ] De Britiske Jomfruøer
     2. [x] De Amerikanske Jomfruøer
     3. [ ] Caymanøerne
 
-    ## Hvilke områder er sammen med Danmark del af rigsfællesskabet ifølge teksten?
+    ## Hvilke områder er sammen med Danmark en del af rigsfællesskabet ifølge teksten?
 
     1. [ ] Island og Norge
     2. [ ] Sverige og Finland

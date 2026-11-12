@@ -25,6 +25,12 @@ Questions
     2. [ ] Afstemningsregler i EU
     3. [ ] Forbud mod barsel
 
+    ## Hvad tjente mænd og kvinder i industri eller håndværk i gennemsnit pr. arbejdstime i 1914?
+
+    1. [x] Mænd 55 øre og kvinder 30 øre
+    2. [ ] Mænd 30 øre og kvinder 55 øre
+    3. [ ] Begge køn 55 øre
+
     ## Hvornår vedtog Folketinget lov om lige løn for samme arbejde?
 
     1. [x] 1976
@@ -37,17 +43,41 @@ Questions
     2. [x] 12 procent
     3. [ ] 32 procent
 
+    ## Hvor stor er den typiske lønforskel, når der tages højde for blandt andet uddannelse, erfaring og branche?
+
+    1. [x] 4-7 procent
+    2. [ ] 12-16 procent
+    3. [ ] 19-32 procent
+
     ## Hvilken udvikling inden for uddannelse har især bidraget til at mindske lønforskellen?
 
     1. [ ] Kvinder har fået mindre uddannelse end tidligere
     2. [ ] Mænd har fået længere barselsorlov
     3. [x] Kvinder har i højere grad end mænd gennemført videregående uddannelser
 
+    ## Hvor stor en andel af kvinder og mænd på en årgang fuldførte en videregående uddannelse i 2023?
+
+    1. [ ] Cirka 45 procent af kvinderne og 64 procent af mændene
+    2. [x] Cirka 64 procent af kvinderne og 45 procent af mændene
+    3. [ ] Cirka 16 procent af kvinderne og 5 procent af mændene
+
     ## Hvor stor en andel af lederne på det danske arbejdsmarked var kvinder i 2025?
 
     1. [x] 32 procent
     2. [ ] 19 procent
     3. [ ] 64 procent
+
+    ## Hvor stor en andel udgjorde kvinder blandt bestyrelsesmedlemmer og direktører i 2025?
+
+    1. [ ] 32 procent i begge grupper
+    2. [x] 19 procent af bestyrelsesmedlemmerne og 16 procent af direktørerne
+    3. [ ] 16 procent af bestyrelsesmedlemmerne og 19 procent af direktørerne
+
+    ## I hvilken sektor er andelen af kvindelige ledere størst?
+
+    1. [ ] Den private sektor
+    2. [x] Den offentlige sektor
+    3. [ ] Andelen er ens i de to sektorer
 
     ## Hvad er en årsag til lønforskelle mellem mænd og kvinder?
 
@@ -60,6 +90,12 @@ Questions
     1. [ ] 32 uger
     2. [ ] 14 uger
     3. [x] 52 uger
+
+    ## Hvor mange af de 32 ugers forældreorlov skal hver forælder mindst tage?
+
+    1. [ ] To uger
+    2. [x] Ni uger
+    3. [ ] Fjorten uger
 
     ## Hvor stor en del af barselsorloven tager kvinder i gennemsnit ifølge teksten?
 
@@ -79,11 +115,23 @@ Questions
     2. [ ] En leder af et universitet
     3. [x] Tv-værten Sofie Linde
 
+    ## Hvilke følger fik Me-Too-debatten blandt andet i Danmark?
+
+    1. [ ] Alle sager blev begrænset til den amerikanske filmbranche
+    2. [x] Politikere trådte tilbage, og kendte mediepersoner mistede deres job
+    3. [ ] Arbejdspladser holdt op med at modtage anmeldelser om krænkelser
+
     ## Hvorfor kan seksuelle krænkelser på arbejdspladsen også handle om magt?
 
     1. [x] En medarbejder kan frygte konsekvenser for sin karriere ved at sige fra
     2. [ ] Alle medarbejdere har samme ledelsesansvar
     3. [ ] Krænkelser kan kun forekomme uden for arbejdstiden
+
+    ## Hvad arbejder mange arbejdspladser med som følge af øget fokus på seksuelle krænkelser?
+
+    1. [ ] At gøre det vanskeligere at anmelde krænkelser
+    2. [x] At ændre kulturen, lette anmeldelser og slå hårdere ned på krænkelser
+    3. [ ] At overlade alle sager til medarbejderne selv
 
     ## Hvornår trådte en samtykkebaseret voldtægtslovgivning i kraft?
 
@@ -91,14 +139,14 @@ Questions
     2. [x] 2021
     3. [ ] 2024
 
+    ## Hvad ændrede den samtykkebaserede voldtægtslovgivning?
+
+    1. [ ] Voldtægt kunne kun straffes, hvis der var brugt fysisk vold
+    2. [x] Samleje uden begge parters samtykke kunne straffes, også uden vold eller trusler
+    3. [ ] Samtykke skulle altid gives i en skriftlig aftale
+
     ## Hvordan kan samtykke til samleje komme til udtryk?
 
     1. [ ] Kun gennem en underskrevet aftale
     2. [ ] Kun ved at sige ordet "ja"
     3. [x] Gennem ord eller handling
-
-    ## Hvad kan den samtykkebaserede lovgivning gøre strafbart?
-
-    1. [x] Samleje uden begge parters samtykke, også uden vold eller trusler
-    2. [ ] Enhver uenighed mellem partnere
-    3. [ ] At anmelde en seksuel krænkelse

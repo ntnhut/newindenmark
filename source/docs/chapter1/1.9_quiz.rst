@@ -13,176 +13,314 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken politik førte Danmark under 1. Verdenskrig?
+    ## Hvordan forholdt Danmark sig til 1. Verdenskrig i 1914-18?
 
     1. [ ] Danmark deltog på Tysklands side
-    2. [x] Danmark var neutralt
+    2. [x] Danmark undgik at blive direkte involveret
     3. [ ] Danmark deltog på Storbritanniens side
 
-    ## Hvornår blev Sønderjylland genforenet med Danmark?
+    ## Hvilken alvorlig sundhedskrise fulgte efter verdenskrigen?
 
-    1. [ ] 1864
-    2. [ ] 1915
-    3. [x] 1920
-
-    ## Hvilken sygdom ramte Danmark og resten af verden efter 1. Verdenskrig?
-
-    1. [x] Spanskesygen
+    1. [x] En dødelig influenzaepidemi
     2. [ ] Den Sorte Død
-    3. [ ] Tuberkuloseepidemien i 1800-tallet
+    3. [ ] En koleraepidemi i 1930'erne
 
-    ## Hvilke lande stod på hver sin side i 1. Verdenskrig?
+    ## Hvilke problemer ramte Danmark i 1930'erne?
 
-    1. [ ] Danmark og Norge mod Sverige
-    2. [x] Tyskland og dets allierede mod blandt andre Frankrig, Rusland og Storbritannien
-    3. [ ] USA og Storbritannien mod Danmark
+    1. [ ] Mangel på arbejdskraft og kraftigt stigende priser på korn
+    2. [x] Dyb økonomisk krise, høj arbejdsløshed og konflikter på arbejdsmarkedet
+    3. [ ] Borgerkrig og afskaffelse af demokratiet
 
-    ## Hvordan forholdt Danmark sig til 1. Verdenskrig?
+    ## Hvad bidrog de gamle partiers fælles løsninger til?
 
-    1. [ ] Danmark erklærede krig mod Tyskland
-    2. [ ] Danmark sendte en hær til Frankrig
-    3. [x] Danmark forblev neutralt
+    1. [ ] Antidemokratiske ideologier fik flertal i Danmark
+    2. [ ] Danmark blev en diktaturstat
+    3. [x] Antidemokratiske ideologier vandt aldrig for alvor tilslutning
 
-    ## Hvorfor lagde Danmark miner ud i nogle danske farvande i 1914?
+    ## Hvilke stormagter stod på Tysklands side i 1. Verdenskrig?
 
-    1. [x] Efter pres fra Tyskland for at hindre britiske krigsskibe i at sejle ind i Østersøen
-    2. [ ] For at lukke havnene for alle danske handelsskibe
-    3. [ ] For at hjælpe USA med at kontrollere Atlanterhavet
+    1. [x] Østrig-Ungarn og Osmannerriget
+    2. [ ] Frankrig og Rusland
+    3. [ ] Storbritannien og USA
 
-    ## Hvorfor deltog mange dansksindede sønderjyder i krigen på tysk side?
+    ## Hvilke lande stod blandt andet på den anden side mod Tyskland?
 
-    1. [ ] De var danske soldater udstationeret i Norge
-    2. [x] De var blevet tyske statsborgere efter Danmarks tab af Slesvig i 1864
-    3. [ ] De støttede den danske alliance med Rusland
+    1. [ ] Danmark, Norge og Sverige
+    2. [x] Frankrig, Rusland, Storbritannien, Italien og senere USA
+    3. [ ] Spanien, Portugal og Nederlandene
+
+    ## Hvorfor lagde Danmark miner i nogle danske farvande i 1914?
+
+    1. [ ] USA ville beskytte Dansk Vestindien
+    2. [ ] Danmark ville angribe den britiske flåde
+    3. [x] Tyskland pressede Danmark for at hindre britiske krigsskibe i at nå Østersøen
+
+    ## Hvilken virkning kunne minefelterne også have på tyske skibe?
+
+    1. [x] De kunne hindre tyske skibe i at sejle gennem de danske stræder
+    2. [ ] De kunne lede tyske skibe sikkert til Østersøen
+    3. [ ] De kunne beskytte tyske skibe mod alle britiske angreb
+
+    ## Hvorfor kom dansksindede slesvigere til at deltage i krigen på tysk side?
+
+    1. [ ] De meldte sig til den danske hær i Tyskland
+    2. [x] De var blevet tyske statsborgere efter tabet af Slesvig i 1864
+    3. [ ] Danmark havde indgået en militær alliance med Tyskland
+
+    ## Hvor mange danske sønderjyder døde cirka i tysk krigstjeneste?
+
+    1. [ ] 600
+    2. [x] 6.000
+    3. [ ] 60.000
+
+    ## Hvorfor ønskede USA at købe Dansk Vestindien under krigen?
+
+    1. [x] USA frygtede, at Tyskland ville besætte øerne
+    2. [ ] USA ville bruge øerne til dansk landbrug
+    3. [ ] Danmark havde lovet øerne til Storbritannien
 
     ## Hvilke øer solgte Danmark til USA i 1917?
 
     1. [ ] Grønland, Færøerne og Island
-    2. [ ] Bornholm, Als og Fyn
+    2. [ ] Bornholm, Als og Langeland
     3. [x] Sankt Thomas, Sankt Croix og Sankt Jan
 
-    ## Hvad anerkendte USA til gengæld for købet af De Dansk Vestindiske Øer?
+    ## Hvad anerkendte USA til gengæld for købet?
 
-    1. [x] At Grønland fuldt og helt hørte under Danmark
-    2. [ ] At Danmark kunne overtage Norge
-    3. [ ] At Danmark skulle blive medlem af NATO
+    1. [ ] At Norge igen skulle høre under Danmark
+    2. [x] At Grønland fuldt og helt hørte under Danmark
+    3. [ ] At Danmark måtte kontrollere Østersøen
 
-    ## Hvorfor fik influenzaen navnet Den Spanske Syge?
+    ## Hvornår ramte Den Spanske Syge Danmark og resten af verden?
+
+    1. [ ] Ved krigens begyndelse i 1914
+    2. [x] Hen mod krigens slutning i 1918
+    3. [ ] Efter børskrakket i 1929
+
+    ## Hvorfor fik sygdommen navnet Den Spanske Syge?
 
     1. [ ] Den opstod i Spanien
-    2. [ ] Den blev først bragt til Danmark af spanske soldater
-    3. [x] Spanske aviser var de første til at skrive om sygdommen
+    2. [ ] Den ramte kun spanske soldater
+    3. [x] Spanske aviser var de første til at skrive om den
 
-    ## Hvorfor var Danmark bedre rustet end mange krigsførende lande til at bekæmpe Den Spanske Syge?
+    ## Hvorfor var Danmark bedre rustet end mange krigsførende lande?
 
     1. [x] Befolkningen var bedre ernæret, og sundhedsvæsenet var mindre belastet
-    2. [ ] Danmark havde allerede udviklet en vaccine
-    3. [ ] Sygdommen ramte kun få danske byer
+    2. [ ] Danmark havde udviklet en effektiv vaccine
+    3. [ ] Danmark havde allerede adgang til penicillin
 
-    ## Hvilken aldersgruppe blev særligt hårdt ramt af Den Spanske Syge?
+    ## Hvorfor kunne de danske myndigheder alligevel ikke gøre meget?
+
+    1. [ ] De nægtede at lukke skoler og forlystelser
+    2. [x] Man vidste kun lidt om sygdommen og kunne ikke udvikle en vaccine
+    3. [ ] Sundhedsvæsenet var ødelagt af krigen
+
+    ## Hvorfor døde mange patienter også af lungebetændelse?
+
+    1. [ ] Vaccinen fremkaldte lungebetændelse
+    2. [ ] Alle hospitaler var lukkede
+    3. [x] Penicillin blev først opdaget i 1928
+
+    ## Hvilke råd og tiltag blev brugt mod smitten?
+
+    1. [x] God hygiejne, mindre kontakt og lukning af nogle skoler og forlystelser
+    2. [ ] Obligatorisk vaccination af hele befolkningen
+    3. [ ] Lukning af alle danske grænser i to år
+
+    ## I hvilken periode ramte sygdommen Danmark i flere bølger?
+
+    1. [ ] 1914-16
+    2. [x] 1918-20
+    3. [ ] 1929-33
+
+    ## Hvilken aldersgruppe døde i særlig høj grad af Den Spanske Syge?
 
     1. [ ] Børn under fem år
-    2. [ ] Mennesker over 80 år
-    3. [x] Relativt unge voksne, især 20-40-årige
+    2. [ ] Personer over 80 år
+    3. [x] Relativt unge mennesker mellem 20 og 40 år
 
-    ## Hvor mange mennesker døde af Den Spanske Syge i Danmark ifølge teksten?
+    ## Hvor mange mennesker døde cirka af sygdommen globalt og i Danmark?
 
-    1. [ ] Cirka 500
-    2. [x] Cirka 15.000
-    3. [ ] Cirka 150.000
+    1. [x] Op mod 50 millioner globalt og cirka 15.000 i Danmark
+    2. [ ] Cirka 15.000 globalt og 6.000 i Danmark
+    3. [ ] Op mod 5 millioner globalt og 150.000 i Danmark
 
-    ## Hvad stemte befolkningen i Nordslesvig for i 1920?
+    ## Hvorfor kunne Danmark kræve dansksindede områder i Slesvig tilbage efter krigen?
 
-    1. [ ] At området skulle forblive tysk
-    2. [ ] At området skulle tilsluttes Sverige
-    3. [x] At området skulle genforenes med Danmark
+    1. [ ] Danmark havde besejret Tyskland militært
+    2. [x] Tyskland havde tabt 1. Verdenskrig
+    3. [ ] USA havde købt hele Slesvig
 
-    ## Hvad stemte et flertal i Mellemslesvig for i 1920?
+    ## Hvordan blev Slesvigs tilhørsforhold afgjort i 1920?
 
-    1. [x] At området skulle forblive under Tyskland
-    2. [ ] At området skulle genforenes med Danmark
-    3. [ ] At området skulle blive selvstændigt
+    1. [ ] Ved én afstemning i hele Slesvig
+    2. [ ] Ved en beslutning truffet af Christian 10. alene
+    3. [x] Ved to forskellige afstemninger i Nordslesvig og Mellemslesvig
 
-    ## Hvornår blev den nye grænse mellem Danmark og Tyskland formelt fastlagt?
+    ## Hvad stemte et stort flertal i Nordslesvig for?
 
-    1. [ ] 9. april 1940
-    2. [x] 15. juni 1920
-    3. [ ] 5. maj 1945
+    1. [x] Genforening med Danmark
+    2. [ ] Fortsat tilhørsforhold til Tyskland
+    3. [ ] Selvstændighed
 
-    ## Hvad beskyttede København-Bonn-erklæringerne fra 1955?
+    ## Hvad stemte et stort flertal i Mellemslesvig for?
 
-    1. [x] Rettighederne for det danske og tyske mindretal i grænselandet
-    2. [ ] Danmarks neutralitet i verdenskrige
-    3. [ ] Den danske flådes adgang til Østersøen
+    1. [ ] Genforening med Danmark
+    2. [x] Fortsat tilhørsforhold til Tyskland
+    3. [ ] Tilslutning til Sverige
+
+    ## Hvornår og hvordan blev grænsen formelt ændret?
+
+    1. [ ] Den 15. juni 1918 blev den flyttet nordpå til Kongeåen
+    2. [ ] Den 5. juni 1920 blev den flyttet til Flensborg
+    3. [x] Den 15. juni 1920 blev den flyttet sydpå til den nuværende grænse
+
+    ## Hvad kaldes Nordslesvig efter Genforeningen?
+
+    1. [ ] Holsten
+    2. [x] Sønderjylland
+    3. [ ] Lauenborg
+
+    ## Hvilke nationale mindretal findes fortsat i grænselandet?
+
+    1. [x] Et tysk mindretal i Danmark og et dansk mindretal i Tyskland
+    2. [ ] Et svensk mindretal i Danmark og et norsk mindretal i Tyskland
+    3. [ ] Kun et tysk mindretal på begge sider
+
+    ## Hvad fastlagde København-Bonn-erklæringerne i 1955?
+
+    1. [ ] Den præcise grænse mellem Danmark og Tyskland
+    2. [x] Det danske og tyske mindretals rettigheder
+    3. [ ] Salget af Dansk Vestindien
 
     ## Hvad udløste Påskekrisen i 1920?
 
-    1. [ ] En konflikt om Danmarks medlemskab af EF
-    2. [ ] En strejke blandt landets søfolk
-    3. [x] Uenighed mellem kongen og regeringen om den nye grænse til Tyskland
+    1. [ ] Uenighed om salget af Dansk Vestindien
+    2. [ ] Uenighed om bekæmpelsen af Den Spanske Syge
+    3. [x] Uenighed mellem kongen og regeringen om den nye grænse
 
-    ## Hvad gjorde Christian 10. under Påskekrisen?
+    ## Hvad ønskede Christian 10. i grænsespørgsmålet?
 
-    1. [x] Han afskedigede regeringen, selv om den ikke havde et flertal imod sig
-    2. [ ] Han opløste Folketinget og indførte enevælde
+    1. [x] At regeringen skulle forsøge at få mere end Nordslesvig tilbage
+    2. [ ] At Nordslesvig skulle forblive tysk
+    3. [ ] At grænsen skulle flyttes nord for Kongeåen
+
+    ## Hvad gjorde Christian 10. i påsken 1920?
+
+    1. [ ] Han afskaffede monarkiet
+    2. [x] Han afskedigede regeringen, selv om den ikke havde et flertal imod sig
     3. [ ] Han erklærede krig mod Tyskland
 
-    ## Hvilken udvikling fulgte efter Påskekrisen for kongemagtens rolle i politik?
+    ## Hvordan reagerede dele af befolkningen og pressen på kongens handling?
 
-    1. [ ] Kongen fik ret til at afskedige enhver regering
+    1. [ ] De krævede, at kongen fik enevældig magt
+    2. [ ] De betragtede det som en almindelig regeringsændring
+    3. [x] Der kom protester, og handlingen blev kaldt et statskup
+
+    ## Hvordan blev Påskekrisen løst?
+
+    1. [x] Der blev udpeget en midlertidig regering og udskrevet nyvalg
+    2. [ ] Kongen indførte enevælde
+    3. [ ] Regeringen overdrog magten til Tyskland
+
+    ## Hvilken varig følge fik Påskekrisen for kongemagten?
+
+    1. [ ] Kongen kunne fremover afskedige enhver regering
     2. [x] Kongemagten blandede sig ikke længere direkte i politik
-    3. [ ] Kongen overtog Folketingets lovgivende magt
+    3. [ ] Monarkiet blev afskaffet året efter
 
-    ## Hvilken økonomisk begivenhed i 1929 spredte krise til resten af verden?
+    ## Hvem tog magten i Rusland i 1917?
 
-    1. [ ] Oliekrisen i Mellemøsten
-    2. [ ] Krisen efter Roskilde-freden
-    3. [x] Børskrakket på Wall Street
+    1. [ ] Fascisterne
+    2. [x] Bolsjevikkerne
+    3. [ ] Nazisterne
 
-    ## Hvilket dansk erhverv blev særligt hårdt ramt af krisen i 1930'erne?
+    ## Hvilke antidemokratiske ideologier vandt frem i Italien og Tyskland?
+
+    1. [x] Fascismen og nazismen
+    2. [ ] Liberalismen og parlamentarismen
+    3. [ ] Socialliberalismen og konservatismen
+
+    ## Hvad skete der med demokratiet i Danmark, mens mange europæiske lande blev autoritære?
+
+    1. [ ] Det blev afskaffet i 1933
+    2. [ ] Det blev erstattet af enevælde
+    3. [x] Det blev fastholdt
+
+    ## Hvilken begivenhed udløste den internationale økonomiske krise?
+
+    1. [ ] Genforeningen i 1920
+    2. [x] Børskrakket på Wall Street i oktober 1929
+    3. [ ] Kanslergadeforliget i 1933
+
+    ## Hvilket dansk erhverv blev især hårdt ramt?
 
     1. [x] Landbruget
-    2. [ ] Fiskeriet i Grønland
-    3. [ ] Turismen på De Dansk Vestindiske Øer
+    2. [ ] Skibsfarten
+    3. [ ] Turismen
 
-    ## Hvor høj blev arbejdsløsheden i Danmark i begyndelsen af 1930'erne?
+    ## Hvordan ramte krisen landmændene?
 
-    1. [ ] Omkring 5 procent
-    2. [x] Over 30 procent
-    3. [ ] Omkring 80 procent
+    1. [ ] Priserne på korn og kød steg kraftigt
+    2. [x] Priserne faldt, og tusindvis måtte sælge deres gårde
+    3. [ ] De fik alle gratis lån af staten
+
+    ## Hvor højt nåede arbejdsløsheden i begyndelsen af 1930'erne?
+
+    1. [ ] Omkring 10 procent
+    2. [ ] Omkring 20 procent
+    3. [x] Over 30 procent
 
     ## Hvem blev Danmarks første socialdemokratiske statsminister i 1924?
 
-    1. [ ] Poul Schlüter
-    2. [ ] Erik Scavenius
-    3. [x] Thorvald Stauning
+    1. [x] Thorvald Stauning
+    2. [ ] J.B.S. Estrup
+    3. [ ] Christian 10.
 
-    ## Hvem blev Danmarks første kvindelige minister?
+    ## Hvem var Nina Bang?
 
-    1. [x] Nina Bang
-    2. [ ] Helle Thorning-Schmidt
-    3. [ ] Margrete 1.
+    1. [ ] Danmarks første kvindelige partileder
+    2. [x] Danmarks første kvindelige minister og undervisningsminister
+    3. [ ] Danmarks første kvindelige statsminister
 
-    ## Hvilke partier indgik Kanslergadeforliget i 1933?
+    ## Hvilke partier dannede regering sammen i 1929?
 
     1. [ ] Venstre og Det Konservative Folkeparti
     2. [ ] Socialdemokratiet og Venstre
-    3. [x] Regeringen med Socialdemokratiet og Det Radikale Venstre samt Venstre
+    3. [x] Socialdemokratiet og Det Radikale Venstre
 
-    ## Hvad var en del af Kanslergadeforligets løsning for landbruget?
+    ## Hvornår blev Kanslergadeforliget indgået?
 
-    1. [ ] Landmænd blev forbudt at optage lån
-    2. [x] Det blev lettere for landmænd at låne penge og undgå fallit
-    3. [ ] Al landbrugsjord blev overtaget af staten
+    1. [ ] 30. januar 1929
+    2. [x] 30. januar 1933
+    3. [ ] 30. januar 1940
 
-    ## Hvad betød devalueringen af den danske krone i 1933?
+    ## Hvem indgik Kanslergadeforliget?
 
-    1. [x] Kronens værdi blev sænket, så danske landbrugsvarer blev lettere at sælge i Storbritannien
+    1. [x] Regeringen og Venstre
+    2. [ ] Regeringen og Det Konservative Folkeparti
+    3. [ ] Kun Socialdemokratiet
+
+    ## Hvad betød Kanslergadeforliget for løn og strejker?
+
+    1. [ ] Lønnen blev sat ned, og strejker blev tilladt uden begrænsning
+    2. [x] Lavere løn blev forhindret, og strejker blev forbudt i et år
+    3. [ ] Staten fastsatte samme løn til alle
+
+    ## Hvordan hjalp forliget landmændene?
+
+    1. [ ] Det forbød dem at låne penge
+    2. [ ] Det gjorde staten til ejer af alle gårde
+    3. [x] Det gjorde det lettere at låne penge og undgå fallit
+
+    ## Hvad betød devalueringen af kronen?
+
+    1. [x] Kronens værdi blev sænket, så landbrugsvarer blev lettere at sælge i Storbritannien
     2. [ ] Kronen blev erstattet af det britiske pund
-    3. [ ] Danmark forlod al international handel
+    3. [ ] Kronens værdi blev fordoblet
 
-    ## Hvad skulle socialreformen i 1933 blandt andet sikre?
+    ## Hvad gjorde socialreformen som led i Kanslergadeforliget?
 
-    1. [x] Ensartede regler for offentlig økonomisk hjælp ved blandt andet arbejdsløshed og sygdom
-    2. [ ] At alle borgere fik samme løn
-    3. [ ] At den offentlige hjælp blev afskaffet
+    1. [ ] Den afskaffede offentlig hjælp ved sygdom
+    2. [x] Den udvidede sociale rettigheder og skabte mere ensartede regler for offentlig hjælp
+    3. [ ] Den begrænsede offentlig hjælp til landmænd

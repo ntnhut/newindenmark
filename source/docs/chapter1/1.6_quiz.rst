@@ -13,170 +13,350 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvornår blev Danmarks Riges Grundlov indført?
+    ## Hvilket århundrede forbindes i teksten med oplysningstiden i Europa?
 
-    1. [ ] 1660
-    2. [x] 1849
-    3. [ ] 1864
+    1. [ ] 1600-tallet
+    2. [x] 1700-tallet
+    3. [ ] 1800-tallet
 
-    ## Hvilken reform ophævede stavnsbåndet?
+    ## Hvad skulle ifølge oplysningstidens tanker gøre mennesker friere og bedre?
 
-    1. [x] Landboreformerne
-    2. [ ] Novemberforfatningen
-    3. [ ] Kanslergadeforliget
+    1. [x] Oplysning, tolerance og kritisk tænkning
+    2. [ ] Stavnsbånd, censur og enevælde
+    3. [ ] Krig, handel og kolonier
 
-    ## Hvad var en vigtig følge af Københavns bombardement i 1807?
+    ## Hvad skulle fornuften føre til?
 
-    1. [ ] Danmark blev medlem af EF
-    2. [ ] Danmark fik en ny grundlov
-    3. [x] Den danske flåde blev ødelagt
+    1. [ ] Større magt til godsejerne
+    2. [ ] Mindre undervisning af befolkningen
+    3. [x] Frihed for den enkelte
 
-    ## Hvad var formålet med stavnsbåndet, som blev indført i 1733?
+    ## Hvem begyndte at angribe enevælden og kræve del i magten?
 
-    1. [ ] At sikre, at bønderne kunne flytte frit mellem godser
-    2. [x] At sikre godsejerne stabil arbejdskraft
-    3. [ ] At give bønderne ret til selv at eje godser
+    1. [ ] Godsejerne på landet
+    2. [x] Det voksende borgerskab i byerne
+    3. [ ] De udenlandske stormagter
 
-    ## Hvor længe skulle bønderne ifølge stavnsbåndet blive på det gods, hvor de var født?
+    ## Hvorfor indførte kongen stavnsbåndet i 1733?
 
-    1. [ ] Indtil de fyldte 25 år
-    2. [ ] Indtil de fyldte 30 år
-    3. [x] Indtil de fyldte 40 år
+    1. [x] For at sikre stabil arbejdskraft på godserne under landbrugets krise
+    2. [ ] For at give alle bønder deres egen jord
+    3. [ ] For at få flere mennesker til at flytte til byerne
+
+    ## Hvad indebar stavnsbåndet?
+
+    1. [ ] Bønderne kunne frit vælge et nyt gods hvert år
+    2. [x] Bønderne skulle blive på deres fødegods, til de var 40 år
+    3. [ ] Bønderne skulle arbejde i byerne, til de var 40 år
+
+    ## Hvad skulle godsejerne yde til gengæld for den sikrede arbejdskraft?
+
+    1. [ ] De skulle give al deres jord til bønderne
+    2. [ ] De skulle betale bøndernes skat til kirken
+    3. [x] De skulle stille nogle bønder som soldater til hæren
 
     ## Hvad var en fæstebonde?
 
-    1. [x] En bonde, der boede på en gård, som tilhørte en godsejer
+    1. [x] En bonde, der boede på en mindre gård, som tilhørte godsejeren
     2. [ ] En bonde, der ejede et stort gods
-    3. [ ] En soldat, der arbejdede på kongens jord
+    3. [ ] En soldat, der kun arbejdede for kongen
 
-    ## Hvad skulle fæstebønder typisk gøre for godsejeren?
+    ## Hvad skulle fæstebønderne yde til godsejeren?
 
-    1. [ ] Kun betale skat til kongen
-    2. [ ] Kun sælge deres afgrøder i udlandet
-    3. [x] Betale afgift og udføre gratis arbejde på godsejerens jord
+    1. [ ] Kun militærtjeneste
+    2. [x] Afgift og gratis arbejde på godsejerens jord
+    3. [ ] Kun en tiendedel af deres høst
+
+    ## Hvorfor var Christian 7. ifølge teksten uegnet til at regere?
+
+    1. [ ] Han opholdt sig hele tiden i udlandet
+    2. [ ] Han var for ung til at blive konge
+    3. [x] Han led af skizofreni
 
     ## Hvem var Johann Friedrich Struensee?
 
-    1. [ ] En svensk konge
-    2. [x] Christian 7.s tyske livlæge, som fik stor politisk magt
-    3. [ ] En dansk bondeleder
+    1. [ ] En dansk godsejer og officer
+    2. [x] En tysk læge, som blev Christian 7.s personlige læge
+    3. [ ] En britisk admiral
 
-    ## Hvornår havde Struensee stor magt i Danmark?
+    ## Hvorfor fik Struensee stor magt i 1770-72?
 
-    1. [ ] 1660-61
-    2. [ ] 1848-49
-    3. [x] 1770-72
+    1. [x] Kongen lod ham regere for sig
+    2. [ ] Han blev valgt til konge af borgerskabet
+    3. [ ] Han ledede den danske hær
 
     ## Hvilken frihed indførte Struensee i høj grad?
 
     1. [x] Trykkefrihed
-    2. [ ] Religionsfrihed for alle trosretninger
-    3. [ ] Frihed til at vælge kongen
+    2. [ ] Fuld valgret
+    3. [ ] Frihed fra alle skatter
 
-    ## Hvilken praksis afskaffede Struensee?
+    ## Hvilken brug af tortur afskaffede Struensee?
 
-    1. [ ] Betaling af skat
-    2. [x] Brug af tortur til at få mistænkte til at tilstå
-    3. [ ] Udgivelse af aviser
+    1. [ ] Tortur som militær straf i krig
+    2. [x] Tortur for at få mistænkte til at tilstå en forbrydelse
+    3. [ ] Tortur som straf for ikke at betale skat
+
+    ## Hvilken pligt for bønderne begrænsede Struensee?
+
+    1. [ ] Pligten til at gå i kirke
+    2. [ ] Pligten til at sælge deres jord
+    3. [x] Pligten til at arbejde for den lokale herremand
 
     ## Hvorfor blev Struensee arresteret og henrettet?
 
-    1. [ ] Han tabte en krig mod Sverige
-    2. [ ] Han ville genindføre katolicismen
-    3. [x] De gamle magthavere modsatte sig hans reformer, og han havde en affære med dronningen
+    1. [x] De gamle magthavere modsatte sig hans reformer, og han havde en affære med dronningen
+    2. [ ] Han tabte krigen mod Storbritannien
+    3. [ ] Han forsøgte at genindføre stavnsbåndet
 
-    ## Hvad blev en vigtig følge af landboreformerne?
+    ## Hvad skete der med de fleste af Struensees reformer efter hans korte styre?
 
-    1. [ ] Bønderne blev bundet til deres fødegods igen
-    2. [x] Landbruget udviklede sig mod selvejende bønder
-    3. [ ] Godsejerne overtog al fællesjord
+    1. [ ] De blev udvidet til Norge og Sverige
+    2. [x] De blev ophævet igen
+    3. [ ] De blev skrevet ind i grundloven
 
-    ## Hvad betød ophævelsen af stavnsbåndet fra 1788?
+    ## Hvornår fik mange af Struensees reformideer og oplysningstidens tanker igen betydning?
 
-    1. [x] Fæstebønder kunne selv vælge, om de ville blive eller flytte
-    2. [ ] Alle bønder skulle flytte til byerne
-    3. [ ] Bønderne skulle aftjene længere militærtjeneste
+    1. [ ] Fra 1680'erne
+    2. [x] Fra 1780'erne
+    3. [ ] Fra 1880'erne
 
-    ## Hvad kunne bønderne i mange tilfælde gøre med den jord, de hidtil havde lejet?
+    ## Hvilken langsigtet udvikling bidrog landboreformerne til?
 
-    1. [ ] Give den tilbage til kirken
-    2. [ ] Bygge en by på den
-    3. [x] Købe den og blive selvejere
+    1. [ ] Landbruget gik fra selvejere til fæstebønder
+    2. [ ] Alt landbrug blev samlet på kongens godser
+    3. [x] Landbruget gik fra fæstebønder til flere selvejende bønder
 
-    ## Hvad var en følge af at dele landsbyens fællesjord mellem gårdene?
+    ## Hvornår begyndte ophævelsen af stavnsbåndet?
 
-    1. [x] Den enkelte bonde kunne samle sine marker og dyrke dem mere effektivt
-    2. [ ] Al dyrkning blev forbudt uden for landsbyen
-    3. [ ] Alle gårde blev samlet på ét gods
+    1. [ ] 1733
+    2. [x] 1788
+    3. [ ] 1849
 
-    ## Hvem var husmænd typisk?
+    ## Hvad betød ophævelsen af stavnsbåndet for fæstebønderne?
 
-    1. [ ] Godsejere med store jordområder
-    2. [x] Landboere med små eller ingen jordstykker
-    3. [ ] Købmænd, der handlede med kolonierne
+    1. [x] De kunne selv vælge, om de ville blive på godset eller flytte
+    2. [ ] De skulle flytte fra godset med det samme
+    3. [ ] De mistede retten til at arbejde på landet
 
-    ## Hvorfor voksede antallet af husmænd i 1800-tallet?
+    ## Hvordan fik mange bønder mulighed for at blive selvejere?
 
-    1. [x] Befolkningen voksede, og der var ikke jord nok til alle
-    2. [ ] Stavnsbåndet blev genindført
-    3. [ ] Danmark mistede al sin landbrugsjord
+    1. [ ] Kirken gav dem gratis jord
+    2. [x] Godsejerne solgte den jord, bønderne hidtil havde lejet, til dem
+    3. [ ] De overtog jord fra de britiske købmænd
+
+    ## Hvorfor blev landsbyens fælles jord fordelt mellem de enkelte gårde?
+
+    1. [ ] For at alle marker kunne ligge længere fra gårdene
+    2. [ ] For at godsejeren kunne eje al jorden
+    3. [x] For at den enkelte bonde kunne samle sine marker og dyrke mere effektivt
+
+    ## Hvad skete der med mange gårde under landboreformerne?
+
+    1. [x] De blev flyttet ud fra landsbyerne til bondens egen jord
+    2. [ ] De blev flyttet ind i købstæderne
+    3. [ ] De blev samlet på ét stort kongeligt gods
+
+    ## Hvad var gårdmandsklassen?
+
+    1. [ ] Godsejere med de største herregårde
+    2. [x] En stor gruppe landmænd med mellemstore gårde
+    3. [ ] Landarbejdere uden bolig eller jord
+
+    ## Hvordan adskilte Danmark sig fra mange andre europæiske lande efter reformerne?
+
+    1. [ ] Danmark havde ingen selvejende bønder
+    2. [ ] Nogle få herremænd ejede al dansk jord
+    3. [x] Danmark havde forholdsvis flere landbrugere i gårdmandsklassen
+
+    ## Hvorfor var livet fortsat hårdt for flertallet på landet?
+
+    1. [x] Der var ikke jord nok, og jorden var ulige fordelt
+    2. [ ] Alle bønder blev tvunget til at emigrere
+    3. [ ] Landboreformerne forbød bønder at eje jord
+
+    ## Hvorfor voksede underklassen på landet gennem 1800-tallet?
+
+    1. [ ] Befolkningstallet faldt kraftigt
+    2. [x] Befolkningen voksede, så flere ikke kunne få deres egen jord
+    3. [ ] Stavnsbåndet blev genindført
+
+    ## Hvem var husmændene?
+
+    1. [ ] Godsejere med mange fæstebønder
+    2. [ ] Købmænd, der ejede handelsskibe
+    3. [x] Landboere med små eller ingen jordstykker
+
+    ## Hvilket arbejde havde husmændene ofte?
+
+    1. [x] De arbejdede som landarbejdere på gårde eller godser
+    2. [ ] De var officerer i den permanente hær
+    3. [ ] De var embedsmænd i København
+
+    ## Hvor søgte mange landboere uden tilstrækkelig jord hen?
+
+    1. [ ] Kun til Norge
+    2. [x] Til byerne efter arbejde eller til Amerika som emigranter
+    3. [ ] Til Sverige for at købe godser
+
+    ## Hvad betyder ordet ”florissant”?
+
+    1. [ ] Krigsførende
+    2. [ ] Oplyst
+    3. [x] Blomstrende
 
     ## Hvad kendetegnede Den Florissante Periode?
 
-    1. [x] En blomstrende dansk søfart og handel
-    2. [ ] En langvarig krig mod Sverige
-    3. [ ] En periode uden handel med udlandet
+    1. [x] Dansk søfart blomstrede, og København blev en international storhavn
+    2. [ ] Danmark var i vedvarende krig med alle stormagter
+    3. [ ] Al dansk handel blev standset
 
-    ## Hvorfor tjente danske handelsskibe godt på at være neutrale?
+    ## Hvorfor kunne neutrale danske skibe fragte mange af stormagternes varer?
 
-    1. [x] De kunne fragte varer, når krigsførende lande blokerede hinandens ruter
-    2. [ ] De havde eneret på at sejle i Østersøen
-    3. [ ] De blev brugt til at transportere soldater for Storbritannien
+    1. [ ] Danmark kontrollerede alle europæiske havne
+    2. [x] De krigsførende stormagter blokerede hinandens havne og sejlruter
+    3. [ ] De danske skibe tilhørte Storbritannien
 
-    ## Hvor fandt Slaget på Reden sted i 1801?
+    ## Hvad skete der med de værdifulde laster, som kom til København?
 
-    1. [ ] Ved den danske grænse mod Tyskland
+    1. [ ] De blev givet til den danske hær
+    2. [ ] De blev opbevaret uden at blive solgt
+    3. [x] De blev videresolgt til andre europæiske lande
+
+    ## Hvad blev neutralitetshandelen på længere sigt en vej ind i?
+
+    1. [x] Napoleonskrigene
+    2. [ ] Svenskekrigene
+    3. [ ] Treårskrigen
+
+    ## Hvorfor kaldes Napoleonskrigene også Englandskrigene i Danmark?
+
+    1. [ ] Danmark var allieret med England mod Frankrig
+    2. [x] Danmark blev allieret med Frankrig i krig mod England
+    3. [ ] Krigene foregik kun i England
+
+    ## Hvilken begivenhed førte til, at Napoleonskrigene begyndte i 1792?
+
+    1. [ ] Stavnsbåndets ophævelse i 1788
+    2. [ ] Slaget på Reden i 1801
+    3. [x] Den Franske Revolution i 1789
+
+    ## Hvad gjorde Danmark i Napoleonskrigenes første tid?
+
+    1. [x] Danmark var neutralt og handlede med både Storbritannien og Frankrig
+    2. [ ] Danmark var straks allieret med Frankrig
+    3. [ ] Danmark standsede al søfart
+
+    ## Hvorfor angreb Storbritannien den danske flåde i 1801?
+
+    1. [ ] Danmark havde besat britiske havne
+    2. [x] Storbritannien ville forhindre Danmarks handel med Frankrig
+    3. [ ] Danmark havde erobret Norge fra Sverige
+
+    ## Hvor fandt Slaget på Reden sted?
+
+    1. [ ] Ved grænsen til Tyskland
     2. [x] I farvandet lige uden for Københavns havn
-    3. [ ] I Nordsøen nær Norge
+    3. [ ] Ved Norges vestkyst
 
-    ## Hvorfor bombarderede Storbritannien København i 1807?
+    ## Hvorfor bombarderede briterne København i 1807?
 
-    1. [x] For at forhindre Napoleon i at bruge den danske flåde
-    2. [ ] For at hjælpe Danmark med at erobre Norge
-    3. [ ] For at stoppe den danske reformation
+    1. [x] De ville forhindre Napoleon i at bruge den danske flåde til sin blokade
+    2. [ ] De ville hjælpe Danmark med at erobre Sverige
+    3. [ ] De ville gennemtvinge en dansk grundlov
 
-    ## Hvilken side valgte Danmark efter bombardementet i 1807?
+    ## Hvad gjorde briterne med den danske flåde i forbindelse med bombardementet?
 
-    1. [ ] Rusland
-    2. [ ] Storbritannien
-    3. [x] Frankrig
+    1. [ ] De ødelagde kun handelsskibene
+    2. [ ] De gav flåden til Frankrig
+    3. [x] De erobrede hele flåden
+
+    ## Hvilken side valgte Danmark efter nederlaget i 1807?
+
+    1. [ ] Storbritannien
+    2. [x] Frankrig
+    3. [ ] Sverige
 
     ## Hvad måtte Danmark afgive ved fredsaftalen i 1814?
 
-    1. [ ] Grønland til USA
+    1. [ ] Færøerne til Storbritannien
     2. [x] Norge til Sverige
-    3. [ ] Slesvig til Preussen
+    3. [ ] Grønland til Frankrig
 
-    ## Hvilken politisk udvikling førte til, at Frederik 7. indførte en fri forfatning?
+    ## Hvor længe havde Danmark og Norge været i union, da den sluttede i 1814?
 
-    1. [x] Demokratiske strømninger og krav fra borgerskabet i København
-    2. [ ] En beslutning truffet af den svenske konge
-    3. [ ] En sejr i krigen mod Preussen
+    1. [ ] Godt 100 år
+    2. [ ] Godt 200 år
+    3. [x] Over 400 år
 
-    ## Hvornår underskrev Frederik 7. Danmarks første frie grundlov?
+    ## Hvilken begivenhed i 1789 påvirkede de demokratiske strømninger i 1800-tallet?
 
-    1. [ ] 5. juni 1665
-    2. [ ] 5. juni 1814
-    3. [x] 5. juni 1849
+    1. [x] Den Franske Revolution
+    2. [ ] Københavns Bombardement
+    3. [ ] Stavnsbåndets indførelse
 
-    ## Hvad blev Folketinget og Landstinget samlet kaldt efter grundloven i 1849?
+    ## Hvad skete der i mange europæiske hovedstæder i 1848?
+
+    1. [ ] Enevælden blev styrket
+    2. [x] Der udbrød revolution
+    3. [ ] Napoleonskrigene begyndte
+
+    ## Hvad krævede borgerskabet i København i marts 1848?
+
+    1. [ ] At stavnsbåndet skulle genindføres
+    2. [ ] At Norge igen skulle blive dansk
+    3. [x] At Frederik 7. skulle indføre en fri forfatning
+
+    ## Hvordan reagerede Frederik 7. på kravet om en fri forfatning?
+
+    1. [x] Han fulgte kravet under presset fra folkestemningen
+    2. [ ] Han lod hæren opløse borgerskabet
+    3. [ ] Han bad Sverige overtage Danmark
+
+    ## Hvad vil det sige, at Frederik 7. blev konstitutionel konge?
+
+    1. [ ] Han regerede fortsat helt alene
+    2. [x] Han skulle regere med folket på grundlag af grundloven
+    3. [ ] Han blev valgt for fire år ad gangen
+
+    ## Hvornår underskrev Frederik 7. Danmarks første frie forfatning?
+
+    1. [ ] 5. juni 1814
+    2. [x] 5. juni 1849
+    3. [ ] 5. juni 1864
+
+    ## Hvad blev Folketinget og Landstinget samlet kaldt?
 
     1. [x] Rigsdagen
     2. [ ] Statsrådet
     3. [ ] Rigsrådet
 
-    ## Hvem havde valgret efter grundloven i 1849?
+    ## Hvem fik valgret til Rigsdagen med grundloven i 1849?
 
     1. [ ] Alle voksne kvinder og mænd
     2. [x] Mænd over 30 år med egen husstand
-    3. [ ] Alle mænd over 18 år uden andre betingelser
+    3. [ ] Alle mænd over 18 år
+
+    ## Hvad krævedes der for at kunne vælges til Folketinget?
+
+    1. [ ] Man skulle være fyldt 30 år og have høj indkomst
+    2. [ ] Man skulle være fyldt 40 år
+    3. [x] Man skulle være fyldt 25 år
+
+    ## Hvilke krav gjaldt for medlemmer af Landstinget?
+
+    1. [x] De skulle være fyldt 40 år og have en høj indkomst
+    2. [ ] De skulle være fyldt 25 år uden økonomiske krav
+    3. [ ] De skulle være godsejere udpeget af kongen
+
+    ## Hvem havde hverken valgret eller ret til at blive valgt i 1849?
+
+    1. [ ] Borgere med egen husstand
+    2. [ ] Alle mænd over 30 år
+    3. [x] Kvinder og fattige
+
+    ## Hvordan var grundloven i 1849 sammenlignet med de fleste andre staters forfatninger på den tid?
+
+    1. [ ] Mindre demokratisk og mere enevældig
+    2. [x] Meget demokratisk og liberal
+    3. [ ] Helt uden lovgivende forsamlinger

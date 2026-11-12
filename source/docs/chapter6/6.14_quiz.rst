@@ -13,18 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken beskyttelse er sikret i Danmarks Riges Grundlov?
-
-    1. [ ] Ret til at true andre uden konsekvenser
-    2. [x] Ytringsfrihed
-    3. [ ] Ret til at forskelsbehandle andre
-
-    ## Kan hadforbrydelser få betydning for straffen for en forbrydelse?
-
-    1. [x] Ja, et hadmotiv kan være en skærpende omstændighed
-    2. [ ] Nej, hadmotiv har aldrig betydning
-    3. [ ] Kun hvis Folketinget først godkender sagen
-
     ## Hvilke frihedsrettigheder nævnes i grundloven?
 
     1. [ ] Ret til at true andre og ret til at bryde loven
@@ -36,6 +24,18 @@ Questions
     1. [x] At behandle mennesker dårligere på grund af for eksempel tro, køn eller etnicitet
     2. [ ] At give alle borgere de samme politiske rettigheder
     3. [ ] At deltage i en lovlig demonstration
+
+    ## Hvor mange borgere med ikke-vestlig indvandrerbaggrund har ifølge undersøgelser oplevet diskrimination på grund af deres etniske herkomst?
+
+    1. [ ] Næsten en tiendedel
+    2. [x] Næsten halvdelen
+    3. [ ] Næsten alle
+
+    ## Hvad viser studier om ansøgere med visse udenlandske navne?
+
+    1. [ ] De bliver altid foretrukket til lejeboliger og jobsamtaler
+    2. [x] De kan have sværere ved at få en lejebolig eller invitation til jobsamtale
+    3. [ ] Deres navn har kun betydning ved ansøgning om statsborgerskab
 
     ## Er det tilladt offentligt at true eller nedværdige mennesker på grund af deres tro eller race?
 
@@ -49,11 +49,29 @@ Questions
     2. [ ] Kritisk diskutere regeringens politik
     3. [ ] Skrive om sine egne erfaringer
 
+    ## Hvad er det ifølge teksten også ulovligt offentligt at støtte tydeligt?
+
+    1. [ ] En lovlig demonstration
+    2. [ ] Et politisk partis valgkamp
+    3. [x] Et allerede begået terrorangreb
+
+    ## Hvorfor er særlige regler mod diskrimination og hadforbrydelser indført?
+
+    1. [ ] For at begrænse religionsfriheden
+    2. [ ] For at forbyde al offentlig debat
+    3. [x] For at beskytte minoriteter mod overgreb fra staten og andre borgere
+
     ## Hvad kaldes forbrydelser, der begås på grund af ofrets etnicitet, tro eller seksuelle orientering?
 
     1. [ ] Politiske valg
     2. [x] Hadforbrydelser
     3. [ ] Borgerlige rettigheder
+
+    ## Kan et hadmotiv få betydning for straffen for en forbrydelse?
+
+    1. [x] Ja, forbrydelsen kan straffes særlig strengt
+    2. [ ] Nej, motivet har aldrig betydning for straffen
+    3. [ ] Kun hvis Folketinget først godkender den konkrete sag
 
     ## Hvilke handlinger kan være hadforbrydelser?
 
@@ -67,11 +85,29 @@ Questions
     2. [ ] 430
     3. [ ] 702
 
+    ## Hvad var den hyppigste registrerede baggrund for hadforbrydelser i 2022-24?
+
+    1. [x] Ofrets race eller etnicitet
+    2. [ ] Ofrets religion
+    3. [ ] Ofrets seksuelle orientering
+
+    ## Hvor mange hadforbrydelser blev der i gennemsnit registreret om året i 2022-24?
+
+    1. [ ] 430
+    2. [x] 702
+    3. [ ] 2.108
+
     ## Hvor mange hadforbrydelser mod jøder blev registreret i 2022-24?
 
     1. [ ] 2.108
     2. [x] 430
     3. [ ] 48
+
+    ## Hvor mange jøder bor der ifølge teksten i Danmark?
+
+    1. [ ] Cirka 430
+    2. [ ] Cirka 2.100
+    3. [x] Cirka 6.000-8.000
 
     ## Hvad skete der under Krystalnatten i 1938?
 
@@ -79,11 +115,23 @@ Questions
     2. [ ] Danmark blev befriet fra den tyske besættelse
     3. [ ] Danmark indførte religionsfrihed
 
-    ## Hvilken gruppe angreb en synagoge i København i 2015?
+    ## Hvad oplevede jødiske borgere i Danmark i stigende grad efter oktober 2023?
+
+    1. [ ] At alle antisemitiske ytringer forsvandt fra sociale medier
+    2. [x] Trusler og chikane, blandt andet online
+    3. [ ] At de blev gjort ansvarlige for dansk flygtningepolitik
+
+    ## Hvem stod bag angrebet ved synagogen i København i 2015?
 
     1. [ ] En gruppe danske embedsmænd
     2. [ ] En gruppe udenlandske turister
     3. [x] En terrorist med sympati for Islamisk Stat
+
+    ## Hvem blev udsat for grov vold i den hadforbrydelse fra 2025, som teksten omtaler?
+
+    1. [ ] To politikere i Folketinget
+    2. [x] To homoseksuelle mænd
+    3. [ ] To ansatte på et asylcenter
 
     ## Hvad var motivet bag angrebet med maling på politikere i Folketinget i 2003?
 
@@ -96,9 +144,3 @@ Questions
     1. [ ] UNESCO
     2. [x] Politiets Efterretningstjeneste (PET)
     3. [ ] Danmarks Statistik
-
-    ## Hvorfor er særlige regler mod diskrimination og hadforbrydelser indført?
-
-    1. [ ] For at begrænse religionsfrihed
-    2. [ ] For at forbyde al offentlig debat
-    3. [x] For at beskytte minoriteter mod overgreb fra staten og andre borgere

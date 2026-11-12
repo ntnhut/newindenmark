@@ -13,29 +13,29 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken tradition forbindes ofte med Fastelavn?
-
-    1. [ ] At tænde bål på stranden
-    2. [x] At slå katten af tønden
-    3. [ ] At danse om juletræet
-
-    ## Hvilken mærkedag fejres den 5. juni?
-
-    1. [x] Grundlovsdag
-    2. [ ] Sankthansaften
-    3. [ ] Store bededag
-
-    ## Hvilken tradition forbindes med Sankthansaften?
-
-    1. [ ] At slå katten af tønden
-    2. [ ] At tænde adventskranse
-    3. [x] At tænde bål
-
     ## Hvilken slags mærkedag mangler Danmark ifølge teksten?
 
     1. [x] En egentlig officiel nationaldag
     2. [ ] En grundlovsdag
     3. [ ] En juleaften
+
+    ## Hvad betyder fastelavn, og hvor langt tilbage kan festen spores?
+
+    1. [ ] Det betyder høstfest og stammer fra vikingetiden
+    2. [x] Det betyder karneval og kan spores til oldtidens Romerrige og Ægypten
+    3. [ ] Det betyder faste og opstod i Danmark i 1800-tallet
+
+    ## Hvilken tradition forbindes med fastelavn?
+
+    1. [ ] At tænde bål
+    2. [x] At klæde sig ud og slå katten af tønden
+    3. [ ] At danse om juletræet
+
+    ## Hvad kaldes den, der slår fastelavnstønden i stykker?
+
+    1. [ ] Sankthanskonge eller sankthansdronning
+    2. [ ] Påskekonge eller påskedronning
+    3. [x] Kattekonge eller kattedronning
 
     ## Hvor langt før påske ligger fastelavn?
 
@@ -43,11 +43,23 @@ Questions
     2. [x] Syv uger
     3. [ ] Tolv uger
 
+    ## Hvad markerer den kristne påske?
+
+    1. [x] At Jesus blev korsfæstet, døde og opstod fra de døde
+    2. [ ] At Jesus blev født
+    3. [ ] At Helligånden kom til jorden
+
     ## Hvad symboliserer påskeægget traditionelt?
 
     1. [ ] Midsommer
     2. [ ] Vintersolhverv
     3. [x] Frugtbarhed
+
+    ## Hvorfor er der tradition for at spise lam i påsken?
+
+    1. [ ] Lammet symboliserer forårets begyndelse
+    2. [x] Lammet symboliserer, at Jesus blev ofret som et uskyldigt lam
+    3. [ ] Lammet symboliserer Helligåndens komme
 
     ## Hvad fejrer man på 1. maj?
 
@@ -55,17 +67,35 @@ Questions
     2. [ ] Danmarks første grundlov
     3. [ ] Afslutningen på julehøjtiden
 
+    ## Hvem står blandt andet bag arrangementerne den 1. maj?
+
+    1. [ ] Kongehuset og folkekirken
+    2. [x] Fagbevægelsen, Socialdemokratiet, SF og Enhedslisten
+    3. [ ] Nordisk Råd og Europa-Parlamentet
+
     ## Hvad fejres i pinsen ifølge den kristne tradition?
 
     1. [ ] Jesu fødsel
     2. [x] Helligåndens komme til jorden
     3. [ ] Jesu korsfæstelse
 
-    ## Hvilken begivenhed markerer sankthansaften?
+    ## Hvornår ligger pinsen i forhold til påsken?
 
-    1. [ ] Vinterens begyndelse
-    2. [ ] Danmarks befrielse
-    3. [x] Midsommeren
+    1. [ ] Tre uger før påske
+    2. [ ] Fire uger efter påske
+    3. [x] Syv uger efter påske
+
+    ## Hvilke traditioner i pinsen nævner teksten?
+
+    1. [x] At se solen danse og holde pinsefrokost
+    2. [ ] At slå katten af tønden og spise påskeæg
+    3. [ ] At tænde bål og danse om juletræet
+
+    ## Hvilken mærkedag fejres den 5. juni?
+
+    1. [x] Grundlovsdag
+    2. [ ] Sankthansaften
+    3. [ ] Arbejderbevægelsens internationale kampdag
 
     ## Hvad fejrer man på grundlovsdag den 5. juni?
 
@@ -73,11 +103,47 @@ Questions
     2. [ ] Arbejderbevægelsens kampdag
     3. [ ] Den første danske konge
 
+    ## Hvornår fik Danmark sin første grundlov?
+
+    1. [ ] 1814
+    2. [x] 1849
+    3. [ ] 1915
+
+    ## Hvornår fejres sankthansaften?
+
+    1. [ ] 5. juni
+    2. [x] 23. juni
+    3. [ ] 24. december
+
+    ## Hvilken begivenhed markerer sankthansaften?
+
+    1. [ ] Vinterens begyndelse
+    2. [ ] Danmarks befrielse
+    3. [x] Midsommeren
+
+    ## Hvilken tradition forbindes med sankthansaften?
+
+    1. [ ] At slå katten af tønden
+    2. [ ] At give påskeæg
+    3. [x] At tænde bål
+
+    ## Hvem henviser navnet Hans i sankthans til?
+
+    1. [ ] Hans Christian Andersen
+    2. [x] Johannes Døberen
+    3. [ ] Kong Hans
+
     ## Hvilken kristen begivenhed fejres ved jul?
 
     1. [ ] Helligåndens komme
     2. [x] Jesu fødsel
     3. [ ] Jesu opstandelse
+
+    ## Hvornår er juleaften, og hvad gør familierne typisk?
+
+    1. [x] Den 24. december; de samles, spiser og giver gaver
+    2. [ ] Den 25. december; de fejrer nytåret med fyrværkeri
+    3. [ ] Den 26. december; de markerer vintersolhvervet med bål
 
     ## Hvad forbindes juletraditionen også med ud over kristendommen?
 
@@ -85,11 +151,29 @@ Questions
     2. [ ] Høstens afslutning
     3. [x] Hedensk markering af vintersolhvervet
 
+    ## Hvad kaldes den 25. og 26. december?
+
+    1. [ ] Lillejuleaften og juleaften
+    2. [x] Første og anden juledag
+    3. [ ] Nytårsaften og nytårsdag
+
     ## Hvornår er nytårsaften?
 
     1. [x] 31. december
     2. [ ] 1. januar
     3. [ ] 24. december
+
+    ## Hvad kendetegner nytårsdag den 1. januar?
+
+    1. [ ] Alle skoler og arbejdspladser holder åbent
+    2. [x] Langt de fleste arbejdspladser og butikker holder lukket
+    3. [ ] Der holdes optog for arbejderbevægelsen
+
+    ## Hvilken muslimsk fastemåned markeres i Danmark?
+
+    1. [ ] Yom Kippur
+    2. [ ] Advent
+    3. [x] Ramadanen
 
     ## Hvad markerer den muslimske højtid Eid al-adha?
 
@@ -102,3 +186,21 @@ Questions
     1. [ ] En kristen høstfest
     2. [ ] En muslimsk fastemåned
     3. [x] Den jødiske forsoningsdag
+
+    ## Hvad forbindes Yom Kippur blandt andet med?
+
+    1. [ ] Gaver og dans om et træ
+    2. [x] Tilgivelse, anger, bøn og faste
+    3. [ ] Pilgrimsrejser til Mekka
+
+    ## Hvornår fejres halloween, og hvilken tradition nævner teksten?
+
+    1. [ ] 23. juni; man tænder bål
+    2. [ ] 24. december; man giver gaver
+    3. [x] 31. oktober; børn klæder sig ud, og man laver græskarlygter
+
+    ## Hvornår og hvor afholdes Danmarks største karneval ifølge teksten?
+
+    1. [x] I pinsen i København
+    2. [ ] Til fastelavn i Aarhus
+    3. [ ] Den 1. maj i Aalborg

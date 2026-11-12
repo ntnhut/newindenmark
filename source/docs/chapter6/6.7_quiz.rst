@@ -13,18 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken organisation blev oprettet for at fremme samarbejdet mellem de nordiske landes parlamenter?
-
-    1. [ ] Europarådet
-    2. [x] Nordisk Råd
-    3. [ ] NATO
-
-    ## Hvilke lande indgår i det nordiske samarbejde?
-
-    1. [x] Blandt andre Danmark, Finland, Island, Norge og Sverige
-    2. [ ] Kun Danmark og Tyskland
-    3. [ ] Alle lande i EU
-
     ## Hvilke fem lande regnes som de nordiske lande?
 
     1. [ ] Danmark, Tyskland, Norge, Finland og Island
@@ -37,17 +25,35 @@ Questions
     2. [ ] At alle landene bruger samme farver i deres flag
     3. [ ] At alle landene har samme nationalsang
 
+    ## Hvordan adskiller de fire øvrige nordiske landes geografi sig generelt fra Danmarks?
+
+    1. [ ] De er mindre, tættere befolket og har et varmere klima
+    2. [x] De er større, tyndere befolket og har generelt et koldere klima
+    3. [ ] De har samme areal, befolkningstæthed og klima som Danmark
+
     ## Hvilket nordisk land har den største befolkning?
 
     1. [ ] Danmark
     2. [ ] Finland
     3. [x] Sverige
 
+    ## Hvor mange indbyggere har Sverige ifølge teksten?
+
+    1. [ ] Cirka 5,6 millioner
+    2. [ ] Cirka 6 millioner
+    3. [x] Cirka 10,7 millioner
+
     ## Hvilket nordisk land har den mindste befolkning?
 
     1. [x] Island
     2. [ ] Norge
     3. [ ] Finland
+
+    ## Hvor stor er Islands befolkning ifølge teksten?
+
+    1. [ ] Cirka 5,6 millioner
+    2. [x] Under 400.000
+    3. [ ] Cirka 10,7 millioner
 
     ## Hvornår eksisterede Kalmarunionen?
 
@@ -61,11 +67,23 @@ Questions
     2. [ ] Sverige blev medlem af EU
     3. [x] Sverige brød ud efter en langvarig kamp
 
+    ## Hvad betegnes perioden 1563-1721 ofte som i Danmark?
+
+    1. [ ] Kalmarunionen
+    2. [x] Svenskekrigene
+    3. [ ] Vikingetiden
+
     ## Hvilke sprog udviklede sig fra oldnordisk?
 
     1. [x] Dansk, svensk, norsk og islandsk
     2. [ ] Dansk, finsk, tysk og islandsk
     3. [ ] Svensk, finsk, estisk og norsk
+
+    ## Hvorfor kan danskere, svenskere og nordmænd forholdsvis let forstå hinandens sprog?
+
+    1. [ ] Landene har indført ét fælles officielt sprog
+    2. [x] Sprogene er nært beslægtede og har bevaret mange fællestræk
+    3. [ ] Alle tre sprog har udviklet sig fra finsk
 
     ## Hvorfor er finsk meget anderledes end dansk, svensk, norsk og islandsk?
 
@@ -79,6 +97,12 @@ Questions
     2. [ ] Svensk er det eneste officielle sprog i Finland
     3. [x] Finland var længe styret fra Sverige og har et svensksproget mindretal
 
+    ## Hvorfor er det almindeligt at lære dansk som fremmedsprog i Island?
+
+    1. [ ] Island var en del af Sverige frem til 1809
+    2. [x] Island havde en langvarig tilknytning til Danmark fra 1380 til 1944
+    3. [ ] Dansk og islandsk er Finlands officielle sprog
+
     ## Hvilken trosretning blev dominerende i Norden efter reformationen?
 
     1. [x] Den protestantiske, evangelisk-lutherske tro
@@ -90,6 +114,12 @@ Questions
     1. [ ] Velfærd betales kun af den enkelte bruger
     2. [x] Velfærdsydelser finansieres i fællesskab gennem skatter og afgifter
     3. [ ] Staten tilbyder kun uddannelse til offentligt ansatte
+
+    ## Hvad har de nordiske lande siden 2. Verdenskrig kombineret ifølge teksten?
+
+    1. [ ] Stor økonomisk ulighed og lave skatter
+    2. [x] Stor velstand og høj økonomisk lighed
+    3. [ ] Få velfærdsydelser og høj brugerbetaling
 
     ## Hvilke nordiske lande står uden for EU ifølge teksten?
 
@@ -103,8 +133,32 @@ Questions
     2. [ ] Norge og Island
     3. [ ] Danmark og Norge
 
+    ## Hvad prioriterer alle de nordiske lande højt internationalt?
+
+    1. [ ] At stå uden for både FN og NATO
+    2. [x] FN, internationalt fredsarbejde og udviklingsbistand
+    3. [ ] At føre én fælles udenrigspolitik gennem EU
+
+    ## Hvad er formålet med det officielle nordiske samarbejde?
+
+    1. [x] At styrke de politiske, økonomiske og kulturelle bånd i Norden
+    2. [ ] At erstatte de nationale parlamenter med ét nordisk parlament
+    3. [ ] At indføre fælles skatter og én valuta i Norden
+
+    ## Hvem består Nordisk Råd af?
+
+    1. [ ] Ministre fra de nationale regeringer
+    2. [x] Politikere fra de nationale parlamenter
+    3. [ ] Dommere fra de nordiske højesteretter
+
     ## Hvilken opgave har Nordisk Ministerråd?
 
     1. [ ] Det består af dommere fra de nordiske landes højesteretter
     2. [x] Det samler ministre fra landenes regeringer om nordisk samarbejde
     3. [ ] Det fastsætter fælles skatter for alle nordiske borgere
+
+    ## Hvilke selvstyrende områder deltager i det officielle nordiske samarbejde?
+
+    1. [ ] Bornholm, Gotland og Fyn
+    2. [ ] Grønland, Island og Svalbard
+    3. [x] Grønland, Færøerne og Ålandsøerne

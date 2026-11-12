@@ -13,95 +13,263 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvornår besatte Tyskland Danmark?
+    ## Hvilken begivenhed førte til, at Storbritannien og Frankrig erklærede Tyskland krig i 1939?
 
-    1. [x] 9. april 1940
-    2. [ ] 5. maj 1945
-    3. [ ] 1. september 1939
+    1. [x] Hitlers angreb på Polen
+    2. [ ] Angrebet på Pearl Harbor
+    3. [ ] Besættelsen af Danmark
 
-    ## Hvad gjorde den danske modstandsbevægelse under besættelsen?
+    ## I hvilken periode var Danmark besat af Tyskland?
 
-    1. [ ] Støttede den tyske besættelsesmagt
-    2. [x] Modarbejdede besættelsesmagten
-    3. [ ] Overtog styret i Island
+    1. [ ] 1939-44
+    2. [x] 1940-45
+    3. [ ] 1941-46
 
-    ## Hvilken gruppe blev hjulpet på flugt til Sverige i 1943?
+    ## Hvorfor samarbejdede Danmark med tyskerne under besættelsen?
 
-    1. [ ] Danske soldater
-    2. [ ] Tyske flygtninge
-    3. [x] De fleste danske jøder
+    1. [ ] For at hjælpe Tyskland med at vinde krigen
+    2. [ ] For at blive en del af Tyskland
+    3. [x] For at mildne besættelsesvilkårene
 
-    ## Hvornår angreb og besatte Tyskland Danmark og Norge?
+    ## Hvad lykkedes det Danmark at gøre for langt de fleste danske jøder?
+
+    1. [x] At redde dem fra Holocaust
+    2. [ ] At gøre dem til tyske statsborgere
+    3. [ ] At flytte dem til Island
+
+    ## Hvornår blev Danmark og Norge angrebet af det tyske militær?
 
     1. [ ] 1. september 1939
     2. [x] 9. april 1940
     3. [ ] 5. maj 1945
 
-    ## Hvorfor ønskede Tyskland adgang til Danmark under angrebet i 1940?
+    ## Hvad var Tysklands officielle forklaring på angrebet?
 
-    1. [x] For at bruge Aalborg som mellemstation og sikre sine forbindelser til Norge
-    2. [ ] For at overtage de danske kolonier i Asien
-    3. [ ] For at få adgang til den svenske hovedstad
+    1. [ ] Landene skulle beskyttes mod Sovjetunionen
+    2. [ ] Tyskland ville sikre dansk neutralitet
+    3. [x] Landene skulle beskyttes mod britisk besættelse
 
-    ## Hvor længe varede Danmarks militære modstand mod angrebet den 9. april 1940?
+    ## Hvorfor var Norge vigtigt for Tysklands forsyning af jernmalm?
 
-    1. [ ] Flere måneder
-    2. [ ] Et helt år
-    3. [x] Kun ganske få timer
+    1. [x] Jernmalm fra Nordsverige blev udskibet gennem den isfri havn i Narvik
+    2. [ ] Norge havde Europas største jernminer
+    3. [ ] Jernmalmen blev udskibet gennem København
 
-    ## Hvad skete der med den danske regering i begyndelsen af besættelsen?
+    ## Hvilken anden strategisk fordel gav Norges kyst Tyskland?
 
-    1. [x] Den fortsatte som samlingsregering under tysk kontrol
-    2. [ ] Den blev erstattet af en tysk regering
-    3. [ ] Den flygtede til Sverige
+    1. [ ] Adgang til Middelhavet
+    2. [x] Adgang til verdenshavene
+    3. [ ] Kontrol over Østersøens sydkyst
 
-    ## Hvilke to begivenheder i 1941 styrkede de allierede over for Tyskland?
+    ## Hvorfor havde tyskerne brug for flyvepladsen i Aalborg?
 
-    1. [ ] Tysklands angreb på Danmark og Norges overgivelse
-    2. [ ] Sovjetunionens opløsning og Berlinmurens fald
-    3. [x] Tysklands invasion af Sovjetunionen og Japans angreb på Pearl Harbor
+    1. [ ] Som base for fly til Storbritannien
+    2. [ ] Som lager for svensk jernmalm
+    3. [x] Som mellemstation mellem Tyskland og Norge
 
-    ## Hvad krævede tyskerne efter krisen i det dansk-tyske forhold i 1942?
+    ## Hvorfor var Danmarks placering ved Nordsøen vigtig for Tyskland?
 
-    1. [ ] At Danmark blev medlem af NATO
-    2. [x] En ny regering under Erik Scavenius
-    3. [ ] At kongen skulle forlade landet
+    1. [x] Danmark indgik i forsvaret mod en mulig allieret invasion af Europas vestkyst
+    2. [ ] Danmark kontrollerede alle havne i Storbritannien
+    3. [ ] Danmark havde den eneste isfri havn i Norden
+
+    ## Hvor længe varede Danmarks militære modstand den 9. april 1940?
+
+    1. [ ] Flere uger
+    2. [x] Ganske få timer
+    3. [ ] Frem til maj 1945
+
+    ## Hvorfor standsede regeringen hurtigt modstanden?
+
+    1. [ ] Den danske hær havde allerede sejret
+    2. [ ] Storbritannien bad Danmark overgive sig
+    3. [x] Tysklands militære magt var så stor, at videre modstand blev anset for nytteløs
+
+    ## Hvad krævede Tyskland efter den danske overgivelse?
+
+    1. [x] At Danmark samarbejdede med besættelsesmagten
+    2. [ ] At kongen straks abdicerede
+    3. [ ] At alle danske partier blev forbudt
+
+    ## Hvad skete der med regeringen og kongen i begyndelsen af besættelsen?
+
+    1. [ ] Begge blev afsat af tyskerne
+    2. [x] Regeringen fortsatte under tysk kontrol, og kongen fortsatte som regent
+    3. [ ] Begge flygtede til Sverige
+
+    ## Hvilken formel status bevarede Danmark i begyndelsen af besættelsen?
+
+    1. [ ] En tysk delstat
+    2. [ ] Et britisk protektorat
+    3. [x] En suveræn, neutral stat
+
+    ## Hvad skete der med Frankrig i maj-juni 1940?
+
+    1. [x] Tyskland invaderede og besejrede landet på mindre end seks uger
+    2. [ ] Frankrig besejrede Tyskland og befriede Danmark
+    3. [ ] Frankrig forblev neutralt
+
+    ## Hvilke to begivenheder i 1941 trak stærke lande ind på allieret side?
+
+    1. [ ] Danmarks og Norges befrielse
+    2. [x] Tysklands invasion af Sovjetunionen og Japans angreb på Pearl Harbor
+    3. [ ] Islands selvstændighed og Frankrigs overgivelse
+
+    ## Hvorfor svækkede begivenhederne i 1941 Tysklands muligheder for at vinde?
+
+    1. [ ] Tyskland mistede straks alle besatte lande
+    2. [ ] Danmark ophævede samarbejdspolitikken samme år
+    3. [x] Tyskland havde fået for mange og for stærke fjender
+
+    ## Hvornår begyndte danskernes modstand mod den tyske tilstedeværelse at vokse?
+
+    1. [ ] Fra 1940
+    2. [x] Fra 1942
+    3. [ ] Først efter befrielsen
+
+    ## Hvem blev regeringsleder efter tysk krav i oktober 1942?
+
+    1. [x] Erik Scavenius
+    2. [ ] Thorvald Stauning
+    3. [ ] Christian 10.
+
+    ## Hvilken politik var Erik Scavenius en stærk fortaler for?
+
+    1. [ ] Øjeblikkelig militær modstand
+    2. [x] Samarbejdspolitikken med Tyskland
+    3. [ ] Islands fulde selvstændighed
+
+    ## Hvad udløste den alvorlige krise i august 1943?
+
+    1. [ ] En tysk invasion af Sverige
+    2. [ ] En britisk besættelse af Bornholm
+    3. [x] Store strejker som følge af stadig hårdere tyske krav
+
+    ## Hvilket tysk krav afviste Scavenius blandt andet?
+
+    1. [x] Kravet om dødsstraf for sabotage
+    2. [ ] Kravet om at sende de danske jøder til Island
+    3. [ ] Kravet om at sælge flåden til USA
 
     ## Hvad skete der den 29. august 1943?
 
-    1. [x] Den danske regering afsluttede samarbejdspolitikken og indgav sin afskedsbegæring
-    2. [ ] Danmark blev befriet af britiske styrker
-    3. [ ] Island blev en republik
+    1. [ ] Danmark blev befriet
+    2. [x] Regeringen indgav sin afskedsbegæring, og samarbejdspolitikken sluttede
+    3. [ ] Frihedsrådet blev opløst
 
-    ## Hvorfor sænkede den danske flåde hovedparten af sine skibe i 1943?
+    ## Hvad gjorde besættelsesmagten med det danske militær?
 
-    1. [x] For at forhindre dem i at falde i tyske hænder
-    2. [ ] For at gøre plads til amerikanske skibe
-    3. [ ] Som led i en aftale med Sverige
+    1. [ ] Det blev sendt til Norge
+    2. [ ] Det blev indlemmet i den britiske hær
+    3. [x] Det blev opløst
 
-    ## Hvem styrede i praksis Danmark efter regeringens afgang i 1943?
+    ## Hvorfor sænkede den danske flåde hovedparten af sine skibe?
 
-    1. [ ] Folketingets udenrigsudvalg
-    2. [ ] Den norske regering
-    3. [x] Departementscheferne i ministerierne
+    1. [x] For at de ikke skulle falde i tyske hænder
+    2. [ ] For at blokere svensk jernmalm
+    3. [ ] For at give plads til amerikanske skibe
 
-    ## Hvad skete der med de fleste danske jøder i oktober 1943?
+    ## Hvem styrede i praksis Danmark efter regeringens afgang?
 
-    1. [ ] De blev sendt til Island
-    2. [x] De blev hjulpet på flugt til Sverige af danske medborgere
-    3. [ ] De blev tvunget til at arbejde i Danmark
+    1. [ ] Frihedsrådet
+    2. [x] Departementscheferne
+    3. [ ] Den islandske regering
+
+    ## Hvorfor fortsatte departementscheferne en vis uformel koordination med tyskerne?
+
+    1. [ ] For at gøre Danmark til en tysk delstat
+    2. [ ] For at hjælpe tyskerne mod Sovjetunionen
+    3. [x] For at beskytte den danske befolkning mest muligt
+
+    ## Hvor mange jøder levede der cirka i Danmark i 1940?
+
+    1. [ ] 800
+    2. [x] 8.000
+    3. [ ] 80.000
 
     ## Hvor mange danske jøder nåede at flygte fra nazisternes forfølgelser?
 
-    1. [ ] Cirka 500
-    2. [ ] Cirka 2.000
+    1. [ ] Omkring 500
+    2. [ ] Omkring 2.000
     3. [x] Mere end 7.000
 
-    ## Hvad besluttede islændingene ved folkeafstemningen i 1944?
+    ## Hvordan blev de fleste danske jøder reddet i oktober 1943?
 
-    1. [x] At Island skulle være fuldt selvstændigt
-    2. [ ] At Island skulle forblive en del af Danmark
-    3. [ ] At Island skulle tilslutte sig Norge
+    1. [x] Danske medborgere hjalp dem til Sverige
+    2. [ ] Tyskerne sendte dem til Island
+    3. [ ] USA evakuerede dem med fly
+
+    ## Hvad skete der med op mod 500 danske jøder?
+
+    1. [ ] De blev islandske statsborgere
+    2. [x] De blev sendt til koncentrationslejre i Tyskland
+    3. [ ] De blev interneret i Sverige
+
+    ## Hvad var Holocaust?
+
+    1. [ ] De allieredes befrielse af Europa
+    2. [ ] Tysklands invasion af Sovjetunionen
+    3. [x] Nazi-Tysklands folkemord på Europas jøder
+
+    ## Hvor mange af Europas jøder myrdede Nazi-Tyskland under krigen?
+
+    1. [x] Seks millioner
+    2. [ ] Cirka 500.000
+    3. [ ] Ni-ti millioner
+
+    ## Hvor længe havde Island været under Danmark, da landet løsrev sig i 1944?
+
+    1. [ ] 164 år
+    2. [x] 564 år
+    3. [ ] 964 år
+
+    ## Hvad gav Forbundsloven fra 1918 Island?
+
+    1. [ ] Fuld selvstændighed som republik
+    2. [ ] Medlemskab af det danske Folketing
+    3. [x] Udstrakt selvstyre i en personalunion med Danmark
+
+    ## Hvad betød personalunionen mellem Danmark og Island?
+
+    1. [x] Den danske konge var også konge i Island
+    2. [ ] Island og Danmark havde samme regering
+    3. [ ] Island var en dansk kommune
+
+    ## Hvilke islandske politikområder varetog Danmark efter 1918?
+
+    1. [ ] Uddannelse og sundhed
+    2. [x] Udenrigs- og forsvarspolitik
+    3. [ ] Landbrug og fiskeri
+
+    ## Hvorfor var Island strategisk vigtigt under 2. Verdenskrig?
+
+    1. [ ] Øen kontrollerede indsejlingen til Østersøen
+    2. [ ] Øen havde store jernmalmreserver
+    3. [x] Fly og skibe mellem USA og Europa kunne bruge øen som base
+
+    ## Hvorfor besatte Storbritannien Island i maj 1940?
+
+    1. [x] For at forhindre en tysk invasion
+    2. [ ] For at ophæve Forbundsloven
+    3. [ ] For at gøre Island til britisk koloni
+
+    ## Hvem overtog senere forsvaret af Island?
+
+    1. [ ] Danmark
+    2. [x] USA
+    3. [ ] Sovjetunionen
+
+    ## Hvorfor kunne Danmark ikke reelt genforhandle Forbundsloven, da den udløb?
+
+    1. [ ] Danmark havde anerkendt Island som britisk område
+    2. [ ] Den danske konge var død
+    3. [x] Danmark var besat af Tyskland
+
+    ## Hvordan blev Islands fulde selvstændighed besluttet?
+
+    1. [x] Ved en folkeafstemning med næsten enigt resultat
+    2. [ ] Ved et tysk dekret
+    3. [ ] Ved en dansk militær beslutning
 
     ## Hvornår blev Republikken Island udråbt?
 
@@ -109,44 +277,86 @@ Questions
     2. [ ] 29. august 1943
     3. [x] 17. juni 1944
 
-    ## Hvad var Frihedsrådet?
+    ## Hvad prægede modstanden i besættelsens sidste år?
 
-    1. [ ] En officiel dansk regering under besættelsen
-    2. [x] En illegal komité, der koordinerede modstandsbevægelser
-    3. [ ] En tysk myndighed i Danmark
+    1. [ ] Færre sabotageaktioner
+    2. [x] Flere sabotageaktioner mod tyskerne og danske samarbejdspartnere
+    3. [ ] Ophør af al modstand
 
-    ## Hvornår blev Danmark officielt befriet af britiske styrker?
+    ## Hvad var Frihedsrådet, som blev oprettet i september 1943?
 
-    1. [x] 5. maj 1945
-    2. [ ] 9. april 1940
+    1. [ ] Den officielle danske regering
+    2. [ ] En tysk administrativ myndighed
+    3. [x] En illegal komité, der koordinerede modstandsbevægelserne
+
+    ## Hvad førte den store strejke i København i juli 1944 til?
+
+    1. [x] Øget kontakt mellem modstandsbevægelsen og politikerne
+    2. [ ] At Frihedsrådet blev opløst
+    3. [ ] At Danmark straks blev anerkendt som allieret
+
+    ## Hvad samarbejdede Frihedsrådet og politikerne om efter strejken?
+
+    1. [ ] At fortsætte samarbejdspolitikken med Tyskland
+    2. [x] At få Danmark anerkendt som allieret mod Tyskland
+    3. [ ] At gøre Island dansk igen
+
+    ## Hvornår blev Danmark officielt befriet?
+
+    1. [ ] 9. april 1940
+    2. [x] 5. maj 1945
     3. [ ] 17. juni 1944
 
-    ## Hvad skete der på Bornholm efter befrielsen af Danmark?
+    ## Hvem befriede hovedparten af Danmark?
 
-    1. [ ] Tyske tropper overgav sig straks uden angreb
-    2. [ ] Øen blev overtaget af Norge
-    3. [x] Sovjetiske styrker angreb øen og blev der til foråret 1946
+    1. [x] Britiske styrker
+    2. [ ] Amerikanske styrker
+    3. [ ] Sovjetiske styrker
+
+    ## Hvad skete der på Bornholm ved krigens afslutning?
+
+    1. [ ] Tyskerne overgav sig straks til briterne
+    2. [ ] Øen blev selvstændig
+    3. [x] Sovjetiske styrker angreb, fordi tyskerne nægtede at overgive sig
+
+    ## Hvor længe blev de sovjetiske styrker på Bornholm?
+
+    1. [ ] Til maj 1945
+    2. [x] Til foråret 1946
+    3. [ ] Til 1955
+
+    ## Hvor mange danskere blev cirka dræbt under 2. Verdenskrig?
+
+    1. [ ] 700
+    2. [x] 7.000
+    3. [ ] 70.000
+
+    ## Hvorfor var de danske dødstal og ødelæggelser relativt begrænsede?
+
+    1. [x] Danmark overgav sig hurtigt, samarbejdede, og de fleste tyske tropper overgav sig uden kamp
+    2. [ ] Danmark lå uden for Europa og blev aldrig besat
+    3. [ ] Danmark vandt en stor militær sejr i 1940
 
     ## Hvad betød rationering under besættelsen?
 
-    1. [x] At hver borger kun kunne købe en begrænset mængde af bestemte varer
-    2. [ ] At alle varer blev gratis
-    3. [ ] At Danmark kun måtte handle med Tyskland
+    1. [ ] Alle varer blev gratis
+    2. [x] Hver borger kunne kun købe en begrænset mængde af bestemte varer
+    3. [ ] Kun tyske soldater måtte købe fødevarer
 
-    ## Hvorfor blev boliger svære at opvarme under flere af besættelsens vintre?
+    ## Hvorfor var det svært at opvarme boliger under flere af besættelsens vintre?
 
-    1. [x] Der var mangel på brændsel, og vinterne var usædvanligt kolde
-    2. [ ] Alle danske kraftværker blev lukket permanent
-    3. [ ] Rationeringen forbød brug af elektricitet
+    1. [ ] Alle danske kraftværker var ødelagt
+    2. [ ] Regeringen forbød opvarmning
+    3. [x] Vintrene var meget kolde, og der manglede brændsel
 
-    ## Hvilket forhold bidrog til de relativt begrænsede ødelæggelser i Danmark?
+    ## Hvad skete der i Danmark i modsætning til mange andre lande?
 
-    1. [x] Tyske tropper i Danmark overgav sig uden kamp ved krigens afslutning
-    2. [ ] Danmark deltog aktivt i krigen på tysk side
-    3. [ ] Der var ingen mangel på varer under besættelsen
+    1. [x] Der opstod aldrig sult
+    2. [ ] Der var ingen rationering
+    3. [ ] Der var ingen varemangel
 
-    ## Hvordan påvirkede besættelsen det danske politiske system?
+    ## Hvad skete der med det danske politiske system efter krigen?
 
-    1. [ ] Monarkiet blev afskaffet
-    2. [ ] Danmark blev et kommunistisk diktatur
-    3. [x] Det politiske system overlevede, og de gamle partier vendte hurtigt tilbage til magten
+    1. [ ] Det blev erstattet af et diktatur
+    2. [x] Det overlevede, og de gamle politikere og partier vendte hurtigt tilbage
+    3. [ ] Frihedsrådet regerede permanent

@@ -13,12 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvilken kirke er Danmarks evangelisk-lutherske folkekirke?
-
-    1. [ ] Den katolske kirke
-    2. [ ] Den ortodokse kirke
-    3. [x] Folkekirken
-
     ## Hvad indebærer religionsfrihed i Danmark?
 
     1. [x] Man må vælge eller skifte religion og også vælge ikke at være religiøs
@@ -31,6 +25,12 @@ Questions
     2. [x] 1849
     3. [ ] 1973
 
+    ## Hvilke rettigheder har borgerne uanset deres religiøse tro?
+
+    1. [ ] Kun retten til at deltage i religiøse foreninger
+    2. [x] De samme borgerlige og politiske rettigheder
+    3. [ ] Forskellige rettigheder afhængigt af trossamfund
+
     ## Hvilken person er ikke omfattet af religionsfriheden på samme måde som andre borgere?
 
     1. [x] Monarken
@@ -42,6 +42,18 @@ Questions
     1. [ ] Katolicismen
     2. [ ] Islam
     3. [x] Den evangelisk-lutherske kirke
+
+    ## Hvilken kirke er Danmarks evangelisk-lutherske folkekirke?
+
+    1. [ ] Den katolske kirke
+    2. [ ] Den ortodokse kirke
+    3. [x] Folkekirken
+
+    ## Hvordan understøttes folkekirken økonomisk?
+
+    1. [ ] Kun gennem bidrag fra andre trossamfund
+    2. [x] Gennem statstilskud og kirkeskat fra medlemmerne
+    3. [ ] Gennem en kirkeskat, som alle borgere skal betale
 
     ## Hvem betaler kirkeskat?
 
@@ -61,6 +73,24 @@ Questions
     2. [ ] Ja, biskoppen i København taler på hele kirkens vegne
     3. [x] Nej, ingen kan udtale sig på kirkens vegne
 
+    ## Hvordan beskrives folkekirken ofte?
+
+    1. [ ] Som en kirke med én bindende fortolkning, som alle skal følge
+    2. [x] Som en bred og rummelig kirke med plads til forskellige opfattelser
+    3. [ ] Som en kirke, der deltager samlet i den politiske debat
+
+    ## Hvor stor en del af befolkningen var medlem af folkekirken i 2026?
+
+    1. [ ] Cirka 46 procent
+    2. [x] Cirka 70 procent
+    3. [ ] Cirka 84 procent
+
+    ## Er medlemskab af folkekirken frivilligt?
+
+    1. [x] Ja, medlemmer kan frit melde sig ud
+    2. [ ] Nej, alle danske statsborgere er automatisk medlemmer hele livet
+    3. [ ] Kun hvis kirkeministeren godkender udmeldelsen
+
     ## Hvad er et sogn?
 
     1. [x] Det geografiske område, hvor den lokale kirkes medlemmer bor
@@ -72,6 +102,12 @@ Questions
     1. [ ] Folketinget
     2. [x] Et menighedsråd
     3. [ ] Kommunalbestyrelsen
+
+    ## Hvem består et menighedsråd af?
+
+    1. [ ] Kun kirkeministeren og kommunalbestyrelsen
+    2. [x] Sognets præster og medlemmer valgt af menigheden
+    3. [ ] Repræsentanter udpeget af alle landets trossamfund
 
     ## Hvilken myndighed er folkekirkens øverste administrative myndighed?
 
@@ -85,11 +121,35 @@ Questions
     2. [ ] Man skal være medlem af folkekirken
     3. [ ] Man skal have tilladelse fra kongen
 
+    ## Skal en ny menighed eller et trossamfund registreres eller anerkendes af en offentlig myndighed?
+
+    1. [ ] Ja, altid af kirkeministeren
+    2. [ ] Ja, altid af kommunen
+    3. [x] Nej, ikke for blot at blive dannet
+
+    ## Hvad kræves der for at bygge et religiøst hus som en kirke, synagoge eller moské?
+
+    1. [ ] Anerkendelse som folkekirke
+    2. [x] Kommunal tilladelse efter de almindelige regler for byggeri
+    3. [ ] En folkeafstemning i det lokale sogn
+
     ## Hvilken særlig rettighed kan anerkendelse som trossamfund give?
 
     1. [ ] Ret til at undlade at følge samfundets love
     2. [x] Mulighed for at få en religiøs leder til at foretage vielser
     3. [ ] Ret til direkte økonomisk støtte fra staten
+
+    ## Hvor mange anerkendte trossamfund og menigheder var der i Danmark i 2026?
+
+    1. [ ] 70
+    2. [ ] 184
+    3. [x] 435
+
+    ## Får anerkendte trossamfund direkte økonomisk støtte fra staten?
+
+    1. [ ] Ja, samme kirkeskat som folkekirken
+    2. [x] Nej, men skatteregler kan give indirekte støtte
+    3. [ ] Nej, og de kan heller ikke få indirekte støtte
 
     ## Hvilken trosretning er den næststørste i Danmark ifølge teksten?
 

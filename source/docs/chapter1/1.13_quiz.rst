@@ -37,6 +37,12 @@ Questions
     2. [ ] Oliekrisen og Jordskredsvalget
     3. [ ] Danmarks medlemskab af EF og NATO
 
+    ## Hvornår faldt Berlinmuren, og hvornår blev Sovjetunionen opløst?
+
+    1. [x] Berlinmuren faldt i 1989, og Sovjetunionen blev opløst i 1991
+    2. [ ] Berlinmuren faldt i 1991, og Sovjetunionen blev opløst i 1989
+    3. [ ] Begge begivenheder fandt sted i 1993
+
     ## Hvilke tre baltiske lande fik Danmark tætte forbindelser med efter Den Kolde Krig?
 
     1. [ ] Finland, Sverige og Norge
@@ -55,11 +61,29 @@ Questions
     2. [x] De var udstationeret som FN-styrker for at bidrage til fred
     3. [ ] De skulle beskytte Berlinmuren
 
+    ## Hvad skete der i Jugoslavien i 1991-92?
+
+    1. [ ] Landet blev medlem af Danmark
+    2. [x] Landet blev opløst i en række selvstændige stater, som kom i konflikt
+    3. [ ] Landet blev genforenet med Sovjetunionen
+
+    ## Hvordan deltog Danmark i konflikten i Kosovo i 1999?
+
+    1. [x] Danske jagerfly deltog i NATO's aktioner
+    2. [ ] Danmark sendte et handelsskib til Irak
+    3. [ ] Danmark stod uden for alle internationale aktioner
+
     ## Hvad afspejlede navneændringen fra EF til EU?
 
     1. [ ] At medlemslandene stoppede alt samarbejde om handel
     2. [x] At samarbejdet blev udvidet fra økonomiske emner til flere politiske områder
     3. [ ] At Danmark straks indførte euroen
+
+    ## Hvor mange medlemslande blev enige om det udvidede samarbejde i 1992?
+
+    1. [ ] Seks
+    2. [x] 12
+    3. [ ] 27
 
     ## Hvad stemte et lille flertal af danskerne nej til i 1992?
 
@@ -67,11 +91,23 @@ Questions
     2. [ ] Danmarks medlemskab af NATO
     3. [x] Maastricht-traktaten
 
+    ## Hvor stor en andel stemte nej til Maastricht-traktaten?
+
+    1. [x] 50,7 procent
+    2. [ ] 56,7 procent
+    3. [ ] 63,3 procent
+
     ## Hvad betød Edinburgh-aftalen, som et flertal stemte ja til i 1993?
 
     1. [x] Danmark fik fire forbehold over for EU-samarbejdet
     2. [ ] Danmark forlod EU
     3. [ ] Danmark indførte euroen
+
+    ## Hvilke fire områder omfattede de danske EU-forbehold oprindeligt?
+
+    1. [ ] Handel, landbrug, fiskeri og miljø
+    2. [x] Unionsborgerskab, euro, forsvar samt fælles rets- og udlændingepolitik
+    3. [ ] NATO, FN, Grønland og Færøerne
 
     ## Hvilke to EU-forbehold gælder fortsat ifølge teksten?
 
@@ -79,11 +115,35 @@ Questions
     2. [ ] Fælles valuta og forsvar
     3. [x] Euroen samt fælles rets- og udlændingepolitik
 
+    ## Hvad betyder euroforbeholdet konkret for Danmark?
+
+    1. [x] Danmark har fortsat kronen som national valuta
+    2. [ ] Danmark har både kronen og euroen som officiel valuta
+    3. [ ] Danmark må ikke handle med eurolandene
+
     ## Hvornår blev Enhedslisten valgt ind i Folketinget for første gang?
 
     1. [ ] 1989
     2. [x] 1994
     3. [ ] 2001
+
+    ## Hvad var medvirkende til Enhedslistens første valg til Folketinget?
+
+    1. [ ] Støtte til euroen i hele befolkningen
+    2. [x] Modstand mod EU i dele af befolkningen
+    3. [ ] Kravet om dansk deltagelse i alle EU-områder
+
+    ## Hvordan er et klart flertal af danskerne ifølge teksten indstillet til EU-medlemskabet?
+
+    1. [x] Positivt
+    2. [ ] Negativt
+    3. [ ] Helt uden holdning
+
+    ## Hvem blev statsminister, da Socialdemokratiet kom til magten i 1993?
+
+    1. [ ] Anders Fogh Rasmussen
+    2. [x] Poul Nyrup Rasmussen
+    3. [ ] Lars Løkke Rasmussen
 
     ## Hvilken udvikling prægede dansk økonomi fra midten af 1990'erne?
 
@@ -91,11 +151,11 @@ Questions
     2. [ ] Danmark opgav sin eksport af olie og gas
     3. [ ] Arbejdsløsheden voksede konstant uden økonomisk opsving
 
-    ## Hvilket parti blev valgt ind i Folketinget i 1998 med Pia Kjærsgaard i spidsen?
+    ## Hvordan påvirkede olie- og gasproduktionen fra Nordsøen økonomien?
 
-    1. [ ] Enhedslisten
-    2. [ ] SF
-    3. [x] Dansk Folkeparti
+    1. [x] Danmark blev nettoeksportør af olie, handelsoverskuddet voksede, og udlandsgælden blev afviklet
+    2. [ ] Danmark måtte stoppe al energieksport
+    3. [ ] Handelsbalancen fik et permanent underskud
 
     ## Hvilket tema fik større politisk opmærksomhed i Danmark gennem 1990'erne?
 
@@ -103,11 +163,47 @@ Questions
     2. [ ] Genindførelse af enevælden
     3. [ ] Danmarks udtræden af FN
 
+    ## Hvilke integrationsproblemer fremhæver teksten?
+
+    1. [ ] For høj beskæftigelse og for gode uddannelsesresultater
+    2. [x] Vanskeligheder med uddannelse, arbejde og dansk sprog samt mange på sociale ydelser
+    3. [ ] For få mennesker med udenlandsk baggrund i de større byer
+
+    ## Hvilket parti blev valgt ind i Folketinget i 1998 med Pia Kjærsgaard i spidsen?
+
+    1. [ ] Enhedslisten
+    2. [ ] SF
+    3. [x] Dansk Folkeparti
+
+    ## Hvilket politisk ønske bidrog til Dansk Folkepartis valg i 1998?
+
+    1. [x] Ønsket om en strammere udlændinge- og integrationspolitik
+    2. [ ] Ønsket om at afskaffe alle regler for indvandring
+    3. [ ] Ønsket om at indføre euroen
+
     ## Hvad var et formål med senere stramninger af udlændingepolitikken?
 
     1. [x] At begrænse dele af indvandringen og forbedre integrationen
     2. [ ] At afskaffe krav om dansk sprog og arbejde
     3. [ ] At gøre dansk indfødsret automatisk for alle besøgende
+
+    ## Hvem blev statsminister efter de borgerlige partiers valgsejr i 2001?
+
+    1. [ ] Poul Nyrup Rasmussen
+    2. [x] Anders Fogh Rasmussen
+    3. [ ] Helle Thorning-Schmidt
+
+    ## Hvilket krav gælder ifølge teksten for at modtage fuld kontanthjælp?
+
+    1. [ ] Man skal være født i Danmark
+    2. [x] Man skal have opholdt sig og arbejdet i Danmark i en længere periode
+    3. [ ] Man skal have dansk indfødsret
+
+    ## Hvilke krav nævnes i forbindelse med dansk indfødsret?
+
+    1. [x] Ophold, arbejde, selvforsørgelse, ingen alvorlig kriminalitet samt beståede prøver
+    2. [ ] Kun et krav om at være fyldt 18 år
+    3. [ ] Medlemskab af et bestemt politisk parti
 
     ## Hvilken alder er knyttet til den såkaldte 24-års-regel for ægtefællesammenføring?
 
@@ -115,17 +211,41 @@ Questions
     2. [x] Begge personer skal være fyldt 24 år
     3. [ ] Begge personer skal være fyldt 30 år
 
+    ## Hvilke andre krav kan gælde ved ægtefællesammenføring?
+
+    1. [ ] Krav om medlemskab af EU og NATO
+    2. [ ] Krav om at eje en virksomhed
+    3. [x] Krav om arbejde, selvforsørgelse, uddannelse, bolig og danskkundskaber
+
+    ## Hvad har modstandere kritiseret ved den strammere udlændingepolitik?
+
+    1. [x] At lavere ydelser kan skabe fattigdom, og krav til familiesammenføring kan splitte familier
+    2. [ ] At det er blevet for let at få fuld kontanthjælp
+    3. [ ] At alle sprog- og arbejdskrav er blevet afskaffet
+
     ## Hvilken begivenhed førte til øget internationalt fokus på terrorbekæmpelse i 2001?
 
     1. [ ] Bombningen af København
     2. [ ] Opløsningen af Jugoslavien
     3. [x] Terrorangrebet på USA den 11. september
 
+    ## Hvilken form for internationalt samarbejde blev styrket efter terrorangrebet?
+
+    1. [x] Samarbejdet mellem efterretningstjenester
+    2. [ ] Samarbejdet om at genopbygge Berlinmuren
+    3. [ ] Samarbejdet om at opløse NATO
+
     ## Hvornår sendte Danmark soldater til Afghanistan?
 
     1. [x] 2002
     2. [ ] 1992
     3. [ ] 2015
+
+    ## Hvorfor blev danske soldater sendt til Afghanistan?
+
+    1. [ ] For at støtte det afghanske styre bag terroristerne
+    2. [x] For at deltage i den amerikansk ledede indsats efter angrebet i 2001
+    3. [ ] For at håndhæve en handelsblokade mod Kuwait
 
     ## Hvad var begrundelsen for USA's angreb på Irak i 2003?
 
@@ -139,11 +259,47 @@ Questions
     2. [ ] Folketinget vedtog en ny EU-traktat
     3. [ ] En dansk avis offentliggjorde valgresultater fra Irak
 
+    ## Hvorfor trykte Jyllands-Posten tegningerne?
+
+    1. [ ] Avisen ville støtte et forbud mod ytringsfrihed
+    2. [x] Avisen havde hørt, at tegnere af frygt ikke turde tegne Muhammed
+    3. [ ] Folketinget havde pålagt avisen at trykke dem
+
+    ## Hvilke reaktioner udløste tegningerne i flere muslimske lande?
+
+    1. [x] Demonstrationer, afbrænding af Dannebrog og boykot af danske produkter
+    2. [ ] Støtteerklæringer til Jyllands-Posten fra alle regeringer
+    3. [ ] Ingen politiske eller økonomiske reaktioner
+
+    ## Hvad skete der i injuriesagen mod Jyllands-Posten i 2008?
+
+    1. [ ] Avisen blev lukket
+    2. [ ] Avisen blev dømt for terrorisme
+    3. [x] Avisen blev frifundet
+
+    ## Hvad skete der med en af tegnerne i 2010?
+
+    1. [x] Han blev forsøgt myrdet i sit hjem
+    2. [ ] Han blev valgt til Folketinget
+    3. [ ] Han blev dømt i injuriesagen
+
     ## Hvor fandt terrorangrebet i København sted i 2015?
 
     1. [ ] Ved en koncert i Aarhus og senere på Christiansborg
     2. [ ] På Christiansø og Bornholm
     3. [x] Ved et debatmøde på Østerbro og senere ved den jødiske synagoge
+
+    ## Hvem blev dræbt under terrorangrebet i København?
+
+    1. [ ] To politibetjente
+    2. [x] En filmskaber og en jødisk vagt
+    3. [ ] To folketingsmedlemmer
+
+    ## Hvad skete der med terroristen efter angrebene?
+
+    1. [ ] Han flygtede til Afghanistan
+    2. [ ] Han blev frifundet ved en domstol
+    3. [x] Han blev dræbt i en skudveksling med politiet
 
     ## Hvor begyndte finanskrisen i 2008?
 

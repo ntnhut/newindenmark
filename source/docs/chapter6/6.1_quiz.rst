@@ -13,24 +13,6 @@ Questions
     shuffle_questions: true
     ---
 
-    ## Hvad er Danmarks gennemsnitlige højde over havets overflade?
-
-    1. [ ] Cirka 170 meter
-    2. [x] Cirka 34 meter
-    3. [ ] Cirka 500 meter
-
-    ## Hvad hedder Danmarks højeste naturlige punkt?
-
-    1. [ ] Himmelbjerget
-    2. [ ] Møns Klint
-    3. [x] Møllehøj
-
-    ## Hvilket land har Danmark en fast landgrænse til?
-
-    1. [x] Tyskland
-    2. [ ] Sverige
-    3. [ ] Norge
-
     ## Hvad har især formet det danske landskab?
 
     1. [ ] Vulkanudbrud i middelalderen
@@ -43,17 +25,35 @@ Questions
     2. [ ] For cirka 1.500 år siden
     3. [ ] For cirka 115.000 år siden
 
+    ## Hvad er Danmarks gennemsnitlige højde over havets overflade?
+
+    1. [ ] Cirka 17 meter
+    2. [x] Cirka 34 meter
+    3. [ ] Cirka 170 meter
+
+    ## Hvad hedder Danmarks højeste naturlige punkt?
+
+    1. [ ] Himmelbjerget
+    2. [ ] Møns Klint
+    3. [x] Møllehøj
+
     ## Hvor højt ligger Danmarks højeste naturlige punkt, Møllehøj, omtrent?
 
     1. [ ] 34 meter over havet
     2. [ ] 500 meter over havet
     3. [x] 170 meter over havet
 
-    ## Hvor ligger Møns Klint?
+    ## Hvor stort er Danmarks areal omtrent?
 
-    1. [ ] På Bornholm
-    2. [x] På den østlige side af Møn
-    3. [ ] På Jyllands vestkyst
+    1. [ ] 7.300 km²
+    2. [x] 43.000 km²
+    3. [ ] 170.000 km²
+
+    ## Hvor ligger Møns Klint, og hvor høj er den næsten?
+
+    1. [ ] På Bornholm og cirka 170 meter høj
+    2. [x] På den østlige side af Møn og næsten 130 meter høj
+    3. [ ] På Jyllands vestkyst og cirka 34 meter høj
 
     ## Hvor i Danmark kan man se grundfjeld?
 
@@ -73,6 +73,12 @@ Questions
     2. [x] 443
     3. [ ] 7.300
 
+    ## På cirka hvor mange af Danmarks øer lever der mennesker?
+
+    1. [x] 80
+    2. [ ] 170
+    3. [ ] 443
+
     ## Hvilken dansk ø er størst?
 
     1. [x] Sjælland
@@ -85,11 +91,23 @@ Questions
     2. [ ] 43.000 kilometer
     3. [x] 7.300 kilometer
 
+    ## Hvor langt er der højst til havet fra et sted i Danmark?
+
+    1. [ ] 34 kilometer
+    2. [x] 52 kilometer
+    3. [ ] 80 kilometer
+
     ## Hvilket hav er størst blandt havene omkring Danmark?
 
     1. [ ] Kattegat
     2. [x] Nordsøen
     3. [ ] Øresund
+
+    ## Hvad kaldes Nordsøen også ud for den jyske vestkyst?
+
+    1. [ ] Kattegat
+    2. [ ] Østersøen
+    3. [x] Vesterhavet
 
     ## Hvilke tre stræder forbinder Kattegat mod syd med Østersøen?
 
@@ -97,17 +115,47 @@ Questions
     2. [ ] Skagerrak, Limfjorden og Lillebælt
     3. [ ] Øresund, Kattegat og Vesterhavet
 
+    ## Hvilket land har Danmark en fast landgrænse til, og hvor lang er grænsen?
+
+    1. [x] Tyskland, 68 kilometer
+    2. [ ] Sverige, 52 kilometer
+    3. [ ] Tyskland, 170 kilometer
+
     ## Hvilken strøm bidrager til et mildere klima i det nordvestlige Europa?
 
     1. [ ] Labradorstrømmen
     2. [ ] Koldstrømmen fra Sibirien
     3. [x] Golfstrømmen
 
+    ## Hvad er de gennemsnitlige dagtemperaturer i de koldeste og varmeste måneder ifølge teksten?
+
+    1. [ ] Cirka minus 3 grader om vinteren og 36 grader om sommeren
+    2. [x] Cirka 3-4 grader om vinteren og 22 grader om sommeren
+    3. [ ] Cirka 11 grader om vinteren og 17 grader om sommeren
+
+    ## Hvad er den laveste temperatur, der ifølge teksten er målt i Danmark?
+
+    1. [ ] Minus 22 grader
+    2. [ ] Minus 36,4 grader
+    3. [x] Minus 31,2 grader
+
     ## Hvad er den højeste temperatur, der ifølge teksten er målt i Danmark?
 
     1. [x] 36,4 grader
     2. [ ] 22 grader
     3. [ ] 31,2 grader
+
+    ## Hvornår blev de to Lillebæltsbroer indviet eller åbnet?
+
+    1. [x] I 1935 og 1970
+    2. [ ] I 1970 og 1997
+    3. [ ] I 1997 og 1998
+
+    ## Hvornår åbnede Storebæltsforbindelsen for jernbanetrafik?
+
+    1. [ ] 1970
+    2. [x] 1997
+    3. [ ] 1998
 
     ## Hvornår åbnede Storebæltsforbindelsen for biltrafik?
 
@@ -121,11 +169,29 @@ Questions
     2. [ ] Lillebæltsbroen
     3. [x] Øresundsforbindelsen
 
+    ## Hvad er Danmarks hovedstad og største by, og hvor ligger den?
+
+    1. [ ] Aarhus på Jyllands østkyst
+    2. [x] København på den østlige del af Sjælland
+    3. [ ] Odense på den østlige del af Fyn
+
+    ## Hvor stor en del af Danmarks befolkning bor cirka i hovedstadsområdet?
+
+    1. [ ] En femtedel
+    2. [x] En tredjedel
+    3. [ ] Halvdelen
+
     ## Hvilken by er Danmarks næststørste?
 
     1. [x] Aarhus
     2. [ ] Odense
     3. [ ] Esbjerg
+
+    ## Hvilken rækkefølge har Odense, Aalborg og Esbjerg blandt Danmarks største byer?
+
+    1. [x] Odense er nummer tre, Aalborg nummer fire og Esbjerg nummer fem
+    2. [ ] Aalborg er nummer tre, Odense nummer fire og Esbjerg nummer fem
+    3. [ ] Odense er nummer tre, Esbjerg nummer fire og Aalborg nummer fem
 
     ## Hvor findes de vigtigste danske olie- og naturgasressourcer?
 
@@ -133,8 +199,20 @@ Questions
     2. [x] I havbunden under den danske del af Nordsøen
     3. [ ] Under Københavns havn
 
+    ## Hvad har kendetegnet Danmarks energihandel siden slutningen af 1990'erne?
+
+    1. [ ] Danmark har importeret al sin olie og naturgas
+    2. [x] Danmark har eksporteret mere energi, end landet har importeret
+    3. [ ] Danmark har hverken importeret eller eksporteret energi
+
     ## Hvornår besluttede Folketinget, at produktionen af olie og naturgas skal afsluttes senest?
 
     1. [ ] 2030
     2. [ ] 2040
     3. [x] 2050
+
+    ## Hvornår og hvorfor besluttede Folketinget at afslutte olie- og naturgasproduktionen senest i 2050?
+
+    1. [ ] I december 2000 for at øge importen af naturgas
+    2. [x] I december 2020 blandt andet på grund af ønsket om grøn omstilling
+    3. [ ] I december 2025 fordi Nordsøen ikke længere tilhørte Danmark

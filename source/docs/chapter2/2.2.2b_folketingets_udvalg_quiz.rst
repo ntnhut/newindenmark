@@ -1,0 +1,63 @@
+Quiz til 2.2.2 Folketingets udvalg
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad kaldes Folketingets faste udvalg undertiden?
+
+    1. [x] Folketingets værksteder
+    2. [ ] Regeringens domstole
+    3. [ ] Kommunernes råd
+
+    ## Hvad sker der normalt med et lovforslag efter førstebehandlingen?
+
+    1. [ ] Det træder straks i kraft
+    2. [x] Det sendes til nærmere behandling i et udvalg
+    3. [ ] Det sendes til Højesteret
+
+    ## Hvordan kan borgere og foreninger bidrage til et udvalgs behandling?
+
+    1. [x] Ved at besøge udvalget efter aftale eller skrive til det
+    2. [ ] Ved selv at stemme i udvalget
+    3. [ ] Ved at udnævne udvalgets formand
+
+    ## Hvad indeholder udvalgets betænkning blandt andet?
+
+    1. [ ] Domstolenes vurdering af lovforslaget
+    2. [ ] Kongens beslutning om loven
+    3. [x] De enkelte partiers holdning til lovforslaget
+
+    ## Hvor mange stående udvalg er der normalt, og hvor mange medlemmer har et typisk udvalg?
+
+    1. [ ] 5-10 udvalg med 179 medlemmer
+    2. [x] 20-25 udvalg med typisk 29 medlemmer
+    3. [ ] 50 udvalg med 10 medlemmer
+
+    ## Hvornår skal regeringen rådføre sig med Det Udenrigspolitiske Nævn?
+
+    1. [ ] Før alle kommunale beslutninger
+    2. [ ] Kun efter en udenrigspolitisk beslutning
+    3. [x] Før beslutninger af større udenrigspolitisk rækkevidde
+
+    ## Hvad er Europaudvalgets opgave?
+
+    1. [ ] At vælge medlemmer af Europa-Parlamentet
+    2. [x] At føre kontrol med den danske EU-politik og give regeringen et forhandlingsmandat
+    3. [ ] At behandle alle danske straffesager med forbindelse til EU
+
+    ## Hvad fastlægger Europaudvalgets forhandlingsmandat?
+
+    1. [x] Danmarks holdning og om regeringen kan stemme for eller imod et EU-forslag
+    2. [ ] Hvem der bliver valgt til Europa-Parlamentet
+    3. [ ] Hvilke domme EU-Domstolen skal afsige
+

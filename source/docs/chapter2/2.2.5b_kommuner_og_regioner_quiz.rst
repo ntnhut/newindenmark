@@ -1,0 +1,45 @@
+Quiz til 2.2.5 Kommuner og regioner
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem vælger kommunalbestyrelsens formand efter kommunalvalget?
+
+    1. [x] Kommunalbestyrelsen vælger en borgmester
+    2. [ ] Statsministeren udpeger en borgmester
+    3. [ ] Vælgerne vælger borgmesteren direkte ved folketingsvalget
+
+    ## Hvor ofte vælges kommunalbestyrelser og regionsråd?
+
+    1. [ ] Hvert andet år på en valgfri dato
+    2. [x] Hvert fjerde år ved landsdækkende valg i november
+    3. [ ] Samtidig med hvert folketingsvalg
+
+    ## Skal man have dansk indfødsret for at stemme ved kommunal- og regionalvalg?
+
+    1. [ ] Ja, altid
+    2. [x] Nej, visse andre statsborgere og personer med fast bopæl i fire år kan også stemme
+    3. [ ] Ja, men kun hvis man er over 30 år
+
+    ## Hvad er en lokalliste?
+
+    1. [x] En lokal kandidatgruppe, der ofte arbejder for bestemte lokalpolitiske mål
+    2. [ ] En liste over alle folketingsmedlemmer
+    3. [ ] En national regeringskoalition
+
+    ## Hvad er KL's og Danske Regioners overordnede formål?
+
+    1. [ ] At vælge borgmestre og regionsrådsformænd
+    2. [ ] At erstatte kommunerne og regionerne
+    3. [x] At styrke det lokale selvstyre og repræsentere fælles interesser
+

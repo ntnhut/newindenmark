@@ -1,0 +1,99 @@
+Quiz til 2.2.1 Hvad siger grundloven?
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilken placering har grundloven blandt Danmarks love?
+
+    1. [ ] Den gælder kun efter almindelige love
+    2. [x] Den er den øverste lov
+    3. [ ] Den er ligestillet med kommunale regler
+
+    ## Hvilken beskrivelse passer på det danske demokrati?
+
+    1. [x] Et repræsentativt demokrati, hvor vælgerne vælger politikere til at træffe beslutninger
+    2. [ ] Et direkte demokrati, hvor alle love vedtages af folkeafstemninger
+    3. [ ] Et system, hvor monarken alene træffer de politiske beslutninger
+
+    ## Hvordan suppleres det repræsentative demokrati nogle gange?
+
+    1. [ ] Med afgørelser truffet af monarken
+    2. [x] Med folkeafstemninger om konkrete spørgsmål
+    3. [ ] Med lodtrækning blandt vælgerne
+
+    ## Hvad betyder parlamentarisme?
+
+    1. [ ] Regeringen kan blive ved magten, selv om et flertal i Folketinget er imod den
+    2. [x] En regering må ikke have et flertal i Folketinget imod sig
+    3. [ ] Folketinget udnævner dommerne til hver enkelt sag
+
+    ## Hvornår blev parlamentarismen skrevet ind i selve grundlovsteksten?
+
+    1. [ ] I 1849
+    2. [ ] I 1901
+    3. [x] I 1953
+
+    ## Hvem udøver den lovgivende magt i Danmark?
+
+    1. [x] Folketinget og regeringen i forening
+    2. [ ] Domstolene alene
+    3. [ ] Kommunalbestyrelserne alene
+
+    ## Hvem har den udøvende magt?
+
+    1. [ ] Folketinget
+    2. [ ] Domstolene
+    3. [x] Regeringen
+
+    ## Hvad er domstolenes vigtigste rolle i magtens tredeling?
+
+    1. [ ] At udarbejde regeringens lovforslag
+    2. [x] At udøve den dømmende magt og afgøre retlige konflikter
+    3. [ ] At opkræve kommunale skatter
+
+    ## Hvad er formålet med magtens tredeling?
+
+    1. [ ] At samle den politiske magt hos én myndighed
+    2. [ ] At gøre domstolene underlagt regeringen
+    3. [x] At magterne skal kontrollere og begrænse hinanden
+
+    ## Hvilken politisk rolle har den danske monark?
+
+    1. [ ] Monarken leder regeringen og bestemmer lovene
+    2. [ ] Monarken har vetoret over alle beslutninger i Folketinget
+    3. [x] Monarken har ikke politisk magt og udfører især ceremonielle opgaver
+
+    ## Hvordan får den danske monark sin position?
+
+    1. [x] Positionen går i arv
+    2. [ ] Monarken vælges direkte af befolkningen
+    3. [ ] Folketinget udpeger en ny monark hvert fjerde år
+
+    ## Hvem bestemmer, hvilke udlændinge der kan få dansk indfødsret?
+
+    1. [x] Regeringen og et flertal i Folketinget
+    2. [ ] Monarken alene
+    3. [ ] Den enkelte kommune
+
+    ## Hvilken frihedsrettighed beskytter retten til at give udtryk for sine holdninger?
+
+    1. [ ] Ejendomsretten
+    2. [x] Ytringsfriheden
+    3. [ ] Valgbarheden
+
+    ## Hvilke andre grundlæggende rettigheder beskytter grundloven blandt andet?
+
+    1. [x] Forsamlings-, forenings- og religionsfrihed samt personlig frihed, ejendomsret og privatliv
+    2. [ ] Ret til et bestemt arbejde og en bestemt bolig
+    3. [ ] Ret til at undgå alle former for skat
+

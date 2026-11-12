@@ -1,0 +1,81 @@
+Quiz til 2.2.2 Domstolene
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad betyder det, at domstolene er uafhængige?
+
+    1. [ ] Dommerne kan dømme uden at følge loven
+    2. [x] Folketinget og regeringen kan ikke bestemme udfaldet af en konkret retssag
+    3. [ ] Domstolene kan selv vedtage love
+
+    ## Hvordan understøttes dommernes uafhængighed?
+
+    1. [x] De indstilles af et uafhængigt råd og kan som hovedregel ikke afsættes administrativt
+    2. [ ] Regeringen vælger og afskediger dem frit
+    3. [ ] De vælges ved folketingsvalg
+
+    ## Hvorfor må en dommer ikke bære religiøse eller politiske symboler i retten?
+
+    1. [ ] Fordi dommere ikke må have personlige holdninger
+    2. [ ] Fordi symbolerne tilhører Folketinget
+    3. [x] For at fremstå neutral og understøtte tilliden til domstolene
+
+    ## Hvilken kontrol kan domstolene føre med Folketingets love?
+
+    1. [ ] De kan ændre alle love efter eget ønske
+    2. [x] De kan underkende en lov, der strider mod grundloven
+    3. [ ] De kan kun rådgive om lovens ordlyd før vedtagelsen
+
+    ## Hvilken kontrol kan domstolene føre med den offentlige forvaltning?
+
+    1. [x] De kan prøve, om en myndighed har truffet en ulovlig afgørelse
+    2. [ ] De kan udpege kommunernes ansatte
+    3. [ ] De kan fastsætte kommuneskatten
+
+    ## Hvilke andre klagemuligheder end domstolene nævnes?
+
+    1. [ ] Politiske partier og medier
+    2. [ ] Kongehuset og ministerierne
+    3. [x] Klagenævn og Folketingets Ombudsmand
+
+    ## Hvilken rolle har Højesteret?
+
+    1. [ ] Den behandler som hovedregel alle sager først
+    2. [x] Den er landets øverste domstol og en appelret med endelige domme
+    3. [ ] Dens domme kan altid appelleres til en landsret
+
+    ## Hvad betyder to-instansprincippet?
+
+    1. [x] En sag kan som hovedregel prøves ved to retsinstanser
+    2. [ ] Alle sager behandles samtidigt af to dommere
+    3. [ ] En dom kan altid appelleres to gange
+
+    ## Hvor mange almindelige domstole på de tre niveauer nævnes?
+
+    1. [ ] To højesteretter, én landsret og 98 byretter
+    2. [x] Én Højesteret, to landsretter og 24 byretter
+    3. [ ] Én Højesteret, fem landsretter og 20 byretter
+
+    ## Hvilke sager behandler Sø- og Handelsretten især?
+
+    1. [ ] Straffesager fra Færøerne
+    2. [ ] Sager om kommunalvalg
+    3. [x] Sager, hvor stort kendskab til erhvervsforhold er vigtigt
+
+    ## Hvordan hænger Grønlands og Færøernes domstole sammen med det danske retssystem?
+
+    1. [x] Deres afgørelser kan i sidste ende ankes til Højesteret
+    2. [ ] De er helt adskilt og kan aldrig ankes
+    3. [ ] Alle sager begynder direkte i Højesteret
+

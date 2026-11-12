@@ -1,0 +1,51 @@
+Quiz til 2.2.6 Folketingsmedlemmer og interesseorganisationer
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er et folketingsmedlem bundet af ifølge grundloven?
+
+    1. [ ] Partiets instrukser i alle sager
+    2. [x] Sin personlige overbevisning
+    3. [ ] Vælgernes bindende ordrer
+
+    ## Hvornår stiller et parti ofte sine medlemmer frit?
+
+    1. [ ] Ved alle finanslove
+    2. [ ] Ved valg af borgmester
+    3. [x] I sager om moral og etik
+
+    ## Hvad sker der med mandatet, hvis et medlem forlader sit parti?
+
+    1. [x] Medlemmet beholder mandatet til næste valg og kan blive løsgænger eller skifte parti
+    2. [ ] Mandatet går straks til partiet
+    3. [ ] Folketinget opløses
+
+    ## Hvad er interesseorganisationers rolle i demokratiet?
+
+    1. [x] De søger at påvirke politiske beslutninger og bidrager ofte med viden
+    2. [ ] De erstatter Folketinget ved lovbehandling
+    3. [ ] De udnævner dommere
+
+    ## Hvordan inddrages interesseorganisationer konkret i lovarbejdet?
+
+    1. [ ] De har automatisk stemmeret i Folketinget
+    2. [x] De høres, mødes med ministerier og udvalg og deltager i arbejdsgrupper
+    3. [ ] De afsiger dom over lovforslag
+
+    ## Hvordan har forholdet mellem partier og interesseorganisationer ændret sig?
+
+    1. [ ] Båndene er blevet tættere og helt faste
+    2. [ ] Organisationer påvirker nu kun ét parti hver
+    3. [x] De tidligere tætte bånd er blevet løsere, og organisationerne søger bredere indflydelse
+

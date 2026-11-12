@@ -1,0 +1,117 @@
+Quiz til 2.2.2 Folketinget
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor mange medlemmer har Folketinget?
+
+    1. [ ] 98
+    2. [ ] 175
+    3. [x] 179
+
+    ## Hvor mange medlemmer af Folketinget vælges i Danmark?
+
+    1. [x] 175
+    2. [ ] 179
+    3. [ ] 98
+
+    ## Hvor mange medlemmer vælges fra Grønland og Færøerne tilsammen?
+
+    1. [ ] To
+    2. [x] Fire
+    3. [ ] Otte
+
+    ## Hvor ligger Folketinget?
+
+    1. [ ] Amalienborg i København
+    2. [ ] Aarhus Rådhus
+    3. [x] Christiansborg i København
+
+    ## Hvordan var kønsfordelingen blandt de valgte ved folketingsvalget i 2026?
+
+    1. [x] 86 kvinder og 93 mænd
+    2. [ ] 93 kvinder og 86 mænd
+    3. [ ] 89 kvinder og 90 mænd
+
+    ## Hvordan kan offentligheden følge Folketingets møder?
+
+    1. [ ] Møderne er altid lukkede
+    2. [x] Fra tilhørerpladserne eller via optagelser på Folketingets hjemmeside
+    3. [ ] Kun gennem ministrenes referater
+
+    ## Hvornår begynder Folketingets arbejdsår efter sommerferien?
+
+    1. [x] Den første tirsdag i oktober
+    2. [ ] Den første mandag i januar
+    3. [ ] Den sidste fredag i juni
+
+    ## Hvad indeholder statsministerens åbningstale?
+
+    1. [ ] Domstolenes afgørelser fra det seneste år
+    2. [ ] Valgresultater fra kommunerne
+    3. [x] Regeringens syn på rigets udfordringer, muligheder og planlagte indsats
+
+    ## Hvad er finansloven?
+
+    1. [ ] En liste over alle politiske partier
+    2. [x] Statens samlede budget for det næste år
+    3. [ ] En aftale mellem kommunerne og regionerne
+
+    ## Hvor mange lovforslag vedtager Folketinget i gennemsnit om året?
+
+    1. [ ] Cirka 20
+    2. [x] Cirka 200
+    3. [ ] Cirka 2.000
+
+    ## Hvad sker der under en kongerunde?
+
+    1. [x] To repræsentanter fra hvert parti rådgiver kongen om regeringsdannelsen
+    2. [ ] Kongen vælger frit alle ministre uden råd
+    3. [ ] Vælgerne stemmer om statsministeren
+
+    ## Hvad er formålet med Folketingets kontrol med regeringen?
+
+    1. [x] At sikre, at regeringen fører lovene ud i livet på den måde, Folketinget har ønsket
+    2. [ ] At lade Folketinget overtage domstolenes sager
+    3. [ ] At forhindre ministre i at svare på spørgsmål
+
+    ## Hvilke redskaber kan Folketinget bruge til at kontrollere ministrene?
+
+    1. [ ] Kun domstolene
+    2. [x] Spørgsmål, forespørgselsdebatter og samråd i udvalg
+    3. [ ] Kommunale folkeafstemninger
+
+    ## Hvad er et mistillidsvotum?
+
+    1. [ ] En folkeafstemning om en kommunal beslutning
+    2. [x] Folketingets udtryk for mistillid til statsministeren eller regeringen
+    3. [ ] En dom afsagt af Højesteret
+
+    ## Hvad skal der ske efter et mistillidsvotum til statsministeren?
+
+    1. [ ] Folketinget skal opløses permanent
+    2. [ ] Domstolene udpeger en ny regering
+    3. [x] Regeringen skal gå af, eller statsministeren skal udskrive nyvalg
+
+    ## Hvornår kan en minister stilles for Rigsretten?
+
+    1. [x] Når ministeren mistænkes for ulovligheder i sit ministerarbejde
+    2. [ ] Når ministeren taber et almindeligt folketingsvalg
+    3. [ ] Når ministeren ikke er medlem af Folketinget
+
+    ## Hvem består Rigsretten af?
+
+    1. [ ] Kun folketingsmedlemmer
+    2. [x] Op til 15 højesteretsdommere og lige så mange medlemmer valgt af Folketinget
+    3. [ ] Alle landets byretsdommere
+

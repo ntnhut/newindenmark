@@ -1,0 +1,57 @@
+Quiz til 2.2.2 Valgsystemet
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvordan kan en kandidat stille op uden for partierne?
+
+    1. [ ] Ved at få 50.000 støtter
+    2. [ ] Ved at blive udpeget af en kommune
+    3. [x] Ved at få mindst 150 vælgere i opstillingskredsen til at anbefale sig
+
+    ## Hvad kræves normalt for, at et nyt parti bliver opstillingsberettiget?
+
+    1. [x] Cirka 20.000 godkendte underskrifter
+    2. [ ] Mindst 150 medlemmer af Folketinget
+    3. [ ] Et flertal ved en folkeafstemning
+
+    ## Hvilke to måder kan en vælger afgive sin stemme på stemmesedlen?
+
+    1. [ ] På både to kandidater og to partier
+    2. [x] Som personlig stemme på en kandidat eller som partistemme
+    3. [ ] Kun som partistemme
+
+    ## Hvor kan brevstemmer blandt andet afgives?
+
+    1. [ ] Kun på Christiansborg
+    2. [ ] Kun på valgdagen i valglokalet
+    3. [x] På Borgerservice og blandt andet på sygehuse og plejehjem
+
+    ## Hvordan fordeles mandaterne ved danske folketingsvalg?
+
+    1. [ ] Efter lodtrækning mellem partierne
+    2. [ ] Så det største parti får alle mandater
+    3. [x] Efter forholdstalsmetoden, så pladserne afspejler partiernes stemmeandele
+
+    ## Hvad er spærregrænsen normalt ved folketingsvalg?
+
+    1. [ ] Én procent
+    2. [x] To procent
+    3. [ ] Fem procent
+
+    ## Hvilken virkning har Danmarks relativt lave spærregrænse?
+
+    1. [x] Flere partier bliver typisk repræsenteret end i flere nabolande
+    2. [ ] Kun to partier kan komme i Folketinget
+    3. [ ] Det største parti får alle mandater
+

@@ -1,0 +1,57 @@
+Quiz til 2.2.3 Hvordan arbejder demokratiet?
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem kan fremsætte lovforslag?
+
+    1. [ ] Kun regeringen
+    2. [x] Regeringen og hvert enkelt folketingsmedlem
+    3. [ ] Kun Folketingets udvalg
+
+    ## Hvorfor fremsætter regeringen i praksis de fleste lovforslag?
+
+    1. [x] Ministerierne har den nødvendige viden og arbejdskraft
+    2. [ ] Folketingsmedlemmer må ikke fremsætte forslag
+    3. [ ] Alle forslag skal komme fra EU
+
+    ## Hvorfra kan idéer til lovændringer blandt andet komme?
+
+    1. [ ] Kun fra statsministeren
+    2. [ ] Kun fra domstolene
+    3. [x] Fra borgere, foreninger, organisationer, kommuner eller medier
+
+    ## Hvilket internationalt samarbejde er en vigtig kilde til dansk lovgivning?
+
+    1. [ ] NATO's militære kommando
+    2. [x] EU's regler
+    3. [ ] De olympiske lege
+
+    ## Hvor mange behandlinger skal et lovforslag igennem i Folketinget?
+
+    1. [x] Tre
+    2. [ ] Én
+    3. [ ] Fem
+
+    ## Hvor mange folketingsmedlemmer skal mindst deltage, for at en afstemning er gyldig?
+
+    1. [ ] 45
+    2. [ ] 60
+    3. [x] 90
+
+    ## Hvad skal ske, efter Folketinget har vedtaget et lovforslag?
+
+    1. [ ] Højesteret skal godkende det
+    2. [x] Kongen og en minister underskriver, hvorefter loven offentliggøres
+    3. [ ] Alle kommuner skal stemme om det
+

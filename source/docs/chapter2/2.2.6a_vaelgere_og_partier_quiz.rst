@@ -1,0 +1,57 @@
+Quiz til 2.2.6 Vælgerne og de politiske partier
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvem er grundlaget for folkestyret og giver politikerne deres magt?
+
+    1. [ ] Embedsmændene
+    2. [x] Vælgerne
+    3. [ ] Dommerne
+
+    ## Hvordan har vælgernes partivalg ændret sig over tid?
+
+    1. [x] Færre stemmer hele livet efter klasse og på samme parti; flere skifter efter holdninger og enkeltsager
+    2. [ ] Flere stemmer altid efter deres arbejde og klasse
+    3. [ ] Vælgerne skifter aldrig længere parti
+
+    ## Hvilke stemmemønstre nævnes stadig i teksten?
+
+    1. [ ] Alle grupper stemmer ens
+    2. [x] Privatansatte og mænd stemmer relativt mere borgerligt, mens offentligt ansatte og kvinder relativt oftere stemmer til venstre
+    3. [ ] Venstre står kun stærkt i de største byer
+
+    ## Hvilken rolle har de politiske partier?
+
+    1. [ ] De dømmer i retssager
+    2. [ ] De fungerer kun under valgkampe
+    3. [x] De er talerør for holdninger og påvirker både vælgere og den løbende debat
+
+    ## Er politiske partier nævnt i grundloven?
+
+    1. [ ] Ja, alle partier står med navn
+    2. [x] Nej, moderne partier fandtes ikke i 1849
+    3. [ ] Ja, men kun regeringspartierne
+
+    ## Hvordan har medlemskabet af politiske partier udviklet sig fra cirka 1950 til 2023?
+
+    1. [ ] Det steg fra 110.000 til 650.000
+    2. [ ] Det var uændret
+    3. [x] Det faldt fra cirka 650.000 til cirka 110.000
+
+    ## Hvad bestemmer partiernes medlemmer blandt andet?
+
+    1. [x] Hvem partiet opstiller som kandidater
+    2. [ ] Hvem der udnævnes til dommere
+    3. [ ] Hvordan andre partier stemmer
+

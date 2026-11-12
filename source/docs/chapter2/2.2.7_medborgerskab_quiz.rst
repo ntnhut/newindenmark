@@ -1,0 +1,56 @@
+Quiz til 2.2.7 Demokrati i hverdagen - medborgerskab
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvor findes demokrati i hverdagen ifølge teksten?
+
+    1. [ ] Kun ved folketingsvalg
+    2. [ ] Kun i politiske partier
+    3. [x] Blandt andet i skolebestyrelser, elevråd, boligforeninger og samarbejdsudvalg
+
+    ## Hvor stor en andel af den danske befolkning er medlem af mindst én forening ifølge teksten?
+
+    1. [ ] Cirka 35 procent
+    2. [x] Cirka 90 procent
+    3. [ ] Cirka 50 procent
+
+    ## Hvor mange har udført frivilligt arbejde gennem en forening, og hvor mange foreninger er en dansker i gennemsnit medlem af?
+
+    1. [x] Cirka 35 procent har arbejdet frivilligt, og gennemsnittet er tre-fire medlemskaber
+    2. [ ] Cirka 90 procent har arbejdet frivilligt, og gennemsnittet er ét medlemskab
+    3. [ ] Cirka 10 procent har arbejdet frivilligt, og gennemsnittet er ti medlemskaber
+
+    ## Hvordan træner foreningslivet borgerne i demokrati?
+
+    1. [ ] Ved at undgå uenighed og afstemninger
+    2. [x] Ved at drøfte, indhente viden, argumentere, indgå kompromiser og stemme
+    3. [ ] Ved at lade én leder beslutte alt
+
+    ## Hvordan varierer den gennemsnitlige valgdeltagelse siden 2000?
+
+    1. [ ] 58 procent til Folketinget, 73 procent lokalt og 86 procent til EU
+    2. [ ] 73 procent ved alle valg
+    3. [x] 86 procent til Folketinget, 73 procent lokalt og 58 procent til Europa-Parlamentet
+
+    ## Hvilke forklaringer gives på den høje danske valgdeltagelse?
+
+    1. [x] Demokratisk opdragelse, foreningstradition og en historisk folkelig demokratibevægelse
+    2. [ ] Stemmepligt og bøder
+    3. [ ] At kun partimedlemmer kan stemme
+
+    ## Hvordan har politisk deltagelse ændret karakter?
+
+    1. [ ] Flere er partimedlemmer, og sociale medier bruges mindre
+    2. [x] Færre er partimedlemmer og græsrødder fylder mindre, mens nye former som underskrifter, donationer, forbrug og sociale medier bruges
+    3. [ ] Borgerne deltager ikke længere mellem valgene

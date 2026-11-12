@@ -1,0 +1,116 @@
+Quiz til 2.2.1 Grundloven - Danmarks forfatning
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvad er Danmarks Riges Grundlov?
+
+    1. [x] Danmarks forfatning
+    2. [ ] Statens årlige budget
+    3. [ ] En kommunal styrelseslov
+
+    ## Hvor mange paragraffer indeholder grundloven?
+
+    1. [ ] 49
+    2. [x] 89
+    3. [ ] 179
+    ## Hvornår fik Danmark sin første demokratiske grundlov?
+
+    1. [ ] 1665
+    2. [x] 1849
+    3. [ ] 1901
+
+    ## Hvilken styreform havde Danmark fra 1660-61 og frem til grundloven?
+
+    1. [ ] Republik
+    2. [ ] Parlamentarisk demokrati
+    3. [x] Enevælde med Kongeloven som grundlag
+
+    ## Hvilken dato fejres som Grundlovsdag?
+
+    1. [x] 5. juni
+    2. [ ] 1. januar
+    3. [ ] 9. april
+
+    ## Hvad betød grundloven i 1849 for kongens magt?
+
+    1. [ ] Kongen fik enevældig magt igen
+    2. [ ] Kongen overtog domstolenes magt
+    3. [x] Kongens magt blev delt med folkevalgte repræsentanter
+
+    ## Hvornår blev parlamentarismen indført i praksis i Danmark?
+
+    1. [ ] 1849
+    2. [x] 1901
+    3. [ ] 1953
+
+    ## Hvem havde oprindeligt valgret efter grundloven i 1849?
+
+    1. [x] Kun mænd over 30 år, der opfyldte flere betingelser
+    2. [ ] Alle myndige mænd og kvinder
+    3. [ ] Kun tjenestefolk og embedsmænd
+
+    ## Hvornår fik kvinder og tjenestefolk valgret til Folketinget?
+
+    1. [ ] 1849
+    2. [ ] 1901
+    3. [x] 1915
+
+    ## Hvad er den gældende valgretsalder til Folketinget?
+
+    1. [ ] 16 år
+    2. [ ] 17 år
+    3. [x] 18 år
+
+    ## Hvornår blev valgretsalderen på 18 år vedtaget?
+
+    1. [ ] I 1915
+    2. [x] I 1978
+    3. [ ] I 1953
+
+    ## Hvilken grundlov er den nuværende danske grundlov?
+
+    1. [ ] Grundloven fra 1849
+    2. [x] Grundloven fra 1953
+    3. [ ] Kongeloven fra 1665
+
+    ## I hvilke år er grundloven blevet ændret?
+
+    1. [x] 1866, 1915, 1920 og 1953
+    2. [ ] 1849, 1901, 1978 og 2001
+    3. [ ] Kun i 1915 og 1953
+
+    ## Hvorfor har det politiske liv kunnet forandre sig uden hyppige grundlovsændringer?
+
+    1. [ ] Grundloven gælder kun for domstolene
+    2. [x] Grundloven er formuleret som en fast, men rummelig og generel ramme
+    3. [ ] Regeringen kan se bort fra grundloven
+
+    ## Hvorfor er det vanskeligt at ændre grundloven?
+
+    1. [ ] Ændringer kræver kun en beslutning fra regeringen
+    2. [ ] Grundloven kan slet ikke ændres
+    3. [x] Der skal være tilslutning fra både Folketinget og befolkningen
+
+    ## Hvad beskytter de strenge krav til grundlovsændringer blandt andet imod?
+
+    1. [x] At et tilfældigt flertal fratager et mindretal rettigheder eller ændrer styreformen
+    2. [ ] At vælgerne kan skifte regering
+    3. [ ] At domstolene afgør retssager
+
+    ## Hvorfor kan grundlovens ordlyd give et forkert indtryk af monarkens rolle?
+
+    1. [ ] Den er skrevet efter monarkiet blev afskaffet
+    2. [ ] Den omtaler slet ikke kongen
+    3. [x] Sproget er gammelt, mens kongens magt i praksis er overtaget af regeringen
+

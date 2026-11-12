@@ -1,0 +1,123 @@
+Quiz til 2.2.2 Regeringen
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke to hovedfunktioner har regeringen ifølge teksten?
+
+    1. [ ] Den dømmer i straffesager og udskriver kommuneskat
+    2. [x] Den fører lovene ud i livet og udarbejder de fleste lovforslag
+    3. [ ] Den vælger Folketingets medlemmer og dommere
+
+    ## Hvad betyder det, at en regering er en mindretalsregering?
+
+    1. [ ] Regeringspartierne har tilsammen flertal i Folketinget
+    2. [ ] Regeringen består kun af ministre uden for Folketinget
+    3. [x] Regeringspartierne har ikke tilsammen flertal og må søge støtte fra andre partier
+
+    ## Hvad er en flertalsregering?
+
+    1. [x] En regering, hvis partier tilsammen har flertal i Folketinget
+    2. [ ] En regering med flere ministre end folketingsmedlemmer
+    3. [ ] En regering, som kun har ét parti
+
+    ## Hvad kaldes partier, som står uden for regeringen og støtter den?
+
+    1. [x] Støttepartier
+    2. [ ] Regeringspartier
+    3. [ ] Oppositionen
+
+    ## Hvad kaldes partier og medlemmer uden for regeringen, som er modstandere af den?
+
+    1. [ ] Støttepartier
+    2. [x] Oppositionen
+    3. [ ] Regeringspartier
+
+    ## Hvilke fire partier kaldes ofte de regeringsbærende partier?
+
+    1. [ ] SF, Enhedslisten, Alternativet og Moderaterne
+    2. [ ] Liberal Alliance, Dansk Folkeparti, Venstre og SF
+    3. [x] Socialdemokratiet, Venstre, Radikale Venstre og Det Konservative Folkeparti
+
+    ## Hvad kendetegner det samarbejdende folkestyre?
+
+    1. [ ] Alle love vedtages uden politiske forhandlinger
+    2. [x] Partier søger kompromiser og brede flertal om politiske løsninger
+    3. [ ] Kun ét parti må deltage i regeringsforhandlinger
+
+    ## Hvorfor har kompromiser fået en stærk plads i dansk politik?
+
+    1. [x] Intet enkelt parti har haft flertal siden valgsystemets grundstruktur fra 1920
+    2. [ ] Grundloven forbyder flertalsregeringer
+    3. [ ] Alle partier har samme politik
+
+    ## Hvad er afgørende for, hvem der kan blive statsminister?
+
+    1. [ ] At personen leder det største parti
+    2. [x] At personen ikke har et flertal i Folketinget imod sig
+    3. [ ] At personen har været minister i mindst ti år
+
+    ## Hvem udnævner de øvrige ministre?
+
+    1. [ ] Folketingets formand
+    2. [ ] Kongen uden politisk rådgivning
+    3. [x] Statsministeren
+
+    ## Hvad kendetegner de almindelige embedsmænd i ministerierne?
+
+    1. [x] De ansættes efter faglige kvalifikationer, er neutrale og fortsætter ved regeringsskifte
+    2. [ ] De vælges af vælgerne hvert fjerde år
+    3. [ ] De forlader altid jobbet med ministeren
+
+    ## Hvordan adskiller særlige rådgivere sig fra almindelige embedsmænd?
+
+    1. [ ] De udnævnes af Højesteret
+    2. [x] De giver politisk rådgivning og forlader jobbet, når ministeren skifter
+    3. [ ] De skal være politisk neutrale og fastansatte
+
+    ## Hvilke formelle krav gælder for at blive minister?
+
+    1. [ ] Man skal være jurist og medlem af Folketinget
+    2. [ ] Man skal have været borgmester
+    3. [x] Der kræves ingen bestemte formelle kvalifikationer eller medlemskab af Folketinget
+
+    ## Hvad kan en minister, der ikke er medlem af Folketinget?
+
+    1. [x] Deltage i møder og fremlægge lovforslag, men ikke stemme
+    2. [ ] Hverken deltage i møder eller fremlægge forslag
+    3. [ ] Stemme, men ikke tale fra Folketingets talerstol
+
+    ## Hvor længe vælges Folketingets medlemmer højst ad gangen?
+
+    1. [ ] To år
+    2. [ ] Tre år
+    3. [x] Fire år
+
+    ## Hvem kan udskrive folketingsvalg før valgperiodens udløb?
+
+    1. [x] Statsministeren
+    2. [ ] Folketingets formand alene
+    3. [ ] Højesteret
+
+    ## Hvad kaldes statsministerens ret til at udskrive valg før tid?
+
+    1. [ ] Forhandlingsmandatet
+    2. [x] Opløsningsretten
+    3. [ ] To-instansprincippet
+
+    ## Er der en grænse for, hvor mange valgperioder en statsminister kan sidde?
+
+    1. [ ] Ja, højst to perioder
+    2. [ ] Ja, højst fire perioder
+    3. [x] Nej
+

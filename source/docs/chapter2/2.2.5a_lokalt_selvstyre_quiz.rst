@@ -1,0 +1,81 @@
+Quiz til 2.2.5 Det lokale selvstyre
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvorfor er det lokale selvstyre vigtigt for velfærdssamfundet?
+
+    1. [x] Kommuner og regioner løser mange offentlige opgaver tæt på borgerne
+    2. [ ] Det overtager Folketingets lovgivning
+    3. [ ] Det styrer Danmarks udenrigspolitik
+
+    ## Hvem bestemmer kommunernes opgaver og fører tilsyn med dem?
+
+    1. [ ] Kommunerne selv uden statslige rammer
+    2. [x] Folketinget fastsætter rammerne, og staten fører tilsyn
+    3. [ ] Regionsrådene
+
+    ## Hvad er nærhedsprincippet i det lokale selvstyre?
+
+    1. [x] Opgaver, der berører borgernes dagligdag, skal løses så tæt på borgerne som muligt
+    2. [ ] Alle offentlige opgaver skal løses af Folketinget
+    3. [ ] Kommunerne skal ligge tæt på hinanden
+
+    ## Hvilken økonomisk selvstændighed har kommunerne?
+
+    1. [x] De kan udskrive skat og vælge lokale løsninger inden for rammerne
+    2. [ ] De finansieres kun af private bidrag
+    3. [ ] De må ikke selv beslutte, hvordan opgaver løses
+
+    ## Hvad er formålet med kommunal udligning og statslige tilskud?
+
+    1. [ ] At alle kommuner får samme indbyggertal
+    2. [x] At sikre nogenlunde ensartet velfærd trods forskellige indtægter og udgifter
+    3. [ ] At regionerne kan udskrive skat
+
+    ## Hvad kan skabe konflikt mellem staten og kommunerne?
+
+    1. [ ] At staten aldrig fastsætter nationale rammer
+    2. [ ] At kommunerne bestemmer uden nogen lovgivning
+    3. [x] Statens ønske om ensartede tilbud over for kommunernes ønske om selvbestemmelse
+
+    ## Hvor mange kommuner og regioner blev der efter strukturreformen fra 2007?
+
+    1. [ ] 271 kommuner og 14 regioner
+    2. [ ] 14 kommuner og 271 regioner
+    3. [x] 98 kommuner og fem regioner
+
+    ## Hvad ændrede strukturreformen fra 2007 konkret?
+
+    1. [x] 271 kommuner blev til 98, og 14 amter blev til fem regioner
+    2. [ ] 98 kommuner blev til 271, og regionerne blev afskaffet
+    3. [ ] Antallet blev ikke ændret
+
+    ## Hvilken offentlig myndighed har ikke mulighed for selv at udskrive skat?
+
+    1. [ ] Staten
+    2. [ ] Kommunerne
+    3. [x] Regionerne
+
+    ## Hvordan finansieres regionerne?
+
+    1. [ ] Kun gennem brugerbetaling
+    2. [x] De modtager penge fra staten og kommunerne
+    3. [ ] Gennem egen indkomstskat
+
+    ## Hvilke regioner bliver til Region Østdanmark i 2027?
+
+    1. [ ] Region Midtjylland og Region Nordjylland
+    2. [ ] Region Sjælland og Region Syddanmark
+    3. [x] Region Hovedstaden og Region Sjælland
+

@@ -1,0 +1,51 @@
+Quiz til 2.2.2 Folketingsvalg
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Har vælgerne pligt til at stemme ved folketingsvalg?
+
+    1. [ ] Ja, ellers får de en bøde
+    2. [x] Nej
+    3. [ ] Kun ved hvert andet valg
+
+    ## Hvor høj har valgdeltagelsen ved folketingsvalg i gennemsnit været siden 2000?
+
+    1. [ ] 65 procent
+    2. [ ] 73 procent
+    3. [x] 86 procent
+
+    ## Hvad betyder det, at folketingsvalg er hemmelige?
+
+    1. [ ] Vælgerne må ikke fortælle, at de har stemt
+    2. [x] Andre kan ikke se, hvem vælgeren stemmer på
+    3. [ ] Resultatet af valget offentliggøres ikke
+
+    ## Hvad betyder det, at folketingsvalg er direkte?
+
+    1. [x] Vælgeren stemmer direkte på en kandidat eller et parti
+    2. [ ] Folketinget udpeger vælgernes repræsentanter
+    3. [ ] Stemmerne afgives offentligt
+
+    ## Hvilke betingelser skal man som hovedregel opfylde for at stemme til folketingsvalg?
+
+    1. [x] Have dansk indfødsret, være fyldt 18 år og have fast bopæl i riget
+    2. [ ] Være fyldt 25 år og have en bestemt indkomst
+    3. [ ] Være medlem af et politisk parti
+
+    ## Hvad kræves der ud over valgret for at være valgbar til Folketinget?
+
+    1. [ ] At man er medlem af et parti
+    2. [x] At man ikke er straffet for noget, der gør én uværdig i folks øjne
+    3. [ ] At man har en videregående uddannelse
+

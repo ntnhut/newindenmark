@@ -1,0 +1,39 @@
+Quiz til 2.2.6 Medierne og den offentlige debat
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvordan fungerer medierne som bindeled mellem politikere og vælgere?
+
+    1. [x] De spreder debat, giver borgere en kanal og påvirker dagsordenen
+    2. [ ] De vedtager love og udpeger ministre
+    3. [ ] De må kun viderebringe regeringens synspunkt
+
+    ## Hvornår frigjorde de fleste aviser sig fra de politiske partier?
+
+    1. [ ] I 1849
+    2. [x] I løbet af 1960'erne
+    3. [ ] Efter 2020
+
+    ## Hvorfor kaldes medierne undertiden den fjerde statsmagt?
+
+    1. [ ] De vedtager love på vegne af Folketinget
+    2. [ ] De kontrollerer domstolenes afgørelser
+    3. [x] De holder øje med magthaverne og kan kritisere deres handlinger
+
+    ## Hvilken dobbelt virkning har sociale medier på den politiske debat?
+
+    1. [ ] De gør både borgere og journalister ude af stand til at deltage
+    2. [x] De giver mere direkte kontakt, men kan svække journalisters kritiske kontrol
+    3. [ ] De har helt erstattet alle andre medier
+

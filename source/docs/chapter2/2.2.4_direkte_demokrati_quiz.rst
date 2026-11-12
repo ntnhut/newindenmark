@@ -1,0 +1,63 @@
+Quiz til 2.2.4 Direkte demokrati
+==========================================================================================
+
+Questions
+---------------------------------
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: true
+    ---
+
+    ## Hvilke ændringer skal altid afgøres ved folkeafstemning?
+
+    1. [x] Ændring af grundloven eller valgretsalderen
+    2. [ ] Enhver ændring af skatten
+    3. [ ] Udnævnelse af ministre
+
+    ## Hvem kan kræve, at et vedtaget lovforslag sendes til folkeafstemning?
+
+    1. [x] Mindst en tredjedel af Folketingets medlemmer
+    2. [ ] Enhver enkelt borger
+    3. [ ] Kun statsministeren
+
+    ## Hvornår kræves folkeafstemning ved afgivelse af dansk suverænitet?
+
+    1. [ ] Når alle 179 medlemmer stemmer ja
+    2. [ ] Når færre end 90 medlemmer stemmer ja
+    3. [x] Når mindst 90, men færre end 150 medlemmer stemmer ja
+
+    ## Hvad besluttede vælgerne ved folkeafstemningen i 2000?
+
+    1. [ ] At indføre euroen
+    2. [x] At beholde kronen og sige nej til euroen
+    3. [ ] At afskaffe EU-medlemskabet
+
+    ## Hvad blev vedtaget ved afstemningerne i 2009 og 2022?
+
+    1. [x] Lige arveret til tronen og afskaffelse af EU-forsvarsforbeholdet
+    2. [ ] Lavere valgretsalder og indførelse af euroen
+    3. [ ] Ny grundlov og afskaffelse af monarkiet
+
+    ## Hvor mange støtter skal et borgerforslag have inden for 180 dage for at blive overvejet i Folketinget?
+
+    1. [ ] 5.000
+    2. [x] 50.000
+    3. [ ] 100.000
+
+    ## Hvor mange borgere kræves der mindst for at stille et borgerforslag?
+
+    1. [ ] Én
+    2. [ ] 50
+    3. [x] Fire
+
+    ## Har et borgerforslag med 50.000 støtter krav på at blive fremsat i Folketinget?
+
+    1. [ ] Ja, og det bliver automatisk vedtaget
+    2. [x] Nej, Folketinget overvejer det, men kun ministre og medlemmer kan fremsætte forslag
+    3. [ ] Ja, hvis regeringen støtter det
+

@@ -1,6 +1,6 @@
 # Danish Citizenship Test Practice
 
-This open-source project helps candidates prepare for the **Danish Citizenship Test (Indfødsretsprøven)** by providing interactive quizzes based on the official *Teaching Material for the Citizenship Test – Danish society, Danish culture and history*.
+This open-source project helps candidates prepare for the **Danish Citizenship Test (Indfødsretsprøven)** by providing interactive quizzes based on the official *Teaching Material for Indfødsretsprøven – Danish society, Danish culture and history*.
 
 🖥️ [Practice tests now!](https://dktests.readthedocs.io/index.html)
 
@@ -36,5 +36,5 @@ This project aims to:
 ## 💡 Sources of content
 
 * [danskogproever.dk](https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/)
-* [Teaching Material for the Citizenship Test – Danish society, Danish culture and history (August 2026)](https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf)
+* [Teaching Material for Indfødsretsprøven – Danish society, Danish culture and history (August 2026)](https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf)
 * [Recent official citizenship test PDFs and answer keys](https://danskogproever.dk/borger/indfoedsretsproeve-statsborgerskab/forberedelse-til-indfoedsretsproeven/#accordion-tidligere-indfodsretsprover)

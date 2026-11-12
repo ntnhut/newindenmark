@@ -1,13 +1,13 @@
-Learning materials
+Læremateriale
 =====================================
 
-The learning material covers Danish society, culture, and history. The citizenship test is based on the topics in the learning material. 
+Lærematerialet handler om det danske samfund, dansk kultur og Danmarks historie. Indfødsretsprøven tager udgangspunkt i emnerne i lærematerialet.
 
-The learning material has been prepared by the Danish Agency for International Integration and Recruitment (SIRI) and can be downloaded free of charge. The material includes both a written version and an audio version.
+Lærematerialet er udarbejdet af Styrelsen for International Rekruttering og Integration (SIRI) og kan downloades gratis. Det findes både som tekst og som lyd.
 
-The learning material consists of six chapters: Danish history, Danish democracy, the Danish economy, Denmark and the outside world, Danish cultural life, and thematic topics. The book is 246 pages long and covers 35 of the 45 questions.
+Lærematerialet består af seks kapitler: Danmarks historie, det danske demokrati, dansk økonomi, Danmark og omverdenen, dansk kulturliv og temaopslag. Bogen er på 246 sider og dækker 35 af prøvens 45 spørgsmål.
 
-This version of the learning materials apply to the exams in winter 2026 and summer 2027. An updated version will be published at the end of August 2027. The updated version will apply to the exams in winter 2027 and summer 2028.
+Denne udgave af lærematerialet gælder til prøverne vinteren 2026 og sommeren 2027. En opdateret udgave udkommer i slutningen af august 2027. Den opdaterede udgave gælder til prøverne vinteren 2027 og sommeren 2028.
 
 
 

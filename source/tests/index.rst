@@ -1,26 +1,26 @@
-Previous Citizenship Tests
+Tidligere indfødsretsprøver
 =====================================
 
-.. admonition:: Overview
+.. admonition:: Overblik
 
-    The citizenship test is a test that must be passed in order to obtain Danish citizenship. The citizenship test covers Danish society, culture, and history. 
+    Indfødsretsprøven er en prøve, som man skal bestå for at få dansk statsborgerskab. Prøven handler om det danske samfund, dansk kultur og Danmarks historie.
 
-    The test consists of 45 questions that must be answered within 45 minutes. The 45 questions are multiple-choice questions with two or three possible answers. 
+    Prøven består af 45 spørgsmål, som skal besvares inden for 45 minutter. Hvert spørgsmål har to eller tre svarmuligheder.
 
-.. admonition:: Test Structure
+.. admonition:: Prøvens opbygning
 
-    * Five of the questions relate to current affairs, 
-    * Five relate to values in Danish society, 
-    * While the remaining 35 questions are based on the material Teaching Material for the Citizenship Test - Danish society, Danish culture and history.
+    * Fem spørgsmål handler om aktuelle emner.
+    * Fem spørgsmål handler om danske værdier.
+    * De resterende 35 spørgsmål tager udgangspunkt i lærematerialet *Indfødsretsprøven – det danske samfund, dansk kultur og Danmarks historie*.
 
-.. admonition:: To pass the test
+.. admonition:: Sådan består du prøven
     :class: warning
 
-    You must answer correctly at least **36 out of the 45 questions**, including **at least 4 out of the 5 questions about Danish values**.
+    Du skal svare rigtigt på mindst **36 af de 45 spørgsmål**, herunder **mindst 4 af de 5 spørgsmål om danske værdier**.
 
 
 
-Since Winter 2021, the Danish Citizenship Test (Indfødsretsprøven) increased from 40 to 45 questions and began including five questions on Danish values (danske værdier), in addition to the existing sections on society, culture, history, and current topics.
+Fra og med vinteren 2021 blev indfødsretsprøven udvidet fra 40 til 45 spørgsmål. Prøven fik samtidig fem spørgsmål om danske værdier ud over spørgsmålene om samfund, kultur, historie og aktuelle emner.
 
 .. toctree::
    :maxdepth: 1

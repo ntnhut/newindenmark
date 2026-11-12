@@ -1,0 +1,13 @@
+Quizzer til 2.3
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   2.3.1_rettigheder_quiz
+   2.3.2_offentlig_forvaltning_quiz
+   2.3.3_offentlighed_quiz
+   2.3.4a_vaernepligt_quiz
+   2.3.4b_borgerligt_ombud_quiz
+   2.3.4c_straf_quiz
+   2.3.4d_straffesager_quiz

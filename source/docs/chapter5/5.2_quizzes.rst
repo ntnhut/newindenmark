@@ -1,0 +1,13 @@
+Quizzer til 5.2
+=======================
+
+.. toctree::
+   :maxdepth: 1
+
+   5.2a_tidlig_litteratur_quiz
+   5.2b_holberg_og_andersen_quiz
+   5.2c_nationalromantik_og_blicher_quiz
+   5.2d_det_moderne_gennembrud_quiz
+   5.2e_forfattere_1900_tallet_quiz
+   5.2f_efterkrigstidens_litteratur_quiz
+   5.2g_samtidslitteratur_quiz

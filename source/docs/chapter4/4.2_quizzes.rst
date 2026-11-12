@@ -1,4 +1,4 @@
-Quizzes for section 4.2
+Quizzer til 4.2
 =======================
 
 .. toctree::

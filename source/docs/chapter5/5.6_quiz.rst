@@ -1,0 +1,187 @@
+Quiz til 5.6 Scenekunst
+=======================
+
+Der er 29 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad har scenekunstens genrer som skuespil, ballet, opera og revy til fælles?
+
+    1. [ ] De kan kun opleves som film
+    2. [x] De opføres her og nu foran et publikum
+    3. [ ] De indeholder altid sang
+
+    ## Hvilken forfatter var den første til at skrive komedier på dansk?
+
+    1. [x] Ludvig Holberg
+    2. [ ] H.C. Andersen
+    3. [ ] Henrik Pontoppidan
+
+    ## Hvem skrev komedien Erasmus Montanus?
+
+    1. [ ] Adam Oehlenschläger
+    2. [ ] Kjeld Abell
+    3. [x] Ludvig Holberg
+
+    ## Hvad lagde romantikkens dramatik vægt på?
+
+    1. [ ] Kun nøgterne beskrivelser af fabriksarbejde
+    2. [x] Store lidenskaber og følelser, ofte med inspiration fra historie og eventyr
+    3. [ ] Udelukkende politiske debatter uden fiktive personer
+
+    ## Hvem skrev eventyrspillet Aladdin eller Den Forunderlige Lampe?
+
+    1. [x] Adam Oehlenschläger
+    2. [ ] Ludvig Holberg
+    3. [ ] Leif Panduro
+
+    ## Hvad var Johan Ludvig Heiberg blandt andet kendt for ved Det Kongelige Teater?
+
+    1. [ ] Han var balletdanser
+    2. [ ] Han var operasanger
+    3. [x] Han var direktør og forfatter for scenen
+
+    ## Hvad var Johanne Luise Heiberg særligt kendt for?
+
+    1. [ ] Hun var arkitekt
+    2. [x] Hun var skuespiller
+    3. [ ] Hun var billedhugger
+
+    ## Hvad er en vaudeville?
+
+    1. [x] Et lystspil, der forener dramatik og musik
+    2. [ ] En stumfilm uden musik
+    3. [ ] En skulptur af en rytter
+
+    ## Hvilken kunstart forbindes August Bournonville især med?
+
+    1. [ ] Jazz
+    2. [ ] Film
+    3. [x] Ballet
+
+    ## Hvilken ballet er særligt kendt i August Bournonvilles koreografi?
+
+    1. [ ] Dødens triumf
+    2. [x] Sylfiden
+    3. [ ] Skatteøen
+
+    ## Hvem skabte balletten Dødens triumf sammen med rockmusikerne i Savage Rose?
+
+    1. [x] Flemming Flindt
+    2. [ ] August Bournonville
+    3. [ ] Victor Borge
+
+    ## Hvem skrev skuespillet Anna Sophie Hedvig?
+
+    1. [ ] Kaj Munk
+    2. [ ] Line Knutzon
+    3. [x] Kjeld Abell
+
+    ## Hvad opfordrede Kjeld Abell indirekte til med Anna Sophie Hedvig?
+
+    1. [ ] Støtte til den tyske besættelsesmagt
+    2. [x] Modstand mod fascisme og nazisme
+    3. [ ] Et forbud mod politisk teater
+
+    ## Hvad var Kaj Munk særligt kendt for?
+
+    1. [x] Han var præst og dramatiker
+    2. [ ] Han var arkitekt og designer
+    3. [ ] Han var komponist og dirigent
+
+    ## Hvem skrev dramaet Niels Ebbesen for at vække modstand mod nazismen og besættelsesmagten?
+
+    1. [ ] Ludvig Holberg
+    2. [ ] Leif Panduro
+    3. [x] Kaj Munk
+
+    ## Hvad skete der med Kaj Munk under den tyske besættelse i 1944?
+
+    1. [ ] Han blev udnævnt til statsminister
+    2. [x] Han blev myrdet af nazister
+    3. [ ] Han modtog Nobelprisen i litteratur
+
+    ## Hvem skrev teksten til visen Man binder os på mund og hånd?
+
+    1. [x] Poul Henningsen
+    2. [ ] Johannes Ewald
+    3. [ ] N.F.S. Grundtvig
+
+    ## Hvem sang Man binder os på mund og hånd i revyen Dyveke?
+
+    1. [ ] Anne Linnet
+    2. [ ] Grethe Ingmann
+    3. [x] Liva Weel
+
+    ## Hvilket budskab hørte publikum i Man binder os på mund og hånd under besættelsen?
+
+    1. [ ] Støtte til censuren
+    2. [x] Modstand og sammenhold om frihed
+    3. [ ] Ros af besættelsesmagten
+
+    ## Hvad blev Victor Borge internationalt kendt for?
+
+    1. [x] Shows, der kombinerede komik og musik
+    2. [ ] Romantiske balletter
+    3. [ ] Historiske skulpturer
+
+    ## Hvem skrev tv-dramaet Farvel Thomas?
+
+    1. [ ] Kjeld Abell
+    2. [ ] Johan Ludvig Heiberg
+    3. [x] Leif Panduro
+
+    ## Hvilke emner var centrale i Leif Panduros tv-dramatik?
+
+    1. [ ] Vikingernes togter
+    2. [x] Konflikter i familien og mellem generationer
+    3. [ ] Livet på en afrikansk kaffefarm
+
+    ## Hvilken dramatiker skrev Først bliver man jo født?
+
+    1. [x] Line Knutzon
+    2. [ ] Emma Gad
+    3. [ ] Tove Ditlevsen
+
+    ## Hvad kendetegner Line Knutzons dramatik?
+
+    1. [ ] Kun højtidelige historiske tragedier
+    2. [ ] Kun realistiske skildringer uden humor
+    3. [x] Satire, samfundskritik og absurd humor
+
+    ## Hvad kombinerer en musical?
+
+    1. [ ] Kun instrumentalmusik og malerkunst
+    2. [x] Skuespil og dialog med musik og dans
+    3. [ ] Kun talte replikker uden musik
+
+    ## Hvem skrev musikken til de danske musicals Skatteøen og Ronja Røverdatter?
+
+    1. [x] Sebastian
+    2. [ ] Carl Nielsen
+    3. [ ] Bent Fabricius Bjerre
+
+    ## Hvilken forfatters fortælling bygger Ronja Røverdatter på?
+
+    1. [ ] H.C. Andersens
+    2. [ ] Bjarne Reuters
+    3. [x] Astrid Lindgrens
+
+    ## Hvad er standupcomedy?
+
+    1. [ ] En ballet uden musik
+    2. [x] En komiker fortæller jokes og underholdende historier direkte til publikum
+    3. [ ] En filmgenre med mange tekniske effekter
+
+    ## Hvad er Casper Christensen, Anders Matthesen og Nikolai Stokholm blandt andet kendt for?
+
+    1. [x] Standupcomedy
+    2. [ ] Salmedigtning
+    3. [ ] Klassisk ballet

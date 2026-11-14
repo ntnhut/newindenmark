@@ -1,0 +1,169 @@
+Quiz til 5.4 Musik
+==================
+
+Der er 26 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilke musikinstrumenter fra bronzealderen er bevaret i Danmark?
+
+    1. [ ] Klaverer
+    2. [x] Store horn, der kaldes lurer
+    3. [ ] Violiner
+
+    ## Hvorfor er reformationen også blevet kaldt den syngende revolution?
+
+    1. [x] Menighedens salmesang blev en vigtig del af gudstjenesten
+    2. [ ] Opera blev obligatorisk i alle skoler
+    3. [ ] Alle gamle folkeviser blev forbudt
+
+    ## Hvad er Thomas Kingo, Hans Adolph Brorson og B.S. Ingemann blandt andet kendt for?
+
+    1. [ ] De var jazzmusikere
+    2. [ ] De var operasangere
+    3. [x] De var salmedigtere
+
+    ## Hvem har skrevet et stort antal salmer i Den Danske Salmebog?
+
+    1. [ ] Herman Bang
+    2. [x] N.F.S. Grundtvig
+    3. [ ] Ludvig Holberg
+
+    ## Hvem skrev musikken til det nationalromantiske festspil Elverhøi?
+
+    1. [x] Friedrich Kuhlau
+    2. [ ] Carl Nielsen
+    3. [ ] Bent Fabricius Bjerre
+
+    ## Hvilke to sange regnes som Danmarks nationalsange?
+
+    1. [ ] Dansevise og Only Teardrops
+    2. [ ] Kvinde min og Barbie Girl
+    3. [x] Kong Christian stod ved højen mast og Der er et yndigt land
+
+    ## Hvem skrev teksten til Kong Christian stod ved højen mast?
+
+    1. [ ] Adam Oehlenschläger
+    2. [x] Johannes Ewald
+    3. [ ] N.F.S. Grundtvig
+
+    ## Hvem skrev teksten til Der er et yndigt land?
+
+    1. [x] Adam Oehlenschläger
+    2. [ ] Johannes Ewald
+    3. [ ] B.S. Ingemann
+
+    ## Hvem komponerede musikken til Der er et yndigt land?
+
+    1. [ ] Friedrich Kuhlau
+    2. [ ] Carl Nielsen
+    3. [x] Hans Ernst Krøyer
+
+    ## Hvad var Carl Nielsen særligt kendt for?
+
+    1. [ ] Han var kunstmaler
+    2. [x] Han var komponist
+    3. [ ] Han var filminstruktør
+
+    ## Hvilken musikgenre forbindes Leo Mathisen, Palle Mikkelborg og Marilyn Mazur med?
+
+    1. [x] Jazz
+    2. [ ] Opera
+    3. [ ] Heavy metal
+
+    ## Hvilken dansk by blev i 1960'erne et kunstnerisk fristed for amerikanske jazzmusikere som Stan Getz?
+
+    1. [ ] Ribe
+    2. [ ] Skagen
+    3. [x] København
+
+    ## Hvilken komponist skrev melodier til film og tv-serier, blandt andet Matador?
+
+    1. [ ] Carl Nielsen
+    2. [x] Bent Fabricius Bjerre
+    3. [ ] Friedrich Kuhlau
+
+    ## Hvad hed forsangeren i Gasolin?
+
+    1. [x] Kim Larsen
+    2. [ ] Lukas Forchhammer
+    3. [ ] Jørgen Olsen
+
+    ## Hvilket band er kendt for sangene Kvinde min og Hva' gør vi nu, lille du?
+
+    1. [ ] Aqua
+    2. [ ] TV2
+    3. [x] Gasolin
+
+    ## Hvilken dansk sanger og sangskriver er kendt for Smuk og dejlig?
+
+    1. [ ] MØ
+    2. [x] Anne Linnet
+    3. [ ] Emmelie de Forest
+
+    ## Hvilket band fra Aarhus kaldte sig Danmarks kedeligste orkester og er kendt for Nærmest lykkelig?
+
+    1. [x] TV2
+    2. [ ] Gasolin
+    3. [ ] Lukas Graham
+
+    ## Hvilken popgruppe udgav det internationale hit Barbie Girl i 1990'erne?
+
+    1. [ ] Gasolin
+    2. [ ] TV2
+    3. [x] Aqua
+
+    ## Hvem er forsanger i Lukas Graham?
+
+    1. [ ] Kim Larsen
+    2. [x] Lukas Forchhammer
+    3. [ ] Niels Olsen
+
+    ## Hvilken gruppe fik et internationalt hit med 7 Years?
+
+    1. [x] Lukas Graham
+    2. [ ] Aqua
+    3. [ ] TV2
+
+    ## Under hvilket kunstnernavn er sangerinden Karen Marie Ørsted kendt?
+
+    1. [ ] Björk
+    2. [ ] Medina
+    3. [x] MØ
+
+    ## Hvilken sang blev MØ's gennembrud i 2013?
+
+    1. [ ] Barbie Girl
+    2. [x] Pilgrim
+    3. [ ] Only Teardrops
+
+    ## Hvor mange gange har Danmark ifølge bogen vundet Eurovision Song Contest?
+
+    1. [x] Tre gange
+    2. [ ] Én gang
+    3. [ ] Fem gange
+
+    ## Hvem vandt Eurovision for Danmark med Dansevise i 1963?
+
+    1. [ ] Brødrene Olsen
+    2. [ ] Emmelie de Forest
+    3. [x] Grethe og Jørgen Ingmann
+
+    ## Hvilken duo vandt Eurovision i 2000 med Smuk som et stjerneskud, også kaldet Fly on the Wings of Love?
+
+    1. [ ] Grethe og Jørgen Ingmann
+    2. [x] Brødrene Olsen
+    3. [ ] Gasolin
+
+    ## Hvem vandt Eurovision for Danmark med Only Teardrops i 2013?
+
+    1. [x] Emmelie de Forest
+    2. [ ] Anne Linnet
+    3. [ ] MØ

@@ -1,0 +1,115 @@
+Quiz til 5.5 Arkitektur og design
+=================================
+
+Der er 17 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad har man traditionelt lagt vægt på i dansk arkitektur og design?
+
+    1. [ ] Så meget udsmykning som muligt
+    2. [x] Praktiske funktioner og enkelhed
+    3. [ ] At bygninger kun skulle vise ejerens rigdom
+
+    ## Hvem tegnede Københavns domkirke, Vor Frue Kirke?
+
+    1. [x] C.F. Hansen
+    2. [ ] Jørn Utzon
+    3. [ ] Bjarke Ingels
+
+    ## Hvad lægger funktionalismen især vægt på?
+
+    1. [ ] Dyre ornamenter og overdådig udsmykning
+    2. [ ] At kopiere middelalderens borge
+    3. [x] Praktiske funktioner og et enkelt udtryk
+
+    ## I hvilket årti opstod funktionalismen?
+
+    1. [ ] I 1720'erne
+    2. [x] I 1920'erne
+    3. [ ] I 1980'erne
+
+    ## Hvilket socialt mål var knyttet til funktionalismen?
+
+    1. [x] Mere social lighed og bedre boliger
+    2. [ ] Større forskelle mellem samfundsklasserne
+    3. [ ] At kun de rigeste skulle have moderne møbler
+
+    ## Hvilket dansk universitet nævnes som et eksempel på funktionalisme?
+
+    1. [ ] Københavns Universitet
+    2. [ ] Syddansk Universitet
+    3. [x] Aarhus Universitet
+
+    ## Hvad blev Poul Henningsen, også kaldet PH, mest kendt for inden for design?
+
+    1. [ ] Stole
+    2. [x] Lamper
+    3. [ ] Kaffekander
+
+    ## Hvad var en vigtig egenskab ved PH's lamper?
+
+    1. [x] De gjorde det elektriske lys blændfrit
+    2. [ ] De kunne kun bruges udendørs
+    3. [ ] De var lavet til stearinlys
+
+    ## Hvilken designer udviklede enkle, funktionalistiske møbler for FDB?
+
+    1. [ ] Poul Henningsen
+    2. [ ] C.F. Hansen
+    3. [x] Børge Mogensen
+
+    ## Hvilke fagområder er Arne Jacobsen kendt for?
+
+    1. [ ] Litteratur og teater
+    2. [x] Arkitektur og design
+    3. [ ] Musik og ballet
+
+    ## Hvilken arkitekt tegnede Danmarks Nationalbank og Aarhus Rådhus?
+
+    1. [x] Arne Jacobsen
+    2. [ ] Jørn Utzon
+    3. [ ] Dorte Mandrup
+
+    ## Hvilken designer står bag stolene 7'eren og Ægget?
+
+    1. [ ] Børge Mogensen
+    2. [ ] Poul Henningsen
+    3. [x] Arne Jacobsen
+
+    ## Hvilken dansk arkitekt tegnede operahuset i Sydney i Australien?
+
+    1. [ ] C.F. Hansen
+    2. [x] Jørn Utzon
+    3. [ ] Bjarke Ingels
+
+    ## Hvilken arkitekt står bag Isfjordcenteret ved Ilulissat og Vadehavscentret i Ribe?
+
+    1. [x] Dorte Mandrup
+    2. [ ] Arne Jacobsen
+    3. [ ] Jørn Utzon
+
+    ## Hvad kendetegner Dorte Mandrups arkitektur?
+
+    1. [ ] Alle bygninger har samme form uanset stedet
+    2. [ ] Bygningerne kopierer altid græske templer
+    3. [x] Omgivelserne og landskabet inspirerer bygningerne
+
+    ## Hvilken arkitekt står sammen med sin tegnestue BIG bag Amager Bakke, også kaldet Copenhill?
+
+    1. [ ] Børge Mogensen
+    2. [x] Bjarke Ingels
+    3. [ ] C.F. Hansen
+
+    ## Hvilke funktioner kombinerer Copenhill?
+
+    1. [x] Affaldsforbrænding og fritidsaktiviteter som skiløb
+    2. [ ] Operahus og koncertsal
+    3. [ ] Universitet og hospital

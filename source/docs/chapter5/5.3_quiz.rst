@@ -1,0 +1,193 @@
+Quiz til 5.3 Billedkunst og skulptur
+====================================
+
+Der er 30 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Fra hvilken periode stammer Solvognen?
+
+    1. [ ] Vikingetiden
+    2. [x] Bronzealderen
+    3. [ ] Middelalderen
+
+    ## Hvad forestiller Solvognen?
+
+    1. [x] Solen, der bliver trukket af en hest
+    2. [ ] En konge, der kører i vogn
+    3. [ ] Et skib med vikinger
+
+    ## Hvor blev guldhornene fundet?
+
+    1. [ ] Ved Skagen i Nordjylland
+    2. [ ] Ved Roskilde på Sjælland
+    3. [x] Ved Gallehus i Sønderjylland
+
+    ## Hvad skete der med de oprindelige guldhorn i 1802?
+
+    1. [ ] De blev flyttet til Rom
+    2. [x] De blev stjålet og smeltet om
+    3. [ ] De blev begravet ved Jelling
+
+    ## Hvilket formål havde middelalderens kalkmalerier i kirkerne?
+
+    1. [x] At formidle kristendommens budskaber til mennesker, der ikke kunne læse Bibelen
+    2. [ ] At vise kongens militære sejre
+    3. [ ] At reklamere for købmandens varer
+
+    ## Hvordan støttede Christian 4. kunsten?
+
+    1. [ ] Han forbød kunst i kirkerne
+    2. [ ] Han lukkede alle kunstnernes værksteder
+    3. [x] Han hentede udenlandske malere til at male kongefamilien og udsmykke slottene
+
+    ## Hvilken konge grundlagde Det Kongelige Danske Kunstakademi?
+
+    1. [ ] Christian 9.
+    2. [x] Frederik 5.
+    3. [ ] Harald Blåtand
+
+    ## Hvem skabte rytterstatuen af Frederik 5. på Amalienborg Slotsplads?
+
+    1. [x] Jacques-François-Joseph Saly
+    2. [ ] Bertel Thorvaldsen
+    3. [ ] Anne Marie Carl-Nielsen
+
+    ## Hvilken periode kaldes Guldalderen i dansk kulturhistorie?
+
+    1. [ ] Første halvdel af 1500-tallet
+    2. [ ] Sidste halvdel af 1900-tallet
+    3. [x] Første halvdel af 1800-tallet
+
+    ## Hvad var Søren Kierkegaard, der levede i 1800-tallet, særligt kendt for?
+
+    1. [ ] Han var billedhugger
+    2. [x] Han var filosof
+    3. [ ] Han var komponist
+
+    ## Hvilket fagområde forbindes H.C. Ørsted med?
+
+    1. [x] Fysik
+    2. [ ] Ballet
+    3. [ ] Malerkunst
+
+    ## Hvad var Bertel Thorvaldsen særligt kendt for?
+
+    1. [ ] Han var romanforfatter
+    2. [ ] Han var komponist
+    3. [x] Han var billedhugger
+
+    ## I hvilken by ligger Thorvaldsens Museum?
+
+    1. [ ] Aarhus
+    2. [x] København
+    3. [ ] Odense
+
+    ## Hvilken kunstner fra Guldalderen er kendt som maler?
+
+    1. [x] C.W. Eckersberg
+    2. [ ] Ludvig Holberg
+    3. [ ] Carl Nielsen
+
+    ## Hvilke motiver er Vilhelm Hammershøi især kendt for?
+
+    1. [ ] Søslag og krigsskibe
+    2. [ ] Fabrikker og maskiner
+    3. [x] Lys og skygge i boligens rum
+
+    ## Hvem malede Interiør fra Strandgade 30?
+
+    1. [ ] P.S. Krøyer
+    2. [x] Vilhelm Hammershøi
+    3. [ ] Asger Jorn
+
+    ## Hvad var Anna Ancher og Michael Ancher særligt kendt for?
+
+    1. [x] De var kunstmalere
+    2. [ ] De var komponister
+    3. [ ] De var filminstruktører
+
+    ## Ved hvilken by malede Anna Ancher og Michael Ancher mange af deres billeder i slutningen af 1800-tallet?
+
+    1. [ ] Silkeborg
+    2. [ ] Viborg
+    3. [x] Skagen
+
+    ## Hvilken maler hørte sammen med Anna og Michael Ancher til Skagensmalerne?
+
+    1. [ ] C.W. Eckersberg
+    2. [x] P.S. Krøyer
+    3. [ ] Per Kirkeby
+
+    ## Hvad var Anne Marie Carl-Nielsen særligt kendt for?
+
+    1. [x] Hun var billedhugger
+    2. [ ] Hun var komponist
+    3. [ ] Hun var skuespiller
+
+    ## Hvilke værker er Anne Marie Carl-Nielsen kendt for?
+
+    1. [ ] Your rainbow panorama og gobelinerne på Christiansborg
+    2. [ ] Solvognen og guldhornene
+    3. [x] Rytterstatuen af Christian 9. og bronzeportene i Ribe Domkirke
+
+    ## Hvilken sag kæmpede Anne Marie Carl-Nielsen for?
+
+    1. [ ] At kunst kun skulle være for kongen og adelen
+    2. [x] Kvinders adgang til kunstuddannelse og udstillinger på lige fod med mænd
+    3. [ ] At kvinder ikke måtte udstille kunst
+
+    ## Hvilken international kunstnergruppe var Asger Jorn med til at stifte?
+
+    1. [x] Cobra
+    2. [ ] Dogme 95
+    3. [ ] Skagensmalerne
+
+    ## Hvem malede Stalingrad?
+
+    1. [ ] Vilhelm Hammershøi
+    2. [ ] C.W. Eckersberg
+    3. [x] Asger Jorn
+
+    ## Hvilken type kunst er Per Kirkeby internationalt kendt for?
+
+    1. [ ] Nationalromantiske teaterstykker
+    2. [x] Store abstrakte malerier med inspiration fra naturen
+    3. [ ] Filmkomedier om hverdagslivet
+
+    ## Hvilke to kunstnere skabte aktionen Den kvindelige Kristus?
+
+    1. [x] Lene Adler Petersen og Bjørn Nørgaard
+    2. [ ] Anna Ancher og Michael Ancher
+    3. [ ] Anne Marie Carl-Nielsen og Carl Nielsen
+
+    ## Hvem står bag gobelinerne i riddersalen på Christiansborg?
+
+    1. [ ] Olafur Eliasson
+    2. [ ] Bertel Thorvaldsen
+    3. [x] Bjørn Nørgaard
+
+    ## Hvad skildrer gobelinerne på Christiansborg?
+
+    1. [ ] Udelukkende dronningens barndom
+    2. [x] Danmarks historie fra vikingetiden til nutiden
+    3. [ ] Historien om de græske guder
+
+    ## Hvem skabte Your rainbow panorama, også kaldet Din regnbueudsigt?
+
+    1. [x] Olafur Eliasson
+    2. [ ] Per Kirkeby
+    3. [ ] Asger Jorn
+
+    ## Hvor findes Your rainbow panorama?
+
+    1. [ ] På Nationalmuseet i København
+    2. [ ] Ved Ribe Domkirke
+    3. [x] Oven på kunstmuseet ARoS i Aarhus

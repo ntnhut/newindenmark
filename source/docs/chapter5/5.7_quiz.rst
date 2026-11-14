@@ -1,8 +1,7 @@
 Quiz til 5.7 Film
 ================
 
-Spørgsmålene følger bogens rækkefølge og fokuserer på de vigtigste navne,
-værker og bidrag til dansk film og tv.
+Der er 44 spørgsmål i quizzen.
 
 .. quizdown::
 

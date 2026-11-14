@@ -1,9 +1,0 @@
-Quizzer til 5.5
-=======================
-
-.. toctree::
-   :maxdepth: 1
-
-   5.5a_historisk_arkitektur_quiz
-   5.5b_funktionalisme_quiz
-   5.5c_nyere_arkitektur_og_design_quiz

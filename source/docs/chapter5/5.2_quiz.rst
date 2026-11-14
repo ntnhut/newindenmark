@@ -1,0 +1,277 @@
+Quiz til 5.2 Litteratur
+=======================
+
+Der er 44 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilket sprog og skriftsystem blev brugt i den ældste danske litteratur?
+
+    1. [ ] Dansk skrevet med latinske bogstaver
+    2. [x] Oldnordisk skrevet med runer
+    3. [ ] Latin skrevet med runer
+
+    ## Hvor findes den mest kendte danske runeindskrift?
+
+    1. [x] På Harald Blåtands Jellingsten
+    2. [ ] På Rundetårn
+    3. [ ] På Kronborg
+
+    ## Hvem skrev danmarkshistorien Gesta Danorum?
+
+    1. [ ] Ludvig Holberg
+    2. [ ] H.C. Andersen
+    3. [x] Saxo
+
+    ## På hvilket sprog skrev Saxo Gesta Danorum i middelalderen?
+
+    1. [ ] Tysk
+    2. [x] Latin
+    3. [ ] Fransk
+
+    ## Hvem skrev Jammers Minde om sit lange fængselsophold?
+
+    1. [x] Leonora Christina
+    2. [ ] Karen Blixen
+    3. [ ] Tove Ditlevsen
+
+    ## Hvilken forfatter fra oplysningstiden skrev komedien Jeppe på Bjerget?
+
+    1. [ ] Adam Oehlenschläger
+    2. [ ] Henrik Pontoppidan
+    3. [x] Ludvig Holberg
+
+    ## Hvilke idealer ville Ludvig Holberg fremme?
+
+    1. [ ] Blind lydighed over for autoriteter
+    2. [x] Oplysning, tolerance og kritisk tænkning
+    3. [ ] En tilbagevenden til vikingetidens religion
+
+    ## Hvilken genre gjorde især H.C. Andersen verdensberømt?
+
+    1. [x] Eventyr
+    2. [ ] Kriminalromaner
+    3. [ ] Historiebøger
+
+    ## Hvilke fortællinger er skrevet af H.C. Andersen?
+
+    1. [ ] Jeppe på Bjerget og Ved Vejen
+    2. [ ] Pelle Erobreren og Ditte Menneskebarn
+    3. [x] Den grimme ælling og Kejserens nye klæder
+
+    ## I hvilken dansk by blev H.C. Andersen født?
+
+    1. [ ] Aarhus
+    2. [x] Odense
+    3. [ ] Aalborg
+
+    ## Hvad ville nationalromantikken fremhæve?
+
+    1. [x] Det særligt danske i kultur, natur og historie
+    2. [ ] Industriens tekniske fremskridt
+    3. [ ] Et opgør med alle nationale traditioner
+
+    ## Hvem skrev teksten til nationalsangen Der er et yndigt land?
+
+    1. [ ] N.F.S. Grundtvig
+    2. [ ] Johannes Ewald
+    3. [x] Adam Oehlenschläger
+
+    ## Hvilken digter skrev Guldhornene?
+
+    1. [ ] Michael Strunge
+    2. [x] Adam Oehlenschläger
+    3. [ ] Yahya Hassan
+
+    ## Hvilken del af Danmark og dens befolkning skrev Steen Steensen Blicher især om?
+
+    1. [x] Jylland
+    2. [ ] Bornholm
+    3. [ ] København
+
+    ## Hvem skrev Brudstykker af en Landsbydegns Dagbog?
+
+    1. [ ] Herman Bang
+    2. [ ] Klaus Rifbjerg
+    3. [x] Steen Steensen Blicher
+
+    ## Hvad kendetegnede det moderne gennembrud i slutningen af 1800-tallet?
+
+    1. [ ] En genoplivning af middelalderens latinske litteratur
+    2. [x] Et opgør med nationalromantikken og traditionelle holdninger til blandt andet religion og kønsroller
+    3. [ ] Et ønske om kun at skrive om konger og adel
+
+    ## Hvem skrev romanen Ved Vejen?
+
+    1. [x] Herman Bang
+    2. [ ] Martin Andersen Nexø
+    3. [ ] Johannes V. Jensen
+
+    ## Hvem skrev romanen Lykke-Per?
+
+    1. [ ] Herman Bang
+    2. [ ] Steen Steensen Blicher
+    3. [x] Henrik Pontoppidan
+
+    ## Hvilken pris modtog Henrik Pontoppidan i 1917?
+
+    1. [ ] Nobelprisen i fysik
+    2. [x] Nobelprisen i litteratur
+    3. [ ] En Oscar
+
+    ## Hvem skrev romanerne Pelle Erobreren og Ditte Menneskebarn?
+
+    1. [x] Martin Andersen Nexø
+    2. [ ] Henrik Pontoppidan
+    3. [ ] Morten Korch
+
+    ## Hvilke mennesker skrev Martin Andersen Nexø især om?
+
+    1. [ ] Konger og adelige i middelalderen
+    2. [ ] Opdagelsesrejsende i Afrika
+    3. [x] Fattige mennesker og deres kamp for bedre arbejds- og levevilkår
+
+    ## Hvem skrev Takt og Tone om, hvordan man bør opføre sig?
+
+    1. [ ] Karen Blixen
+    2. [x] Emma Gad
+    3. [ ] Leonora Christina
+
+    ## Hvem skrev den historiske roman Kongens Fald?
+
+    1. [x] Johannes V. Jensen
+    2. [ ] Henrik Pontoppidan
+    3. [ ] Ludvig Holberg
+
+    ## Hvilken af følgende fortællingssamlinger er skrevet af Johannes V. Jensen?
+
+    1. [ ] Har døden taget noget fra dig, så giv det tilbage. Carls bog
+    2. [ ] Jammers Minde
+    3. [x] Himmerlandshistorier
+
+    ## Hvilken nobelpris modtog Johannes V. Jensen i 1944?
+
+    1. [ ] Nobelprisen i kemi
+    2. [x] Nobelprisen i litteratur
+    3. [ ] Nobels fredspris
+
+    ## Hvem skrev Den Afrikanske Farm?
+
+    1. [x] Karen Blixen
+    2. [ ] Tove Ditlevsen
+    3. [ ] Emma Gad
+
+    ## I hvilket land havde Karen Blixen den kaffefarm, hun fortæller om i Den Afrikanske Farm?
+
+    1. [ ] Egypten
+    2. [ ] Sydafrika
+    3. [x] Kenya
+
+    ## Hvem skrev romanen Barndommens Gade?
+
+    1. [ ] Naja Marie Aidt
+    2. [x] Tove Ditlevsen
+    3. [ ] Suzanne Brøgger
+
+    ## Hvilke emner er centrale i Tove Ditlevsens forfatterskab?
+
+    1. [x] At være barn, kvinde og fattig
+    2. [ ] Vikingetidens konger og krige
+    3. [ ] Fremtidens teknologi og rumrejser
+
+    ## Hvem skrev ungdomsromanen Den kroniske uskyld?
+
+    1. [ ] Herman Bang
+    2. [ ] Johannes V. Jensen
+    3. [x] Klaus Rifbjerg
+
+    ## Hvad er Suzanne Brøgger særligt kendt for?
+
+    1. [ ] Hun er billedhugger
+    2. [x] Hun er forfatter og har blandt andet skrevet om kvindefrigørelse
+    3. [ ] Hun er komponist
+
+    ## Hvad var Inger Christensen særligt kendt for?
+
+    1. [x] Hun var digter
+    2. [ ] Hun var kunstmaler
+    3. [ ] Hun var skuespiller
+
+    ## Hvem skrev digtet Sommerfugledalen?
+
+    1. [ ] Tove Ditlevsen
+    2. [ ] Helle Helle
+    3. [x] Inger Christensen
+
+    ## Hvad er Naja Marie Aidt særligt kendt for?
+
+    1. [ ] Hun er arkitekt
+    2. [x] Hun er forfatter og har skrevet digte, noveller og romaner
+    3. [ ] Hun er balletdanser
+
+    ## Hvem skrev Har døden taget noget fra dig, så giv det tilbage. Carls bog om sorgen over sin søns død?
+
+    1. [x] Naja Marie Aidt
+    2. [ ] Suzanne Brøgger
+    3. [ ] Inger Christensen
+
+    ## Hvilken digter fra 1980'erne skrev Verdenssøn?
+
+    1. [ ] Yahya Hassan
+    2. [ ] Adam Oehlenschläger
+    3. [x] Michael Strunge
+
+    ## Hvad var Yahya Hassan særligt kendt for?
+
+    1. [ ] Han var filminstruktør
+    2. [x] Han var digter
+    3. [ ] Han var komponist
+
+    ## Hvilke erfaringer skrev Yahya Hassan især om?
+
+    1. [x] Opvækst og ungdomsliv som indvandrer i et socialt belastet kvarter
+    2. [ ] Livet på en kaffefarm i Kenya
+    3. [ ] Livet ved kongens hof i 1500-tallet
+
+    ## Hvem skrev Rødby-Puttgarden og romanerne om Hafni?
+
+    1. [ ] Leonora Christina Skov
+    2. [ ] Tove Ditlevsen
+    3. [x] Helle Helle
+
+    ## Hvad kendetegner Helle Helles forfatterskab?
+
+    1. [ ] Historiske dramaer om konger og adel
+    2. [x] Nedtonede beskrivelser af hverdagslivet i Danmarks mindre byer
+    3. [ ] Eventyr med overnaturlige væsener
+
+    ## Hvad er autofiktion?
+
+    1. [x] Litteratur, der blander forfatterens egne oplevelser med fiktive elementer
+    2. [ ] Litteratur, der udelukkende handler om biler
+    3. [ ] Historiske værker uden opdigtede elementer
+
+    ## Hvem skrev Den, der lever stille?
+
+    1. [ ] Leonora Christina
+    2. [ ] Naja Marie Aidt
+    3. [x] Leonora Christina Skov
+
+    ## Hvem skrev romantrilogien Hvis der skulle komme et menneske forbi, En dag vil vi grine af det og Man skulle nok have været der?
+
+    1. [ ] Glenn Bech
+    2. [x] Thomas Korsgaard
+    3. [ ] Klaus Rifbjerg
+
+    ## Hvem skrev Farskibet og det politiske kampskrift Jeg anerkender ikke længere jeres autoritet?
+
+    1. [x] Glenn Bech
+    2. [ ] Thomas Korsgaard
+    3. [ ] Michael Strunge

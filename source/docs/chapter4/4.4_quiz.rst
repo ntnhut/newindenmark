@@ -1,0 +1,164 @@
+Quiz til 4.4 Danmarks udenrigs- og sikkerhedspolitik
+====================================================
+
+Der er 25 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvornår blev Danmark medlem af NATO?
+
+    1. [ ] 1945
+    2. [x] 1949
+    3. [ ] 1973
+
+    ## Hvad er en typisk opgave i FN’s fredsbevarende missioner?
+
+    1. [x] At sikre våbenhviler og beskytte civilbefolkningen
+    2. [ ] At gennemføre medlemslandenes nationale valg
+    3. [ ] At opkræve skat til genopbygning af et land
+
+    ## Hvad er NATO?
+
+    1. [ ] En international frihandelsorganisation
+    2. [ ] En international menneskerettighedsdomstol
+    3. [x] En international forsvarsalliance
+
+    ## Hvad kendetegner Danmarks aktivistiske udenrigspolitik efter Den Kolde Krig?
+
+    1. [ ] En tilbagevenden til fuld neutralitet i alle internationale konflikter
+    2. [x] Mere aktiv deltagelse i internationale konflikter, også ud over fredsbevaring
+    3. [ ] Udelukkende deltagelse i humanitært arbejde uden militære bidrag
+
+    ## Hvordan bidrog Danmark til indsatsen efter Iraks besættelse af Kuwait i 1990-91?
+
+    1. [x] Med et krigsskib, der håndhævede handelsblokaden mod Irak
+    2. [ ] Med kampfly, der bombede Kuwaits regering
+    3. [ ] Med landstyrker, der besatte Iraks hovedstad
+
+    ## Hvor blev danske FN-soldater involveret i kampe med serbiske styrker i 1994?
+
+    1. [ ] Afghanistan
+    2. [ ] Irak
+    3. [x] Bosnien
+
+    ## Hvilken organisation greb militært ind i Kosovo i 1999 med blandt andet danske kampfly?
+
+    1. [ ] EU
+    2. [x] NATO
+    3. [ ] Europarådet
+
+    ## Hvilken terrororganisation stod bag angrebet på USA den 11. september 2001?
+
+    1. [x] Al Qaeda
+    2. [ ] Taliban
+    3. [ ] Islamisk Stat
+
+    ## Hvilket land sendte Danmark soldater til som følge af terrorangrebet på USA i 2001?
+
+    1. [ ] Irak
+    2. [ ] Libyen
+    3. [x] Afghanistan
+
+    ## Hvem genvandt magten i Afghanistan i 2021, da de internationale styrker trak sig ud?
+
+    1. [ ] Al Qaeda
+    2. [x] Taliban
+    3. [ ] Saddam Hussein
+
+    ## Hvilket land deltog Danmark i den amerikansk ledede invasion af i 2003?
+
+    1. [x] Irak
+    2. [ ] Afghanistan
+    3. [ ] Libyen
+
+    ## Hvilket internationalt grundlag havde invasionen af Irak i 2003?
+
+    1. [ ] En NATO-mission med klart FN-mandat
+    2. [ ] En militær operation ledet af EU
+    3. [x] En USA-ledet alliance uden klart FN-mandat
+
+    ## Hvad var formålet med den FN-godkendte intervention i Libyen i 2011?
+
+    1. [ ] At svare på Libyens invasion af Kuwait
+    2. [x] At beskytte civile mod Gadaffis overgreb
+    3. [ ] At bekæmpe Al Qaedas base for angrebet på USA i 2001
+
+    ## Hvad betyder territorialforsvar?
+
+    1. [x] At kunne forsvare sit eget territorium mod angreb
+    2. [ ] At sende militære styrker til fredsbevarende opgaver i andre lande
+    3. [ ] At beskytte internationale handelsruter uden for landets område
+
+    ## Hvilken begivenhed i februar 2022 skærpede Europas sikkerhedspolitiske situation?
+
+    1. [ ] Sovjetunionens opløsning
+    2. [ ] Danmarks indtræden i NATO
+    3. [x] Ruslands omfattende invasion af Ukraine
+
+    ## Hvordan har Danmark støttet Ukraine mod Ruslands angreb ifølge teksten?
+
+    1. [ ] Ved at sende danske styrker til at besætte Rusland
+    2. [x] Med våben, træning og penge
+    3. [ ] Ved at ophæve de økonomiske sanktioner mod Rusland
+
+    ## Hvilket lands voksende magt er ifølge teksten en årsag til USA’s øgede fokus på Asien og Stillehavet?
+
+    1. [x] Kina
+    2. [ ] Rusland
+    3. [ ] Indien
+
+    ## Hvordan har Danmark og andre europæiske lande reageret på de ændrede sikkerhedspolitiske forhold?
+
+    1. [ ] De har besluttet at fastholde forsvarsudgifterne
+    2. [ ] De har besluttet at reducere forsvarsudgifterne
+    3. [x] De har besluttet at øge forsvarsudgifterne
+
+    ## Hvorfor har Grønland stor militærstrategisk betydning?
+
+    1. [ ] Grønland ligger tæt på Middelhavets vigtigste søveje
+    2. [x] De korte fly- og missilruter mellem USA og Rusland går over Grønland
+    3. [ ] Grønland er det eneste NATO-område i Europa
+
+    ## Hvilket land begyndte at anlægge en militær base i det nordlige Grønland i 1951?
+
+    1. [x] USA
+    2. [ ] Tyskland
+    3. [ ] Canada
+
+    ## Hvor ligger den amerikanske Pituffik Space Base, tidligere kaldet Thulebasen?
+
+    1. [ ] På Færøerne
+    2. [ ] På Island
+    3. [x] I det nordlige Grønland
+
+    ## Hvordan kan afsmeltningen af isen øge Grønlands og Arktis’ strategiske betydning?
+
+    1. [ ] Den gør stormagterne mindre interesserede i råstoffer og skibsfart
+    2. [x] Den kan åbne for råstoffer og kortere skibsruter
+    3. [ ] Den gør råstoffer og skibsruter mindre tilgængelige
+
+    ## Hvordan har Grønlands og Danmarks regeringer ifølge teksten reageret på Donald Trumps ønske om Grønland som del af USA?
+
+    1. [x] Begge regeringer har afvist ønsket
+    2. [ ] Begge regeringer har accepteret ønsket
+    3. [ ] Kun den danske regering har accepteret ønsket
+
+    ## Hvad er hovedidéen i Ilulissat-erklæringen fra 2008?
+
+    1. [ ] At gøre alle arktiske områder til amerikansk territorium
+    2. [ ] At forbyde alle lande adgang til Det Arktiske Ocean
+    3. [x] Fredeligt samarbejde mellem de arktiske stater
+
+    ## Hvad er Arktisk Råds formål?
+
+    1. [ ] Fælles militært forsvar af de arktiske lande
+    2. [x] Samarbejde om bæredygtig udvikling i Arktis
+    3. [ ] At bestemme, hvem der skal eje Grønland
+

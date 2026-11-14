@@ -1,0 +1,152 @@
+Quiz til 4.3 Danmarks globale samarbejde
+========================================
+
+Der er 23 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvornår blev FN stiftet med Danmark som et af medlemslandene?
+
+    1. [ ] 1919
+    2. [x] 1945
+    3. [ ] 1949
+
+    ## Hvor mange medlemsstater har FN ifølge teksten?
+
+    1. [x] 193
+    2. [ ] 51
+    3. [ ] 150
+
+    ## Hvilke områder hører til FN’s vigtigste opgaver?
+
+    1. [ ] Fælles valuta, toldsatser og EU-lovgivning
+    2. [ ] Nationale skatter, politiske partier og regeringsdannelse
+    3. [x] Fred, menneskerettigheder, udvikling og humanitær hjælp
+
+    ## Hvor ligger FN's hovedkvarter?
+
+    1. [ ] Genève
+    2. [x] New York
+    3. [ ] København
+
+    ## Hvad er FN’s Sikkerhedsråds hovedopgave?
+
+    1. [x] At behandle trusler mod international fred og sikkerhed
+    2. [ ] At vedtage FN’s årlige budget
+    3. [ ] At fastsætte alle landes udviklingsbistand
+
+    ## Hvilke lande er de fem faste medlemmer af FN’s Sikkerhedsråd?
+
+    1. [ ] USA, Rusland, Kina, Tyskland og Japan
+    2. [ ] USA, Kina, Indien, Storbritannien og Brasilien
+    3. [x] USA, Rusland, Kina, Storbritannien og Frankrig
+
+    ## I hvilken periode er Danmark medlem af FN’s Sikkerhedsråd ifølge teksten?
+
+    1. [ ] 2027-28
+    2. [x] 2025-26
+    3. [ ] 2030-31
+
+    ## Hvad betyder vetoretten for Sikkerhedsrådets fem faste medlemmer?
+
+    1. [x] Et nej fra ét fast medlem kan blokere en beslutning
+    2. [ ] Et fast medlem kan alene vedtage en beslutning
+    3. [ ] Kun de faste medlemmer kan deltage i en afstemning
+
+    ## Hvor ligger FN-byen i Danmark?
+
+    1. [ ] Aarhus
+    2. [ ] Aalborg
+    3. [x] København
+
+    ## Hvilken FN-organisation arbejder med sundhed?
+
+    1. [ ] UNHCR
+    2. [x] WHO
+    3. [ ] UNICEF
+
+    ## Hvilken FN-organisation arbejder med flygtninge?
+
+    1. [x] UNHCR
+    2. [ ] WHO
+    3. [ ] UNICEF
+
+    ## Hvilken FN-organisation arbejder især for børn?
+
+    1. [ ] WHO
+    2. [ ] UNHCR
+    3. [x] UNICEF
+
+    ## Hvilken organisation har vedtaget de 17 verdensmål for bæredygtig udvikling?
+
+    1. [ ] EU
+    2. [x] FN
+    3. [ ] NATO
+
+    ## Hvilket år er tidshorisonten for FN’s 17 verdensmål?
+
+    1. [x] 2030
+    2. [ ] 2026
+    3. [ ] 2050
+
+    ## Hvilke lande gælder FN’s verdensmål for?
+
+    1. [ ] Kun verdens fattigste lande
+    2. [ ] Kun landene i Afrika og Asien
+    3. [x] Alle verdens lande, også Danmark
+
+    ## Hvilket af disse formål indgår i FN’s verdensmål?
+
+    1. [ ] At indføre en fælles global valuta
+    2. [x] At sikre ligestilling mellem kønnene
+    3. [ ] At gøre alle lande til medlemmer af NATO
+
+    ## Hvor stor en del af BNI er FN’s mål for udviklingsbistand, som Danmark opfylder ifølge teksten?
+
+    1. [x] 0,7 procent
+    2. [ ] 2 procent
+    3. [ ] 5 procent
+
+    ## Hvad er et centralt formål med Danmarks udviklingsbistand?
+
+    1. [ ] At finansiere EU’s landbrugsstøtte i medlemslandene
+    2. [ ] At erstatte internationale organisationer med danske myndigheder
+    3. [x] At bekæmpe fattigdom og fremme udvikling og rettigheder
+
+    ## Hvad er Danida?
+
+    1. [ ] En FN-organisation med hovedkvarter i Danmark
+    2. [x] Den del af Udenrigsministeriet, der arbejder med udviklingspolitik
+    3. [ ] En privat dansk nødhjælpsorganisation
+
+    ## Hvilket kontinent har historisk modtaget størstedelen af dansk udviklingsbistand?
+
+    1. [x] Afrika
+    2. [ ] Asien
+    3. [ ] Sydamerika
+
+    ## Hvordan har Afrikas befolkningstal udviklet sig de seneste årtier ifølge teksten?
+
+    1. [ ] Det er faldet hurtigt
+    2. [ ] Det har været stort set uændret
+    3. [x] Det er vokset hurtigt
+
+    ## Hvilke følger af klimaforandringerne fremhæver teksten for Afrika?
+
+    1. [ ] Mindre tørke og bedre høstudbytte overalt
+    2. [x] Ekstrem varme, oversvømmelser og misvækst
+    3. [ ] Lavere temperaturer og færre oversvømmelser
+
+    ## Hvilken type samarbejde lægger Danmarks Afrika-strategi fra 2024 vægt på?
+
+    1. [x] Ligeværdige partnerskaber med afrikanske lande
+    2. [ ] Partnerskaber, hvor Danmark alene træffer beslutningerne
+    3. [ ] Samarbejde begrænset til militære operationer
+

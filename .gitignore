@@ -1,3 +1,5 @@
 build
 .venv
 update_questions.md
+reports/chapter-quiz-review.md
+reports/exam-question-map.csv

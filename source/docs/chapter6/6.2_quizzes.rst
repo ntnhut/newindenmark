@@ -1,9 +1,0 @@
-Quizzer til 6.2
-===============
-
-.. toctree::
-   :maxdepth: 1
-
-   6.2a_jylland_quiz
-   6.2b_oerne_quiz
-   6.2c_koebenhavn_quiz

@@ -1,0 +1,325 @@
+Quiz til 6.2 Danmarks seværdigheder
+===================================
+
+Der er 52 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad kendetegner steder på UNESCOs verdensarvsliste?
+
+    1. [ ] De er altid kongelige slotte
+    2. [x] De har særlig stor betydning for hele verden
+    3. [ ] De ligger altid i en hovedstad
+
+    ## Hvad er Skagens Gren?
+
+    1. [x] Danmarks nordligste punkt
+    2. [ ] Danmarks vestligste punkt
+    3. [ ] Danmarks højeste punkt
+
+    ## Hvilke to have mødes ved Skagens Gren?
+
+    1. [ ] Nordsøen og Østersøen
+    2. [ ] Kattegat og Østersøen
+    3. [x] Skagerrak og Kattegat
+
+    ## Hvorfor kaldes kirken syd for Skagen Den tilsandede Kirke?
+
+    1. [ ] Den blev bygget af sandsten
+    2. [x] Den blev begravet af sand, så kun tårnet står tilbage
+    3. [ ] Den blev flyttet ud på stranden
+
+    ## På hvilket museum kan man se de fleste af Skagensmalernes hovedværker?
+
+    1. [x] Skagens Museum
+    2. [ ] Moesgaard Museum
+    3. [ ] Den Gamle By
+
+    ## Ved hvilken vestjysk by ligger bunkermuseet Tirpitz, som skulle indgå i Atlantvolden?
+
+    1. [ ] Skagen
+    2. [ ] Ribe
+    3. [x] Blåvand
+
+    ## Langs hvilken kyst i Danmark ligger der særligt mange tyske bunkere fra 2. Verdenskrig?
+
+    1. [ ] Sjællands østkyst
+    2. [x] Jyllands vestkyst
+    3. [ ] Bornholms sydkyst
+
+    ## I hvilken by ligger museet Den Gamle By?
+
+    1. [x] Aarhus
+    2. [ ] Aalborg
+    3. [ ] Odense
+
+    ## Hvad kan man blandt andet opleve i Den Gamle By i Aarhus?
+
+    1. [ ] Fund fra oldtiden og vikingetiden
+    2. [ ] Udstillinger om Vadehavets natur
+    3. [x] Byhuse og butikker, der viser dansk byliv gennem tiden
+
+    ## Hvilke perioder indeholder Moesgaard Museums udstillinger især fund fra?
+
+    1. [ ] Renæssancen og enevælden
+    2. [x] Oldtiden og vikingetiden
+    3. [ ] Industrialiseringen og besættelsen
+
+    ## På hvilket museum syd for Aarhus kan man se moseliget Grauballemanden?
+
+    1. [x] Moesgaard Museum
+    2. [ ] Skagens Museum
+    3. [ ] Museum Rebild
+
+    ## Hvor ligger den danske del af Vadehavet?
+
+    1. [ ] Ved det nordlige Sjælland
+    2. [ ] Ved det østlige Bornholm
+    3. [x] Ved det sydvestlige Jylland
+
+    ## Hvad kendetegner Vadehavet?
+
+    1. [ ] Høje kridtklinter med mange fossiler
+    2. [x] Tidevand med højvande og lavvande og et rigt fugleliv
+    3. [ ] Dybe ferskvandssøer omgivet af skov
+
+    ## Hvad kaldes fænomenet, hvor store flokke af stære bevæger sig som en fugleballet?
+
+    1. [x] Sort Sol
+    2. [ ] Nordlys
+    3. [ ] Midnatssol
+
+    ## Hvad hedder Danmarks ældste by?
+
+    1. [ ] Roskilde
+    2. [ ] Odense
+    3. [x] Ribe
+
+    ## Hvilken missionær byggede tidligt en kirke i Ribe?
+
+    1. [ ] Absalon
+    2. [x] Ansgar
+    3. [ ] Hans Egede
+
+    ## Hvilken kunstner lavede de moderne glasmosaikker og kalkmalerier i Ribe Domkirke?
+
+    1. [x] Carl-Henning Pedersen
+    2. [ ] Bjørn Nørgaard
+    3. [ ] Olafur Eliasson
+
+    ## Hvilken skov nævnes som Danmarks næststørste efter Grib Skov?
+
+    1. [ ] Dyrehaven
+    2. [ ] Hareskoven
+    3. [x] Rold Skov
+
+    ## Hvad fejres ved den dansk-amerikanske fest i Rebild Bakker den 4. juli?
+
+    1. [ ] Danmarks grundlovsdag
+    2. [x] USA's uafhængighedsdag
+    3. [ ] Danmarks befrielse
+
+    ## Ved hvilken by ligger Kronborg Slot, hvor man kunne kontrollere skibstrafikken gennem Øresund?
+
+    1. [x] Helsingør
+    2. [ ] Roskilde
+    3. [ ] København
+
+    ## Hvad siger myten om sagnhelten Holger Danske, hvis statue findes på Kronborg?
+
+    1. [ ] Han vil åbne Øresund for fri skibsfart
+    2. [ ] Han vil genopbygge landets gamle slotte
+    3. [x] Han vil vågne til forsvar for Danmark, når landet trues
+
+    ## Hvilket slot danner rammen om William Shakespeares Hamlet?
+
+    1. [ ] Rosenborg
+    2. [x] Kronborg
+    3. [ ] Amalienborg
+
+    ## Hvilken byggestil er Roskilde Domkirke opført i?
+
+    1. [x] Gotisk stil
+    2. [ ] Funktionalistisk stil
+    3. [ ] Romersk tempelstil
+
+    ## Hvor ligger flest danske konger og dronninger begravet?
+
+    1. [ ] Ribe Domkirke
+    2. [ ] Østerlars Kirke
+    3. [x] Roskilde Domkirke
+
+    ## Hvilken kunstner har designet Dronning Margrethe 2.'s kommende sarkofag i Roskilde Domkirke?
+
+    1. [ ] Carl-Henning Pedersen
+    2. [x] Bjørn Nørgaard
+    3. [ ] Per Kirkeby
+
+    ## Hvor ligger Stevns Klint?
+
+    1. [x] På Østsjælland
+    2. [ ] På Møn
+    3. [ ] På Bornholm
+
+    ## Hvilken naturkatastrofe fortæller laget af fiskeler i Stevns Klint om?
+
+    1. [ ] Et vulkanudbrud
+    2. [ ] Et jordskælv
+    3. [x] Et meteornedslag
+
+    ## Hvilken dansk ø er kendt for sin næsten 130 meter høje kridtklint?
+
+    1. [ ] Bornholm
+    2. [x] Møn
+    3. [ ] Fyn
+
+    ## Hvad består Møns Klints høje, lyse skrænter af?
+
+    1. [x] Kridt
+    2. [ ] Granit
+    3. [ ] Lava
+
+    ## I hvilken by ligger museet H.C. Andersens Hus?
+
+    1. [ ] Aarhus
+    2. [ ] København
+    3. [x] Odense
+
+    ## Hvilken arkitekt tegnede det nye H.C. Andersens Hus?
+
+    1. [ ] Henning Larsen
+    2. [x] Kengo Kuma
+    3. [ ] Bjarke Ingels
+
+    ## På hvilken ø ligger Hammershus?
+
+    1. [x] Bornholm
+    2. [ ] Møn
+    3. [ ] Fyn
+
+    ## Hvad er Hammershus i dag?
+
+    1. [ ] Danmarks største rundkirke
+    2. [ ] Kongefamiliens hovedresidens
+    3. [x] Nordeuropas største borgruin
+
+    ## Hvad er Østerlars Kirke på Bornholm kendt som?
+
+    1. [ ] Danmarks kongelige gravkirke
+    2. [x] Den største af øens rundkirker
+    3. [ ] En kirke, der blev begravet af sand
+
+    ## Hvilken funktion havde Østerlars Kirke ud over at være kirke?
+
+    1. [x] Tilflugtssted og forsvarsværk
+    2. [ ] Kongeligt skatkammer
+    3. [ ] Bolig for flådens soldater
+
+    ## Hvad betyder navnet København oprindeligt?
+
+    1. [ ] Kongens by
+    2. [ ] Den beskyttede ø
+    3. [x] Købmændenes Havn
+
+    ## Hvilken biskop byggede en borg i København i middelalderen?
+
+    1. [ ] Ansgar
+    2. [x] Absalon
+    3. [ ] Hans Egede
+
+    ## Hvilken konge står bag blandt andet Rundetårn, Rosenborg, Børsen og Nyboder?
+
+    1. [x] Christian 4.
+    2. [ ] Frederik 3.
+    3. [ ] Christian 9.
+
+    ## Hvad er Rundetårn især kendt for?
+
+    1. [ ] Et spir med sammensnoede dragehaler
+    2. [ ] Fire palæer omkring en slotsplads
+    3. [x] En spiralgang op til udsigtsplatformen
+
+    ## På hvilket slot i Kongens Have opbevares kronjuvelerne?
+
+    1. [ ] Amalienborg
+    2. [x] Rosenborg
+    3. [ ] Kronborg
+
+    ## Hvilken bygning er kendt for Dragespiret?
+
+    1. [x] Børsen
+    2. [ ] Rundetårn
+    3. [ ] Rosenborg
+
+    ## Hvilken historisk bygning blev alvorligt beskadiget af en brand i april 2024?
+
+    1. [ ] Amalienborg
+    2. [ ] Rundetårn
+    3. [x] Børsen
+
+    ## Hvem blev Nyboder oprindeligt bygget som boliger til?
+
+    1. [ ] Hoffets embedsmænd
+    2. [x] Flådens soldater
+    3. [ ] Byens købmænd
+
+    ## Hvilket slot er kongefamiliens hovedresidens i København?
+
+    1. [x] Amalienborg
+    2. [ ] Rosenborg
+    3. [ ] Kronborg
+
+    ## Hvad er Tivoli i København?
+
+    1. [ ] Et frilandsmuseum
+    2. [ ] En kongelig have
+    3. [x] En forlystelsespark
+
+    ## I hvilket århundrede åbnede Tivoli?
+
+    1. [ ] 1600-tallet
+    2. [x] 1800-tallet
+    3. [ ] 1900-tallet
+
+    ## Hvor findes skulpturen Den lille Havfrue?
+
+    1. [x] I Københavns Havn
+    2. [ ] Ved Kronborg i Helsingør
+    3. [ ] Ved Møns Klint
+
+    ## Hvilken forfatters eventyr inspirerede skulpturen Den lille Havfrue?
+
+    1. [ ] Ludvig Holbergs
+    2. [ ] Bjarne Reuters
+    3. [x] H.C. Andersens
+
+    ## Hvilken arkitekt tegnede Operahuset i København?
+
+    1. [ ] Kengo Kuma
+    2. [x] Henning Larsen
+    3. [ ] Bjarke Ingels
+
+    ## Hvad er Den Sorte Diamant i København?
+
+    1. [x] Et bibliotek
+    2. [ ] Et operahus
+    3. [ ] Et kongeligt slot
+
+    ## Hvad er FN Byen på Marmormolen?
+
+    1. [ ] Et museum om FN's historie
+    2. [ ] Et boligområde for udenlandske studerende
+    3. [x] Et center for FN-organisationer
+
+    ## Hvilken tegnestue har tegnet boligbyggeriet 8TALLET i Ørestad på Amager?
+
+    1. [ ] Schmidt Hammer Lassen
+    2. [x] Bjarke Ingels Group (BIG)
+    3. [ ] 3XN

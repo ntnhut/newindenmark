@@ -7,7 +7,7 @@ Kapitel 6 - Temaopslag
    6.1
    6.1_quiz
    6.2
-   6.2_quizzes
+   6.2_quiz
    6.3
    6.3_quiz
    6.4

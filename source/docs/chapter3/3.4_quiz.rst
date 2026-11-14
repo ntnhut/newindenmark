@@ -1,0 +1,158 @@
+Quiz til 3.4 Arbejdsmarkedet
+============================
+
+Der er 24 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvor stor en del af de 16-64-årige var i beskæftigelse i 2025 ifølge teksten?
+
+    1. [ ] Omkring halvdelen
+    2. [x] Omkring tre ud af fire
+    3. [ ] Omkring ni ud af ti
+
+    ## Hvor stor en del af kvinderne på 16-64 år var i beskæftigelse i 2025 ifølge teksten?
+
+    1. [x] Omkring 75 procent
+    2. [ ] Omkring 45 procent
+    3. [ ] Omkring 60 procent
+
+    ## Hvad betyder efter- og videreuddannelse?
+
+    1. [ ] At man kun uddanner sig, før man får sit første job
+    2. [ ] At uddannelse efter folkeskolen kun er for arbejdsgivere
+    3. [x] At man uddanner sig løbende gennem arbejdslivet
+
+    ## Hvorfor organiserede arbejderne sig i fagforeninger?
+
+    1. [ ] For at overtage arbejdsgivernes ret til at lede virksomhederne
+    2. [x] For at opnå bedre løn- og arbejdsvilkår
+    3. [ ] For at overtage statens ret til at opkræve skat
+
+    ## Hvornår blev Septemberforliget, der kaldes Arbejdsmarkedets Grundlov, indgået?
+
+    1. [x] 1899
+    2. [ ] 1849
+    3. [ ] 1933
+
+    ## Hvem har ifølge Septemberforliget ret til at lede og fordele arbejdet?
+
+    1. [ ] Fagforeningen
+    2. [ ] Folketinget
+    3. [x] Arbejdsgiveren
+
+    ## Hvad betyder fredspligt, mens en overenskomst gælder?
+
+    1. [ ] At arbejdsgiveren ikke må ansætte nye medarbejdere
+    2. [x] At parterne som udgangspunkt ikke må bruge strejke eller lockout
+    3. [ ] At medarbejderne ikke må skifte fagforening
+
+    ## Hvor stor en del af lønmodtagerne er medlem af en fagforening ifølge teksten?
+
+    1. [x] Omkring to tredjedele
+    2. [ ] Omkring en tredjedel
+    3. [ ] Næsten alle
+
+    ## Hvem repræsenterer Fagbevægelsens Hovedorganisation (FH)?
+
+    1. [ ] Arbejdsgivere gennem erhvervsorganisationer
+    2. [ ] Kommuner gennem kommunalbestyrelser
+    3. [x] Lønmodtagere gennem fagforbund
+
+    ## Hvem repræsenterer Dansk Arbejdsgiverforening (DA)?
+
+    1. [ ] Lønmodtagere
+    2. [x] Arbejdsgivere
+    3. [ ] Kommuner
+
+    ## Hvad er Dansk Industri (DI)?
+
+    1. [x] En arbejdsgiver- og erhvervsorganisation
+    2. [ ] En fagforening for industriens lønmodtagere
+    3. [ ] En statslig myndighed, der fastsætter lønninger
+
+    ## Hvad betyder foreningsfrihed for en lønmodtagers valg af fagforening?
+
+    1. [ ] Arbejdsgiveren kan kræve medlemskab af en bestemt fagforening
+    2. [ ] Alle skal være medlem af den samme fagforening som deres kolleger
+    3. [x] Man vælger selv, om og hvilken fagforening man vil være medlem af
+
+    ## Må en medarbejder afskediges alene på grund af medlemskab eller manglende medlemskab af en fagforening?
+
+    1. [ ] Ja, arbejdsgiveren bestemmer selv
+    2. [x] Nej, begge dele er beskyttet
+    3. [ ] Kun hvis medarbejderen ikke er medlem
+
+    ## Hvem indgår som hovedregel overenskomster om løn og arbejdsvilkår på det private arbejdsmarked?
+
+    1. [x] Fagforeninger og arbejdsgivere eller arbejdsgiverorganisationer
+    2. [ ] Regeringen og Folketinget
+    3. [ ] Kommunerne og regionerne
+
+    ## Har Danmark en lovbestemt mindsteløn?
+
+    1. [ ] Ja, Folketinget fastsætter én mindsteløn for alle
+    2. [ ] Ja, den enkelte kommune fastsætter mindstelønnen
+    3. [x] Nej, mindsteløn aftales gennem overenskomster
+
+    ## Hvilke forhold kan en kollektiv overenskomst fastlægge?
+
+    1. [ ] Indkomstskat, moms og kirkeskat
+    2. [x] Løn, pension, arbejdstid, ferie og opsigelse
+    3. [ ] Folkepensionsalder, kommuneskat og folketingsvalg
+
+    ## Kan en arbejdsgiver frit vælge at se bort fra en overenskomst, som arbejdsgiveren har indgået?
+
+    1. [x] Nej, arbejdsgiveren er forpligtet til at følge aftalens løn- og arbejdsvilkår
+    2. [ ] Ja, hvis arbejdsgiveren selv orienterer medarbejderne om ændringen
+    3. [ ] Ja, men kun når det gælder aftaler om arbejdstid og ferie
+
+    ## Hvad er en strejke?
+
+    1. [ ] At arbejdsgiveren sender medarbejderne hjem uden løn
+    2. [ ] At staten lukker en virksomhed på grund af konkurs
+    3. [x] At lønmodtagerne nedlægger arbejdet under en konflikt
+
+    ## Hvad er en lockout?
+
+    1. [ ] At lønmodtagerne nedlægger arbejdet under en konflikt
+    2. [x] At arbejdsgiveren sender medarbejderne hjem uden løn under en konflikt
+    3. [ ] At en medarbejder selv siger op for at skifte job
+
+    ## Hvad er Forligsinstitutionens opgave?
+
+    1. [x] At mægle mellem arbejdsmarkedets parter for at undgå konflikter
+    2. [ ] At bestemme alle lønninger i Danmark ved lov
+    3. [ ] At repræsentere arbejdsgiverne i overenskomstforhandlinger
+
+    ## Hvordan kan Folketinget gribe ind i en storkonflikt på arbejdsmarkedet?
+
+    1. [ ] Ved selv at overtage ledelsen af alle berørte virksomheder
+    2. [ ] Ved at opløse de fagforeninger, der deltager i konflikten
+    3. [x] Ved at vedtage en lov om en overenskomst
+
+    ## Hvem er de tre parter i trepartssamarbejdet?
+
+    1. [ ] Staten, regionerne og kommunerne
+    2. [x] Staten, arbejdsgiverne og lønmodtagerne
+    3. [ ] Regeringen, Folketinget og domstolene
+
+    ## Hvad kendetegner den danske flexicurity-model?
+
+    1. [x] Det er relativt let at ansætte og afskedige, mens ledige har økonomisk sikkerhed
+    2. [ ] Det er svært at afskedige, og ledige har ingen økonomisk sikkerhed
+    3. [ ] Det er relativt let at afskedige, mens staten fastsætter alle lønninger
+
+    ## Hvilken hjælp kan ledige få til at komme tilbage i arbejde i flexicurity-modellen?
+
+    1. [ ] En garanti for at få deres tidligere job tilbage
+    2. [ ] Automatisk ansættelse i den offentlige sektor
+    3. [x] Uddannelse, praktikforløb eller anden aktivering
+

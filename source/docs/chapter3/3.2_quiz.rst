@@ -1,0 +1,260 @@
+Quiz til 3.2 Velfærdssamfundet
+==============================
+
+Der er 41 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilke to pligter følger ifølge teksten med borgernes rettigheder i velfærdssamfundet?
+
+    1. [ ] At være medlem af et politisk parti og stemme ved alle valg
+    2. [x] At betale skat og arbejde, hvis man kan
+    3. [ ] At eje sin egen bolig og betale privat forsikring
+
+    ## Hvad forventes der af en person, som modtager hjælp uden for arbejdsmarkedet?
+
+    1. [x] At gøre en aktiv indsats for at komme tilbage i arbejde
+    2. [ ] At vente på et job inden for sit tidligere fag uden at søge andet arbejde
+    3. [ ] At tilbagebetale alle tidligere modtagne velfærdsydelser, før man søger arbejde
+
+    ## Hvordan finansieres de fleste danske velfærdsydelser?
+
+    1. [ ] Hovedsageligt gennem private forsikringer
+    2. [ ] Hovedsageligt gennem betaling fra den enkelte bruger
+    3. [x] Gennem fælles skatter og afgifter
+
+    ## Hvem stilles velfærden til rådighed for?
+
+    1. [ ] Kun borgere uden arbejde
+    2. [x] Alle borgere, når de opfylder betingelserne
+    3. [ ] Kun borgere, der betaler kirkeskat
+
+    ## Hvad gør offentlig børnepasning blandt andet muligt?
+
+    1. [x] At begge forældre kan arbejde, selv om de har børn
+    2. [ ] At kun den ene forælder må være på arbejdsmarkedet
+    3. [ ] At alle forældre skal arbejde på deltid
+
+    ## Hvornår blev de første skridt mod det moderne danske velfærdssamfund taget?
+
+    1. [ ] I 1660'erne
+    2. [ ] I 1970'erne
+    3. [x] I 1890'erne
+
+    ## Hvad var et vigtigt resultat af socialreformen i Kanslergadeforliget i 1933?
+
+    1. [ ] At social hjælp kun kunne gives af private foreninger
+    2. [x] Klarere regler for borgernes ret til social hjælp
+    3. [ ] At kommunerne fik fri ret til at nægte enhver hjælp
+
+    ## Hvad betød socialreformen i 1933 for modtagere af offentlig hjælp?
+
+    1. [x] De mistede som hovedregel ikke længere valgret og andre borgerrettigheder
+    2. [ ] De fik først valgret igen, når hjælpen var betalt tilbage
+    3. [ ] De mistede automatisk valgret, så længe de modtog hjælp
+
+    ## Hvilke årtier var centrale for udbygningen af det moderne velfærdssamfund?
+
+    1. [ ] 1820'erne og 1830'erne
+    2. [ ] 1990'erne og 2000'erne
+    3. [x] 1950'erne og 1960'erne
+
+    ## Hvad var et vigtigt princip i udbygningen af folkepensionen i 1950’erne og 1960’erne?
+
+    1. [ ] Folkepension kun til dem, der havde arbejdet i staten
+    2. [x] Folkepension til alle ældre og ikke kun de svageste
+    3. [ ] Folkepension kun til dem, der havde en privat pensionsopsparing
+
+    ## Hvorfor udfordrer en aldrende befolkning finansieringen af velfærdssamfundet?
+
+    1. [x] Færre skal betale for velfærd, som flere får brug for
+    2. [ ] Der bliver færre borgere med behov for ældrepleje
+    3. [ ] Alle pensionsudgifter forsvinder, når befolkningen bliver ældre
+
+    ## Hvordan har andelen af borgere over 64 år udviklet sig fra 1980 til 2025 ifølge teksten?
+
+    1. [ ] Den er faldet
+    2. [ ] Den er stort set uændret
+    3. [x] Den er steget
+
+    ## Hvordan har folkepensionsalderen udviklet sig siden 2018 ifølge teksten?
+
+    1. [ ] Den er blevet sænket
+    2. [x] Den er blevet hævet
+    3. [ ] Den er forblevet uændret
+
+    ## Hvad giver den såkaldte Arne-pension mulighed for?
+
+    1. [x] At personer med mange år på arbejdsmarkedet kan gå tidligere på pension
+    2. [ ] At alle kan gå på pension, når de fylder 60 år
+    3. [ ] At alle folkepensionister får samme ekstra pensionsbeløb
+
+    ## Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1990’erne ifølge teksten?
+
+    1. [ ] Den er blevet længere
+    2. [ ] Den har været uændret
+    3. [x] Den er blevet kortere
+
+    ## Hvad er formålet med beskæftigelsesfradraget?
+
+    1. [ ] At give arbejdsløse en større kontanthjælp
+    2. [x] At øge den økonomiske fordel ved at være i arbejde
+    3. [ ] At erstatte folkepensionen med privat opsparing
+
+    ## Hvem er fleksjob en mulighed for ifølge teksten?
+
+    1. [x] Personer med varigt og væsentligt nedsat arbejdsevne
+    2. [ ] Alle personer, der ønsker en kortere arbejdsuge
+    3. [ ] Alle personer, der står uden uddannelse efter folkeskolen
+
+    ## Hvorfor er høj beskæftigelse vigtig for velfærdssamfundet?
+
+    1. [ ] Den gør det unødvendigt at opkræve skatter og afgifter
+    2. [ ] Den betyder, at alle velfærdsydelser kan betales af private forsikringer
+    3. [x] Den bidrager til velstand og finansiering af den offentlige sektor
+
+    ## Hvordan bidrager velfærdssamfundet til økonomisk omfordeling?
+
+    1. [ ] Gennem en ens løn til alle ansatte
+    2. [x] Gennem skatter og ydelser til borgerne
+    3. [ ] Gennem et forbud mod privat opsparing
+
+    ## Hvordan er den økonomiske lighed i Danmark sammenlignet med andre lande ifølge teksten?
+
+    1. [x] Forholdsvis stor
+    2. [ ] Forholdsvis lille
+    3. [ ] Præcis den samme som i alle andre europæiske lande
+
+    ## Hvad er moms?
+
+    1. [ ] En skat på løn og anden personlig indkomst
+    2. [ ] Et bidrag, der kun betales af medlemmer af folkekirken
+    3. [x] En afgift på varer og tjenesteydelser
+
+    ## Hvilke myndigheder har ret til at udskrive indkomstskat?
+
+    1. [ ] Staten og regionerne
+    2. [x] Staten og kommunerne
+    3. [ ] Regionerne og kommunerne
+
+    ## Hvad betyder det, at indkomstskatten er progressiv?
+
+    1. [x] Skatteprocenten stiger for høje indkomster
+    2. [ ] Alle betaler det samme beløb i skat
+    3. [ ] Skatteprocenten falder for høje indkomster
+
+    ## Hvad er et bundfradrag i indkomstskatten?
+
+    1. [ ] Et ekstra skattebeløb, som kun personer med lave indkomster betaler
+    2. [ ] Et tilskud, som alle får udbetalt ud over deres indkomst
+    3. [x] Et beløb af indkomsten, som man ikke betaler indkomstskat af
+
+    ## Hvilken af disse er en kontant velfærdsydelse?
+
+    1. [ ] Undervisning i folkeskolen
+    2. [x] Statens uddannelsesstøtte (SU)
+    3. [ ] Behandling på et sygehus
+
+    ## Hvilken af disse er en offentlig serviceydelse?
+
+    1. [x] Undervisning i folkeskolen
+    2. [ ] Folkepension
+    3. [ ] Arbejdsløshedsdagpenge
+
+    ## Hvem fastlægger gennem lovgivning rammerne for velfærdssamfundet?
+
+    1. [ ] Kommunerne og regionerne alene
+    2. [ ] Fagforeninger og arbejdsgiverorganisationer
+    3. [x] Folketinget og regeringen
+
+    ## Hvem har hovedansvaret for driften af sygehusene?
+
+    1. [ ] Kommunerne
+    2. [x] Regionerne
+    3. [ ] Staten
+
+    ## Hvem har ansvaret for driften af folkeskolerne?
+
+    1. [x] Kommunerne
+    2. [ ] Regionerne
+    3. [ ] Staten
+
+    ## Hvilken af disse opgaver har kommunerne ansvaret for?
+
+    1. [ ] Sygehuse
+    2. [ ] Domstole
+    3. [x] Ældrepleje
+
+    ## Hvilken gruppe opgaver hører til kommunerne?
+
+    1. [ ] Sygehuse, politi og universiteter
+    2. [x] Vuggestuer, biblioteker og jobcentre
+    3. [ ] Gymnasier, domstole og forsvar
+
+    ## Hvilken gruppe opgaver har staten ansvaret for?
+
+    1. [x] Politi, retsvæsen og forsvar
+    2. [ ] Folkeskoler, børnehaver og ældrepleje
+    3. [ ] Sygehuse, biblioteker og jobcentre
+
+    ## Hvem har ansvaret for de videregående uddannelser?
+
+    1. [ ] Regionerne
+    2. [ ] Kommunerne
+    3. [x] Staten
+
+    ## Hvem står for skatteopkrævningen efter strukturreformen i 2007?
+
+    1. [ ] Kommunerne
+    2. [x] Staten
+    3. [ ] Regionerne
+
+    ## Hvad betyder udlicitering af en velfærdsopgave?
+
+    1. [x] En privat virksomhed udfører opgaven, mens det offentlige betaler
+    2. [ ] En privat virksomhed overtager både opgaven og hele betalingen fra borgerne
+    3. [ ] En kommune overfører opgaven og udgiften til en anden kommune
+
+    ## Hvilken rolle har frivilligt arbejde normalt i velfærdssamfundet?
+
+    1. [ ] At erstatte alle offentlige serviceydelser
+    2. [ ] At overtage myndighedernes afgørelser om social hjælp
+    3. [x] At supplere den offentlige service
+
+    ## Hvem ejer normalt en friskole?
+
+    1. [ ] Kommunen
+    2. [x] En forening bag skolen
+    3. [ ] Regionen
+
+    ## Hvordan finansieres friskoler typisk?
+
+    1. [x] Med offentlige tilskud og en mindre del fra forældrene
+    2. [ ] Udelukkende med betaling fra forældrene
+    3. [ ] Med samme fulde offentlige finansiering som folkeskoler
+
+    ## Hvordan kan forældre få indflydelse i skoler og daginstitutioner?
+
+    1. [ ] Kun ved at være ansat på skolen eller i institutionen
+    2. [ ] Kun gennem medlemmerne af Folketinget
+    3. [x] Gennem blandt andet forældrevalgte bestyrelser
+
+    ## Hvad er arbejdsmarkedspensionen et supplement til?
+
+    1. [ ] Dagpenge ved arbejdsløshed
+    2. [x] Folkepensionen
+    3. [ ] Kontanthjælp
+
+    ## Hvad afhænger arbejdsmarkedspensionen blandt andet af?
+
+    1. [x] Den enkeltes indkomst i arbejdslivet
+    2. [ ] Kun antallet af år som folkepensionist
+    3. [ ] Et ens beløb til alle uanset tidligere indkomst
+

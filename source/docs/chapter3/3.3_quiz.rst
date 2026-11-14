@@ -1,0 +1,182 @@
+Quiz til 3.3 Erhvervslivet
+==========================
+
+Der er 28 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvordan har Danmark overordnet udviklet sig økonomisk?
+
+    1. [ ] Fra industri over service til landbrug
+    2. [x] Fra landbrug over industri til viden og service
+    3. [ ] Fra service over landbrug til industri
+
+    ## Hvad kendetegner et videns- og servicesamfund?
+
+    1. [x] Brug af viden og produktion af tjenesteydelser
+    2. [ ] En økonomi, der hovedsageligt bygger på råstoffer
+    3. [ ] En økonomi, der hovedsageligt bygger på landbrugsvarer
+
+    ## Hvor arbejdede hovedparten af befolkningen omkring 1850?
+
+    1. [ ] I industrien
+    2. [ ] I servicesektoren
+    3. [x] I landbruget
+
+    ## Hvad skete der, da industri og håndværk voksede fra 1870’erne?
+
+    1. [ ] Flere flyttede fra by til land
+    2. [x] Flere flyttede fra land til by
+    3. [ ] Byernes befolkning faldt, mens landbruget voksede
+
+    ## Hvordan har beskæftigelsen i selve landbruget udviklet sig siden 1950’erne?
+
+    1. [x] Langt færre arbejder i landbruget, selv om produktionen stadig er stor
+    2. [ ] Flertallet af arbejdsstyrken arbejder nu i landbruget
+    3. [ ] Antallet af ansatte er vokset i takt med produktionen
+
+    ## Hvad er et kendetegn ved økologisk landbrug ifølge teksten?
+
+    1. [ ] Det bruger flere kemiske sprøjtemidler for at øge udbyttet
+    2. [ ] Det bygger på, at alle dyr holdes indendørs hele året
+    3. [x] Det drives uden kemiske sprøjtemidler og kunstgødning
+
+    ## Hvor stor en del af de beskæftigede arbejder i privat eller offentlig service ifølge teksten?
+
+    1. [ ] Omkring halvdelen
+    2. [x] Næsten fire ud af fem
+    3. [ ] Omkring én ud af fem
+
+    ## Hvor stor en del af lønmodtagerne arbejder i den offentlige sektor ifølge teksten?
+
+    1. [x] Omkring en tredjedel
+    2. [ ] Omkring to tredjedele
+    3. [ ] Omkring ni ud af ti
+
+    ## Hvorfor kan landbrugs- og industriproduktionen stige, selv om der er færre ansatte?
+
+    1. [ ] De ansatte producerer mindre pr. arbejdstime
+    2. [ ] Virksomhederne er holdt op med at bruge maskiner
+    3. [x] Maskiner og ny teknologi gør produktionen mere effektiv
+
+    ## Hvad er Danish Crown især kendt for?
+
+    1. [ ] Mejeriprodukter
+    2. [x] Kød og slagteriprodukter
+    3. [ ] Medicin
+
+    ## Hvad er Arla især kendt for?
+
+    1. [x] Mejeriprodukter
+    2. [ ] Øl
+    3. [ ] Høreapparater
+
+    ## Hvad er Carlsberg især kendt for?
+
+    1. [ ] Medicin
+    2. [ ] Vindmøller
+    3. [x] Øl
+
+    ## Hvilken branche hører Novo Nordisk til?
+
+    1. [ ] Fødevareindustrien
+    2. [x] Medicinalindustrien
+    3. [ ] Søfarten
+
+    ## Hvad fremstiller de danske virksomheder GN Store Nord, William Demant og Widex?
+
+    1. [x] Høreapparater
+    2. [ ] Vindmøller
+    3. [ ] Medicin
+
+    ## Hvor ligger LEGOs hovedsæde?
+
+    1. [ ] København
+    2. [ ] Aarhus
+    3. [x] Billund
+
+    ## Hvilket produkt er LEGO især kendt for?
+
+    1. [ ] Høreapparater
+    2. [x] Legoklodser i plastik
+    3. [ ] Vindmøller
+
+    ## Hvad er Mærsk især kendt for?
+
+    1. [x] Søfart og containertransport
+    2. [ ] Produktion af medicinalvarer
+    3. [ ] Produktion af landbrugsmaskiner
+
+    ## Hvilken dansk virksomhed er kendt for at producere vindmøller?
+
+    1. [ ] Novo Nordisk
+    2. [ ] Mærsk
+    3. [x] Vestas
+
+    ## Hvad betyder det, at Danmark har en åben økonomi?
+
+    1. [ ] Danmark producerer næsten alt til eget forbrug
+    2. [x] Handel med udlandet har stor betydning
+    3. [ ] Danmark importerer varer, men sælger ikke varer til udlandet
+
+    ## Hvor stor en andel af Danmarks samlede produktion udgør eksporten omtrent?
+
+    1. [x] Cirka halvdelen
+    2. [ ] En tiendedel
+    3. [ ] En fjerdedel
+
+    ## Hvilket land importerer Danmark mest fra ifølge teksten?
+
+    1. [ ] USA
+    2. [ ] Sverige
+    3. [x] Tyskland
+
+    ## Hvilket land eksporterer Danmark mest til ifølge teksten?
+
+    1. [ ] Tyskland
+    2. [x] USA
+    3. [ ] Sverige
+
+    ## Hvordan er eksporten til EU-landene samlet set sammenlignet med eksporten til USA ifølge teksten?
+
+    1. [x] Den er større
+    2. [ ] Den er mindre
+    3. [ ] Den er lige så stor
+
+    ## Hvilket land var Danmarks største handelspartner målt på samlet import og eksport i 2024 ifølge teksten?
+
+    1. [ ] Tyskland
+    2. [ ] Sverige
+    3. [x] USA
+
+    ## Hvilken handelspolitik har danske regeringer i moderne tid som regel støttet?
+
+    1. [ ] Handel kun med de nordiske lande
+    2. [x] Mest mulig fri handel mellem landene
+    3. [ ] Høje toldmure mod alle udenlandske varer
+
+    ## Hvilke organisationer arbejder ifølge teksten for mere fri handel?
+
+    1. [x] OECD og WTO
+    2. [ ] WHO og UNESCO
+    3. [ ] NATO og OSCE
+
+    ## Hvorfor har mange virksomheder flyttet dele af produktionen til udlandet?
+
+    1. [ ] For helt at opgive salget til udenlandske kunder
+    2. [ ] For at undgå at bruge teknologi i produktionen
+    3. [x] For at producere steder med lavere lønninger
+
+    ## Hvilke funktioner har virksomheder ofte beholdt i Danmark efter udflytning af produktion?
+
+    1. [ ] Kun fremstilling af standardvarer
+    2. [x] Produktudvikling, salg og ledelse
+    3. [ ] Kun transport af råvarer til fabrikkerne
+

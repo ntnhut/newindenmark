@@ -1,0 +1,169 @@
+Quiz til 1.6 Oplysningstid og vejen til demokrati (ca. 1700-1849)
+=================================================================
+
+Der er 26 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilket århundrede forbindes i teksten med oplysningstiden i Europa?
+
+    1. [ ] 1600-tallet
+    2. [x] 1700-tallet
+    3. [ ] 1800-tallet
+
+    ## Hvad skulle ifølge oplysningstidens tanker gøre mennesker friere og bedre?
+
+    1. [x] Oplysning, tolerance og kritisk tænkning
+    2. [ ] Stavnsbånd, censur og enevælde
+    3. [ ] Krig, handel og kolonier
+
+    ## Hvem begyndte at angribe enevælden og kræve del i magten?
+
+    1. [ ] Godsejerne på landet
+    2. [ ] De udenlandske stormagter
+    3. [x] Det voksende borgerskab i byerne
+
+    ## Hvorfor indførte kongen stavnsbåndet i 1733?
+
+    1. [ ] For at give alle bønder deres egen jord
+    2. [x] For at sikre stabil arbejdskraft på godserne under landbrugets krise
+    3. [ ] For at få flere mennesker til at flytte til byerne
+
+    ## Hvad indebar stavnsbåndet for bønderne?
+
+    1. [x] De kunne ikke frit flytte fra det gods, de var knyttet til
+    2. [ ] De måtte ikke længere arbejde i landbruget
+    3. [ ] De fik straks ejendomsret til deres gårde
+
+    ## Hvad var en fæstebonde?
+
+    1. [ ] En bonde, der ejede et stort gods
+    2. [ ] En soldat, der kun arbejdede for kongen
+    3. [x] En bonde, der boede på en mindre gård, som tilhørte godsejeren
+
+    ## Hvad skulle fæstebønderne yde til godsejeren?
+
+    1. [ ] Kun militærtjeneste
+    2. [x] Afgift og gratis arbejde på godsejerens jord
+    3. [ ] Kun en tiendedel af deres høst
+
+    ## Hvem var Johann Friedrich Struensee?
+
+    1. [x] En tysk læge, som blev Christian 7.s personlige læge
+    2. [ ] En dansk godsejer og officer
+    3. [ ] En britisk admiral
+
+    ## Hvilken frihed indførte Struensee i høj grad?
+
+    1. [ ] Fuld valgret
+    2. [ ] Frihed fra alle skatter
+    3. [x] Trykkefrihed
+
+    ## Hvilken langsigtet udvikling bidrog landboreformerne til?
+
+    1. [ ] Landbruget gik fra selvejere til fæstebønder
+    2. [x] Landbruget gik fra fæstebønder til flere selvejende bønder
+    3. [ ] Alt landbrug blev samlet på kongens godser
+
+    ## Hvornår begyndte ophævelsen af stavnsbåndet?
+
+    1. [x] 1788
+    2. [ ] 1733
+    3. [ ] 1849
+
+    ## Hvad var gårdmandsklassen?
+
+    1. [ ] Godsejere med de største herregårde
+    2. [ ] Landarbejdere uden bolig eller jord
+    3. [x] En stor gruppe landmænd med mellemstore gårde
+
+    ## Hvem var husmændene?
+
+    1. [ ] Godsejere med mange fæstebønder
+    2. [x] Landboere med små eller ingen jordstykker
+    3. [ ] Købmænd, der ejede handelsskibe
+
+    ## Hvor søgte mange landboere uden tilstrækkelig jord hen?
+
+    1. [x] Til byerne efter arbejde eller til Amerika som emigranter
+    2. [ ] Kun til Norge
+    3. [ ] Til Sverige for at købe godser
+
+    ## Hvad kendetegnede Den Florissante Periode?
+
+    1. [ ] Danmark var i vedvarende krig med alle stormagter
+    2. [ ] Al dansk handel blev standset
+    3. [x] Dansk søfart blomstrede, og København blev en international storhavn
+
+    ## Hvorfor tjente Danmark godt på søfarten i Den Florissante Periode?
+
+    1. [ ] Danmark havde eneret på al europæisk handel
+    2. [x] Neutrale danske skibe kunne fragte varer for de krigsførende lande
+    3. [ ] Den danske flåde havde erobret alle britiske havne
+
+    ## Hvad var Slaget på Reden i 1801?
+
+    1. [x] Et britisk angreb på den danske flåde ved København
+    2. [ ] Et svensk angreb på Dybbøl
+    3. [ ] Et dansk angreb på London
+
+    ## Hvilken begivenhed ramte København i 1807?
+
+    1. [ ] Svenskerne erobrede hele byen
+    2. [ ] Danmark fik sin første demokratiske grundlov
+    3. [x] Briterne bombarderede byen og erobrede den danske flåde
+
+    ## Hvilken side valgte Danmark efter nederlaget i 1807?
+
+    1. [ ] Storbritannien
+    2. [x] Frankrig
+    3. [ ] Sverige
+
+    ## Hvad måtte Danmark afgive ved fredsaftalen i 1814?
+
+    1. [x] Norge til Sverige
+    2. [ ] Færøerne til Storbritannien
+    3. [ ] Grønland til Frankrig
+
+    ## Hvilken konge underskrev Danmarks første frie grundlov?
+
+    1. [ ] Frederik 3.
+    2. [ ] Christian 4.
+    3. [x] Frederik 7.
+
+    ## Hvad vil det sige, at Frederik 7. blev konstitutionel konge?
+
+    1. [ ] Han regerede fortsat helt alene
+    2. [x] Han skulle regere med folket på grundlag af grundloven
+    3. [ ] Han blev valgt for fire år ad gangen
+
+    ## Hvornår underskrev Frederik 7. Danmarks første frie forfatning?
+
+    1. [x] 5. juni 1849
+    2. [ ] 5. juni 1814
+    3. [ ] 5. juni 1864
+
+    ## Hvad blev Folketinget og Landstinget samlet kaldt?
+
+    1. [ ] Statsrådet
+    2. [ ] Rigsrådet
+    3. [x] Rigsdagen
+
+    ## Hvem fik valgret til Rigsdagen med grundloven i 1849?
+
+    1. [ ] Alle voksne kvinder og mænd
+    2. [x] Mænd over 30 år med egen husstand
+    3. [ ] Alle mænd over 18 år
+
+    ## Hvem havde hverken valgret eller ret til at blive valgt i 1849?
+
+    1. [x] Kvinder og fattige
+    2. [ ] Borgere med egen husstand
+    3. [ ] Alle mænd over 30 år

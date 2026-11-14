@@ -1,0 +1,205 @@
+Quiz til 1.8 Industrialiseringen og nye politiske bevægelser (1864-1914)
+========================================================================
+
+Der er 32 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvor begyndte industrialiseringen så småt allerede i midten af 1700-tallet?
+
+    1. [ ] Danmark
+    2. [x] England
+    3. [ ] Sverige
+
+    ## Hvilke forhold var vigtige for industrialiseringens begyndelse?
+
+    1. [x] Dampmaskinen, jernbanerne og store kulreserver
+    2. [ ] Elektricitet, biler og fly
+    3. [ ] Vindmøller, motorveje og olie
+
+    ## Hvornår og hvor åbnede den første jernbane inden for Danmarks nuværende grænser?
+
+    1. [ ] I 1801 mellem København og Helsingør
+    2. [ ] I 1901 mellem Aarhus og Aalborg
+    3. [x] I 1847 mellem København og Roskilde
+
+    ## Hvornår slog industrialiseringen for alvor igennem i Danmark?
+
+    1. [ ] I første halvdel af 1700-tallet
+    2. [x] I sidste halvdel af 1800-tallet
+    3. [ ] Først i sidste halvdel af 1900-tallet
+
+    ## Hvorfor flyttede mange mennesker fra landet til byerne?
+
+    1. [x] For at arbejde i industrien eller med håndværk
+    2. [ ] For at blive godsejere
+    3. [ ] For at undgå jernbanerne
+
+    ## Hvilke fælles krav havde industriarbejderne?
+
+    1. [ ] Lavere løn og længere arbejdstid
+    2. [ ] Ret til at vælge kongen
+    3. [x] Højere løn, rimelige arbejdstider og bedre sikkerhed
+
+    ## Hvad var Slaget på Fælleden i maj 1872?
+
+    1. [ ] Et militært slag mellem Danmark og Preussen
+    2. [x] Et arbejdermøde, der endte i sammenstød med politi og soldater
+    3. [ ] En langvarig strejke mellem DA og FH
+
+    ## Hvilket politisk parti voksede frem af arbejderbevægelsen?
+
+    1. [x] Socialdemokratiet
+    2. [ ] Venstre
+    3. [ ] Det Konservative Folkeparti
+
+    ## Hvad var Septemberforliget i 1899?
+
+    1. [ ] En ændring af grundloven
+    2. [ ] En aftale mellem Højre og Venstre om regeringsmagten
+    3. [x] En historisk aftale mellem arbejdsgivernes og arbejdernes hovedorganisationer
+
+    ## Hvilke rettigheder blev anerkendt med Septemberforliget i 1899?
+
+    1. [ ] Kongens ret til alene at fastsætte lønnen
+    2. [x] Arbejdsgivernes ledelsesret og arbejdernes ret til at organisere sig
+    3. [ ] Et forbud mod både fagforeninger og arbejdsgiverorganisationer
+
+    ## Hvorfor faldt kornpriserne drastisk fra midten af 1870'erne?
+
+    1. [x] Dampskibe og jernbaner gjorde billig korneksport fra USA og Østeuropa mulig
+    2. [ ] Danmark forbød salg af korn til udlandet
+    3. [ ] Storbritannien standsede al import af fødevarer
+
+    ## Hvilken produktionsform lagde danske landmænd i højere grad om til?
+
+    1. [ ] Kul- og jernproduktion
+    2. [ ] Produktion af tekstiler
+    3. [x] Animalsk produktion med blandt andet kvæg og svin
+
+    ## Hvilke varer blev Danmarks klart største eksportvarer?
+
+    1. [ ] Kul og stål
+    2. [x] Smør og bacon
+    3. [ ] Silke og porcelæn
+
+    ## I hvilket århundrede slog andelsbevægelsen igennem i dansk landbrug?
+
+    1. [x] 1800-tallet
+    2. [ ] 1600-tallet
+    3. [ ] 1900-tallet
+
+    ## Hvilke virksomheder oprettede bønderne blandt andet i fællesskab?
+
+    1. [ ] Jernbaner og kulminer
+    2. [ ] Banker og ministerier
+    3. [x] Mejerier og brugsforeninger
+
+    ## Hvad betød princippet ”hoveder, ikke høveder”?
+
+    1. [ ] Kun landmænd med mange dyr kunne stemme
+    2. [x] Hvert medlem havde formelt lige stor indflydelse uanset antallet af dyr
+    3. [ ] Stemmerne blev fordelt efter gårdens størrelse
+
+    ## Hvilke nutidige virksomheder nævnes som andelsvirksomheder?
+
+    1. [x] Coop og Arla
+    2. [ ] DA og FH
+    3. [ ] Højre og Venstre
+
+    ## Hvad ændrede grundloven fra 1866 ved valget til Landstinget?
+
+    1. [ ] Alle voksne mænd fik lige indflydelse på valget til Landstinget
+    2. [ ] Landstingets medlemmer blev fremover valgt direkte af hele befolkningen
+    3. [x] Kongen og mænd med de højeste indtægter valgte de fleste pladser
+
+    ## Hvilke grupper repræsenterede Venstre og Højre især under Forfatningskampen?
+
+    1. [ ] Venstre repræsenterede godsejerne, og Højre industriarbejderne
+    2. [x] Venstre repræsenterede bønderne, og Højre godsejerne
+    3. [ ] Begge partier repræsenterede udelukkende industriarbejderne
+
+    ## Hvad var de provisoriske finanslove?
+
+    1. [x] Foreløbige finanslove gennemført af Højre-regeringer trods mindretal i Folketinget
+    2. [ ] Love, der gav kvinder valgret til Rigsdagen
+    3. [ ] Aftaler mellem arbejdsgivere og fagforeninger
+
+    ## Hvad blev indført med Systemskiftet i 1901?
+
+    1. [ ] Enevælden
+    2. [ ] Kvinders valgret
+    3. [x] Det parlamentariske princip
+
+    ## Hvad betyder det parlamentariske princip?
+
+    1. [ ] Kongen vælger regeringen uden hensyn til Folketinget
+    2. [x] En regering må ikke have et flertal i Folketinget imod sig
+    3. [ ] Landstinget bestemmer alene, hvem der regerer
+
+    ## Hvilket parti overtog regeringsmagten for første gang i 1901?
+
+    1. [x] Venstre
+    2. [ ] Højre
+    3. [ ] Socialdemokratiet
+
+    ## Hvordan blev Det Radikale Venstre dannet i 1905?
+
+    1. [ ] Ved en sammenslutning af Højre og Socialdemokratiet
+    2. [ ] Som arbejderbevægelsens første parti
+    3. [x] Af udbrydere fra Venstre
+
+    ## Hvad blev det gamle parti Højre til i 1915-16?
+
+    1. [ ] Det Radikale Venstre
+    2. [x] Det Konservative Folkeparti
+    3. [ ] Socialdemokratiet
+
+    ## Hvad lagde Socialdemokratiet stor vægt på i den økonomiske politik?
+
+    1. [x] Økonomisk omfordeling mellem rig og fattig
+    2. [ ] Lavere skatter uden omfordeling
+    3. [ ] Genindførelse af godsejernes privilegier
+
+    ## Hvad ønskede Venstre og Det Konservative Folkeparti i højere grad?
+
+    1. [ ] Højere skatter og mere omfordeling
+    2. [ ] Afskaffelse af økonomisk frihed
+    3. [x] Lave skatter og økonomisk frihed
+
+    ## Hvad er Dansk Kvindesamfund, der blev stiftet i 1871?
+
+    1. [ ] Danmarks første arbejderparti
+    2. [x] Danmarks ældste kvindeorganisation
+    3. [ ] En forening af kvindelige præster
+
+    ## Hvilke uddannelsesmuligheder fik kvinder adgang til i 1875?
+
+    1. [x] Studentereksamen og universitetet
+    2. [ ] Kun private grundskoler
+    3. [ ] Uddannelse som officerer og præster
+
+    ## Hvilken dato er kvindernes internationale kampdag?
+
+    1. [ ] 1. maj
+    2. [ ] 5. juni
+    3. [x] 8. marts
+
+    ## Med hvilken grundlovsændring fik kvinder valgret til Folketinget?
+
+    1. [ ] Grundloven i 1849
+    2. [x] Grundlovsændringen i 1915
+    3. [ ] Grundlovsændringen i 1953
+
+    ## Hvem fik også valgret med grundlovsændringen i 1915?
+
+    1. [x] Tjenestefolk uden egen husstand
+    2. [ ] Kun godsejere med høj indkomst
+    3. [ ] Kun medlemmer af fagforeninger

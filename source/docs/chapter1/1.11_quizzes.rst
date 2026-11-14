@@ -1,9 +1,0 @@
-Quizzer til 1.11
-================
-
-.. toctree::
-   :maxdepth: 1
-
-   1.11a_politik_kold_krig_quiz
-   1.11b_stoerre_velfaerd_quiz
-   1.11c_ungdomsoproer_quiz

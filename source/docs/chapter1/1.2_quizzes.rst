@@ -1,9 +1,0 @@
-Quizzer til 1.2
-===============
-
-.. toctree::
-   :maxdepth: 1
-
-   1.2a_riget_quiz
-   1.2b_kontakt_quiz
-   1.2c_asatro_quiz

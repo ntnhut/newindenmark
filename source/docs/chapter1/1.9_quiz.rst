@@ -1,0 +1,145 @@
+Quiz til 1.9 Verdenskrig, kriser og socialreformer (1914-40)
+============================================================
+
+Der er 22 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvordan forholdt Danmark sig til 1. Verdenskrig i 1914-18?
+
+    1. [ ] Danmark kæmpede på Tysklands side
+    2. [x] Danmark var neutralt og undgik direkte deltagelse
+    3. [ ] Danmark blev besat af tyske tropper
+
+    ## Hvorfor kom dansksindede slesvigere til at deltage i krigen på tysk side?
+
+    1. [x] De var blevet tyske statsborgere efter tabet af Slesvig i 1864
+    2. [ ] De meldte sig til den danske hær i Tyskland
+    3. [ ] Danmark havde indgået en militær alliance med Tyskland
+
+    ## Hvorfor ønskede USA at købe Dansk Vestindien under krigen?
+
+    1. [ ] USA ville bruge øerne til dansk landbrug
+    2. [ ] Danmark havde lovet øerne til Storbritannien
+    3. [x] USA frygtede, at Tyskland ville besætte øerne
+
+    ## Hvilken pandemi ramte Danmark hen mod slutningen af 1. Verdenskrig?
+
+    1. [ ] Den Sorte Død
+    2. [x] Den Spanske Syge
+    3. [ ] Covid-19
+
+    ## Hvorfor havde myndighederne svært ved at bekæmpe Den Spanske Syge?
+
+    1. [x] Man vidste kun lidt om sygdommen og kunne ikke udvikle en vaccine
+    2. [ ] De nægtede at lukke skoler og forlystelser
+    3. [ ] Sundhedsvæsenet var ødelagt af krigen
+
+    ## Hvilke råd og tiltag blev brugt mod Den Spanske Syge?
+
+    1. [ ] Obligatorisk vaccination af hele befolkningen
+    2. [ ] Lukning af alle danske grænser i to år
+    3. [x] God hygiejne, mindre kontakt og lukning af nogle skoler og forlystelser
+
+    ## Hvordan blev den nye dansk-tyske grænse afgjort efter 1. Verdenskrig?
+
+    1. [ ] Ved en ny krig mellem Danmark og Tyskland
+    2. [x] Ved folkeafstemninger om tilhørsforholdet til Danmark eller Tyskland
+    3. [ ] Ved at den danske konge alene tegnede grænsen
+
+    ## Hvornår blev Nordslesvig, det nuværende Sønderjylland, genforenet med Danmark?
+
+    1. [x] 1920
+    2. [ ] 1864
+    3. [ ] 1945
+
+    ## Hvad blev resultatet af afstemningen i Mellemslesvig med Flensborg i 1920?
+
+    1. [ ] Området blev en del af Danmark
+    2. [ ] Området blev en selvstændig stat
+    3. [x] Området forblev tysk
+
+    ## Hvad fastlagde København-Bonn-erklæringerne i 1955?
+
+    1. [ ] Den præcise grænse mellem Danmark og Tyskland
+    2. [x] Det danske og tyske mindretals rettigheder
+    3. [ ] Salget af Dansk Vestindien
+
+    ## Hvad gjorde Christian 10. i påsken 1920?
+
+    1. [x] Han afskedigede en regering uden et folketingsflertal imod sig
+    2. [ ] Han accepterede at gøre Mellemslesvig til en selvstændig stat
+    3. [ ] Han indførte en ny grundlov uden Folketingets medvirken
+
+    ## Hvilken varig følge fik Påskekrisen for kongemagten?
+
+    1. [ ] Kongen kunne fremover afskedige enhver regering
+    2. [ ] Monarkiet blev afskaffet året efter
+    3. [x] Kongemagten blandede sig ikke længere direkte i politik
+
+    ## Hvilke antidemokratiske ideologier vandt frem i Italien og Tyskland?
+
+    1. [ ] Liberalismen og parlamentarismen
+    2. [x] Fascismen og nazismen
+    3. [ ] Socialliberalismen og konservatismen
+
+    ## Hvad skete der med demokratiet i Danmark, mens mange europæiske lande blev autoritære?
+
+    1. [x] Det blev fastholdt
+    2. [ ] Det blev afskaffet i 1933
+    3. [ ] Det blev erstattet af enevælde
+
+    ## Hvilken begivenhed udløste den internationale økonomiske krise, der prægede 1930’erne?
+
+    1. [ ] Genforeningen i 1920
+    2. [ ] Kanslergadeforliget i 1933
+    3. [x] Børskrakket på Wall Street i oktober 1929
+
+    ## Hvilket dansk erhverv blev især hårdt ramt af den økonomiske krise i 1930’erne?
+
+    1. [ ] Skibsfarten
+    2. [x] Landbruget
+    3. [ ] Turismen
+
+    ## Hvem blev Danmarks første socialdemokratiske statsminister i 1924?
+
+    1. [x] Thorvald Stauning
+    2. [ ] J.B.S. Estrup
+    3. [ ] Christian 10.
+
+    ## Hvornår blev Nina Bang Danmarks første kvindelige minister?
+
+    1. [ ] 1915
+    2. [ ] 1945
+    3. [x] 1924
+
+    ## I hvilket af disse årtier var Thorvald Stauning statsminister?
+
+    1. [ ] 1950’erne
+    2. [x] 1930’erne
+    3. [ ] 1970’erne
+
+    ## Hvad var baggrunden for Kanslergadeforliget i 1933?
+
+    1. [x] Den økonomiske krise og høj arbejdsløshed
+    2. [ ] Danmarks indtræden i EF
+    3. [ ] En ny krig mod Sverige
+
+    ## Hvilke partier indgik Kanslergadeforliget i 1933?
+
+    1. [ ] Socialdemokratiet, Det Konservative Folkeparti og Venstre
+    2. [ ] Venstre, Det Konservative Folkeparti og Det Radikale Venstre
+    3. [x] Socialdemokratiet, Det Radikale Venstre og Venstre
+
+    ## Hvad gjorde socialreformen som led i Kanslergadeforliget?
+
+    1. [ ] Den afskaffede offentlig hjælp ved sygdom
+    2. [x] Den udvidede sociale rettigheder og skabte mere ensartede regler for offentlig hjælp
+    3. [ ] Den begrænsede offentlig hjælp til landmænd

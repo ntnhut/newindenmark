@@ -1,0 +1,157 @@
+Quiz til 1.12 Danmark i Europa og oliekrise (1972-90)
+=====================================================
+
+Der er 24 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad var formålet med det europæiske fællesskab, som blev indledt i 1958?
+
+    1. [ ] At indføre fælles militærstyre i Europa
+    2. [x] At styrke handel og sikre fred gennem samarbejde
+    3. [ ] At afskaffe alle nationale parlamenter
+
+    ## Hvornår stemte danskerne ja til medlemskab af EF?
+
+    1. [x] 1972
+    2. [ ] 1953
+    3. [ ] 1968
+
+    ## Hvilket år blev Danmark medlem af EF, det nuværende EU?
+
+    1. [ ] 1972
+    2. [ ] 1986
+    3. [x] 1973
+
+    ## Hvilket argument brugte tilhængerne af EF-medlemskab?
+
+    1. [ ] Danmark kunne afskaffe al handel med Storbritannien
+    2. [x] Danmark kunne få bedre adgang til vigtige europæiske markeder
+    3. [ ] Danmark ville ikke længere skulle eksportere varer
+
+    ## Hvilken bekymring havde modstanderne af EF-medlemskab?
+
+    1. [x] At Danmark ville opgive selvbestemmelse, og at de store lande ville få for stor indflydelse
+    2. [ ] At Danmark ville få for stor indflydelse på de store lande
+    3. [ ] At dansk landbrug ville få for meget støtte
+
+    ## Hvilke lande blev medlemmer af EF sammen med Danmark i 1973?
+
+    1. [ ] Norge og Sverige
+    2. [ ] Spanien og Portugal
+    3. [x] Storbritannien og Irland
+
+    ## Hvad var formålet med EF-pakken, som danskerne stemte om i 1986?
+
+    1. [ ] En fælles valuta for alle medlemslande
+    2. [x] Et indre marked med fri bevægelighed
+    3. [ ] Et fælles militært forsvar med egen hær
+
+    ## I hvilket årti blev Danmark ramt af en økonomisk krise udløst af kraftigt stigende oliepriser?
+
+    1. [x] 1970’erne
+    2. [ ] 1950’erne
+    3. [ ] 1990’erne
+
+    ## Hvilke følger fik den første oliekrise for vækst og beskæftigelse?
+
+    1. [ ] Væksten steg, og arbejdsløsheden forsvandt
+    2. [ ] Danmark blev straks selvforsynende med olie
+    3. [x] Væksten faldt betydeligt, og mange blev arbejdsløse
+
+    ## Hvilke energibesparende tiltag skabte oliekriserne interesse for?
+
+    1. [ ] Dårligere isolering og større olieforbrug
+    2. [x] Bedre boligisolering og mere energieffektive biler og apparater
+    3. [ ] Afskaffelse af alle køleskabe og biler
+
+    ## Hvorfor kaldes folketingsvalget i 1973 Jordskredsvalget?
+
+    1. [x] Mange vælgere forlod de gamle partier og stemte nye partier ind
+    2. [ ] Valget blev aflyst på grund af en naturkatastrofe
+    3. [ ] Alle partier blev enige om at danne én fælles regering
+
+    ## Hvilken politiker stod i spidsen for Fremskridtspartiets protest mod indkomstskat og bureaukrati?
+
+    1. [ ] Poul Schlüter
+    2. [ ] Thorvald Stauning
+    3. [x] Mogens Glistrup
+
+    ## Hvilken varig politisk ændring fulgte efter Jordskredsvalget?
+
+    1. [ ] Danmark gik over til et topartisystem
+    2. [x] Flere partier blev repræsenteret i Folketinget
+    3. [ ] Alle borgerlige partier blev nedlagt
+
+    ## Hvilket parti tilhørte Poul Schlüter, som var statsminister fra 1982 til 1993?
+
+    1. [x] Det Konservative Folkeparti
+    2. [ ] Venstre
+    3. [ ] Socialdemokratiet
+
+    ## Hvilken udvikling forbedrede den danske økonomi fra sidste halvdel af 1980'erne?
+
+    1. [ ] Danmark opgav al eksport og lukkede for import
+    2. [ ] Arbejdsløsheden forsvandt helt i begyndelsen af 1980'erne
+    3. [x] Inflationen faldt, handelsbalancen gik i overskud, og Danmark blev mere selvforsynende med olie
+
+    ## Hvilken pris havde forbedringen af økonomien?
+
+    1. [ ] Rekordhøj inflation i 1990'erne
+    2. [x] Rekordhøj arbejdsløshed i starten af 1990'erne
+    3. [ ] Et permanent underskud på handelsbalancen
+
+    ## Hvilken tv-kanal sendte første gang i 1988 efter ophævelsen af DR’s monopol?
+
+    1. [x] TV2
+    2. [ ] DR
+    3. [ ] BBC
+
+    ## Hvilken politisk bevægelse var rødstrømpebevægelsen en del af?
+
+    1. [ ] Fredsbevægelsen
+    2. [ ] Andelsbevægelsen
+    3. [x] Kvindebevægelsen
+
+    ## Hvad vedtog Folketinget i 1976 om løn?
+
+    1. [ ] At kvinder skulle have lavere løn end mænd
+    2. [x] En lov om lige løn for samme arbejde
+    3. [ ] At alle skulle have samme løn uanset arbejde
+
+    ## Hvornår vedtog Folketinget fri abort i Danmark?
+
+    1. [x] 1973
+    2. [ ] 1966
+    3. [ ] 1976
+
+    ## Hvad er grænsen for fri abort ifølge tekstens oplysninger om 2025?
+
+    1. [ ] Den 12. graviditetsuge
+    2. [ ] Den 15. graviditetsuge
+    3. [x] Den 18. graviditetsuge
+
+    ## Hvad var græsrodsbevægelser typisk?
+
+    1. [ ] Partier, der altid havde statsministerposten
+    2. [x] Grupper, der arbejdede for ét bestemt politisk mål
+    3. [ ] Offentlige kontorer under ministerierne
+
+    ## Hvad arbejdede fredsbevægelsen blandt andet imod?
+
+    1. [x] Militær oprustning og våbenkapløbet
+    2. [ ] Udbygning af daginstitutioner
+    3. [ ] Lige løn for samme arbejde
+
+    ## Hvilken beslutning traf Folketinget i 1985 om Danmarks energiforsyning?
+
+    1. [ ] At indføre atomkraftværker hurtigst muligt
+    2. [ ] At stoppe al brug af vedvarende energi
+    3. [x] At planlægge energiforsyningen uden atomkraft

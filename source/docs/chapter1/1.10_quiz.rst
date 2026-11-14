@@ -1,0 +1,157 @@
+Quiz til 1.10 Danmark besat af Tyskland (1940-45)
+=================================================
+
+Der er 24 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilken begivenhed førte til, at Storbritannien og Frankrig erklærede Tyskland krig i 1939?
+
+    1. [ ] Angrebet på Pearl Harbor
+    2. [x] Hitlers angreb på Polen
+    3. [ ] Besættelsen af Danmark
+
+    ## Hvornår blev Danmark og Norge angrebet af det tyske militær?
+
+    1. [x] 9. april 1940
+    2. [ ] 1. september 1939
+    3. [ ] 5. maj 1945
+
+    ## Hvorfor havde Danmarks geografiske placering betydning for Tysklands invasion?
+
+    1. [ ] Danmark kontrollerede indsejlingen til Middelhavet
+    2. [ ] Danmark havde Europas største kulminer
+    3. [x] Danmark lå mellem Tyskland og Norge og ved Nordsøen
+
+    ## Hvor længe varede Danmarks militære modstand den 9. april 1940?
+
+    1. [ ] Flere uger
+    2. [x] Ganske få timer
+    3. [ ] Frem til maj 1945
+
+    ## Hvad skete der med regeringen og kongen i begyndelsen af besættelsen?
+
+    1. [x] Regeringen fortsatte under tysk kontrol, og kongen fortsatte som regent
+    2. [ ] Begge blev afsat af tyskerne
+    3. [ ] Begge flygtede til Sverige
+
+    ## Hvorfor samarbejdede Danmark med tyskerne under besættelsen?
+
+    1. [ ] For at hjælpe Tyskland med at vinde krigen
+    2. [ ] For at blive en del af Tyskland
+    3. [x] For at mildne besættelsesvilkårene
+
+    ## Hvem forbindes især med den danske regerings samarbejdspolitik over for Tyskland?
+
+    1. [ ] Poul Schlüter
+    2. [x] Erik Scavenius
+    3. [ ] Poul Nyrup Rasmussen
+
+    ## I hvilken periode førte den danske regering samarbejdspolitik med Tyskland under besættelsen?
+
+    1. [x] 1940-43
+    2. [ ] 1939-40
+    3. [ ] 1943-45
+
+    ## Hvilket tysk krav afviste Scavenius blandt andet?
+
+    1. [ ] Kravet om at sende de danske jøder til Island
+    2. [ ] Kravet om at sælge flåden til USA
+    3. [x] Kravet om dødsstraf for sabotage
+
+    ## Hvorfor sænkede den danske flåde hovedparten af sine skibe?
+
+    1. [ ] For at blokere svensk jernmalm
+    2. [x] For at de ikke skulle falde i tyske hænder
+    3. [ ] For at give plads til amerikanske skibe
+
+    ## Hvilken gruppe blev i tusindtal hjulpet til Sverige i oktober 1943?
+
+    1. [x] De danske jøder
+    2. [ ] Tyske soldater
+    3. [ ] Britiske politikere
+
+    ## Hvordan blev de fleste danske jøder reddet i oktober 1943?
+
+    1. [ ] Tyskerne sendte dem til Island
+    2. [ ] USA evakuerede dem med fly
+    3. [x] Danske medborgere hjalp dem til Sverige
+
+    ## Hvad var Holocaust?
+
+    1. [ ] De allieredes befrielse af Europa
+    2. [x] Nazi-Tysklands folkemord på Europas jøder
+    3. [ ] Tysklands invasion af Sovjetunionen
+
+    ## Hvad betød personalunionen mellem Danmark og Island?
+
+    1. [x] Den danske konge var også konge i Island
+    2. [ ] Island og Danmark havde samme regering
+    3. [ ] Island var en dansk kommune
+
+    ## Hvordan blev Islands fulde selvstændighed besluttet?
+
+    1. [ ] Ved et tysk dekret
+    2. [ ] Ved en dansk militær beslutning
+    3. [x] Ved en folkeafstemning med næsten enigt resultat
+
+    ## Hvilket år blev Island en selvstændig republik efter en folkeafstemning?
+
+    1. [ ] 1918
+    2. [x] 1944
+    3. [ ] 1973
+
+    ## Hvad prægede modstanden i besættelsens sidste år?
+
+    1. [x] Flere sabotageaktioner mod tyskerne og danske samarbejdspartnere
+    2. [ ] Færre sabotageaktioner
+    3. [ ] Ophør af al modstand
+
+    ## Hvad var Frihedsrådet, som blev oprettet i september 1943?
+
+    1. [ ] Den officielle danske regering
+    2. [ ] En tysk administrativ myndighed
+    3. [x] En illegal komité, der koordinerede modstandsbevægelserne
+
+    ## Hvornår blev Danmark officielt befriet?
+
+    1. [ ] 9. april 1940
+    2. [x] 5. maj 1945
+    3. [ ] 17. juni 1944
+
+    ## Hvem befriede hovedparten af Danmark?
+
+    1. [x] Britiske styrker
+    2. [ ] Amerikanske styrker
+    3. [ ] Sovjetiske styrker
+
+    ## Hvilken ø blev angrebet af sovjetiske styrker i maj 1945 og først forladt af dem i 1946?
+
+    1. [ ] Fyn
+    2. [ ] Sjælland
+    3. [x] Bornholm
+
+    ## Hvorfor var de danske dødstal og ødelæggelser under 2. Verdenskrig relativt begrænsede?
+
+    1. [ ] Danmark lå uden for Europa og blev aldrig besat
+    2. [x] Danmark overgav sig hurtigt, samarbejdede, og de fleste tyske tropper overgav sig uden kamp
+    3. [ ] Danmark vandt en stor militær sejr i 1940
+
+    ## Hvad betød rationering under besættelsen?
+
+    1. [x] Hver borger kunne kun købe en begrænset mængde af bestemte varer
+    2. [ ] Alle varer blev gratis
+    3. [ ] Kun tyske soldater måtte købe fødevarer
+
+    ## Hvad skete der med det danske politiske system efter krigen?
+
+    1. [ ] Det blev erstattet af et diktatur
+    2. [ ] Frihedsrådet regerede permanent
+    3. [x] Det overlevede, og de gamle politikere og partier vendte hurtigt tilbage

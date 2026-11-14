@@ -1,0 +1,145 @@
+Quiz til 1.4 Reformation, Svenskekrige og enevældens indførelse (ca. 1500-1700)
+===============================================================================
+
+Der er 22 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad betød reformationen i Danmark i 1536?
+
+    1. [ ] Overgangen fra asatro til kristendom
+    2. [x] Overgangen fra katolsk til protestantisk kristendom
+    3. [ ] Indførelsen af religionsfrihed for alle
+
+    ## Hvem ledede en af de protestantiske bevægelser i Nordeuropa?
+
+    1. [x] Den tyske munk Martin Luther
+    2. [ ] Hans Tausen
+    3. [ ] Christian 4.
+
+    ## Hvem udbredte især Martin Luthers ideer i Danmark?
+
+    1. [ ] Kong Frederik 3.
+    2. [ ] Biskop Absalon
+    3. [x] Præsten Hans Tausen
+
+    ## Hvordan kunne man ifølge Martin Luther opnå frelse?
+
+    1. [ ] Ved at købe aflad
+    2. [x] Ved at tro
+    3. [ ] Ved at gøre mange gode gerninger
+
+    ## Under hvilken konge blev reformationen gennemført i 1536?
+
+    1. [x] Christian 3.
+    2. [ ] Christian 4.
+    3. [ ] Frederik 3.
+
+    ## Hvordan ændrede reformationen kongens magt over kirken?
+
+    1. [ ] Kirken blev uafhængig af både kongen og paven
+    2. [ ] Paven fik ret til at udpege den danske konge
+    3. [x] Kirken kom under kongen, som overtog dens jord og værdier
+
+    ## Hvilken sproglig ændring medførte reformationen?
+
+    1. [ ] Dansk blev erstattet af latin i kirken
+    2. [x] Biblen blev oversat, og gudstjenester og salmesang foregik på dansk
+    3. [ ] Tysk blev landets eneste kirkesprog
+
+    ## Hvilken konge lod blandt andet Rosenborg Slot, Rundetårn og Børsen opføre?
+
+    1. [x] Christian 4.
+    2. [ ] Frederik 7.
+    3. [ ] Christian 9.
+
+    ## Hvordan ændrede magtbalancen sig efter Danmarks nederlag i Trediveårskrigen?
+
+    1. [ ] Danmark erobrede hele Sverige
+    2. [ ] Danmark og Sverige blev forenet i ét kongerige
+    3. [x] Sverige blev den førende magt i Østersøområdet
+
+    ## I hvilket århundrede fandt krigene, hvor Danmark mistede Skåne, Halland og Blekinge til Sverige, sted?
+
+    1. [ ] 1400-tallet
+    2. [x] 1600-tallet
+    3. [ ] 1800-tallet
+
+    ## Hvordan kunne svenske tropper nå frem til de danske øer i vinteren 1657-58?
+
+    1. [x] De gik over isen
+    2. [ ] De byggede broer mellem alle øerne
+    3. [ ] De brugte den danske flåde
+
+    ## Hvilke tre landsdele mistede Danmark til Sverige ved Roskilde-freden i 1658?
+
+    1. [ ] Slesvig, Holsten og Lauenborg
+    2. [ ] Sjælland, Fyn og Lolland
+    3. [x] Skåne, Halland og Blekinge
+
+    ## Hvad skete der på Bornholm efter Roskilde-freden?
+
+    1. [ ] Øen forblev svensk resten af 1600-tallet
+    2. [x] Befolkningen gjorde oprør og styrtede det svenske styre
+    3. [ ] Øen blev overdraget til Nederlandene
+
+    ## Hvilken strategisk kontrol mistede Danmark ved tabet af landsdelene øst for Øresund i 1658?
+
+    1. [x] Kontrollen med begge sider af Øresund
+    2. [ ] Kontrollen med begge sider af Storebælt
+    3. [ ] Kontrollen med hele Nordsøkysten
+
+    ## Hvilken rolle havde Danmark ikke længere efter tabene til Sverige?
+
+    1. [ ] En rolle som protestantisk land
+    2. [ ] En rolle som selvstændigt kongerige
+    3. [x] En rolle som magtfaktor i Nordeuropa
+
+    ## Hvilket skatteprivilegium havde adelen før enevældens indførelse?
+
+    1. [ ] Adelen betalte kun skat til paven
+    2. [x] Adelen skulle ikke betale skat
+    3. [ ] Adelen bestemte selv skattesatsen for kongen
+
+    ## Hvilken ændring i kongemagten accepterede adelen i 1660?
+
+    1. [x] Kongemagten skulle automatisk gå i arv til kongens nærmeste arving
+    2. [ ] Kongen skulle vælges af befolkningen
+    3. [ ] Tronen skulle gå på skift mellem adelsslægter
+
+    ## Hvilken konge indførte enevælden i 1660-61?
+
+    1. [ ] Christian 3.
+    2. [ ] Frederik 7.
+    3. [x] Frederik 3.
+
+    ## Hvad betød enevælden, som blev indført i 1660-61?
+
+    1. [ ] Kongen delte magten ligeligt med adelen
+    2. [x] Kongen regerede landet helt alene
+    3. [ ] Kirken overtog statsmagten
+
+    ## Hvilke institutioner opstod under enevælden?
+
+    1. [x] En central statsadministration og en permanent hær
+    2. [ ] En folkevalgt rigsdag og lokale republikker
+    3. [ ] Et selvstændigt katolsk bispedømme
+
+    ## Hvad var Kongeloven fra 1665?
+
+    1. [ ] En håndfæstning, der delte magten med adelen
+    2. [ ] Den første fælles kirkelov under paven
+    3. [x] En nedskrevet grundlov for det enevældige monarki
+
+    ## Hvor længe var Kongeloven grundlaget for kongens enevældige magt?
+
+    1. [ ] Til reformationen i 1536
+    2. [x] Til den første demokratiske grundlov i 1849
+    3. [ ] Til Roskilde-freden i 1658

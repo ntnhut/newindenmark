@@ -1,0 +1,127 @@
+Quiz til 1.2 Vikingetid (ca. 750-1050)
+======================================
+
+Der er 19 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilken periode kaldes vikingetiden i Danmark?
+
+    1. [ ] Cirka 1050-1500
+    2. [x] Cirka 750-1050
+    3. [ ] Cirka 1500-1700
+
+    ## Hvad arbejdede langt de fleste mennesker i vikingetiden som?
+
+    1. [x] Bønder eller handelsmænd
+    2. [ ] Soldater og præster
+    3. [ ] Fabriksarbejdere eller embedsmænd
+
+    ## Hvem rejste den ene af Jellingstenene til minde om sin kone Thyra?
+
+    1. [ ] Svend Tveskæg
+    2. [ ] Knud den Store
+    3. [x] Gorm den Gamle
+
+    ## Hvad var runer?
+
+    1. [ ] Vikingernes mønter
+    2. [x] Vikingetidens skrifttegn
+    3. [ ] En type ringborg
+
+    ## Hvem regnes som den første konge, der regerede hele Danmark?
+
+    1. [x] Harald Blåtand
+    2. [ ] Gorm den Gamle
+    3. [ ] Svend Tveskæg
+
+    ## Hvor står Gorm den Gamles og Harald Blåtands runesten i dag?
+
+    1. [ ] I Ribe
+    2. [ ] I Hedeby
+    3. [x] I Jelling
+
+    ## Hvad viser Harald Blåtands store ringborge om styret i Danmark i vikingetiden?
+
+    1. [ ] Danmark bestod af uafhængige bystater
+    2. [x] Danmark var ét rige samlet under én centralmagt
+    3. [ ] Danmark var styret af handelsmænd
+
+    ## Hvilke rejsemuligheder gav vikingeskibene?
+
+    1. [x] De kunne sejle på havet under vanskelige forhold og op ad floder
+    2. [ ] De kunne kun sejle langs den danske kyst
+    3. [ ] De kunne kun sejle med varer og ikke med mennesker
+
+    ## Hvad foretog vikingerne sig på deres togter i Europa?
+
+    1. [ ] De byggede kun kirker
+    2. [ ] De rejste kun som fredelige turister
+    3. [x] De handlede, plyndrede og slog sig ned
+
+    ## Hvilket land erobrede Svend Tveskæg og blev konge af i 1013?
+
+    1. [ ] Frankrig
+    2. [x] England
+    3. [ ] Norge
+
+    ## Hvilke riger herskede Knud den Store over, da vikingeriget var størst?
+
+    1. [x] Danmark, England og Norge
+    2. [ ] Danmark, Sverige og Frankrig
+    3. [ ] England, Island og Konstantinopel
+
+    ## Hvad er oldnordisk i forhold til nutidens dansk?
+
+    1. [ ] Et sprog, der først opstod efter vikingetiden
+    2. [ ] Et andet navn for engelsk
+    3. [x] Forløberen for nutidens dansk
+
+    ## Hvad betyder asatro?
+
+    1. [ ] Troen på én kristen gud
+    2. [x] Troen på aserne, som var guder
+    3. [ ] Troen på kongens guddommelighed
+
+    ## Hvem var gudernes konge i asatroen?
+
+    1. [x] Odin
+    2. [ ] Thor
+    3. [ ] Freja
+
+    ## Hvad var Freja gudinde for?
+
+    1. [ ] Handel
+    2. [ ] Havet
+    3. [x] Frugtbarhed
+
+    ## Hvad var Thor gud for?
+
+    1. [ ] Skrift og handel
+    2. [x] Torden og krig
+    3. [ ] Frugtbarhed og høst
+
+    ## Hvem byggede kirker i Hedeby og Ribe i midten af 800-tallet?
+
+    1. [x] Den tyske missionær Ansgar
+    2. [ ] Gorm den Gamle
+    3. [ ] Knud den Store
+
+    ## I hvilket århundrede blev Harald Blåtand døbt og fik skrevet, at han gjorde danerne kristne?
+
+    1. [ ] 1100-tallet
+    2. [ ] 1500-tallet
+    3. [x] 900-tallet
+
+    ## Hvorfor kaldes Harald Blåtands Jellingsten Danmarks dåbsattest?
+
+    1. [ ] Den fortæller, at Danmark fik sin første grundlov
+    2. [x] Den fortæller, at Harald gjorde danerne kristne
+    3. [ ] Den fortæller, at Svend Tveskæg erobrede England

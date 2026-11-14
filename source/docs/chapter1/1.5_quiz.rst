@@ -1,7 +1,7 @@
-Quiz til 1.5
-==========================================
+Quiz til 1.5 Søfartsnation og kolonimagt (fra ca. 1620)
+=======================================================
 
-
+Der er 14 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,7 +9,7 @@ Quiz til 1.5
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
 
     ## I hvilket århundrede begyndte Danmark at blive en kolonimagt?
@@ -24,35 +24,11 @@ Quiz til 1.5
     2. [ ] Danmark overlod sine landområder til andre europæiske lande
     3. [ ] Danmark begrænsede sin handel til de nordiske lande
 
-    ## Hvad gjorde det muligt for europæerne at krydse oceanerne og sejle til andre verdensdele?
+    ## I hvilket nutidigt land lå de danske handelskolonier Trankebar og Serampore?
 
-    1. [ ] Fælles europæiske visumregler og frihandel
-    2. [x] Bedre skibe, større viden om navigation og tidligere opdagelsesrejser
-    3. [ ] Jernbaner mellem Europa, Asien og Afrika
-
-    ## Hvilket land blev med tiden den dominerende kolonimagt?
-
-    1. [ ] Danmark
-    2. [ ] Portugal
-    3. [x] Storbritannien
-
-    ## Hvilke danske handelskolonier lå i det nuværende Indien?
-
-    1. [ ] Goa og Mumbai
-    2. [x] Trankebar og Serampore
-    3. [ ] Calcutta og Delhi
-
-    ## Hvilke varer fragtede danske skibe blandt andet fra kolonierne i Indien til Europa?
-
-    1. [x] Krydderier, salpeter og bomuldsvarer
-    2. [ ] Sukker, sælskind og hvalkød
-    3. [ ] Te, porcelæn og silke
-
-    ## Hvilke varer blev blandt andet hentet fra Kina?
-
-    1. [ ] Kaffe, kakao og gummi
-    2. [ ] Salpeter, sukker og bomuld
-    3. [x] Te, porcelæn og silke
+    1. [ ] Kina
+    2. [ ] Ghana
+    3. [x] Indien
 
     ## Hvilken handel var den største og mest indbringende for den danske handelsflåde i 1700-tallet?
 
@@ -60,23 +36,17 @@ Quiz til 1.5
     2. [x] Handlen med Kina
     3. [ ] Handlen med Ghana
 
-    ## Hvad byggede Danmark på Guldkysten i det nuværende Ghana?
+    ## I hvilket nutidigt land lå Guldkysten, hvorfra Danmark sejlede slaver til Vestindien?
 
-    1. [x] Forter
-    2. [ ] Handelskolonier som Trankebar og Serampore
-    3. [ ] Sukkerrørsplantager ejet af den danske konge
-
-    ## Hvor mange slaver blev ifølge teksten sejlet fra Guldkysten til Dansk Vestindien?
-
-    1. [ ] Cirka 10.000
-    2. [ ] Cirka 50.000
-    3. [x] Over 100.000
+    1. [x] Ghana
+    2. [ ] Indien
+    3. [ ] Grønland
 
     ## Hvilke øer udgjorde de danske kolonier i Vestindien?
 
     1. [ ] Grønland, Island og Færøerne
-    2. [x] Sankt Thomas, Sankt Croix og Sankt Jan
-    3. [ ] Trankebar, Serampore og Guldkysten
+    2. [ ] Trankebar, Serampore og Guldkysten
+    3. [x] Sankt Thomas, Sankt Croix og Sankt Jan
 
     ## Hvilket arbejde blev slaverne på De Dansk Vestindiske Øer blandt andet tvunget til at udføre?
 
@@ -84,16 +54,10 @@ Quiz til 1.5
     2. [x] At arbejde i sukkerrørsplantager og plantageejernes huse
     3. [ ] At bygge danske forter på Guldkysten
 
-    ## Hvor blev sukkeret fra De Dansk Vestindiske Øer transporteret hen?
-
-    1. [ ] Til Serampore
-    2. [ ] Til London
-    3. [x] Til København
-
     ## Hvornår blev den danske slavehandel forbudt?
 
-    1. [ ] 1721
-    2. [x] 1803
+    1. [x] 1803
+    2. [ ] 1721
     3. [ ] 1848
 
     ## Indtil hvilket år var det stadig tilladt at holde slaver på De Dansk Vestindiske Øer?
@@ -104,20 +68,14 @@ Quiz til 1.5
 
     ## Hvem var den første kristne missionær, der ankom til Grønland i 1721?
 
-    1. [x] Hans Egede
-    2. [ ] Martin Luther
+    1. [ ] Martin Luther
+    2. [x] Hans Egede
     3. [ ] Ansgar
-
-    ## Hvilke mål havde den danskstøttede mission i Grønland?
-
-    1. [ ] At oprette sukkerrørsplantager og bygge forter
-    2. [x] At gøre befolkningen kristen og sælge grønlandske varer
-    3. [ ] At overdrage Grønland til Storbritannien
 
     ## Til hvilket land solgte Danmark sine kolonier i Indien og Ghana i midten af 1800-tallet?
 
-    1. [ ] Frankrig
-    2. [x] Storbritannien
+    1. [x] Storbritannien
+    2. [ ] Frankrig
     3. [ ] USA
 
     ## Hvilket land købte De Dansk Vestindiske Øer i 1917?
@@ -134,6 +92,6 @@ Quiz til 1.5
 
     ## Hvilke områder er sammen med Danmark en del af rigsfællesskabet ifølge teksten?
 
-    1. [ ] Island og Norge
-    2. [ ] Sverige og Finland
-    3. [x] Grønland og Færøerne
+    1. [x] Grønland og Færøerne
+    2. [ ] Island og Norge
+    3. [ ] Sverige og Finland

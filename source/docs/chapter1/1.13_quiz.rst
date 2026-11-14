@@ -1,0 +1,319 @@
+Quiz til 1.13 Danmark i det globale samfund (1990-)
+===================================================
+
+Der er 51 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvornår faldt Berlinmuren, og hvornår blev Sovjetunionen opløst?
+
+    1. [ ] Berlinmuren faldt i 1991, og Sovjetunionen blev opløst i 1989
+    2. [x] Berlinmuren faldt i 1989, og Sovjetunionen blev opløst i 1991
+    3. [ ] Begge begivenheder fandt sted i 1993
+
+    ## Hvilke tre baltiske lande fik Danmark tætte forbindelser med efter Den Kolde Krig?
+
+    1. [x] Estland, Letland og Litauen
+    2. [ ] Finland, Sverige og Norge
+    3. [ ] Polen, Tyskland og Tjekkiet
+
+    ## Hvordan ændrede Danmarks internationale rolle sig efter Den Kolde Krig?
+
+    1. [ ] Danmark vendte tilbage til fuldstændig neutralitet
+    2. [ ] Danmark trak sig ud af både FN og NATO
+    3. [x] Danmark deltog mere aktivt i internationale konflikter
+
+    ## Hvilken rolle havde danske soldater i Bosnien og Kroatien i midten af 1990'erne?
+
+    1. [ ] De deltog i en dansk besættelse af landene
+    2. [x] De var udstationeret som FN-styrker for at bidrage til fred
+    3. [ ] De skulle beskytte Berlinmuren
+
+    ## Hvad afspejlede navneændringen fra EF til EU?
+
+    1. [x] At samarbejdet blev udvidet fra økonomiske emner til flere politiske områder
+    2. [ ] At medlemslandene stoppede alt samarbejde om handel
+    3. [ ] At Danmark straks indførte euroen
+
+    ## Hvad stemte et lille flertal af danskerne nej til i 1992?
+
+    1. [ ] Edinburgh-aftalen
+    2. [ ] Danmarks medlemskab af NATO
+    3. [x] Maastricht-traktaten
+
+    ## Hvad betød Edinburgh-aftalen, som et flertal stemte ja til i 1993?
+
+    1. [ ] Danmark forlod EU
+    2. [x] Danmark fik fire forbehold over for EU-samarbejdet
+    3. [ ] Danmark indførte euroen
+
+    ## Hvilke to EU-forbehold gælder fortsat ifølge teksten?
+
+    1. [x] Euroen samt fælles rets- og udlændingepolitik
+    2. [ ] Unionsborgerskab og forsvar
+    3. [ ] Fælles valuta og forsvar
+
+    ## Hvad betyder euroforbeholdet konkret for Danmark?
+
+    1. [ ] Danmark har både kronen og euroen som officiel valuta
+    2. [ ] Danmark må ikke handle med eurolandene
+    3. [x] Danmark har fortsat kronen som national valuta
+
+    ## Hvornår blev Enhedslisten valgt ind i Folketinget for første gang?
+
+    1. [ ] 1989
+    2. [x] 1994
+    3. [ ] 2001
+
+    ## Hvilket parti tilhørte Poul Nyrup Rasmussen, som blev statsminister i 1993?
+
+    1. [x] Socialdemokratiet
+    2. [ ] Venstre
+    3. [ ] Det Konservative Folkeparti
+
+    ## Hvilken udvikling prægede dansk økonomi fra midten af 1990'erne?
+
+    1. [ ] Danmark opgav sin eksport af olie og gas
+    2. [ ] Arbejdsløsheden voksede konstant uden økonomisk opsving
+    3. [x] Økonomisk vækst vendte tilbage, og flere kom i arbejde
+
+    ## Hvem var med til at stifte Dansk Folkeparti?
+
+    1. [ ] Inger Støjberg
+    2. [x] Pia Kjærsgaard
+    3. [ ] Helle Thorning-Schmidt
+
+    ## Hvornår blev Dansk Folkeparti ifølge teksten valgt til Folketinget første gang?
+
+    1. [x] 1998
+    2. [ ] 1973
+    3. [ ] 2015
+
+    ## Hvilken Venstre-politiker blev statsminister i 2001?
+
+    1. [ ] Poul Nyrup Rasmussen
+    2. [ ] Poul Schlüter
+    3. [x] Anders Fogh Rasmussen
+
+    ## Hvad var et formål med senere stramninger af udlændingepolitikken?
+
+    1. [ ] At afskaffe krav om dansk sprog og arbejde
+    2. [x] At begrænse dele af indvandringen og forbedre integrationen
+    3. [ ] At gøre dansk indfødsret automatisk for alle besøgende
+
+    ## Hvilken alder knytter teksten til den såkaldte 24-års-regel for ægtefællesammenføring?
+
+    1. [x] Begge personer skal være fyldt 24 år
+    2. [ ] Begge personer skal være fyldt 18 år
+    3. [ ] Begge personer skal være fyldt 30 år
+
+    ## Hvad har modstandere kritiseret ved den strammere udlændingepolitik?
+
+    1. [ ] At det er blevet for let at få fuld kontanthjælp
+    2. [ ] At alle sprog- og arbejdskrav er blevet afskaffet
+    3. [x] At lavere ydelser kan skabe fattigdom, og krav til familiesammenføring kan splitte familier
+
+    ## Hvilken begivenhed førte til øget internationalt fokus på terrorbekæmpelse i 2001?
+
+    1. [ ] Bombningen af København
+    2. [x] Terrorangrebet på USA den 11. september
+    3. [ ] Opløsningen af Jugoslavien
+
+    ## Til hvilket land besluttede Folketinget at sende soldater i 2002 efter terrorangrebet på USA i 2001?
+
+    1. [x] Afghanistan
+    2. [ ] Irak
+    3. [ ] Libyen
+
+    ## Hvilken amerikansk ledet invasion støttede Danmark ved at sende soldater i 2003?
+
+    1. [ ] Invasionen af Afghanistan
+    2. [ ] Invasionen af Kuwait
+    3. [x] Invasionen af Irak
+
+    ## Hvad var begrundelsen for USA's angreb på Irak i 2003?
+
+    1. [ ] At standse Berlinmurens nedrivning
+    2. [x] At fjerne Saddam Hussein og Iraks angivelige masseødelæggelsesvåben
+    3. [ ] At støtte Iraks invasion af Kuwait
+
+    ## Hvilken avis trykte Muhammed-tegningerne i 2005?
+
+    1. [x] Jyllands-Posten
+    2. [ ] Politiken
+    3. [ ] Berlingske
+
+    ## Hvilke reaktioner udløste tegningerne i flere muslimske lande?
+
+    1. [ ] Støtteerklæringer til Jyllands-Posten fra alle regeringer
+    2. [ ] Ingen politiske eller økonomiske reaktioner
+    3. [x] Demonstrationer, afbrænding af Dannebrog og boykot af danske produkter
+
+    ## Hvor fandt terrorangrebet i København sted i 2015?
+
+    1. [ ] Ved en koncert i Aarhus og senere på Christiansborg
+    2. [x] Ved et debatmøde på Østerbro og senere ved den jødiske synagoge
+    3. [ ] På Christiansø og Bornholm
+
+    ## Hvornår blev Danmark ramt af den internationale finanskrise?
+
+    1. [x] 2008
+    2. [ ] 1993
+    3. [ ] 2020
+
+    ## Hvor begyndte finanskrisen i 2008?
+
+    1. [ ] I Danmark
+    2. [ ] I Grønland
+    3. [x] I USA
+
+    ## Hvad skete der med arbejdsløsheden og statsbudgettet efter finanskrisen?
+
+    1. [ ] Arbejdsløsheden faldt straks, og overskuddet voksede
+    2. [x] Arbejdsløsheden steg i nogle år, og budgetoverskuddet blev til underskud
+    3. [ ] Begge dele var uændrede
+
+    ## Hvilken udvikling har præget dansk økonomi siden midten af 2010'erne ifølge teksten?
+
+    1. [x] Højere vækst, offentligt overskud og lavere arbejdsløshed
+    2. [ ] Lavere vækst og stigende arbejdsløshed hvert år
+    3. [ ] Vedvarende underskud på statsbudgettet
+
+    ## Hvilken international post fik Anders Fogh Rasmussen i 2009?
+
+    1. [ ] Formand for Europa-Kommissionen
+    2. [ ] Generalsekretær for FN
+    3. [x] Generalsekretær for NATO
+
+    ## Hvilket parti tilhørte Lars Løkke Rasmussen, da han var statsminister i 2009-11 og 2015-19?
+
+    1. [ ] Moderaterne
+    2. [x] Venstre
+    3. [ ] Det Konservative Folkeparti
+
+    ## Hvilken socialdemokrat blev Danmarks første kvindelige statsminister i 2011?
+
+    1. [x] Helle Thorning-Schmidt
+    2. [ ] Mette Frederiksen
+    3. [ ] Pia Kjærsgaard
+
+    ## Hvorfor skaber befolkningsudviklingen en udfordring for velfærdsstaten?
+
+    1. [ ] Der bliver færre ældre og flere i arbejde
+    2. [ ] Behovet for sundhed og ældrepleje forsvinder
+    3. [x] Flere lever længere, mens færre skal arbejde og betale for velfærden
+
+    ## Hvilket fælles mål har mange velfærdsreformer haft?
+
+    1. [ ] At få flere til at forlade arbejdsmarkedet
+    2. [x] At flytte flere fra overførselsindkomst til arbejdsmarkedet
+    3. [ ] At afskaffe alle offentlige ydelser
+
+    ## Hvordan har perioden med arbejdsløshedsdagpenge udviklet sig siden 1990’erne ifølge teksten?
+
+    1. [x] Den er blevet kortere
+    2. [ ] Den er blevet længere
+    3. [ ] Den har hele tiden været ubegrænset
+
+    ## Hvad var et mål med Tilbagetrækningsreformen fra 2011?
+
+    1. [ ] At alle skulle gå tidligere på pension
+    2. [ ] At afskaffe arbejdsløshedskasser
+    3. [x] At folk i gennemsnit skulle trække sig senere tilbage fra arbejdsmarkedet
+
+    ## Hvilket år ramte Covid-19-pandemien Danmark?
+
+    1. [ ] 2008
+    2. [x] 2020
+    3. [ ] 2015
+
+    ## Hvad var et hovedformål med restriktionerne under Covid-19-pandemien?
+
+    1. [x] At undgå, at mange blev smittet samtidig og overbelastede sygehusene
+    2. [ ] At lukke permanent alle danske sygehuse
+    3. [ ] At få alle borgere til at rejse mere
+
+    ## Hvilket vigtigt middel blev udviklet mod Covid-19?
+
+    1. [ ] En ny form for penicillin
+    2. [ ] Et forbud mod alle andre vaccinationer
+    3. [x] Vacciner mod coronavirus
+
+    ## Hvilken politik forbindes Liberal Alliance med i teksten?
+
+    1. [ ] Højere offentlige udgifter og mindre privat økonomi
+    2. [x] Skattelettelser, større arbejdsincitament, lavere offentlige udgifter og mere marked
+    3. [ ] Fokus alene på landdistrikter
+
+    ## Hvilket område har Alternativet især ønsket at sætte fokus på?
+
+    1. [x] Klima, natur og miljø
+    2. [ ] Lavere prioritering af miljø og natur
+    3. [ ] Udvidelse af Danmarks kolonier
+
+    ## Hvilket parti stiftede Inger Støjberg kort før folketingsvalget i 2022?
+
+    1. [ ] Moderaterne
+    2. [ ] Liberal Alliance
+    3. [x] Danmarksdemokraterne
+
+    ## Hvilke emner lægger Danmarksdemokraterne vægt på?
+
+    1. [ ] Mere indvandring og færre tilbud uden for byerne
+    2. [x] Kritik af indvandring og bedre muligheder i tyndt befolkede områder
+    3. [ ] Kun samarbejde om EU
+
+    ## Hvem stiftede Moderaterne?
+
+    1. [x] Lars Løkke Rasmussen
+    2. [ ] Inger Støjberg
+    3. [ ] Mette Frederiksen
+
+    ## Hvordan beskriver Moderaterne sin placering i dansk politik?
+
+    1. [ ] Som et parti på den yderste venstrefløj
+    2. [ ] Som et parti, der kun vil samarbejde med ét andet parti
+    3. [x] Som et parti på midten, der ønsker samarbejde hen over midten
+
+    ## Hvilket parti havde både Inger Støjberg og Lars Løkke Rasmussen tidligere været ledende medlemmer af?
+
+    1. [ ] Socialdemokratiet
+    2. [x] Venstre
+    3. [ ] Det Konservative Folkeparti
+
+    ## Hvad mener Borgernes Parti ifølge teksten om statens kontrol?
+
+    1. [x] Staten har fået for meget kontrol gennem blandt andet regler, skatter og digital overvågning
+    2. [ ] Staten bør overtage alle private hjem
+    3. [ ] Borgerne bør have mindre indflydelse på deres eget liv
+
+    ## Hvem blev statsminister i en socialdemokratisk mindretalsregering efter valget i 2019?
+
+    1. [ ] Helle Thorning-Schmidt
+    2. [ ] Lars Løkke Rasmussen
+    3. [x] Mette Frederiksen
+
+    ## Hvilke tre partier indgik i regeringen efter folketingsvalget i 2022?
+
+    1. [ ] Socialdemokratiet, SF og Enhedslisten
+    2. [x] Socialdemokratiet, Venstre og Moderaterne
+    3. [ ] Venstre, Dansk Folkeparti og Liberal Alliance
+
+    ## Hvilken langsigtet tendens viste valget i 2026 ifølge teksten?
+
+    1. [x] De ældste partier fik samlet færre stemmer, og nyere partier fyldte mere
+    2. [ ] Kun de fem ældste partier blev valgt til Folketinget
+    3. [ ] Alle partier fik præcis samme stemmeandel
+
+    ## Hvilke partier dannede regering efter valget i 2026 ifølge teksten?
+
+    1. [ ] Socialdemokratiet, Venstre og Moderaterne
+    2. [ ] Venstre, Det Konservative Folkeparti og Liberal Alliance
+    3. [x] Socialdemokratiet, SF, Moderaterne og Radikale Venstre

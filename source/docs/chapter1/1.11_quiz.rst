@@ -1,0 +1,199 @@
+Quiz til 1.11 Kold krig, velfærd og ungdomsoprør (1945-72)
+==========================================================
+
+Der er 31 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilken international organisation var Danmark med til at stifte i 1945?
+
+    1. [ ] NATO
+    2. [x] FN
+    3. [ ] EF
+
+    ## Hvilke to supermagter stod over for hinanden under Den Kolde Krig?
+
+    1. [x] USA og Sovjetunionen
+    2. [ ] Danmark og Tyskland
+    3. [ ] Frankrig og Storbritannien
+
+    ## Hvilke samfundssystemer stod over for hinanden i Den Kolde Krig?
+
+    1. [ ] Enevældige kongeriger og middelalderlige bystater
+    2. [ ] Katolske lande og protestantiske lande
+    3. [x] Vestlige demokratier med markedsøkonomi og kommunistiske lande med planøkonomi
+
+    ## Hvad var Jerntæppet?
+
+    1. [ ] En forsvarslinje mellem Danmark og Sverige
+    2. [x] Betegnelsen for opdelingen mellem det kommunistiske øst og det demokratiske vest
+    3. [ ] En handelsaftale mellem USA og Sovjetunionen
+
+    ## Hvorfor opgav Danmark sin neutralitetspolitik efter 2. Verdenskrig?
+
+    1. [x] Neutraliteten havde ikke forhindret besættelsen, så Danmark søgte beskyttelse i NATO
+    2. [ ] Danmark ville genvinde sine gamle kolonier med militær magt
+    3. [ ] Danmark ønskede at slutte sig til Sovjetunionen
+
+    ## Hvilket år blev Danmark medlem af NATO?
+
+    1. [ ] 1945
+    2. [ ] 1973
+    3. [x] 1949
+
+    ## Hvad betyder artikel 5 i NATO-traktaten?
+
+    1. [ ] Alle medlemmer skal indføre samme valuta
+    2. [x] Et angreb på ét medlemsland betragtes som et angreb på alle
+    3. [ ] Et land kan aldrig trække sig ud af NATO
+
+    ## Hvilken alliance blev ledet af Sovjetunionen og stod over for NATO under Den Kolde Krig?
+
+    1. [x] Warszawa-pagten
+    2. [ ] EF
+    3. [ ] FN
+
+    ## Hvad var formålet med Marshall-hjælpen?
+
+    1. [ ] At genoprette den danske enevælde
+    2. [ ] At indføre fælles europæisk værnepligt
+    3. [x] At sætte gang i samhandlen og genopbygningen i Vesteuropa
+
+    ## Hvornår ydede USA Marshall-hjælp til vesteuropæiske lande?
+
+    1. [ ] 1940-45
+    2. [x] 1948-51
+    3. [ ] 1957-73
+
+    ## Hvordan påvirkede Marshall-hjælpen og moderniseringen landbruget?
+
+    1. [x] Maskiner erstattede mange heste og reducerede behovet for arbejdskraft
+    2. [ ] Landbruget gik helt tilbage til håndkraft
+    3. [ ] Landbrug blev forbudt i Danmark
+
+    ## Fik de sovjetisk støttede kommunister del i regeringsmagten i Danmark under Den Kolde Krig?
+
+    1. [ ] Ja, de ledede alle efterkrigstidens regeringer
+    2. [ ] Ja, de indgik i samtlige regeringer med Socialdemokratiet
+    3. [x] Nej, de kom ikke i regering
+
+    ## Hvilket kammer blev afskaffet ved grundlovsændringen i 1953?
+
+    1. [ ] Folketinget
+    2. [x] Landstinget
+    3. [ ] Rigsrådet
+
+    ## Hvilket område kom grundloven også til at gælde for efter ændringen i 1953?
+
+    1. [x] Grønland
+    2. [ ] Island
+    3. [ ] Norge
+
+    ## Hvad gjorde grundlovsændringen i 1953 muligt i forhold til tronfølgen?
+
+    1. [ ] Tronen skulle fremover besættes gennem direkte folkevalg
+    2. [ ] Kongen kunne frit vælge sin efterfølger blandt alle statsborgere
+    3. [x] En kvinde kunne arve tronen, hvis der ikke var en søn
+
+    ## Hvornår fik mænd og kvinder helt lige arveret til tronen?
+
+    1. [ ] 1953
+    2. [x] 2009
+    3. [ ] 1949
+
+    ## Hvilket parti blev dannet i 1959 af personer, der forlod Danmarks Kommunistiske Parti?
+
+    1. [x] SF
+    2. [ ] Dansk Folkeparti
+    3. [ ] Det Radikale Venstre
+
+    ## Hvorfor forlod SF's stiftere DKP?
+
+    1. [ ] De ønskede dansk tilslutning til Warszawa-pagten
+    2. [ ] De ønskede at afskaffe den almindelige valgret
+    3. [x] De protesterede mod kommunistisk undertrykkelse
+
+    ## Hvilket årti var især præget af høj vækst, fuld beskæftigelse og stigende velstand i Danmark?
+
+    1. [ ] 1930’erne
+    2. [x] 1960’erne
+    3. [ ] 1980’erne
+
+    ## Hvilken økonomisk udvikling skete fra begyndelsen af 1960'erne?
+
+    1. [x] Industrien blev en større eksportsektor end landbruget
+    2. [ ] Danmark eksporterede kun landbrugsvarer
+    3. [ ] Danmark stoppede al eksport
+
+    ## Hvornår blev folkepensionen indført?
+
+    1. [ ] 1945
+    2. [ ] 1968
+    3. [x] 1956
+
+    ## Hvilken økonomisk følge havde udbygningen af velfærdsstaten?
+
+    1. [ ] Skatter og afgifter blev afskaffet
+    2. [x] Skatter og afgifter steg meget
+    3. [ ] Skatterne faldt kraftigt
+
+    ## Hvilken ændring skete der med mange kvinders arbejdsliv fra 1960'erne?
+
+    1. [x] Flere kvinder fik uddannelse og kom ud på arbejdsmarkedet
+    2. [ ] Kvinder blev udelukket fra uddannelser
+    3. [ ] Alle kvinder fik samme løn som mænd
+
+    ## Hvordan ændrede den stigende velstand og kortere arbejdstid mange danskeres liv?
+
+    1. [ ] Flertallet måtte opgive deres bolig og flytte på landet
+    2. [ ] De fleste mistede muligheden for at holde ferie
+    3. [x] Flere fik råd til forbrugsgoder og mere tid til ferie
+
+    ## Hvornår gjorde mange unge oprør mod traditionelle normer og autoriteter?
+
+    1. [ ] I begyndelsen af 1930’erne
+    2. [x] I slutningen af 1960’erne
+    3. [ ] I begyndelsen af 1900-tallet
+
+    ## Hvilken betydning fik p-pillen, som kunne sælges lovligt fra 1966?
+
+    1. [x] Den gav bedre mulighed for selv at undgå graviditet
+    2. [ ] Den gjorde fertilitetsbehandling overflødig
+    3. [ ] Den erstattede behandling med antibiotika
+
+    ## Hvilken ny måde at leve sammen på blev mere accepteret?
+
+    1. [ ] Par måtte kun bo sammen efter vielsen
+    2. [ ] Unge skulle fortsat bo hos deres forældre
+    3. [x] Par kunne bo sammen og få børn uden at være gift
+
+    ## Hvad er Christiania, som blev oprettet i København i 1971?
+
+    1. [ ] Et nyt universitet for naturvidenskab
+    2. [x] En fristad, hvor unge bosatte sig i en forladt kaserne
+    3. [ ] En forstad oprettet af kongefamilien
+
+    ## Hvad krævede studerende under studenteroprøret fra 1968?
+
+    1. [x] Mere indflydelse og nye ledelses- og undervisningsformer
+    2. [ ] Mindre indflydelse på universiteterne
+    3. [ ] At alle universiteter blev lukket
+
+    ## Hvornår blev det forbudt for lærere at slå elever i folkeskolen?
+
+    1. [ ] 1956
+    2. [ ] 1997
+    3. [x] 1967
+
+    ## Hvornår blev det også forbudt for forældre at slå deres egne børn?
+
+    1. [ ] 1967
+    2. [x] 1997
+    3. [ ] 2009

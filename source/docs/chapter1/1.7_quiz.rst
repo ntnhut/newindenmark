@@ -1,0 +1,97 @@
+Quiz til 1.7 De Slesvigske krige (1848-64)
+==========================================
+
+Der er 14 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad bestod den danske helstat af i midten af 1800-tallet?
+
+    1. [ ] Danmark, Norge og Sverige
+    2. [x] Kongeriget Danmark samt hertugdømmerne Slesvig og Holsten
+    3. [ ] Danmark, Island og Grønland
+
+    ## Hvilke ideer skabte spændinger mellem dansk- og tysktalende i Slesvig og Holsten i 1800-tallet?
+
+    1. [x] Øget nationalfølelse og demokratiske tanker
+    2. [ ] Tanker om enevælde og stavnsbånd
+    3. [ ] Ideer om katolicisme og reformation
+
+    ## Hvem kæmpede mod hinanden i borgerkrigen 1848-50?
+
+    1. [ ] Danmark og Sverige
+    2. [ ] Preussen og Østrig
+    3. [x] Kongeriget Danmark og tysksindede oprørere i Slesvig og Holsten
+
+    ## Hvad blev resultatet af Den 1. Slesvigske Krig i 1848-50?
+
+    1. [ ] Danmark mistede Slesvig og Holsten
+    2. [x] Danmark vandt, og Slesvig og Holsten forblev i helstaten
+    3. [ ] Hele Danmark blev indlemmet i Preussen
+
+    ## Hvilket andet navn har Den 1. Slesvigske Krig?
+
+    1. [x] Treårskrigen
+    2. [ ] Englandskrigen
+    3. [ ] Trediveårskrigen
+
+    ## Hvad var en vigtig årsag til Den 2. Slesvigske Krig?
+
+    1. [ ] Danmark krævede Skåne tilbage fra Sverige
+    2. [ ] Danmark forsøgte at genoprette Kalmarunionen
+    3. [x] Danmark knyttede i 1863 Slesvig tættere til sig end Holsten
+
+    ## Hvem var Otto von Bismarck i 1864?
+
+    1. [ ] Den danske konge
+    2. [x] Preussens magtfulde ministerpræsident
+    3. [ ] Den østrigske kejser
+
+    ## Hvilke lande erklærede krig mod Danmark i februar 1864?
+
+    1. [x] Preussen og Østrig
+    2. [ ] Rusland og Frankrig
+    3. [ ] Storbritannien og Sverige
+
+    ## Hvad var Dannevirke?
+
+    1. [ ] En ø ud for Sønderborg
+    2. [ ] En ny forfatning for Slesvig
+    3. [x] Et forsvarsanlæg, der havde været en stærk forsvarslinje siden vikingetiden
+
+    ## Hvilken kendt forsvarsstilling blev erobret af preusserne den 18. april 1864?
+
+    1. [ ] Trelleborg
+    2. [x] Dybbøl
+    3. [ ] Kronborg
+
+    ## Hvilke områder måtte Danmark afstå efter nederlaget i 1864?
+
+    1. [x] Slesvig, Holsten og Lauenborg
+    2. [ ] Norge, Island og Færøerne
+    3. [ ] Skåne, Halland og Blekinge
+
+    ## Hvordan ændrede befolkningen i riget sig efter 1864?
+
+    1. [ ] Den blev opdelt i flere tysktalende områder
+    2. [ ] Den fik ingen fælles forfatning
+    3. [x] Den blev mere ensartet i sprog, forfatning og kultur
+
+    ## Hvilken international position havde Danmark efter 1864?
+
+    1. [ ] Danmark var fortsat en nordeuropæisk stormagt
+    2. [x] Danmark var en småstat uden indflydelse på stormagternes beslutninger
+    3. [ ] Danmark blev en del af det tyske kejserrige
+
+    ## Hvilken sikkerhedspolitik valgte Danmark efter nederlaget i 1864?
+
+    1. [x] Streng neutralitet og et svagt militært forsvar
+    2. [ ] En fast militær alliance med Preussen
+    3. [ ] Aktiv deltagelse i alle europæiske konflikter

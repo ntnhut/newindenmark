@@ -1,8 +1,0 @@
-Quizzer til 1.7
-===============
-
-.. toctree::
-   :maxdepth: 1
-
-   1.7a_foerste_krig_quiz
-   1.7b_anden_krig_quiz

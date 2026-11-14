@@ -16,4 +16,4 @@ Kapitel 5 - Dansk kulturliv
    5.6
    5.6_quizzes
    5.7
-   5.7_quizzes
+   5.7_quiz

@@ -1,0 +1,278 @@
+Quiz til 5.7 Film
+================
+
+Spørgsmålene følger bogens rækkefølge og fokuserer på de vigtigste navne,
+værker og bidrag til dansk film og tv.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvornår blev de første film optaget i Danmark?
+
+    1. [ ] Omkring 1850
+    2. [x] Omkring år 1900
+    3. [ ] Efter 2. Verdenskrig
+
+    ## Hvilket dansk filmselskab blev grundlagt i 1906?
+
+    1. [x] Nordisk Film
+    2. [ ] Danmarks Radio
+    3. [ ] TV 2
+
+    ## Hvem var Danmarks første filmstjerne og blev kendt for sine roller i stumfilm?
+
+    1. [ ] Sofie Gråbøl
+    2. [ ] Trine Dyrholm
+    3. [x] Asta Nielsen
+
+    ## Hvad var Carl Th. Dreyer særligt kendt for?
+
+    1. [ ] Han var komponist
+    2. [x] Han var filminstruktør
+    3. [ ] Han var romanforfatter
+
+    ## Hvem instruerede Vredens Dag og La passion de Jeanne d'Arc?
+
+    1. [x] Carl Th. Dreyer
+    2. [ ] Erik Balling
+    3. [ ] Bille August
+
+    ## Hvilken forfatters drama bygger Carl Th. Dreyers film Ordet på?
+
+    1. [ ] Karen Blixens
+    2. [ ] Martin Andersen Nexøs
+    3. [x] Kaj Munks
+
+    ## Hvem instruerede filmen Ditte Menneskebarn?
+
+    1. [ ] Lars von Trier og Thomas Vinterberg
+    2. [x] Astrid og Bjarne Henning-Jensen
+    3. [ ] Alice O'Fredericks og Jon Iversen
+
+    ## Hvem instruerede Soldaten og Jenny?
+
+    1. [x] Johan Jacobsen
+    2. [ ] Henning Carlsen
+    3. [ ] Carl Th. Dreyer
+
+    ## Hvem instruerede filmen Sult?
+
+    1. [ ] Johan Jacobsen
+    2. [ ] Nils Malmros
+    3. [x] Henning Carlsen
+
+    ## Hvilke fælles temaer har Ditte Menneskebarn, Soldaten og Jenny og Sult?
+
+    1. [ ] Krig og besættelse
+    2. [x] Fattigdom og udstødelse
+    3. [ ] Rigdom og berømmelse
+
+    ## Hvilken norsk forfatters roman bygger filmen Sult på?
+
+    1. [x] Knut Hamsuns
+    2. [ ] Henrik Ibsens
+    3. [ ] Jo Nesbøs
+
+    ## Hvilken periode var en storhedstid for danske folkekomedier?
+
+    1. [ ] 1900-1925
+    2. [ ] 1980-2005
+    3. [x] 1950-1975
+
+    ## Hvilken film fra 1950 blev ifølge bogen Danmarks mest sete film?
+
+    1. [ ] Busters Verden
+    2. [x] De røde heste
+    3. [ ] Ordet
+
+    ## Hvilken forfatters roman bygger De røde heste på?
+
+    1. [x] Morten Korchs
+    2. [ ] Bjarne Reuters
+    3. [ ] Knut Hamsuns
+
+    ## Hvem instruerede filmserien Olsenbanden?
+
+    1. [ ] Nils Malmros
+    2. [ ] Gabriel Axel
+    3. [x] Erik Balling
+
+    ## Hvilken dansk tv-serie beskriver dagligliv og historiske begivenheder i 1930'erne og 1940'erne?
+
+    1. [ ] Borgen
+    2. [x] Matador
+    3. [ ] Forbrydelsen
+
+    ## I hvilken fiktiv by foregår Matador?
+
+    1. [x] Korsbæk
+    2. [ ] Gammelkøbing
+    3. [ ] Fjordby
+
+    ## Hvem er kendt for at have skrevet manuskriptet til tv-serien Matador?
+
+    1. [ ] Tove Ditlevsen
+    2. [ ] Karen Blixen
+    3. [x] Lise Nørgaard
+
+    ## Hvem instruerede børnefilmen Busters Verden?
+
+    1. [ ] Erik Balling
+    2. [x] Bille August
+    3. [ ] Carl Th. Dreyer
+
+    ## Hvilken børnebogsforfatter skrev romanen bag Busters Verden?
+
+    1. [x] Bjarne Reuter
+    2. [ ] H.C. Andersen
+    3. [ ] Morten Korch
+
+    ## Hvilken instruktør er kendt for film om børn og unge, blandt andet Kundskabens træ?
+
+    1. [ ] Gabriel Axel
+    2. [ ] Henning Carlsen
+    3. [x] Nils Malmros
+
+    ## Hvilke to instruktører var blandt initiativtagerne til Dogme 95?
+
+    1. [ ] Bille August og Gabriel Axel
+    2. [x] Lars von Trier og Thomas Vinterberg
+    3. [ ] Erik Balling og Carl Th. Dreyer
+
+    ## Hvad var hovedideen bag Dogme 95?
+
+    1. [x] At lave enkle film med fokus på den gode historie frem for tekniske effekter
+    2. [ ] At lave film med så mange tekniske effekter som muligt
+    3. [ ] At lave nye udgaver af gamle stumfilm
+
+    ## Hvem har instrueret filmene Idioterne og Dancer in the Dark?
+
+    1. [ ] Thomas Vinterberg
+    2. [ ] Susanne Bier
+    3. [x] Lars von Trier
+
+    ## Hvilken pris vandt Lars von Trier for Dancer in the Dark i 2000?
+
+    1. [ ] En Oscar
+    2. [x] Den Gyldne Palme
+    3. [ ] En Golden Globe
+
+    ## Hvilken sangerinde havde hovedrollen i Dancer in the Dark?
+
+    1. [x] Björk
+    2. [ ] Adele
+    3. [ ] Madonna
+
+    ## Hvem instruerede familiedramaet Festen fra 1998?
+
+    1. [ ] Lars von Trier
+    2. [ ] Bille August
+    3. [x] Thomas Vinterberg
+
+    ## Hvilken film af Thomas Vinterberg vandt en Oscar i 2021?
+
+    1. [ ] Festen
+    2. [x] Druk
+    3. [ ] Jagten
+
+    ## Hvem blev den første danske instruktør, der vandt en Oscar, med Babettes Gæstebud?
+
+    1. [x] Gabriel Axel
+    2. [ ] Bille August
+    3. [ ] Susanne Bier
+
+    ## Hvilken forfatters fortælling bygger Babettes Gæstebud på?
+
+    1. [ ] Tove Ditlevsens
+    2. [ ] Lise Nørgaards
+    3. [x] Karen Blixens
+
+    ## Hvilken film vandt Bille August både en Oscar og De Gyldne Palmer for?
+
+    1. [ ] Busters Verden
+    2. [x] Pelle Erobreren
+    3. [ ] Hævnen
+
+    ## Hvem skrev romanen Pelle Erobreren, som Bille August filmatiserede?
+
+    1. [x] Martin Andersen Nexø
+    2. [ ] Morten Korch
+    3. [ ] Bjarne Reuter
+
+    ## Hvad er Susanne Bier særligt kendt for?
+
+    1. [ ] Hun er politiker
+    2. [ ] Hun er fysiker
+    3. [x] Hun er filminstruktør
+
+    ## Hvilken filminstruktør vandt en Oscar og en Golden Globe for Hævnen?
+
+    1. [ ] Thomas Vinterberg
+    2. [x] Susanne Bier
+    3. [ ] Gabriel Axel
+
+    ## Hvad er Mads Mikkelsen særligt kendt for?
+
+    1. [x] Han er skuespiller
+    2. [ ] Han er forfatter
+    3. [ ] Han er musiker
+
+    ## For hvilken film vandt Mads Mikkelsen prisen for bedste mandlige skuespiller i Cannes i 2012?
+
+    1. [ ] Druk
+    2. [ ] Casino Royale
+    3. [x] Jagten
+
+    ## Hvilke to danske skuespillere medvirker i James Bond-filmen Casino Royale?
+
+    1. [ ] Nikolaj Coster-Waldau og Ulrich Thomsen
+    2. [x] Mads Mikkelsen og Jesper Christensen
+    3. [ ] Pilou Asbæk og Nikolaj Lie Kaas
+
+    ## Hvad er Jesper Christensen særligt kendt for?
+
+    1. [x] Han er skuespiller
+    2. [ ] Han er komponist
+    3. [ ] Han er arkitekt
+
+    ## Hvilken dansk skuespiller har hovedrollen i Bænken og medvirker i Drabet?
+
+    1. [ ] Mads Mikkelsen
+    2. [ ] Ulrich Thomsen
+    3. [x] Jesper Christensen
+
+    ## Hvad er Sofie Gråbøl særligt kendt for?
+
+    1. [ ] Hun er forfatter
+    2. [x] Hun er skuespiller
+    3. [ ] Hun er kunstmaler
+
+    ## Hvilken skuespiller blev kendt med Barndommens Gade og medvirker også i Der kommer en dag?
+
+    1. [x] Sofie Gråbøl
+    2. [ ] Trine Dyrholm
+    3. [ ] Asta Nielsen
+
+    ## I hvilken tv-serie spiller Sofie Gråbøl efterforskeren Sarah Lund?
+
+    1. [ ] Matador
+    2. [ ] Borgen
+    3. [x] Forbrydelsen
+
+    ## Hvad er Trine Dyrholm særligt kendt for?
+
+    1. [ ] Hun er filminstruktør
+    2. [x] Hun er skuespiller
+    3. [ ] Hun er romanforfatter
+
+    ## Hvilken dansk skuespiller medvirker i Hævnen, Kollektivet og Dronningen?
+
+    1. [x] Trine Dyrholm
+    2. [ ] Sofie Gråbøl
+    3. [ ] Asta Nielsen

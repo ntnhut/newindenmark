@@ -1,0 +1,134 @@
+Quiz til 2.3.4 Borgernes pligter
+================================
+
+Der er 20 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvem har ifølge teksten værnepligt efter ændringen i 2025?
+
+    1. [ ] Kun mænd med dansk statsborgerskab
+    2. [x] Både mænd og kvinder med dansk statsborgerskab
+    3. [ ] Alle unge uanset statsborgerskab
+
+    ## Hvordan afgøres det, hvem der skal aftjene værnepligt, hvis der ikke er frivillige nok?
+
+    1. [x] Ved lodtrækning
+    2. [ ] Ved kommunalvalg
+    3. [ ] Ved en personlig beslutning fra statsministeren
+
+    ## Hvor længe varer værnepligten som udgangspunkt fra februar 2026 ifølge teksten?
+
+    1. [ ] 4 måneder
+    2. [ ] 24 måneder
+    3. [x] 11 måneder
+
+    ## Hvad kan en militærnægter gøre i stedet for militærtjeneste?
+
+    1. [ ] Slippe for enhver form for tjeneste
+    2. [x] Udføre andet arbejde til gavn for samfundet
+    3. [ ] Betale en fast afgift i stedet for at gøre tjeneste
+
+    ## Hvad er et borgerligt ombud?
+
+    1. [x] Et hverv, som samfundet kan pålægge en borger
+    2. [ ] En frivillig fritidsaktivitet uden ansvar
+    3. [ ] En dom, der kun gælder politikere
+
+    ## Hvad er en lægdommers opgave i en straffesag?
+
+    1. [ ] At efterforske sagen for politiet
+    2. [ ] At rejse tiltale på samfundets vegne
+    3. [x] At være med til at vurdere skyld og fastsætte straf
+
+    ## Hvornår kan en handling straffes?
+
+    1. [ ] Når politiet mener, den er forkert
+    2. [x] Når det direkte fremgår af en lov, at handlingen kan straffes
+    3. [ ] Når et flertal af borgerne er imod den
+
+    ## Hvad er den kriminelle lavalder i Danmark?
+
+    1. [x] 15 år
+    2. [ ] 12 år
+    3. [ ] 18 år
+
+    ## Hvilke almindelige straffe findes i Danmark?
+
+    1. [ ] Dødsstraf og eksil
+    2. [ ] Kun samfundstjeneste
+    3. [x] Bøde og fængsel
+
+    ## Hvilken følge kan en dom for kriminalitet få for en udenlandsk statsborger?
+
+    1. [ ] Automatisk tildeling af dansk statsborgerskab
+    2. [x] Udvisning af Danmark
+    3. [ ] Automatisk fritagelse for anden straf
+
+    ## Kan en dansk statsborger fratages sit statsborgerskab, hvis personen derved bliver statsløs?
+
+    1. [x] Nej
+    2. [ ] Ja, ved enhver forbrydelse
+    3. [ ] Ja, hvis personen er født i udlandet
+
+    ## Kan danske domstole idømme dødsstraf?
+
+    1. [ ] Ja, ved alle alvorlige forbrydelser
+    2. [ ] Ja, men kun ved økonomisk kriminalitet
+    3. [x] Nej
+
+    ## Hvem kan rejse en straffesag på samfundets vegne?
+
+    1. [ ] Domstolene selv
+    2. [x] Anklagemyndigheden
+    3. [ ] Kommunalbestyrelsen
+
+    ## Hvad betyder det, at rimelig tvivl skal komme den tiltalte til gode?
+
+    1. [x] Den tiltalte skal frifindes, hvis der er rimelig tvivl om skyld
+    2. [ ] Den tiltalte skal selv bevise sin uskyld
+    3. [ ] Politiet kan afgøre skyldsspørgsmålet uden en retssag
+
+    ## Hvem efterforsker strafbare forhold?
+
+    1. [ ] Domstolene
+    2. [ ] Folketinget
+    3. [x] Politiet
+
+    ## Kan politiet tvinge en person til at afgive forklaring under en afhøring?
+
+    1. [ ] Ja, hvis personen er mistænkt for en forbrydelse
+    2. [x] Nej, politiet må ikke anvende tvang under afhøring
+    3. [ ] Ja, hvis anklagemyndigheden kræver det
+
+    ## Hvilke oplysninger er man forpligtet til at give politiet?
+
+    1. [x] Navn, adresse og fødselsdato
+    2. [ ] Arbejdsgiver, løn og politisk tilhørsforhold
+    3. [ ] Religion, uddannelse og familieforhold
+
+    ## Hvor kan man klage over politiets adfærd?
+
+    1. [ ] Til kommunalbestyrelsen
+    2. [ ] Til Europaudvalget
+    3. [x] Til Den Uafhængige Politiklagemyndighed
+
+    ## Hvor hurtigt skal en anholdt person stilles for en dommer?
+
+    1. [ ] Inden for tre dage
+    2. [x] Inden for 24 timer
+    3. [ ] Inden for en uge
+
+    ## Hvem afgør, om en anholdt skal løslades eller varetægtsfængsles?
+
+    1. [x] En dommer
+    2. [ ] Politiet alene
+    3. [ ] Anklagemyndigheden alene
+

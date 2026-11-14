@@ -1,0 +1,62 @@
+Quiz til 2.2.4 Direkte demokrati: folkeafstemninger og borgerforslag
+====================================================================
+
+Der er 8 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad er en folkeafstemning et eksempel på?
+
+    1. [ ] Valg af medlemmer til Folketinget
+    2. [x] Direkte demokrati
+    3. [ ] Udpegning af ministre gennem en kongerunde
+
+    ## Hvilke ændringer skal altid afgøres ved folkeafstemning?
+
+    1. [x] Ændring af grundloven eller valgretsalderen
+    2. [ ] Enhver ændring af skatten
+    3. [ ] Udnævnelse af ministre
+
+    ## Hvilket emne har over halvdelen af folkeafstemningerne siden 1953 handlet om ifølge teksten?
+
+    1. [ ] Kommunernes skatteprocenter
+    2. [ ] Antallet af ministre i regeringen
+    3. [x] Danmarks forhold til EU
+
+    ## Hvad besluttede vælgerne ved folkeafstemningen i 2000?
+
+    1. [ ] At indføre euroen
+    2. [x] At beholde kronen og sige nej til euroen
+    3. [ ] At afskaffe EU-medlemskabet
+
+    ## Hvad stemte vælgerne ja til ved folkeafstemningen om tronfølgen i 2009?
+
+    1. [x] Lige arveret til tronen for mænd og kvinder
+    2. [ ] At afskaffe monarkiet
+    3. [ ] At vælge monarken ved folketingsvalg
+
+    ## Hvad stemte vælgerne ja til ved folkeafstemningen i 2022?
+
+    1. [ ] At indføre euroen i Danmark
+    2. [ ] At melde Danmark ud af EU
+    3. [x] At afskaffe EU-forsvarsforbeholdet
+
+    ## Hvor mange støtter skal et borgerforslag have inden for 180 dage for at blive overvejet i Folketinget?
+
+    1. [ ] 5.000
+    2. [x] 50.000
+    3. [ ] 100.000
+
+    ## Bliver et borgerforslag automatisk til lov, hvis det får 50.000 støtter?
+
+    1. [x] Nej, støtten betyder ikke, at forslaget er vedtaget
+    2. [ ] Ja, Folketinget skal vedtage det uden afstemning
+    3. [ ] Ja, hvis mindst fire borgere har stillet forslaget
+

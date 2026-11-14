@@ -1,0 +1,134 @@
+Quiz til 2.2.1 Grundloven – Danmarks forfatning
+===============================================
+
+Der er 20 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad er Danmarks Riges Grundlov?
+
+    1. [ ] Statens årlige budget
+    2. [x] Danmarks forfatning
+    3. [ ] En kommunal styrelseslov
+
+    ## Hvornår fik Danmark sin første demokratiske grundlov?
+
+    1. [x] 1849
+    2. [ ] 1665
+    3. [ ] 1901
+
+    ## Hvilken dato fejres som Grundlovsdag?
+
+    1. [ ] 1. januar
+    2. [ ] 9. april
+    3. [x] 5. juni
+
+    ## Hvornår blev parlamentarismen indført i praksis i Danmark?
+
+    1. [ ] 1849
+    2. [x] 1901
+    3. [ ] 1953
+
+    ## Hvem havde valgret efter grundloven i 1849?
+
+    1. [x] Kun mænd over 30 år, der opfyldte bestemte betingelser
+    2. [ ] Alle mænd og kvinder over 18 år
+    3. [ ] Alle mænd over 18 år, også tjenestefolk
+
+    ## Hvornår fik kvinder og tjenestefolk valgret til Folketinget?
+
+    1. [ ] 1849
+    2. [ ] 1901
+    3. [x] 1915
+
+    ## Hvilken grundlov er den nuværende danske grundlov?
+
+    1. [ ] Grundloven fra 1849
+    2. [x] Grundloven fra 1953
+    3. [ ] Kongeloven fra 1665
+
+    ## Hvem skal tilslutte sig en ændring af grundloven?
+
+    1. [x] Både Folketinget og befolkningen
+    2. [ ] Kun regeringen
+    3. [ ] Kun monarken
+
+    ## Hvilken placering har grundloven blandt Danmarks love?
+
+    1. [ ] Den gælder kun efter almindelige love
+    2. [ ] Den er ligestillet med kommunale regler
+    3. [x] Den er den øverste lov
+
+    ## Hvad betyder repræsentativt demokrati?
+
+    1. [ ] Borgerne stemmer direkte om alle love
+    2. [x] Borgerne vælger politikere, der træffer beslutninger på deres vegne
+    3. [ ] Monarken udpeger alle politiske repræsentanter
+
+    ## Hvad betyder parlamentarisme?
+
+    1. [x] En regering må ikke have et flertal i Folketinget imod sig
+    2. [ ] Regeringen kan blive ved magten, selv om et flertal i Folketinget er imod den
+    3. [ ] Folketinget udnævner dommerne til hver enkelt sag
+
+    ## Hvem udøver den lovgivende magt i Danmark?
+
+    1. [ ] Domstolene alene
+    2. [ ] Kommunalbestyrelserne alene
+    3. [x] Folketinget og regeringen i forening
+
+    ## Hvem har den udøvende magt?
+
+    1. [ ] Folketinget
+    2. [x] Regeringen
+    3. [ ] Domstolene
+
+    ## Hvem har den dømmende magt?
+
+    1. [x] Domstolene
+    2. [ ] Folketinget
+    3. [ ] Regeringen
+
+    ## Hvad er formålet med magtens tredeling?
+
+    1. [ ] At samle den politiske magt hos én myndighed
+    2. [ ] At gøre domstolene underlagt regeringen
+    3. [x] At magterne skal kontrollere og begrænse hinanden
+
+    ## Hvilken rolle har den danske monark?
+
+    1. [ ] At lede regeringens politiske arbejde
+    2. [x] En repræsentativ rolle uden politisk magt
+    3. [ ] At afgøre, hvilke love Folketinget vedtager
+
+    ## Hvordan får den danske monark sin position?
+
+    1. [x] Positionen går i arv
+    2. [ ] Monarken vælges direkte af befolkningen
+    3. [ ] Folketinget udpeger en ny monark hvert fjerde år
+
+    ## Hvordan kan dansk indfødsret ifølge grundloven tildeles?
+
+    1. [ ] Ved en afgørelse fra den enkelte kommune
+    2. [ ] Ved en personlig beslutning fra monarken
+    3. [x] Ved lov vedtaget af Folketinget
+
+    ## Hvilken af disse rettigheder er beskyttet af grundloven?
+
+    1. [ ] Ret til et bestemt arbejde
+    2. [x] Religionsfrihed
+    3. [ ] Ret til en gratis bolig
+
+    ## Hvad beskytter grundlovens frihedsrettigheder blandt andet imod?
+
+    1. [x] At flertallet misbruger sin magt over for den enkelte og mindretal
+    2. [ ] At vælgerne kan vælge nye politiske repræsentanter
+    3. [ ] At domstolene kan kontrollere myndighedernes afgørelser
+

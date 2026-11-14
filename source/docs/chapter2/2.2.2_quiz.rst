@@ -1,0 +1,272 @@
+Quiz til 2.2.2 Demokratiets institutioner
+=========================================
+
+Der er 43 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvor ligger Folketinget?
+
+    1. [ ] Amalienborg i København
+    2. [x] Christiansborg i København
+    3. [ ] Aarhus Rådhus
+
+    ## Hvor mange medlemmer har Folketinget?
+
+    1. [x] 179
+    2. [ ] 98
+    3. [ ] 175
+
+    ## Hvor mange medlemmer af Folketinget vælges på henholdsvis Færøerne og i Grønland?
+
+    1. [ ] Ét hvert sted
+    2. [ ] Fire hvert sted
+    3. [x] To hvert sted
+
+    ## Hvad er finansloven?
+
+    1. [ ] En liste over alle politiske partier
+    2. [x] Statens samlede budget for det næste år
+    3. [ ] En aftale mellem kommunerne og regionerne
+
+    ## Hvad giver partierne råd om under en kongerunde?
+
+    1. [x] Hvem der skal lede regeringsforhandlingerne eller være statsminister
+    2. [ ] Hvem der skal være borgmester i kommunerne
+    3. [ ] Hvem der skal udnævnes som dommere i Højesteret
+
+    ## Hvordan kan Folketinget kontrollere regeringens arbejde?
+
+    1. [ ] Ved selv at afgøre straffesager mod almindelige borgere
+    2. [ ] Ved at udnævne alle medarbejdere i ministerierne
+    3. [x] Ved at stille ministrene spørgsmål og kalde dem i samråd
+
+    ## Hvad skal der ske, hvis et flertal i Folketinget udtaler mistillid til statsministeren?
+
+    1. [ ] Regeringen kan fortsætte uændret til næste ordinære valg
+    2. [x] Regeringen må gå af, eller statsministeren må udskrive nyvalg
+    3. [ ] Monarken skal overtage regeringens politiske opgaver
+
+    ## Hvornår kan en minister stilles for Rigsretten?
+
+    1. [x] Når ministeren mistænkes for ulovligheder i sit ministerarbejde
+    2. [ ] Når ministeren taber et almindeligt folketingsvalg
+    3. [ ] Når ministeren ikke er medlem af Folketinget
+
+    ## Hvad er en vigtig opgave for Folketingets faste udvalg?
+
+    1. [ ] At afsige domme i sager mod medlemmer af Folketinget
+    2. [ ] At bestemme, hvem borgerne må stemme på ved valg
+    3. [x] At behandle lovforslag grundigt inden for bestemte fagområder
+
+    ## Hvornår skal regeringen rådføre sig med Det Udenrigspolitiske Nævn?
+
+    1. [ ] Før alle kommunale beslutninger
+    2. [x] Før beslutninger af større udenrigspolitisk rækkevidde
+    3. [ ] Kun efter en udenrigspolitisk beslutning
+
+    ## Hvad er Europaudvalgets vigtigste opgave?
+
+    1. [x] At kontrollere dansk EU-politik og give regeringen forhandlingsmandater
+    2. [ ] At udpege de danske medlemmer af Europa-Parlamentet
+    3. [ ] At afgøre retssager om overtrædelser af EU-regler
+
+    ## Hvilke partier dannede ifølge teksten regering sammen i 2022-26?
+
+    1. [ ] Socialdemokratiet, SF og Enhedslisten
+    2. [ ] Venstre, Liberal Alliance og Dansk Folkeparti
+    3. [x] Socialdemokratiet, Venstre og Moderaterne
+
+    ## Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?
+
+    1. [ ] Flertalsregeringer med kun ét parti
+    2. [x] Mindretalsregeringer
+    3. [ ] Regeringer uden tilknytning til politiske partier
+
+    ## Hvad er en mindretalsregering?
+
+    1. [x] En regering, hvis partier ikke tilsammen har flertal i Folketinget
+    2. [ ] En regering, hvis partier tilsammen har flertal i Folketinget
+    3. [ ] En regering, som kun må sidde i halvdelen af en valgperiode
+
+    ## Hvad kaldes partier, som står uden for regeringen og støtter den?
+
+    1. [ ] Regeringspartier
+    2. [ ] Oppositionen
+    3. [x] Støttepartier
+
+    ## Hvad kaldes partier og medlemmer uden for regeringen, som er modstandere af den?
+
+    1. [ ] Støttepartier
+    2. [x] Oppositionen
+    3. [ ] Regeringspartier
+
+    ## Hvilket af disse partier har ifølge teksten været regeringsparti i flest år samlet set?
+
+    1. [x] Radikale Venstre
+    2. [ ] Socialistisk Folkeparti
+    3. [ ] Liberal Alliance
+
+    ## Hvilket af disse partier har ifølge teksten aldrig været med i en regering?
+
+    1. [ ] Liberal Alliance
+    2. [ ] Moderaterne
+    3. [x] Enhedslisten
+
+    ## Hvad kendetegner det samarbejdende folkestyre?
+
+    1. [ ] Alle love vedtages uden politiske forhandlinger
+    2. [x] Partier søger kompromiser og brede flertal om politiske løsninger
+    3. [ ] Kun ét parti må deltage i regeringsforhandlinger
+
+    ## Skal statsministeren være leder af Folketingets største parti?
+
+    1. [x] Nej, også lederen af et mindre parti kan blive statsminister
+    2. [ ] Ja, det største parti har altid krav på statsministerposten
+    3. [ ] Kun hvis alle andre partiledere siger nej til posten
+
+    ## Hvilket parti har ifølge teksten haft statsministerposten i flest år siden Systemskiftet i 1901?
+
+    1. [ ] Venstre
+    2. [ ] Radikale Venstre
+    3. [x] Socialdemokratiet
+
+    ## Hvem udnævner de øvrige ministre?
+
+    1. [ ] Folketingets formand
+    2. [x] Statsministeren
+    3. [ ] Kongen uden politisk rådgivning
+
+    ## Hvad sker der normalt med ministeriernes almindelige embedsmænd ved et regeringsskifte?
+
+    1. [x] De beholder deres arbejde og skal være politisk neutrale
+    2. [ ] De erstattes alle af det nye regeringspartis medlemmer
+    3. [ ] De skal stille op til valg for at kunne beholde arbejdet
+
+    ## Kan man blive minister uden at være medlem af Folketinget?
+
+    1. [ ] Nej, alle ministre skal være valgt til Folketinget
+    2. [ ] Kun hvis man tidligere har været statsminister
+    3. [x] Ja, medlemskab af Folketinget er ikke et krav
+
+    ## Hvor længe vælges Folketingets medlemmer højst ad gangen?
+
+    1. [ ] To år
+    2. [x] Fire år
+    3. [ ] Tre år
+
+    ## Hvem kan udskrive folketingsvalg før valgperiodens udløb?
+
+    1. [x] Statsministeren
+    2. [ ] Folketingets formand alene
+    3. [ ] Højesteret
+
+    ## Kan den samme person være statsminister i mere end to valgperioder?
+
+    1. [ ] Nej, grænsen er to valgperioder
+    2. [ ] Kun hvis begge valgperioder har varet mindre end fire år
+    3. [x] Ja, der er ingen fast grænse for antallet af valgperioder
+
+    ## Hvad betyder det, at domstolene er uafhængige?
+
+    1. [ ] Dommerne kan frit se bort fra landets love
+    2. [x] Regeringen og Folketinget kan ikke bestemme udfaldet af en retssag
+    3. [ ] Domstolene er underlagt instruktion fra justitsministeren
+
+    ## Må en dommer bære symboler, der viser en religiøs eller politisk overbevisning, i retten?
+
+    1. [x] Nej, dommeren skal fremstå neutral
+    2. [ ] Ja, hvis regeringen har godkendt symbolet
+    3. [ ] Ja, hvis symbolet viser flertallets overbevisning
+
+    ## Hvilken kontrol kan domstolene føre med Folketingets love?
+
+    1. [ ] De kan ændre alle love efter eget ønske
+    2. [ ] De kan kun rådgive om lovens ordlyd før vedtagelsen
+    3. [x] De kan underkende en lov, der strider mod grundloven
+
+    ## Hvilken kontrol kan domstolene føre med den offentlige forvaltning?
+
+    1. [ ] De kan bestemme, hvilke ansatte kommunerne skal ansætte
+    2. [x] De kan prøve lovligheden af myndighedernes afgørelser
+    3. [ ] De kan selv fastsætte kommunernes skatteprocenter
+
+    ## Hvad hedder Danmarks øverste domstol?
+
+    1. [x] Højesteret
+    2. [ ] Landsretten
+    3. [ ] Byretten
+
+    ## Hvor begynder en retssag som hovedregel?
+
+    1. [ ] I landsretten
+    2. [ ] I Højesteret
+    3. [x] I byretten
+
+    ## Hvor kan en afgørelse fra byretten som hovedregel appelleres til?
+
+    1. [ ] Folketingets Ombudsmand
+    2. [x] Landsretten
+    3. [ ] Europaudvalget
+
+    ## Har vælgerne pligt til at stemme ved folketingsvalg?
+
+    1. [x] Nej
+    2. [ ] Ja, ellers får de en bøde
+    3. [ ] Kun ved hvert andet valg
+
+    ## Hvor høj har valgdeltagelsen ved folketingsvalg omtrent været siden 2000 ifølge teksten?
+
+    1. [ ] Omkring 50 procent
+    2. [ ] Omkring 65 procent
+    3. [x] Omkring 85 procent
+
+    ## Hvilke betingelser skal man som hovedregel opfylde for at stemme til folketingsvalg?
+
+    1. [ ] Mindst 18 år og fast bopæl i Danmark, uanset statsborgerskab
+    2. [x] Dansk statsborgerskab, mindst 18 år og fast bopæl i riget
+    3. [ ] Dansk statsborgerskab og medlemskab af et politisk parti
+
+    ## Hvad betyder det, at folketingsvalg er direkte?
+
+    1. [x] Vælgeren stemmer direkte på en kandidat eller et parti
+    2. [ ] Folketinget udpeger vælgernes repræsentanter
+    3. [ ] Stemmerne afgives offentligt
+
+    ## Hvad betyder det, at folketingsvalg er hemmelige?
+
+    1. [ ] Vælgerne må ikke fortælle, at de har stemt
+    2. [ ] Resultatet af valget offentliggøres ikke
+    3. [x] Andre kan ikke se, hvem vælgeren stemmer på
+
+    ## Hvad kan man sætte sit ene kryds ved til et folketingsvalg?
+
+    1. [ ] Både en kandidat fra ét parti og et andet parti
+    2. [x] Enten en bestemt kandidat eller et parti
+    3. [ ] Kun et parti, aldrig en bestemt kandidat
+
+    ## Hvad betyder det at brevstemme?
+
+    1. [x] At afgive sin stemme før valgdagen
+    2. [ ] At stemme ved at sende en e-mail på valgdagen
+    3. [ ] At lade en anden person vælge, hvem man stemmer på
+
+    ## Hvad betyder forholdstalsmetoden ved folketingsvalg?
+
+    1. [ ] Det største parti får automatisk mere end halvdelen af pladserne
+    2. [ ] Alle opstillede partier får lige mange pladser uanset stemmetal
+    3. [x] Partiernes andel af pladserne svarer så vidt muligt til deres andel af stemmerne
+
+    ## Hvad er spærregrænsen normalt ved folketingsvalg?
+
+    1. [ ] Én procent
+    2. [x] To procent
+    3. [ ] Fem procent
+

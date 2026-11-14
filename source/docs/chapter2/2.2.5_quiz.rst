@@ -1,0 +1,80 @@
+Quiz til 2.2.5 Det lokale selvstyre i kommuner og regioner
+==========================================================
+
+Der er 11 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvem fastsætter rammerne for kommunernes opgaver?
+
+    1. [ ] Monarken
+    2. [x] Folketinget
+    3. [ ] Den enkelte kommune uden statslige regler
+
+    ## Hvad er nærhedsprincippet i det lokale selvstyre?
+
+    1. [x] Opgaver skal løses så tæt på borgerne som muligt
+    2. [ ] Alle opgaver skal løses af staten
+    3. [ ] Kommunerne skal have samme geografiske størrelse
+
+    ## Kan kommunerne selv udskrive skat?
+
+    1. [ ] Nej, kun staten kan udskrive skat
+    2. [ ] Nej, det er regionsrådenes opgave
+    3. [x] Ja, inden for de fastsatte rammer
+
+    ## I hvilket år blev amterne erstattet af regioner?
+
+    1. [ ] 1973
+    2. [x] 2007
+    3. [ ] 1953
+
+    ## Hvor mange kommuner blev der efter strukturreformen i 2007?
+
+    1. [x] 98
+    2. [ ] 179
+    3. [ ] 271
+
+    ## Hvilken offentlig myndighed kan ikke selv udskrive skat?
+
+    1. [ ] Kommunerne
+    2. [ ] Staten
+    3. [x] Regionerne
+
+    ## Hvem består kommunalbestyrelserne af?
+
+    1. [ ] Embedsmænd udpeget af statsministeren
+    2. [x] Politikere valgt af kommunens vælgere
+    3. [ ] Dommere udpeget af Højesteret
+
+    ## Hvem vælger borgmesteren efter et kommunalvalg?
+
+    1. [x] Kommunalbestyrelsen
+    2. [ ] Statsministeren
+    3. [ ] Regionsrådet
+
+    ## Hvor ofte er der valg til kommunalbestyrelser og regionsråd?
+
+    1. [ ] Hvert andet år
+    2. [ ] Når statsministeren udskriver folketingsvalg
+    3. [x] Hvert fjerde år
+
+    ## Er dansk statsborgerskab altid nødvendigt for at stemme ved kommunal- og regionalvalg?
+
+    1. [ ] Ja, reglerne er de samme som ved folketingsvalg
+    2. [x] Nej, udenlandske statsborgere kan også have valgret efter bestemte regler
+    3. [ ] Ja, medmindre man er medlem af en lokalliste
+
+    ## Hvad er en lokalliste?
+
+    1. [x] En lokal kandidatgruppe, der ofte arbejder for bestemte lokalpolitiske mål
+    2. [ ] En liste over alle folketingsmedlemmer
+    3. [ ] En national regeringskoalition
+

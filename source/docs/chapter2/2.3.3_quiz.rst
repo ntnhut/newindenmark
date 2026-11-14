@@ -1,0 +1,44 @@
+Quiz til 2.3.3 Offentlighed
+===========================
+
+Der er 5 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Kan borgerne som udgangspunkt overvære Folketingets møder?
+
+    1. [ ] Nej, kun folketingsmedlemmer har adgang
+    2. [x] Ja, møderne er offentlige
+    3. [ ] Kun hvis regeringen har godkendt det enkelte møde
+
+    ## Hvem har som udgangspunkt ret til at overvære retssager?
+
+    1. [x] Borgerne
+    2. [ ] Kun dommere og advokater
+    3. [ ] Kun parterne i sagen
+
+    ## Hvem kan beslutte, at en retssag skal holdes for lukkede døre?
+
+    1. [ ] Regeringen
+    2. [ ] Den tiltalte alene
+    3. [x] Domstolen
+
+    ## Hvad betyder aktindsigt?
+
+    1. [ ] Ret til selv at ændre en myndigheds afgørelse
+    2. [x] Ret til at se myndigheders dokumenter efter bestemte regler
+    3. [ ] Ret til at deltage i Folketingets afstemninger
+
+    ## Giver aktindsigt ret til at se alle private oplysninger om andre borgere?
+
+    1. [x] Nej, private oplysninger er normalt undtaget
+    2. [ ] Ja, alle oplysninger skal altid være offentlige
+    3. [ ] Ja, hvis man selv er part i en anden offentlig sag
+

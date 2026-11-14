@@ -1,0 +1,86 @@
+Quiz til 2.3.1 Rettigheder i grundloven
+=======================================
+
+Der er 12 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad beskytter ytringsfriheden?
+
+    1. [ ] Retten til at danne foreninger
+    2. [x] Retten til frit at udtrykke holdninger og meddele tanker
+    3. [ ] Retten til at samles offentligt
+
+    ## Hvilken frihedsrettighed beskytter retten til at samles og give udtryk for holdninger?
+
+    1. [x] Forsamlingsfriheden
+    2. [ ] Foreningsfriheden
+    3. [ ] Ejendomsretten
+
+    ## Hvilken frihedsrettighed beskytter retten til at danne og være medlem af foreninger?
+
+    1. [ ] Forsamlingsfriheden
+    2. [ ] Ejendomsretten
+    3. [x] Foreningsfriheden
+
+    ## Må borgerne frit kritisere regeringen og religiøse autoriteter inden for lovens rammer?
+
+    1. [ ] Kun hvis kritikken er godkendt på forhånd
+    2. [x] Ja, det er en vigtig forudsætning for demokratiet
+    3. [ ] Kun hvis kritikken deles af flertallet i Folketinget
+
+    ## Hvad betyder det, at grundloven forbyder censur?
+
+    1. [x] Staten kan ikke kræve forhåndsgodkendelse af eksempelvis bøger og aviser
+    2. [ ] Bøger og aviser skal godkendes af staten inden udgivelse
+    3. [ ] Kun offentlige myndigheder må udgive aviser
+
+    ## Hvad betyder det, at ytringsfrihed udøves under ansvar?
+
+    1. [ ] Enhver ytring skal godkendes af staten på forhånd
+    2. [ ] Ytringsfriheden giver ret til at overtræde alle andre love
+    3. [x] Man kan straffes, hvis en ytring overskrider lovens grænser
+
+    ## Hvem kan dømme en forening ulovlig, hvis den søger at nå sine mål ved vold?
+
+    1. [ ] Regeringen alene
+    2. [x] Domstolene
+    3. [ ] Kommunalbestyrelsen
+
+    ## Hvilken rettighed beskytter blandt andet borgeren mod indgreb i hjemmet?
+
+    1. [x] Boligens ukrænkelighed
+    2. [ ] Forsamlingsfriheden
+    3. [ ] Valgbarheden
+
+    ## Hvilken ret til undervisning er sikret i grundloven?
+
+    1. [ ] Alles ret til gratis undervisning på private skoler
+    2. [ ] Alles ret til en bestemt universitetsuddannelse
+    3. [x] Børns ret til gratis undervisning i folkeskolen
+
+    ## På hvilke grundlag må borgernes rettigheder og pligter ikke forskelsbehandles ifølge grundloven?
+
+    1. [ ] Alder og indkomst
+    2. [x] Tro og afstamning
+    3. [ ] Bopæl og uddannelse
+
+    ## Hvad er Den Europæiske Menneskerettighedskonventions rolle i Danmark?
+
+    1. [x] Den supplerer grundlovens rettigheder og er en del af dansk lovgivning
+    2. [ ] Den erstatter den danske grundlov
+    3. [ ] Den gælder kun for borgere i andre europæiske lande
+
+    ## Hvilken international domstol kan dømme Danmark for brud på menneskerettighedskonventionen?
+
+    1. [ ] Den Internationale Straffedomstol
+    2. [ ] Den Internationale Domstol i Haag
+    3. [x] Den Europæiske Menneskerettighedsdomstol
+

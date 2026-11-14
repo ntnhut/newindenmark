@@ -1,0 +1,50 @@
+Quiz til 2.2.3 Hvordan arbejder demokratiet?
+============================================
+
+Der er 6 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvem kan fremsætte lovforslag?
+
+    1. [ ] Kun regeringen
+    2. [x] Regeringen og hvert enkelt folketingsmedlem
+    3. [ ] Kun Folketingets udvalg
+
+    ## Kan idéen til en lovændring komme fra en borger eller en forening?
+
+    1. [x] Ja, politikere kan tage sådanne idéer op
+    2. [ ] Nej, idéer må kun komme fra ministerierne
+    3. [ ] Kun hvis idéen først er godkendt af en domstol
+
+    ## Hvilket internationalt samarbejde er en vigtig kilde til dansk lovgivning?
+
+    1. [ ] NATO
+    2. [ ] Nordisk Råd
+    3. [x] EU
+
+    ## Hvor mange behandlinger skal et lovforslag igennem i Folketinget?
+
+    1. [ ] Én
+    2. [x] Tre
+    3. [ ] Fem
+
+    ## Hvordan afsluttes et lovforslags tredje behandling i Folketinget?
+
+    1. [x] Med en afstemning, hvor et flertal afgør, om forslaget vedtages
+    2. [ ] Med en folkeafstemning om alle forslag
+    3. [ ] Med en afgørelse fra Højesteret om forslagets politiske indhold
+
+    ## Hvem skal underskrive en lov, efter at Folketinget har vedtaget den?
+
+    1. [ ] Folketingets formand og en borgmester
+    2. [ ] Højesterets præsident og en dommer
+    3. [x] Monarken og en minister
+

@@ -1,0 +1,92 @@
+Quiz til 2.2.6 Demokratiets deltagere
+=====================================
+
+Der er 13 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilket parti stemte arbejdere typisk på i midten af 1900-tallet?
+
+    1. [ ] Venstre
+    2. [x] Socialdemokratiet
+    3. [ ] Det Konservative Folkeparti
+
+    ## Hvilket parti stemte bønder typisk på i midten af 1900-tallet?
+
+    1. [x] Venstre
+    2. [ ] Socialdemokratiet
+    3. [ ] Det Konservative Folkeparti
+
+    ## Hvilket parti stemte borgerskabet og selvstændigt erhvervsdrivende typisk på i midten af 1900-tallet?
+
+    1. [ ] Socialdemokratiet
+    2. [ ] Radikale Venstre
+    3. [x] Det Konservative Folkeparti
+
+    ## Hvordan har vælgernes tilknytning til partier ændret sig?
+
+    1. [ ] Flere vælgere stemmer på samme parti hele livet
+    2. [x] Vælgerne skifter oftere parti end tidligere
+    3. [ ] Vælgernes arbejde bestemmer altid, hvilket parti de stemmer på
+
+    ## Hvilken rolle har de politiske partier i demokratiet?
+
+    1. [x] De repræsenterer politiske holdninger og påvirker den politiske debat
+    2. [ ] De dømmer i sager om politisk uenighed
+    3. [ ] De overtager domstolenes kontrol med regeringen
+
+    ## Hvordan har de politiske partiers samlede medlemstal udviklet sig siden omkring 1950?
+
+    1. [ ] Det er steget betydeligt
+    2. [ ] Det har været stort set uændret
+    3. [x] Det er faldet betydeligt
+
+    ## Hvad bestemmer partiernes medlemmer blandt andet?
+
+    1. [ ] Hvem der udnævnes til dommere
+    2. [x] Hvem partiet opstiller som kandidater
+    3. [ ] Hvordan andre partier stemmer
+
+    ## Hvad er et folketingsmedlem bundet af ifølge grundloven?
+
+    1. [x] Sin personlige overbevisning
+    2. [ ] Partiets instrukser i alle sager
+    3. [ ] Vælgernes bindende ordrer
+
+    ## Hvad sker der med et folketingsmedlems mandat, hvis medlemmet forlader sit parti?
+
+    1. [ ] Pladsen går straks til et andet medlem af partiet
+    2. [ ] Medlemmet må beholde pladsen, men mister sin stemmeret i Folketinget
+    3. [x] Medlemmet beholder sin plads indtil næste folketingsvalg
+
+    ## Hvad er interesseorganisationers rolle i demokratiet?
+
+    1. [ ] At vedtage love uden om Folketinget
+    2. [x] At påvirke politiske beslutninger og bidrage med viden
+    3. [ ] At afgøre, hvem der må stille op til folketingsvalg
+
+    ## Er de danske medier underlagt regeringens politiske kontrol?
+
+    1. [x] Nej, de er uafhængige og kan kritisere regeringen
+    2. [ ] Ja, regeringen skal godkende politiske nyheder
+    3. [ ] Ja, men kun under valgkampe
+
+    ## Hvorfor kaldes medierne undertiden den fjerde statsmagt?
+
+    1. [ ] De vedtager love på vegne af Folketinget
+    2. [ ] De kontrollerer domstolenes afgørelser
+    3. [x] De holder øje med magthaverne og kan kritisere deres handlinger
+
+    ## Hvordan har sociale medier ændret den politiske debat?
+
+    1. [ ] De har gjort det umuligt for borgere at kontakte politikere
+    2. [x] De giver mere direkte kontakt, men kan svække journalisters kritiske kontrol
+    3. [ ] De sikrer, at alle politiske udsagn bliver kontrolleret af journalister
+

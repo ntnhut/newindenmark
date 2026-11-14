@@ -1,0 +1,50 @@
+Quiz til 2.3.2 Den offentlige forvaltning
+=========================================
+
+Der er 6 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad er den offentlige forvaltnings hovedopgave?
+
+    1. [ ] At vedtage landets love
+    2. [x] At føre landets love ud i livet
+    3. [ ] At dømme i straffesager
+
+    ## Hvordan beskrives korruption i den danske offentlige forvaltning i teksten?
+
+    1. [x] Den er meget lav i international sammenhæng
+    2. [ ] Den er blandt de højeste i Europa
+    3. [ ] Den er en lovlig del af myndighedernes arbejde
+
+    ## Hvad betyder det, at forvaltningens handlinger skal have hjemmel i en lov?
+
+    1. [ ] Myndighederne kan handle frit uden at følge loven
+    2. [ ] En minister kan altid erstatte lovgrundlaget med en mundtlig ordre
+    3. [x] Der skal være et lovgrundlag for handlingerne
+
+    ## Hvad er Folketingets Ombudsmands opgave?
+
+    1. [ ] At dømme borgere i straffesager
+    2. [x] At undersøge fejl og forsømmelser hos offentlige myndigheder
+    3. [ ] At udarbejde regeringens lovforslag
+
+    ## Hvordan er Folketingets Ombudsmand placeret i forhold til Folketinget?
+
+    1. [x] Valgt af Folketinget, men uafhængig i sit arbejde
+    2. [ ] Udnævnt af regeringen og underlagt dens instruktion
+    3. [ ] Valgt direkte af borgerne ved folketingsvalg
+
+    ## Kan Ombudsmanden selv tilsidesætte en myndigheds afgørelse?
+
+    1. [ ] Ja, Ombudsmanden kan ændre alle myndigheders afgørelser
+    2. [ ] Ja, hvis regeringen giver en særlig tilladelse
+    3. [x] Nej, men Ombudsmanden kan kritisere og opfordre til ændringer
+

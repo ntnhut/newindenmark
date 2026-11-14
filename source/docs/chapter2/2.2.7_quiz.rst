@@ -1,0 +1,38 @@
+Quiz til 2.2.7 Demokrati i hverdagen – medborgerskab
+====================================================
+
+Der er 4 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvor kan elever være med til at praktisere demokrati i hverdagen?
+
+    1. [ ] Kun når de har valgret til Folketinget
+    2. [x] I elevråd og klasseråd
+    3. [ ] Kun som medlemmer af et politisk parti
+
+    ## Hvordan kan foreningslivet give erfaring med demokrati?
+
+    1. [x] Ved at diskutere forslag, indgå kompromiser og stemme
+    2. [ ] Ved at lade formanden træffe alle beslutninger alene
+    3. [ ] Ved at undgå uenighed mellem medlemmerne
+
+    ## Ved hvilken type valg er valgdeltagelsen højest ifølge teksten?
+
+    1. [ ] Kommunal- og regionalvalg
+    2. [ ] Valg til Europa-Parlamentet
+    3. [x] Folketingsvalg
+
+    ## Hvordan kan man også udtrykke politiske holdninger mellem valgene?
+
+    1. [ ] Kun ved at blive medlem af Folketinget
+    2. [x] Ved underskriftsindsamlinger og deltagelse i politiske diskussioner
+    3. [ ] Kun ved at være medlem af et regeringsparti
+

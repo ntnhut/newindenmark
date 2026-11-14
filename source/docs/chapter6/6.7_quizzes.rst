@@ -1,9 +1,0 @@
-Quizzer til 6.7
-===============
-
-.. toctree::
-   :maxdepth: 1
-
-   6.7a_geografi_og_befolkning_quiz
-   6.7b_historie_quiz
-   6.7c_nordisk_samarbejde_quiz

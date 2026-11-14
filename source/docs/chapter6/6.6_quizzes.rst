@@ -1,8 +1,0 @@
-Quizzer til 6.6
-===============
-
-.. toctree::
-   :maxdepth: 1
-
-   6.6a_groenland_quiz
-   6.6b_faeroeerne_quiz

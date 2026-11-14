@@ -1,0 +1,139 @@
+Quiz til 6.16 Sundhed og sundhedsvæsen
+======================================
+
+Der er 21 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvad har blandt andet fået udgifterne til sundhedsvæsenet til at stige?
+
+    1. [ ] Færre sygdomme og billigere teknologi
+    2. [x] Flere ældre og dyrere behandlingsmuligheder
+    3. [ ] At sygehusene er blevet mindre
+
+    ## Hvad er middellevetiden omtrent for kvinder og mænd i 2024-2025 ifølge teksten?
+
+    1. [x] 84 år for kvinder og 80 år for mænd
+    2. [ ] 70 år for kvinder og 65 år for mænd
+    3. [ ] 95 år for kvinder og 90 år for mænd
+
+    ## Hvilken kombination af faktorer har forbedret folkesundheden?
+
+    1. [ ] Mindre adgang til mad og færre læger
+    2. [ ] Flere arbejdstimer og mindre hygiejne
+    3. [x] Mere mad, lægevidenskab, bedre hygiejne og et udbygget sundhedsvæsen
+
+    ## Hvornår blev sygekasserne afløst af den offentlige sygesikring?
+
+    1. [ ] 1893
+    2. [x] 1973
+    3. [ ] 2000
+
+    ## Hvad er livsstilssygdomme?
+
+    1. [x] Sygdomme, hvor risikoen øges af den måde, man lever på
+    2. [ ] Sygdomme, der kun rammer børn
+    3. [ ] Sygdomme, som kun behandles på private sygehuse
+
+    ## Hvilke sygdomme nævnes som eksempler på livsstilssygdomme?
+
+    1. [ ] Skoldkopper og mæslinger
+    2. [ ] Brækkede knogler og forstuvninger
+    3. [x] Kræft, hjertekarsygdomme, sukkersyge og KOL
+
+    ## Hvad menes der med social ulighed i sundhed?
+
+    1. [ ] At alle borgere betaler samme pris for alle behandlinger
+    2. [x] At sygdomsrisiko og levealder hænger sammen med sociale forhold som uddannelse
+    3. [ ] At kun ældre kan gå til læge
+
+    ## Hvor gammel skal man ifølge teksten være for at købe øl med fem procent alkohol i en butik?
+
+    1. [x] 16 år
+    2. [ ] 15 år
+    3. [ ] 18 år
+
+    ## Hvor gammel skal man ifølge teksten være for at købe cigaretter eller stærk spiritus?
+
+    1. [ ] 16 år
+    2. [ ] 21 år
+    3. [x] 18 år
+
+    ## Hvorfor er rygning særlig alvorlig for folkesundheden?
+
+    1. [ ] Den er den mest almindelige årsag til trafikulykker
+    2. [x] Den er den største enkeltstående årsag til sygdom og død i Danmark
+    3. [ ] Den påvirker kun personer under 18 år
+
+    ## Hvor gælder der blandt andet rygeforbud?
+
+    1. [x] På offentlige indendørs steder, arbejdspladser og skoler
+    2. [ ] Kun i private hjem
+    3. [ ] Kun udendørs på skolernes områder
+
+    ## Må elever i folkeskoler og ungdomsuddannelser ryge uden for skolens område i skoletiden ifølge teksten?
+
+    1. [ ] Ja, hvis de er fyldt 16 år
+    2. [ ] Ja, hvis en forælder har givet tilladelse
+    3. [x] Nej, rygeforbuddet gælder også uden for skolens område
+
+    ## Hvilke borgere har oplevet den største stigning i dårligt mentalt helbred?
+
+    1. [ ] Børn under seks år
+    2. [x] Unge i alderen 16-24 år
+    3. [ ] Borgere over 80 år
+
+    ## Hvem har hovedansvaret for at drive sygehusene ifølge teksten?
+
+    1. [x] Regionerne
+    2. [ ] Kommunerne
+    3. [ ] Staten alene
+
+    ## Hvilken hjælp giver regionerne gratis til borgere med bopæl i landet?
+
+    1. [ ] Al tandpleje og medicin uanset alder
+    2. [ ] Alle behandlinger hos psykolog og fysioterapeut uden henvisning
+    3. [x] Sygehusbehandling og hjælp hos praktiserende læge og speciallæge
+
+    ## Hvem er normalt indgangen til sundhedsvæsenet og vurderer behovet for henvisning til speciallæge eller sygehus?
+
+    1. [ ] Kommunens borgmester
+    2. [x] Egen praktiserende læge
+    3. [ ] Patientens arbejdsgiver
+
+    ## Hvorfor samles behandlinger på færre og større sygehuse?
+
+    1. [x] For at styrke kvaliteten og give bedre adgang til erfaring og udstyr
+    2. [ ] For at gøre afstanden til behandling større
+    3. [ ] For at gøre sygehusbehandling betalingspligtig
+
+    ## Hvad er en ulempe ved at samle behandlinger på færre og større sygehuse?
+
+    1. [ ] Lægerne får mindre erfaring med komplicerede behandlinger
+    2. [ ] Sygehusene kan ikke købe moderne udstyr
+    3. [x] Mange har fået længere afstand til et sygehus, og byer har mistet arbejdspladser
+
+    ## Hvad gælder som hovedregel for betaling til medicin og psykolog?
+
+    1. [ ] Alt er altid gratis uden betingelser
+    2. [x] Der kan gives tilskud, men patienten betaler ofte en del selv
+    3. [ ] Regionen betaler kun, hvis patienten ikke har egen læge
+
+    ## Hvilken behandling er gratis for børn og unge op til og med 21 år?
+
+    1. [x] Tandpleje
+    2. [ ] Psykologbehandling
+    3. [ ] Al medicin på apoteket
+
+    ## Hvilke sundhedsopgaver står kommunerne blandt andet for?
+
+    1. [ ] Driften af alle landets sygehuse
+    2. [ ] Udelukkende uddannelse af læger
+    3. [x] Pleje, genoptræning og forebyggelse

@@ -1,0 +1,145 @@
+Quiz til 6.17 Klima
+===================
+
+Der er 22 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilke energikilder kaldes fossile brændsler?
+
+    1. [ ] Sol, vind og vandkraft
+    2. [x] Kul, olie og gas
+    3. [ ] Biomasse, jordvarme og bølger
+
+    ## Hvordan virker drivhusgasser i atmosfæren?
+
+    1. [x] De begrænser noget af varmens mulighed for at slippe ud
+    2. [ ] De blokerer alt sollys fra at nå Jorden
+    3. [ ] De fjerner al varme fra atmosfæren
+
+    ## Hvilke følger kan global opvarmning få?
+
+    1. [ ] Færre oversvømmelser og mindre ekstrem varme
+    2. [ ] At alle verdens områder får samme klima
+    3. [x] Mere ørken, flere oversvømmelser og mere ekstrem varme
+
+    ## Hvordan har udledningen af drivhusgasser udviklet sig siden 1990 ifølge teksten?
+
+    1. [ ] Den er steget i Danmark, men faldet globalt
+    2. [x] Den er faldet i Danmark, men steget globalt
+    3. [ ] Den er faldet både i Danmark og globalt
+
+    ## Hvorfor er internationalt samarbejde vigtigt for klimaindsatsen?
+
+    1. [x] Problemet kan kun løses, hvis andre lande også reducerer deres udslip
+    2. [ ] Danmark står for næsten hele verdens udledning
+    3. [ ] Klimaændringer påvirker kun Danmark
+
+    ## Hvad forpligter Paris-aftalen fra 2015 næsten alle verdens lande til?
+
+    1. [ ] At stoppe al international handel
+    2. [ ] At udvide brugen af kul og olie
+    3. [x] At bidrage til at reducere det globale udslip af drivhusgasser
+
+    ## Hvad skal Klimarådet blandt andet gøre?
+
+    1. [ ] Vedtage love på vegne af Folketinget
+    2. [x] Rådgive regeringen og vurdere klimapolitikken
+    3. [ ] Drive Danmarks vindmølleparker
+
+    ## Hvad er målet i den danske klimalov for 2030?
+
+    1. [x] At reducere udledningen med 70 procent i forhold til 1990
+    2. [ ] At reducere udledningen med 10 procent i forhold til 2020
+    3. [ ] At gøre Danmark helt klimaneutralt inden 2030
+
+    ## Hvad betyder klimaneutralitet i 2050?
+
+    1. [ ] Danmark må ikke bruge elektricitet
+    2. [ ] Danmark skal have samme udledning som i 1990
+    3. [x] Danmark må ikke udlede flere drivhusgasser, end landet optager
+
+    ## Hvad betyder grøn omstilling?
+
+    1. [ ] At gå fra vedvarende energi til olie og gas
+    2. [x] At gå fra sorte energikilder til vedvarende og grønnere kilder
+    3. [ ] At reducere brugen af al elektricitet
+
+    ## Hvordan har vedvarende energis andel af Danmarks energiforbrug udviklet sig siden 1990?
+
+    1. [x] Den er steget betydeligt
+    2. [ ] Den er faldet til næsten nul
+    3. [ ] Den har været stort set uændret
+
+    ## Hvilken vedvarende energikilde er særlig vigtig for Danmarks elproduktion?
+
+    1. [ ] Vandkraft
+    2. [ ] Geotermisk energi
+    3. [x] Vindenergi
+
+    ## Hvad var Vindeby ud for Lolland, som blev opstillet i 1991?
+
+    1. [ ] Danmarks første atomkraftværk
+    2. [x] Verdens første havvindmøllepark
+    3. [ ] Danmarks første energiø
+
+    ## Hvad er formålet med den planlagte energiø ved Bornholm?
+
+    1. [x] At sende strøm til blandt andet Sjælland og Tyskland
+    2. [ ] At udvinde olie og naturgas
+    3. [ ] At erstatte strømforbindelser til nabolandene
+
+    ## Hvilken ændring i opvarmningen af boliger støttes som led i den grønne omstilling?
+
+    1. [ ] At erstatte fjernvarme med flere oliefyr
+    2. [ ] At opvarme alle boliger med kul
+    3. [x] At udskifte olie- og gasfyr med varmepumper eller fjernvarme
+
+    ## Hvordan bruges bilafgifterne i den grønne omstilling?
+
+    1. [ ] De er ens for alle biler uanset udledning
+    2. [x] De indrettes efter, hvor meget bilerne udleder af drivhusgasser
+    3. [ ] De gør benzin- og dieselbiler afgiftsfrie
+
+    ## Hvorfor er interessen for grøn energi vokset yderligere efter Ruslands angreb på Ukraine?
+
+    1. [x] Grøn energi kan gøre Europa mere uafhængigt af russisk energi
+    2. [ ] Grøn energi kan øge Europas import af russisk olie
+    3. [ ] Europa har besluttet helt at stoppe produktionen af elektricitet
+
+    ## Hvad handler Den Grønne Trepart blandt andet om?
+
+    1. [ ] At øge brugen af pesticider og olie
+    2. [ ] At udvide alle landbrugsarealer
+    3. [x] At skabe mere natur, renere vand og et mindre forurenende landbrug
+
+    ## Hvad aftalte Den Grønne Trepart i 2024 skulle ske med en del af landbrugsjorden?
+
+    1. [ ] Den skal bruges til flere motorveje
+    2. [x] Den skal omlægges til natur med blandt andet skov og enge
+    3. [ ] Den skal udelukkende bruges til nye boligområder
+
+    ## Hvorfor bidrager lavbundsjord til landbrugets CO2-udledning?
+
+    1. [x] Dyrkning frigiver kulstof fra døde planterester i den fugtige jord
+    2. [ ] Den består af ren sandjord uden planter
+    3. [ ] Den altid er dækket af havvand
+
+    ## Hvad kan landbrugets gødskning føre til i kystområder og fjorde?
+
+    1. [ ] Mere ilt og færre næringsstoffer i vandet
+    2. [ ] At tidevandet stopper
+    3. [x] Ilt-svind, som gør det sværere for fisk og anden natur at leve
+
+    ## Hvilken ny afgift indgår i Den Grønne Trepart?
+
+    1. [ ] En afgift på alle naturbesøg
+    2. [x] En direkte CO2-afgift på landbrugets udledning
+    3. [ ] En afgift på brug af vindenergi

@@ -1,0 +1,85 @@
+Quiz til 6.15 Ligestilling mellem kønnene
+=========================================
+
+Der er 12 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilket princip gælder i Danmark for mænds og kvinders rettigheder?
+
+    1. [ ] Mænd har flere politiske rettigheder
+    2. [x] Mænd og kvinder har lige rettigheder
+    3. [ ] Kvinder må ikke deltage på arbejdsmarkedet
+
+    ## Hvilket princip blev fastslået i den lov, Folketinget vedtog i 1976?
+
+    1. [x] Lige løn for samme arbejde
+    2. [ ] At kun mænd måtte være ledere
+    3. [ ] At kvinder skulle have kortere uddannelser end mænd
+
+    ## Hvilken udvikling inden for uddannelse har især bidraget til at mindske lønforskellen?
+
+    1. [ ] Kvinder har fået mindre uddannelse end tidligere
+    2. [ ] Mænd har fået længere barselsorlov
+    3. [x] Kvinder har i højere grad end mænd gennemført videregående uddannelser
+
+    ## Hvad er en årsag til lønforskelle mellem mænd og kvinder?
+
+    1. [ ] Kvinder må ikke tage videregående uddannelser
+    2. [x] Mænd og kvinder arbejder ofte i forskellige fag og på forskellige ledelsesniveauer
+    3. [ ] Alle faggrupper har samme løn
+
+    ## Hvem kan ifølge tekstens beskrivelse tage del i forældreorloven?
+
+    1. [x] Både moren og faren
+    2. [ ] Kun moren
+    3. [ ] Kun faren
+
+    ## Hvem tager i praksis den største del af barselsorloven ifølge teksten?
+
+    1. [ ] Mændene
+    2. [ ] Begge køn tager præcis lige meget
+    3. [x] Kvinderne
+
+    ## Hvad satte Me-Too-bevægelsen fokus på?
+
+    1. [ ] Længden af sommerferien
+    2. [x] Seksuelle krænkelser og chikane
+    3. [ ] Aldersgrænsen for folkepension
+
+    ## Hvem satte for alvor gang i Me-Too-debatten i Danmark i 2020?
+
+    1. [x] Tv-værten Sofie Linde
+    2. [ ] En dommer ved Højesteret
+    3. [ ] En leder af et universitet
+
+    ## Hvorfor kan seksuelle krænkelser på arbejdspladsen også handle om magt?
+
+    1. [ ] Alle medarbejdere har samme ledelsesansvar
+    2. [ ] Krænkelser kan kun forekomme uden for arbejdstiden
+    3. [x] En medarbejder kan frygte konsekvenser for sin karriere ved at sige fra
+
+    ## Hvad arbejder mange arbejdspladser med som følge af øget fokus på seksuelle krænkelser?
+
+    1. [ ] At gøre det vanskeligere at anmelde krænkelser
+    2. [x] At ændre kulturen, lette anmeldelser og slå hårdere ned på krænkelser
+    3. [ ] At overlade alle sager til medarbejderne selv
+
+    ## Hvad indebærer den samtykkebaserede voldtægtslovgivning beskrevet i teksten?
+
+    1. [x] Samleje uden begge parters samtykke kan straffes, også uden vold eller trusler
+    2. [ ] Kun samleje med fysisk vold kan straffes
+    3. [ ] Samtykke er kun nødvendigt, hvis parterne ikke kender hinanden
+
+    ## Hvordan kan samtykke til samleje komme til udtryk?
+
+    1. [ ] Kun gennem en underskrevet aftale
+    2. [ ] Kun ved at sige ordet "ja"
+    3. [x] Gennem ord eller handling

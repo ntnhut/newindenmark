@@ -1,7 +1,7 @@
-Quiz til 6.8
-==========================================
+Quiz til 6.8 Dansk videnskab og tænkning
+========================================
 
-
+Der er 20 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,14 +9,8 @@ Quiz til 6.8
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
-
-    ## Hvor foregår en stor del af dansk forskning?
-
-    1. [ ] Kun i Folketinget
-    2. [x] På universiteterne
-    3. [ ] Kun på offentlige museer
 
     ## Inden for hvilke områder er Danmark særligt internationalt kendt for sin forskning?
 
@@ -24,65 +18,41 @@ Quiz til 6.8
     2. [x] Medicin, biokemi og teknologi
     3. [ ] Astronomi, søfart og filosofi
 
-    ## Hvad kortlagde Tycho Brahe med stor præcision?
+    ## Hvad var Tycho Brahe særligt kendt for?
 
-    1. [x] Stjernehimlen
-    2. [ ] Havbunden ved Grønland
-    3. [ ] Den menneskelige hjerne
-
-    ## Hvilken ny stjerne opdagede Tycho Brahe?
-
-    1. [ ] Sirius
-    2. [ ] Betelgeuse
-    3. [x] Nova Stella i stjernebilledet Cassiopeia
-
-    ## Hvem brugte Tycho Brahes observationer til at udforme planeternes bevægelseslove?
-
-    1. [x] Johannes Kepler
-    2. [ ] Ole Rømer
-    3. [ ] Vitus Bering
+    1. [x] Han var astronom
+    2. [ ] Han var læge
+    3. [ ] Han var filosof
 
     ## Hvad viste Niels Steensen om hjertet?
 
     1. [ ] At det er hjemsted for sjælen
-    2. [x] At det er en muskel
-    3. [ ] At det styrer planeternes bevægelser
-
-    ## Hvilken anden anatomisk opdagelse gjorde Niels Steensen?
-
-    1. [x] Han viste, hvordan vi græder
-    2. [ ] Han påviste Jordens indre kerne
-    3. [ ] Han opdagede natrium-kaliumpumpen
+    2. [ ] At det styrer planeternes bevægelser
+    3. [x] At det er en muskel
 
     ## Hvad opdagede Ole Rømer om lys?
 
     1. [ ] At lys ikke kan bevæge sig gennem rummet
-    2. [ ] At lys altid bevæger sig øjeblikkeligt
-    3. [x] At lys bevæger sig med en bestemt hastighed
+    2. [x] At lys bevæger sig med en bestemt hastighed
+    3. [ ] At lys altid bevæger sig øjeblikkeligt
 
-    ## Hvilken kalender blev indført i Danmark i 1700 efter forarbejde af Ole Rømer?
+    ## Hvad var Vitus Bering særligt kendt for?
 
-    1. [x] Den gregorianske kalender
-    2. [ ] Den julianske kalender
-    3. [ ] Den nordiske kalender
+    1. [x] Han var opdagelsesrejsende
+    2. [ ] Han var komponist
+    3. [ ] Han var billedhugger
 
     ## Hvad påviste Vitus Berings ekspedition i 1728?
 
     1. [ ] At Grønland er verdens største ø
-    2. [x] At Asien og Nordamerika er adskilt af vand
-    3. [ ] At Jorden har en indre kerne
-
-    ## Hvilke steder er opkaldt efter Vitus Bering?
-
-    1. [ ] Bornholm, Øresund og Nordsøen
-    2. [x] Bering Øen, Beringhavet og Beringstrædet
-    3. [ ] Alaska, Sibirien og Grønland
+    2. [ ] At Jorden har en indre kerne
+    3. [x] At Asien og Nordamerika er adskilt af vand
 
     ## Hvad opdagede H.C. Ørsted i 1820?
 
     1. [ ] At lys kan bremses helt
-    2. [ ] At hjertet er en muskel
-    3. [x] At elektrisk strøm fremkalder magnetisme
+    2. [x] At elektrisk strøm fremkalder magnetisme
+    3. [ ] At hjertet er en muskel
 
     ## Hvilke danske ord var H.C. Ørsted med til at indføre?
 
@@ -90,77 +60,53 @@ Quiz til 6.8
     2. [ ] Atom og celle
     3. [ ] Stjerne og planet
 
+    ## Hvad var Søren Kierkegaard særligt kendt for?
+
+    1. [ ] Han var astronom
+    2. [ ] Han var polarforsker
+    3. [x] Han var filosof
+
+    ## I hvilket århundrede levede Søren Kierkegaard?
+
+    1. [ ] 1600-tallet
+    2. [x] 1800-tallet
+    3. [ ] 1900-tallet
+
     ## Hvilket vigtigt værk udgav Søren Kierkegaard i 1843?
 
-    1. [ ] Clara Raphael. Tolv Breve
-    2. [x] Enten – Eller
+    1. [x] Enten – Eller
+    2. [ ] Clara Raphael. Tolv Breve
     3. [ ] Højskolesangbogen
 
-    ## Hvad er grundtanken i Søren Kierkegaards eksistentialistiske filosofi?
+    ## Hvilken forfatter satte kvinders frigørelse til debat med Clara Raphael. Tolv Breve?
 
-    1. [ ] Menneskets liv bestemmes udelukkende af dets fødested
-    2. [x] Mennesket bliver den, det er, gennem de valg, det træffer
-    3. [ ] Samfundets love afgør menneskets religiøse tro
+    1. [ ] Karen Blixen
+    2. [ ] Tove Ditlevsen
+    3. [x] Mathilde Fibiger
 
-    ## Hvilken bog udgav Mathilde Fibiger i 1851?
+    ## Hvad var Knud Rasmussen særligt kendt for?
 
-    1. [x] Clara Raphael. Tolv Breve
-    2. [ ] Enten – Eller
-    3. [ ] Himmerlandshistorier
+    1. [ ] Han var arkitekt
+    2. [x] Han var polarforsker
+    3. [ ] Han var komponist
 
-    ## Hvad bidrog Mathilde Fibigers bog til at sætte i gang?
+    ## Hvad undersøgte Knud Rasmussen på sine Thule-ekspeditioner?
 
-    1. [ ] En debat om Danmarks medlemskab af EU
-    2. [ ] En debat om indførelsen af elektricitet
-    3. [x] En debat om kvinders rolle og ligestilling
+    1. [x] Arktiske områders geografi og inuitternes kultur
+    2. [ ] Planeternes bevægelser omkring Solen
+    3. [ ] Jordens indre kerne
 
-    ## Hvilken stilling fik Mathilde Fibiger som den første kvinde i Danmark?
+    ## For hvilken opdagelse modtog Niels Bohr Nobelprisen i fysik i 1922?
 
-    1. [ ] Universitetsprofessor
-    2. [ ] Læge
-    3. [x] Embedsmand som telegraf ved Den Danske Statstelegraf
-
-    ## Hvor mange Thule-ekspeditioner gennemførte Knud Rasmussen?
-
-    1. [ ] Fem
-    2. [x] Syv
-    3. [ ] Tolv
-
-    ## Hvor langt rejste Knud Rasmussen på sin femte Thule-ekspedition?
-
-    1. [ ] 1.800 km
-    2. [x] 18.000 km
-    3. [ ] 180.000 km
-
-    ## Hvad påviste Knud Rasmussen blandt inuitgrupper over store afstande?
-
-    1. [x] At de havde fælles kultur, mytologi og traditioner
-    2. [ ] At de alle talte dansk
-    3. [ ] At de var flyttet fra Europa i 1800-tallet
-
-    ## Hvilken pris modtog Niels Bohr i 1922?
-
-    1. [x] Nobelprisen i fysik
-    2. [ ] Nobelprisen i litteratur
-    3. [ ] Nobelprisen i kemi
-
-    ## Hvad arbejdede Niels Bohr især med ud over sin atommodel?
-
-    1. [ ] Anatomi og lægevidenskab
-    2. [x] Kvantemekanik og debatten om atomenergi og atomvåben
-    3. [ ] Geologi og Jordens indre kerne
+    1. [ ] Elektromagnetisme
+    2. [ ] Lysets hastighed
+    3. [x] En model for atomers opbygning
 
     ## Hvad påviste Inge Lehmann om Jordens indre?
 
     1. [ ] At Jorden ikke har en fast kerne
-    2. [ ] At Jordens overflade er helt ensartet
-    3. [x] At Jorden har en indre kerne
-
-    ## Hvornår offentliggjorde Inge Lehmann sin opdagelse af Jordens indre kerne?
-
-    1. [ ] 1922
-    2. [x] 1936
-    3. [ ] 1997
+    2. [x] At Jorden har en indre kerne
+    3. [ ] At Jordens overflade er helt ensartet
 
     ## Hvilken opdagelse gav Jens Christian Skou Nobelprisen i kemi?
 
@@ -168,38 +114,20 @@ Quiz til 6.8
     2. [ ] Elektromagnetismen
     3. [ ] Kvantemekanikken
 
-    ## Hvornår modtog Jens Christian Skou Nobelprisen i kemi?
+    ## Hvad blev fysikeren Lene Vestergaard Hau internationalt kendt for?
 
-    1. [ ] 1957
-    2. [ ] 1992
-    3. [x] 1997
-
-    ## Hvad gjorde Lene Vestergaard Hau i 1999?
-
-    1. [ ] Hun opdagede elektromagnetismen
-    2. [x] Hun nedsatte lysets udbredelseshastighed
-    3. [ ] Hun påviste Jordens indre kerne
-
-    ## Hvad gjorde Lene Vestergaard Hau med en lysimpuls i 2001?
-
-    1. [ ] Hun sendte den til Månen
-    2. [x] Hun bremsede den fuldstændigt
-    3. [ ] Hun omdannede den til elektrisk strøm
+    1. [ ] At opdage Jordens indre kerne
+    2. [ ] At kortlægge stjernehimlen
+    3. [x] At nedsætte lysets hastighed og senere bremse en lysimpuls
 
     ## Hvad kaldes den metode, som Morten Meldal modtog Nobelprisen for at have lagt grunden til?
 
     1. [ ] Atomfission
-    2. [ ] Elektromagnetisme
-    3. [x] Klik-kemi
+    2. [x] Klik-kemi
+    3. [ ] Elektromagnetisme
 
-    ## Hvornår og inden for hvilket fag modtog Morten Meldal Nobelprisen?
+    ## Hvilken nobelpris modtog Morten Meldal i 2022?
 
-    1. [ ] I 1997 i fysik
-    2. [x] I 2022 i kemi
-    3. [ ] I 2022 i medicin
-
-    ## Hvad kan klik-kemi blandt andet bruges til?
-
-    1. [ ] At kortlægge stjernehimlen
-    2. [x] At teste og fremstille ny medicin hurtigere
-    3. [ ] At måle lysets hastighed mellem planeter
+    1. [x] Nobelprisen i kemi
+    2. [ ] Nobelprisen i fysik
+    3. [ ] Nobelprisen i medicin

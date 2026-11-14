@@ -1,7 +1,7 @@
-Quiz til 6.4
-==========================================
+Quiz til 6.4 Kongehuset
+=======================
 
-
+Der er 11 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,7 +9,7 @@ Quiz til 6.4
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
 
     ## Hvor langt tilbage kan det danske kongehus med sikkerhed føres?
@@ -18,77 +18,35 @@ Quiz til 6.4
     2. [x] Til Gorm den Gamle i 900-tallet
     3. [ ] Til Frederik 5. i 1700-tallet
 
-    ## Hvor mange monarkier findes der ifølge teksten i verden?
-
-    1. [ ] 21
-    2. [x] 43
-    3. [ ] 54
-
-    ## Hvor mange monarker har Danmark haft fra Gorm den Gamle til Frederik 10.?
-
-    1. [x] 54
-    2. [ ] 43
-    3. [ ] 21
-
-    ## Hvordan fordeler Danmarks 54 monarker sig på konger og dronninger?
-
-    1. [ ] 50 konger og fire dronninger
-    2. [ ] 53 konger og én dronning
-    3. [x] 52 konger og to dronninger
-
-    ## Hvilken slægt regerede Danmark fra 1448 til 1863?
-
-    1. [x] Oldenborg
-    2. [ ] Glücksborg
-    3. [ ] Estrid
-
-    ## Hvilket dynasti har regeret Danmark siden 1863?
-
-    1. [ ] Oldenborg
-    2. [ ] Romanov
-    3. [x] Glücksborg
-
     ## Hvem blev Danmarks konge i januar 2024?
 
-    1. [ ] Frederik 9.
-    2. [ ] Christian 10.
-    3. [x] Frederik 10.
+    1. [x] Frederik 10.
+    2. [ ] Frederik 9.
+    3. [ ] Christian 10.
 
     ## Hvem var Danmarks monark før Frederik 10.?
 
-    1. [x] Dronning Margrethe 2.
-    2. [ ] Dronning Mary
-    3. [ ] Frederik 9.
+    1. [ ] Dronning Mary
+    2. [ ] Frederik 9.
+    3. [x] Dronning Margrethe 2.
 
-    ## Hvornår abdicerede Dronning Margrethe 2.?
+    ## Hvilket år overtog Dronning Margrethe 2. tronen?
 
-    1. [ ] 5. juni 2023
-    2. [x] 14. januar 2024
-    3. [ ] 26. maj 2024
-
-    ## Hvad skete der med Dronning Margrethe 2. den 14. januar 1972?
-
-    1. [ ] Hun blev gift
-    2. [x] Hun overtog tronen efter Frederik 9.'s død
-    3. [ ] Hun abdicerede til fordel for Frederik 10.
-
-    ## Hvad har 20 af de 21 danske konger siden 1448 heddet?
-
-    1. [ ] Hans eller Christian
-    2. [ ] Frederik eller Gorm
-    3. [x] Christian eller Frederik
+    1. [ ] 1953
+    2. [x] 1972
+    3. [ ] 2024
 
     ## Hvad betyder det, at Danmark er et konstitutionelt monarki?
 
-    1. [ ] Kongen kan tilsidesætte grundloven
-    2. [ ] Monarken vælges direkte af befolkningen
-    3. [x] Monarkiet fungerer inden for grundlovens og demokratiets rammer
+    1. [x] Monarkiet fungerer inden for grundlovens og demokratiets rammer
+    2. [ ] Kongen kan tilsidesætte grundloven
+    3. [ ] Monarken vælges direkte af befolkningen
 
     ## Hvordan får monarken sin stilling?
 
-    1. [x] Monarken arver tronen
-    2. [ ] Monarken vælges af Folketinget
-    3. [ ] Monarken udnævnes af EU
+    1. [ ] Monarken vælges af Folketinget
+    2. [ ] Monarken udnævnes af EU
+    3. [x] Monarken arver tronen
 
     ## Hvilken politisk magt har kongen ifølge teksten?
 
@@ -96,59 +54,23 @@ Quiz til 6.4
     2. [x] Han har ingen reel politisk magt og giver ikke udtryk for politiske holdninger
     3. [ ] Han leder regeringen, men kan ikke deltage i Folketingets åbning
 
-    ## Hvornår deltager kongen blandt andet i Folketingets åbning?
-
-    1. [ ] Den første tirsdag i januar
-    2. [x] Den første tirsdag i oktober
-    3. [ ] Den sidste fredag i juni
-
-    ## Hvilken rolle har kongen, når der skal dannes en ny regering?
-
-    1. [ ] Han bestemmer regeringens politiske program
-    2. [x] Han medvirker, når ministre udnævnes, og en ny regering dannes
-    3. [ ] Han vælger ministrene uden deltagelse fra Folketingets partier
-
     ## Hvem underskriver lovene sammen med kongen?
 
-    1. [ ] Folketingets opposition
-    2. [ ] Formanden for Højesteret
-    3. [x] Den politisk ansvarlige minister
-
-    ## Hvor mødes kongen med regeringens ministre til statsråd?
-
-    1. [ ] På Amalienborg
-    2. [x] På Christiansborg
-    3. [ ] På Fredensborg Slot
+    1. [x] Den politisk ansvarlige minister
+    2. [ ] Folketingets opposition
+    3. [ ] Formanden for Højesteret
 
     ## Hvilken repræsentativ opgave har kongen?
 
-    1. [x] At være vært ved statsbesøg og repræsentere Danmark i udlandet
-    2. [ ] At føre valgkamp for et politisk parti
-    3. [ ] At udarbejde kommunernes budgetter
-
-    ## Hvor holder kongen ofte sin nytårstale?
-
-    1. [ ] Fra Folketingets talerstol
-    2. [x] Fra kongefamiliens hjem på Amalienborg eller Fredensborg Slot
-    3. [ ] Fra rådhuset i Aarhus
-
-    ## Hvornår har Kong Frederik 10. fødselsdag?
-
-    1. [ ] 14. januar
-    2. [x] 26. maj
-    3. [ ] 5. juni
+    1. [ ] At føre valgkamp for et politisk parti
+    2. [ ] At udarbejde kommunernes budgetter
+    3. [x] At være vært ved statsbesøg og repræsentere Danmark i udlandet
 
     ## Hvor kommer Dronning Mary oprindeligt fra?
 
     1. [ ] Grønland
-    2. [ ] Sverige
-    3. [x] Australien
-
-    ## Hvor mange børn har Kong Frederik 10. og Dronning Mary?
-
-    1. [ ] To
-    2. [ ] Tre
-    3. [x] Fire
+    2. [x] Australien
+    3. [ ] Sverige
 
     ## Hvem skal ifølge teksten en dag overtage tronen som Christian 11.?
 

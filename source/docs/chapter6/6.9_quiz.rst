@@ -1,7 +1,7 @@
-Quiz til 6.9
-==========================================
+Quiz til 6.9 Kirke og religion i Danmark
+========================================
 
-
+Der er 17 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,80 +9,68 @@ Quiz til 6.9
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
 
     ## Hvad indebærer religionsfrihed i Danmark?
 
-    1. [x] Man må vælge eller skifte religion og også vælge ikke at være religiøs
-    2. [ ] Alle skal være medlem af Folkekirken
-    3. [ ] Kun én religion må praktiseres
+    1. [ ] Man må vælge religion, men alle skal være medlem af folkekirken
+    2. [x] Man må vælge og skifte religion eller være uden tro
+    3. [ ] Man må dyrke sin religion, men ikke skifte til en anden
 
     ## Hvornår blev religionsfriheden skrevet ind i grundloven?
 
-    1. [ ] 1814
-    2. [x] 1849
+    1. [x] 1849
+    2. [ ] 1814
     3. [ ] 1973
 
     ## Hvilke rettigheder har borgerne uanset deres religiøse tro?
 
     1. [ ] Kun retten til at deltage i religiøse foreninger
-    2. [x] De samme borgerlige og politiske rettigheder
-    3. [ ] Forskellige rettigheder afhængigt af trossamfund
+    2. [ ] Forskellige rettigheder afhængigt af trossamfund
+    3. [x] De samme borgerlige og politiske rettigheder
 
-    ## Hvilken person er ikke omfattet af religionsfriheden på samme måde som andre borgere?
+    ## Hvem skal ifølge grundloven tilhøre den evangelisk-lutherske kirke?
 
     1. [x] Monarken
-    2. [ ] Folketingets formand
-    3. [ ] Kirkeministeren
+    2. [ ] Alle ministre
+    3. [ ] Alle danske statsborgere
 
-    ## Hvilken religion skal monarken tilhøre ifølge grundloven?
+    ## Hvilken trosretning tilhører den danske folkekirke?
 
-    1. [ ] Katolicismen
-    2. [ ] Islam
-    3. [x] Den evangelisk-lutherske kirke
-
-    ## Hvilken kirke er Danmarks evangelisk-lutherske folkekirke?
-
-    1. [ ] Den katolske kirke
-    2. [ ] Den ortodokse kirke
-    3. [x] Folkekirken
+    1. [ ] Den romersk-katolske kristendom
+    2. [x] Den evangelisk-lutherske, protestantiske kristendom
+    3. [ ] Den ortodokse kristendom
 
     ## Hvordan understøttes folkekirken økonomisk?
 
     1. [ ] Kun gennem bidrag fra andre trossamfund
-    2. [x] Gennem statstilskud og kirkeskat fra medlemmerne
-    3. [ ] Gennem en kirkeskat, som alle borgere skal betale
+    2. [ ] Gennem en kirkeskat, som alle borgere skal betale
+    3. [x] Gennem statstilskud og kirkeskat fra medlemmerne
 
     ## Hvem betaler kirkeskat?
 
-    1. [x] Medlemmer af folkekirken
-    2. [ ] Alle borgere i Danmark
+    1. [ ] Alle borgere i Danmark
+    2. [x] Medlemmer af folkekirken
     3. [ ] Kun præster
 
     ## Hvilken opgave varetager folkekirken på statens vegne?
 
-    1. [ ] Udsteder pas
-    2. [x] Registrerer blandt andet fødsler, navngivning og dødsfald
+    1. [x] Registrerer blandt andet fødsler, navngivning og dødsfald
+    2. [ ] Udsteder pas
     3. [ ] Afholder folketingsvalg
-
-    ## Har folkekirken en officiel talsmand?
-
-    1. [ ] Ja, kirkeministeren taler altid på kirkens vegne
-    2. [ ] Ja, biskoppen i København taler på hele kirkens vegne
-    3. [x] Nej, ingen kan udtale sig på kirkens vegne
 
     ## Hvordan beskrives folkekirken ofte?
 
     1. [ ] Som en kirke med én bindende fortolkning, som alle skal følge
-    2. [x] Som en bred og rummelig kirke med plads til forskellige opfattelser
-    3. [ ] Som en kirke, der deltager samlet i den politiske debat
+    2. [ ] Som en kirke, der deltager samlet i den politiske debat
+    3. [x] Som en bred og rummelig kirke med plads til forskellige opfattelser
 
-    ## Hvor stor en del af befolkningen var medlem af folkekirken i 2026?
+    ## Hvor stor en del af befolkningen er medlem af folkekirken i 2026 ifølge teksten?
 
-    1. [ ] Cirka 46 procent
+    1. [ ] Cirka 30 procent
     2. [x] Cirka 70 procent
-    3. [ ] Cirka 84 procent
+    3. [ ] Cirka 95 procent
 
     ## Er medlemskab af folkekirken frivilligt?
 
@@ -90,47 +78,29 @@ Quiz til 6.9
     2. [ ] Nej, alle danske statsborgere er automatisk medlemmer hele livet
     3. [ ] Kun hvis kirkeministeren godkender udmeldelsen
 
-    ## Hvad er et sogn?
+    ## Hvem leder det lokale kirkesogn?
 
-    1. [x] Det geografiske område, hvor den lokale kirkes medlemmer bor
-    2. [ ] En forening af alle trossamfund i Danmark
-    3. [ ] Folkekirkens øverste myndighed
-
-    ## Hvem leder et kirkesogn?
-
-    1. [ ] Folketinget
-    2. [x] Et menighedsråd
-    3. [ ] Kommunalbestyrelsen
-
-    ## Hvem består et menighedsråd af?
-
-    1. [ ] Kun kirkeministeren og kommunalbestyrelsen
-    2. [x] Sognets præster og medlemmer valgt af menigheden
-    3. [ ] Repræsentanter udpeget af alle landets trossamfund
+    1. [ ] En kommunalbestyrelse
+    2. [ ] Folketingets formand
+    3. [x] Et menighedsråd med præster og valgte medlemmer
 
     ## Hvilken myndighed er folkekirkens øverste administrative myndighed?
 
     1. [ ] Biskoppen i Grønland
-    2. [ ] Nordisk Råd
-    3. [x] Kirkeministeren
+    2. [x] Kirkeministeren
+    3. [ ] Nordisk Råd
 
-    ## Hvad kræves for at danne en menighed eller et trossamfund?
+    ## Kan en gruppe borgere danne et trossamfund uden offentlig anerkendelse?
 
-    1. [x] Man kan frit danne det, så længe man overholder loven og den offentlige orden
-    2. [ ] Man skal være medlem af folkekirken
-    3. [ ] Man skal have tilladelse fra kongen
-
-    ## Skal en ny menighed eller et trossamfund registreres eller anerkendes af en offentlig myndighed?
-
-    1. [ ] Ja, altid af kirkeministeren
-    2. [ ] Ja, altid af kommunen
-    3. [x] Nej, ikke for blot at blive dannet
+    1. [x] Ja, men de skal overholde loven og den offentlige orden
+    2. [ ] Nej, alle trossamfund skal godkendes af kongen
+    3. [ ] Nej, kun folkekirken må oprette nye menigheder
 
     ## Hvad kræves der for at bygge et religiøst hus som en kirke, synagoge eller moské?
 
     1. [ ] Anerkendelse som folkekirke
-    2. [x] Kommunal tilladelse efter de almindelige regler for byggeri
-    3. [ ] En folkeafstemning i det lokale sogn
+    2. [ ] En folkeafstemning i det lokale sogn
+    3. [x] Kommunal tilladelse efter de almindelige regler for byggeri
 
     ## Hvilken særlig rettighed kan anerkendelse som trossamfund give?
 
@@ -138,26 +108,8 @@ Quiz til 6.9
     2. [x] Mulighed for at få en religiøs leder til at foretage vielser
     3. [ ] Ret til direkte økonomisk støtte fra staten
 
-    ## Hvor mange anerkendte trossamfund og menigheder var der i Danmark i 2026?
-
-    1. [ ] 70
-    2. [ ] 184
-    3. [x] 435
-
-    ## Får anerkendte trossamfund direkte økonomisk støtte fra staten?
-
-    1. [ ] Ja, samme kirkeskat som folkekirken
-    2. [x] Nej, men skatteregler kan give indirekte støtte
-    3. [ ] Nej, og de kan heller ikke få indirekte støtte
-
     ## Hvilken trosretning er den næststørste i Danmark ifølge teksten?
 
-    1. [ ] Buddhisme
-    2. [ ] Jødedom
-    3. [x] Islam
-
-    ## Hvorfor findes der ikke officiel statistik over alle andre religioners medlemmer i Danmark?
-
-    1. [x] Myndighederne registrerer kun medlemskab af folkekirken
-    2. [ ] Trossamfund må ikke føre medlemslister
-    3. [ ] Religionsfrihed er ikke skrevet ind i grundloven
+    1. [x] Islam
+    2. [ ] Buddhisme
+    3. [ ] Jødedom

@@ -1,7 +1,7 @@
-Quiz til 6.3
-==========================================
+Quiz til 6.3 Det danske flag
+============================
 
-
+Der er 9 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,32 +9,26 @@ Quiz til 6.3
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
 
     ## Hvordan ser Dannebrog ud?
 
-    1. [x] Et hvidt kors på en rød baggrund
-    2. [ ] Et rødt kors på en hvid baggrund
+    1. [ ] Et rødt kors på en hvid baggrund
+    2. [x] Et hvidt kors på en rød baggrund
     3. [ ] Et hvidt kors på en blå baggrund
 
     ## Hvad betyder navnet Dannebrog ifølge teksten?
 
-    1. [ ] Kongens fane eller hærens fane
-    2. [x] Danernes fane eller rødfarvet fane
+    1. [x] Danernes fane eller rødfarvet fane
+    2. [ ] Kongens fane eller hærens fane
     3. [ ] Korsfarernes fane eller nordisk fane
 
     ## Hvad fortæller legenden om Dannebrog?
 
-    1. [x] Flaget faldt ned fra himlen under et slag i Estland i 1219 og sikrede danskerne sejren
-    2. [ ] Danske konger begyndte at bruge flaget under en krig i 1400-tallet
-    3. [ ] Flaget blev indført af flåden under et slag i 1700-tallet
-
-    ## Hvilken oprindelse for Dannebrog vurderes som sandsynlig i teksten?
-
-    1. [ ] Det var oprindeligt et handelsflag fra Holland
-    2. [ ] Det blev skabt som symbol for den danske flåde
-    3. [x] Det var sandsynligvis en fane, som riddere brugte på korstog
+    1. [ ] Danske konger begyndte at bruge flaget under en krig i 1400-tallet
+    2. [ ] Flaget blev indført af flåden under et slag i 1700-tallet
+    3. [x] Flaget faldt ned fra himlen under et slag i Estland i 1219 og sikrede danskerne sejren
 
     ## Hvordan beskriver teksten Dannebrogs alder?
 
@@ -42,41 +36,17 @@ Quiz til 6.3
     2. [x] Det regnes som et af verdens ældste nationalflag
     3. [ ] Det blev først et nationalflag i midten af 1800-tallet
 
-    ## Siden hvornår har danske konger brugt Dannebrog som fane i krig?
-
-    1. [x] Siden 1400-tallet
-    2. [ ] Siden 1200-tallet
-    3. [ ] Siden 1800-tallet
-
-    ## Hvem brugte Dannebrog i 1600- og 1700-tallet?
-
-    1. [ ] Alle borgere og virksomheder
-    2. [x] Myndighederne og flåden
-    3. [ ] Kun kongen og kirken
-
-    ## Hvornår blev det populært blandt befolkningen at flage med Dannebrog?
-
-    1. [ ] I begyndelsen af 1700-tallet
-    2. [ ] Efter 2. Verdenskrig
-    3. [x] Fra midten af 1800-tallet
-
     ## Ved hvilke festlige lejligheder flager mange danskere ifølge teksten?
 
-    1. [ ] Kun ved valg til Folketinget
-    2. [x] For eksempel ved private fødselsdage og officielle mærkedage
+    1. [x] For eksempel ved private fødselsdage og officielle mærkedage
+    2. [ ] Kun ved valg til Folketinget
     3. [ ] Kun ved kongehusets fødselsdage
 
     ## Hvordan bruges Dannebrog ved en begravelse eller bisættelse?
 
-    1. [x] Det hejses halvt op indtil begravelsen eller bisættelsen har fundet sted
-    2. [ ] Det hejses helt op indtil ceremonien er afsluttet
-    3. [ ] Det må først hejses efter ceremonien
-
-    ## Hvornår skal alle offentlige myndigheder blandt andet flage?
-
-    1. [ ] Ved alle private fødselsdage
-    2. [x] Ved kirkelige højtider og kongehusets fødselsdage
-    3. [ ] Ved alle mærkedage i de øvrige nordiske lande
+    1. [ ] Det hejses helt op indtil ceremonien er afsluttet
+    2. [ ] Det må først hejses efter ceremonien
+    3. [x] Det hejses halvt op indtil begravelsen eller bisættelsen har fundet sted
 
     ## Hvilken mærkedag markeres den 5. maj med Dannebrog?
 
@@ -84,26 +54,14 @@ Quiz til 6.3
     2. [x] Danmarks befrielse
     3. [ ] Valdemarsdag
 
-    ## Hvilken mærkedag markeres den 5. juni med Dannebrog?
+    ## Hvilket af disse flag må man ifølge teksten flage med uden politiets tilladelse?
 
-    1. [x] Grundlovsdag
-    2. [ ] Danmarks befrielse
-    3. [ ] Dannebrogsdag
+    1. [x] FN-flaget
+    2. [ ] USA's flag
+    3. [ ] Japans flag
 
-    ## Hvilke flag må man ifølge teksten flage med uden politiets tilladelse ud over Dannebrog?
+    ## Hvad er Dannebrogordenen?
 
-    1. [ ] Alle EU-landenes og NATO-landenes flag
-    2. [ ] Kun Grønlands og Færøernes flag
-    3. [x] De nordiske landes flag samt Grønlands, Færøernes, FN's og EU's flag
-
-    ## Hvem uddeler Dannebrogordenen?
-
-    1. [x] Kongen
-    2. [ ] Folketingets formand
-    3. [ ] Statsministeren
-
-    ## Hvem kan modtage Dannebrogordenen ifølge teksten?
-
-    1. [ ] Alle, der har haft Dannebrog hejst på en officiel flagdag
-    2. [x] Blandt andre embedsmænd, politikere, kulturpersoner, militærfolk, erhvervsfolk og forskere, der har fremmet Danmarks interesser
-    3. [ ] Kun medlemmer af kongehuset og flåden
+    1. [ ] En samling regler for, hvordan man hejser flaget
+    2. [ ] En forening, der fremstiller danske flag
+    3. [x] En orden, som kongen uddeler for en særlig indsats for Danmark

@@ -1,7 +1,7 @@
-Quiz til 6.5
-==========================================
+Quiz til 6.5 Indvandring til danmark gennem tiderne
+===================================================
 
-
+Der er 15 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,7 +9,7 @@ Quiz til 6.5
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
 
     ## Hvad betyder det, at den danske befolkning er forholdsvis homogen?
@@ -20,135 +20,57 @@ Quiz til 6.5
 
     ## Hvilke årsager til indvandring nævner teksten?
 
-    1. [ ] Kun uddannelse og turisme
-    2. [x] Flugt, arbejde og ægteskab med en dansker
+    1. [x] Flugt, arbejde og ægteskab med en dansker
+    2. [ ] Kun uddannelse og turisme
     3. [ ] Kun handel med de nordiske lande
 
-    ## Hvordan udviklede antallet af indvandrere og efterkommere sig fra 1980 til 2025?
+    ## Hvordan har antallet af indvandrere og efterkommere udviklet sig siden 1980 ifølge teksten?
 
-    1. [ ] Det faldt fra én million til cirka 150.000
-    2. [x] Det steg fra cirka 150.000 til én million
-    3. [ ] Det var uændret på cirka 600.000
+    1. [ ] Det er stort set uændret
+    2. [ ] Det er faldet markant
+    3. [x] Det er steget markant
 
     ## Hvor stor en andel af befolkningen udgjorde indvandrere og efterkommere i 2025 ifølge teksten?
 
-    1. [x] 16,7 procent
-    2. [ ] 50 procent
-    3. [ ] 6 procent
+    1. [ ] Cirka 5 procent
+    2. [x] Cirka 17 procent
+    3. [ ] Cirka 35 procent
 
     ## Hvornår kom de første jøder til Danmark?
 
-    1. [ ] I 900-tallet
-    2. [ ] I 1900-tallet
-    3. [x] I 1600-tallet
+    1. [x] I 1600-tallet
+    2. [ ] I 900-tallet
+    3. [ ] I 1900-tallet
 
-    ## Hvordan blev de første jøder modtaget i Danmark?
+    ## Hvad betød Jødiske Frihedsbrev fra 1814 for jøder i Danmark?
 
-    1. [ ] De fik straks samme rettigheder som alle andre
-    2. [x] De skulle betale et stort beløb for ophold og var underlagt strengere lovgivning
-    3. [ ] De måtte kun opholde sig midlertidigt som gæstearbejdere
-
-    ## Hvad skete der med jødernes rettigheder med Jødiske Frihedsbrev?
-
-    1. [ ] De mistede retten til at bo i København
-    2. [x] De blev næsten ligestillet med andre danskere
-    3. [ ] De fik eneret på al handel
-
-    ## Hvornår blev Jødiske Frihedsbrev udstedt?
-
-    1. [ ] 1600
-    2. [x] 1814
-    3. [ ] 1943
-
-    ## Hvorfor kom cirka 3.000 jøder til Danmark i begyndelsen af 1900-tallet?
-
-    1. [ ] De søgte arbejde som gæstearbejdere
-    2. [ ] De flygtede fra Tyskland efter 1945
-    3. [x] De flygtede fra fattigdom og forfølgelse i Rusland
+    1. [ ] De fik forbud mod at bo i København
+    2. [ ] De mistede retten til at udøve deres religion
+    3. [x] De blev næsten ligestillet med andre danskere
 
     ## Hvad skete der med de fleste danske jøder i 1943?
 
-    1. [x] Danske medborgere hjalp dem med at flygte til Sverige
-    2. [ ] De blev sendt til Grønland
+    1. [ ] De blev sendt til Grønland
+    2. [x] Danske medborgere hjalp dem med at flygte til Sverige
     3. [ ] De blev tvunget til at forlade landet til Tyskland
 
     ## Hvilken gruppe var den største blandt krigsflygtningene, der kom i 1945?
 
-    1. [ ] Ungarske flygtninge
-    2. [ ] Polske jøder
-    3. [x] Flygtninge fra Tyskland
-
-    ## Cirka hvor mange tyske krigsflygtninge kom til Danmark omkring 1945?
-
-    1. [ ] 23.000
-    2. [ ] 150.000
-    3. [x] 240.000
-
-    ## Hvor kom de cirka 23.000 øvrige krigsflygtninge omkring 1945 navnlig fra?
-
-    1. [x] Sovjetunionen og de baltiske lande
-    2. [ ] Tyrkiet, Pakistan og Jugoslavien
-    3. [ ] Syrien, Irak og Iran
-
-    ## Hvilke flygtninge kom blandt andet til Danmark i 1956?
-
-    1. [x] Ungarske flygtninge efter opstanden i Ungarn
-    2. [ ] Flygtninge fra Syrien
-    3. [ ] Flygtninge fra Ukraine
-
-    ## Hvilke grupper kom til Danmark som flygtninge i 1968 og 1968-69?
-
-    1. [ ] Syrere og ukrainere
-    2. [x] Tjekkoslovakker og polske jøder
-    3. [ ] Tyskere og ungarere
+    1. [x] Flygtninge fra Tyskland
+    2. [ ] Ungarske flygtninge
+    3. [ ] Polske jøder
 
     ## Hvilken gruppe prægede især indvandringen i 1960'erne?
 
-    1. [x] Gæstearbejdere fra blandt andet Tyrkiet, Pakistan og det tidligere Jugoslavien
-    2. [ ] Krigsflygtninge fra Tyskland og de baltiske lande
-    3. [ ] Flygtninge fra Syrien og Ukraine
-
-    ## Hvorfor kom mange gæstearbejdere til Danmark i 1960'erne?
-
-    1. [ ] For at arbejde i den danske fiskeflåde alene
-    2. [x] For at dække behovet for udenlandsk arbejdskraft
-    3. [ ] For at studere på danske universiteter
-
-    ## Hvornår blev der indført stop for indvandring?
-
-    1. [x] 1973
-    2. [ ] 1945
-    3. [ ] 1991
+    1. [ ] Krigsflygtninge fra Tyskland og de baltiske lande
+    2. [ ] Flygtninge fra Syrien og Ukraine
+    3. [x] Gæstearbejdere fra blandt andet Tyrkiet, Pakistan og det tidligere Jugoslavien
 
     ## Hvad var stadig muligt efter indvandringsstoppet i 1973?
 
     1. [ ] At nye gæstearbejdere frit kunne komme til Danmark uden begrænsninger
-    2. [ ] At fastboende indvandrere automatisk fik dansk statsborgerskab
-    3. [x] At de fastboende indvandrere kunne få deres familier til landet
-
-    ## Hvilke konflikter skabte blandt andet flygtninge til Danmark i 1980'erne og 1990'erne?
-
-    1. [ ] Krigene i Skandinavien
-    2. [x] Krigen mellem Irak og Iran samt borgerkrigen i Jugoslavien
-    3. [ ] Den amerikanske borgerkrig
-
-    ## Hvilke andre flygtningegrupper fra 1970'erne til 1990'erne nævner teksten?
-
-    1. [x] Flygtninge fra Vietnam, Sri Lanka, Somalia og palæstinensiske flygtninge
-    2. [ ] Flygtninge fra Sverige, Norge, Finland og Island
-    3. [ ] Flygtninge fra Frankrig, Spanien, Portugal og Italien
-
-    ## Hvorfra kom især mennesker på flugt fra krig og fattigdom mellem 2000 og 2020?
-
-    1. [ ] Norden og Vesteuropa
-    2. [x] Afghanistan, Mellemøsten og Afrika
-    3. [ ] Nordamerika og Australien
-
-    ## Hvor mange søgte asyl i Danmark under flygtningekrisen i 2015?
-
-    1. [ ] 3.000
-    2. [ ] 150.000
-    3. [x] 21.000
+    2. [x] At de fastboende indvandrere kunne få deres familier til landet
+    3. [ ] At fastboende indvandrere automatisk fik dansk statsborgerskab
 
     ## Hvilken gruppe var den største blandt asylansøgerne i Danmark i 2015?
 
@@ -158,36 +80,24 @@ Quiz til 6.5
 
     ## Hvorfor er antallet af indvandrere fra andre EU-lande vokset?
 
-    1. [ ] EU-borgere må kun arbejde i deres hjemland
-    2. [x] EU-borgere har ret til frit at arbejde i andre EU-lande, og EU blev udvidet mod øst
-    3. [ ] Danmark lukkede arbejdsmarkedet for EU-borgere
-
-    ## Hvordan udviklede antallet af indvandrere og efterkommere fra andre EU-lande sig fra 2000 til 2026?
-
-    1. [ ] Det faldt fra 318.000 til 116.000
-    2. [x] Det steg fra 116.000 til 318.000
-    3. [ ] Det steg fra 150.000 til én million
-
-    ## Hvor mange østeuropæiske lande kom samlet med ved EU-udvidelserne i 2004, 2007 og 2013?
-
-    1. [ ] 3
-    2. [ ] 7
-    3. [x] 11
+    1. [ ] En fælles ordning, der fordeler flygtninge mellem EU-landene
+    2. [ ] En regel, der kræver, at EU-borgere arbejder uden for deres hjemland
+    3. [x] Fri bevægelighed for arbejdskraft og EU's udvidelser
 
     ## Hvad skete der efter Ruslands invasion af Ukraine i 2022?
 
     1. [ ] Alle ukrainere forlod Danmark
-    2. [ ] Danmark indførte et stop for alle flygtninge
-    3. [x] Et stort antal ukrainere ankom til Danmark
-
-    ## Hvor mange fordrevne fra Ukraine boede der i Danmark den 1. januar 2026?
-
-    1. [ ] 21.000
-    2. [x] 44.000
-    3. [ ] 59.000
+    2. [x] Et stort antal ukrainere ankom til Danmark
+    3. [ ] Danmark indførte et stop for alle flygtninge
 
     ## Hvilket oprindelsesland havde den største gruppe indvandrere og efterkommere i Danmark i januar 2026?
 
     1. [x] Tyrkiet
     2. [ ] Libanon
     3. [ ] Iran
+
+    ## Hvilket EU-land har den største gruppe indvandrere og efterkommere i Danmark i tekstens opgørelse fra januar 2026?
+
+    1. [ ] Rumænien
+    2. [ ] Tyskland
+    3. [x] Polen

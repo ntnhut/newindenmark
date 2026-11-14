@@ -1,0 +1,139 @@
+Quiz til 6.12 Skolegang og uddannelse i Danmark
+===============================================
+
+Der er 21 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvorfor er uddannelse vigtig for samfundets og den enkeltes økonomi?
+
+    1. [ ] Uddannelse erstatter behovet for kundskaber på arbejdsmarkedet
+    2. [x] Kundskaber har værdi i arbejdslivet og hænger sammen med velstand og indkomst
+    3. [ ] Uddannelse har kun betydning for fælles kultur og ikke for arbejdslivet
+
+    ## Hvilket universitet var Danmarks første?
+
+    1. [x] Københavns Universitet
+    2. [ ] Aarhus Universitet
+    3. [ ] Syddansk Universitet
+
+    ## Hvilken lov lagde grundlaget for den danske folkeskole?
+
+    1. [ ] Grundloven fra 1849
+    2. [ ] Skoleloven fra 1903
+    3. [x] Skoleloven fra 1814
+
+    ## Hvor længe skal alle børn i Danmark modtage undervisning ifølge teksten?
+
+    1. [ ] Syv år
+    2. [x] Ti år
+    3. [ ] Tolv år
+
+    ## Hvilke muligheder har forældre for at opfylde undervisningspligten?
+
+    1. [x] Folkeskolen, en privatskole eller hjemmeundervisning
+    2. [ ] Kun folkeskolen
+    3. [ ] Kun en erhvervsuddannelse
+
+    ## Hvilket fagligt krav gælder ved privatskole eller hjemmeundervisning?
+
+    1. [ ] Eleven skal følge præcis samme skema som i den lokale folkeskole
+    2. [ ] Eleven skal gå til eksamen hvert år fra 0. klasse
+    3. [x] Eleven skal opnå samme faglige niveau som i folkeskolen
+
+    ## Hvilke værdier skal folkeskolens virke være præget af?
+
+    1. [ ] Konkurrence, lydighed og ensretning
+    2. [x] Åndsfrihed, ligeværd og demokrati
+    3. [ ] Udenadslære, karakterer og eksamen
+
+    ## Hvordan undervises piger og drenge normalt i folkeskolen?
+
+    1. [x] De har fælles fag og undervises sammen
+    2. [ ] De skal gå i hver sin skole
+    3. [ ] De må kun undervises sammen i idræt
+
+    ## Hvordan kan forældre få indflydelse på deres barns skole?
+
+    1. [ ] Ved selv at udpege skolens ledelse
+    2. [ ] Ved at fastsætte de nationale karakterregler
+    3. [x] Ved at deltage i forældremøder og blive medlem af skolebestyrelsen
+
+    ## Hvordan kan elever få indflydelse på skolen?
+
+    1. [ ] Ved selv at udpege skolelederen
+    2. [x] Gennem elevråd og repræsentation i skolebestyrelsen
+    3. [ ] Kun ved at klage til en minister
+
+    ## Hvad er den højeste karakter på den danske 7-trins-skala?
+
+    1. [x] 12
+    2. [ ] 10
+    3. [ ] 13
+
+    ## Hvad gælder for de fleste uddannelser i Danmark?
+
+    1. [ ] De er kun åbne for personer under 25 år
+    2. [ ] De kræver betaling af kirkeskat
+    3. [x] De er gratis for den enkelte borger
+
+    ## Hvad er en erhvervsuddannelse typisk rettet mod?
+
+    1. [ ] Kun forskning på et universitet
+    2. [x] Praktiske fag og erhverv som handel, kontor eller håndværk
+    3. [ ] At forberede elever til folketingsvalg
+
+    ## Hvad giver en gymnasial uddannelse som stx, hhx, htx eller HF adgang til?
+
+    1. [x] Videregående uddannelse
+    2. [ ] Kun en læreplads i håndværk
+    3. [ ] Kun arbejde uden yderligere uddannelse
+
+    ## Hvad betyder muligheden for livslang uddannelse?
+
+    1. [ ] At alle skal være fuldtidsstuderende hele livet
+    2. [ ] At man ikke kan uddanne sig efter sit første job
+    3. [x] At voksne også kan tage uddannelse og efteruddannelse
+
+    ## Hvordan har antallet af personer med en lang videregående uddannelse udviklet sig?
+
+    1. [ ] Det er faldet markant
+    2. [x] Det er steget markant
+    3. [ ] Det er stort set uændret
+
+    ## Hvad er en udfordring ved, at færre vælger erhvervsuddannelser?
+
+    1. [x] Der mangler faglært arbejdskraft som kokke, tømrere og elektrikere
+    2. [ ] Der bliver for mange lærere i folkeskolen
+    3. [ ] Der bliver mangel på gymnasiale uddannelser
+
+    ## Hvad betyder ledighedsbaseret dimensionering?
+
+    1. [ ] At alle studerende får tilbudt et job efter eksamen
+    2. [ ] At universiteterne skal tilbyde flere pladser på alle fag
+    3. [x] At der sættes et loft over optaget på uddannelser med høj ledighed blandt nyuddannede
+
+    ## Hvad giver junior-mesterlære mulighed for i 8. og 9. klasse?
+
+    1. [ ] At springe al undervisning over
+    2. [x] At kombinere skolegang med arbejde og oplæring i en virksomhed
+    3. [ ] At begynde direkte på universitetet
+
+    ## Hvad er den planlagte gymnasieuddannelse epx?
+
+    1. [x] En erhvervs- og professionsrettet uddannelse med praktisk og boglig undervisning
+    2. [ ] En rent teoretisk universitetsuddannelse
+    3. [ ] Et kursus kun for voksne med en kandidatgrad
+
+    ## Hvilke uddannelser skal epx gradvist erstatte?
+
+    1. [ ] Stx og htx
+    2. [ ] Erhvervsuddannelser og VUC
+    3. [x] HF og 10. klasse

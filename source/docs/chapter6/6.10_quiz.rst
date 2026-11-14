@@ -1,0 +1,103 @@
+Quiz til 6.10 Skikke og mærkedage
+=================================
+
+Der er 15 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilken slags mærkedag mangler Danmark ifølge teksten?
+
+    1. [ ] En grundlovsdag
+    2. [x] En egentlig officiel nationaldag
+    3. [ ] En juleaften
+
+    ## Hvilken tradition forbindes med fastelavn?
+
+    1. [x] At klæde sig ud og slå katten af tønden
+    2. [ ] At tænde bål
+    3. [ ] At danse om juletræet
+
+    ## Hvad markerer den kristne påske?
+
+    1. [ ] At Jesus blev født
+    2. [ ] At Helligånden kom til jorden
+    3. [x] At Jesus blev korsfæstet, døde og opstod fra de døde
+
+    ## Hvad fejrer man på 1. maj?
+
+    1. [ ] Danmarks første grundlov
+    2. [x] Arbejderbevægelsens internationale kampdag
+    3. [ ] Afslutningen på julehøjtiden
+
+    ## Hvad fejres i pinsen ifølge den kristne tradition?
+
+    1. [x] Helligåndens komme til jorden
+    2. [ ] Jesu fødsel
+    3. [ ] Jesu korsfæstelse
+
+    ## Hvad fejrer man på grundlovsdag den 5. juni?
+
+    1. [ ] Arbejderbevægelsens internationale kampdag
+    2. [ ] Danmarks befrielse fra den tyske besættelse
+    3. [x] Danmarks demokratiske forfatning
+
+    ## Hvornår fejres sankthansaften?
+
+    1. [ ] 5. juni
+    2. [x] 23. juni
+    3. [ ] 24. december
+
+    ## Hvordan fejres midsommeren traditionelt sankthansaften?
+
+    1. [x] Man tænder bål
+    2. [ ] Man slår katten af tønden
+    3. [ ] Man pynter juletræ
+
+    ## Hvilken kristen begivenhed fejres ved jul?
+
+    1. [ ] Helligåndens komme
+    2. [ ] Jesu opstandelse
+    3. [x] Jesu fødsel
+
+    ## Hvornår er juleaften, og hvad gør familierne typisk?
+
+    1. [ ] Den 25. december; de fejrer nytåret med fyrværkeri
+    2. [x] Den 24. december; de samles, spiser og giver gaver
+    3. [ ] Den 26. december; de markerer vintersolhvervet med bål
+
+    ## Hvornår er nytårsaften?
+
+    1. [x] 31. december
+    2. [ ] 1. januar
+    3. [ ] 24. december
+
+    ## Hvilken muslimsk fastemåned markeres i Danmark?
+
+    1. [ ] Yom Kippur
+    2. [ ] Advent
+    3. [x] Ramadanen
+
+    ## Hvad markerer den muslimske højtid Eid al-adha?
+
+    1. [ ] Fastemånedens begyndelse
+    2. [x] Afslutningen på de årlige pilgrimsrejser til Mekka
+    3. [ ] Den jødiske forsoningsdag
+
+    ## Hvad er Yom Kippur?
+
+    1. [x] Den jødiske forsoningsdag
+    2. [ ] En kristen høstfest
+    3. [ ] En muslimsk fastemåned
+
+    ## Hvornår fejres halloween, og hvilken tradition nævner teksten?
+
+    1. [ ] 23. juni; man tænder bål
+    2. [ ] 24. december; man giver gaver
+    3. [x] 31. oktober; børn klæder sig ud, og man laver græskarlygter

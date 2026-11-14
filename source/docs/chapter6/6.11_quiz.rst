@@ -1,0 +1,67 @@
+Quiz til 6.11 N.F.S. Grundtvig, danskhed, højskoler og kirkeliv
+===============================================================
+
+Der er 9 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilke roller havde N.F.S. Grundtvig?
+
+    1. [ ] Konge, general og dommer
+    2. [x] Præst, salmedigter og samfundsdebattør
+    3. [ ] Læge, fysiker og opdagelsesrejsende
+
+    ## Hvad betyder begrebet folkelighed i Grundtvigs tænkning?
+
+    1. [x] At tage udgangspunkt i almindelige mennesker frem for eliterne
+    2. [ ] At give magten til en lille gruppe akademikere
+    3. [ ] At alle skal have samme erhverv
+
+    ## Hvem fik med sine ideer særlig betydning for folkehøjskolerne?
+
+    1. [ ] H.C. Andersen
+    2. [ ] Søren Kierkegaard
+    3. [x] N.F.S. Grundtvig
+
+    ## Hvad skulle kendetegne undervisningen på Grundtvigs folkehøjskole?
+
+    1. [ ] Udenadslære med daglige karakterer
+    2. [x] Samtale, nysgerrighed og oplysning uden eksamen
+    3. [ ] Udelukkende uddannelse til et bestemt erhverv
+
+    ## Hvor åbnede den første grundtvigske højskole i 1844?
+
+    1. [x] Rødding i Sønderjylland
+    2. [ ] Odense på Fyn
+    3. [ ] Roskilde på Sjælland
+
+    ## Hvad kendetegner grundtvigianismen?
+
+    1. [ ] En politisk bevægelse, der afviser al religionsfrihed
+    2. [ ] En lære om, at kun præster må læse Bibelen
+    3. [x] En udogmatisk kristendomsopfattelse med glæden ved livet som udgangspunkt
+
+    ## Hvilken politisk forsamling var Grundtvig medlem af?
+
+    1. [ ] Nordisk Råd
+    2. [x] Den grundlovsgivende Rigsforsamling
+    3. [ ] Europa-Parlamentet
+
+    ## Hvem skrev et stort antal af salmerne i Den Danske Salmebog og sange i Højskolesangbogen?
+
+    1. [x] N.F.S. Grundtvig
+    2. [ ] Herman Bang
+    3. [ ] Ludvig Holberg
+
+    ## Hvilke sange er skrevet af Grundtvig?
+
+    1. [ ] Der er et yndigt land og Kong Christian stod ved højen mast
+    2. [ ] Kvinde min og Smuk og dejlig
+    3. [x] Det er så yndigt at følges ad og Vær velkommen, Herrens år

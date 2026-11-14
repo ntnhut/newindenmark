@@ -1,9 +1,0 @@
-Quizzer til 6.15
-================
-
-.. toctree::
-   :maxdepth: 1
-
-   6.15a_ligeloen_quiz
-   6.15b_barsel_quiz
-   6.15c_seksuelle_kraenkelser_quiz

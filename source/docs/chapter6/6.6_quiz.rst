@@ -1,0 +1,265 @@
+Quiz til 6.6 Rigsfællesskabet mellem Danmark, Grønland og Færøerne
+==================================================================
+
+Der er 42 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilke lande og områder indgår i Rigsfællesskabet?
+
+    1. [ ] Danmark, Island og Norge
+    2. [x] Danmark, Grønland og Færøerne
+    3. [ ] Danmark, Sverige og Finland
+
+    ## Hvad har de tre dele af rigsfællesskabet fælles ifølge teksten?
+
+    1. [x] Grundloven gælder for dem, og kongen er statsoverhoved
+    2. [ ] De er alle medlemmer af EU
+    3. [ ] De har samme lokale parlament og regering
+
+    ## Hvor mange medlemmer vælger Grønland og Færøerne hver til Folketinget?
+
+    1. [ ] Fire
+    2. [ ] Ti
+    3. [x] To
+
+    ## Hvad har Grønland og Færøerne?
+
+    1. [ ] Selvstændige medlemskaber af EU
+    2. [x] Egne politiske institutioner og selvstyre på en række områder
+    3. [ ] Ingen indflydelse på lokale spørgsmål
+
+    ## Hvilke politikområder varetages blandt andet af de danske myndigheder for hele rigsfællesskabet?
+
+    1. [x] Udenrigs- og sikkerhedspolitik samt valuta- og pengepolitik
+    2. [ ] Alle lokale kultur- og fritidsforhold
+    3. [ ] Grønlands undervisning og Færøernes kommuner
+
+    ## Hvilken geografisk rekord har Grønland?
+
+    1. [ ] Det er verdens tættest befolkede ø
+    2. [ ] Det er verdens sydligste ø
+    3. [x] Det er verdens største ø
+
+    ## Hvilken verdensdel er Grønland geografisk en del af?
+
+    1. [ ] Europa
+    2. [x] Nordamerika
+    3. [ ] Asien
+
+    ## Hvor stor en del af Grønlands areal dækker Indlandsisen ifølge teksten?
+
+    1. [x] Cirka 80 procent
+    2. [ ] Cirka 20 procent
+    3. [ ] Cirka 50 procent
+
+    ## Hvor mange indbyggere har Grønland omtrent ifølge teksten?
+
+    1. [ ] 570.000
+    2. [ ] 5,7 millioner
+    3. [x] 57.000
+
+    ## Hvilken by er Grønlands hovedstad?
+
+    1. [ ] Tórshavn
+    2. [x] Nuuk
+    3. [ ] Qaanaaq
+
+    ## Hvorfra indvandrede inuitterne til Grønland omkring år 1200?
+
+    1. [x] Fra Alaska og Canada
+    2. [ ] Fra Norge og Island
+    3. [ ] Fra Danmark og Færøerne
+
+    ## Hvem var nordboerne i Grønland?
+
+    1. [ ] Inuitfolk, der kom fra Alaska i 1200-tallet
+    2. [ ] Danske købmænd fra 1700-tallet
+    3. [x] Islændinge og nordmænd, der bosatte sig der i 900-tallet
+
+    ## Hvilken præst grundlagde kolonien Godthåb, det nuværende Nuuk?
+
+    1. [ ] N.F.S. Grundtvig
+    2. [x] Hans Egede
+    3. [ ] Ansgar
+
+    ## Hvilket land byggede og bruger fortsat basen ved Qaanaaq, tidligere kendt som Thulebasen?
+
+    1. [x] USA
+    2. [ ] Tyskland
+    3. [ ] Canada
+
+    ## Hvad hedder den amerikanske base i Qaanaaq i dag?
+
+    1. [ ] Nuuk Air Base
+    2. [ ] Thule Fort
+    3. [x] Pituffik Space Base
+
+    ## Hvornår ophørte Grønlands status som dansk koloni?
+
+    1. [ ] 1721
+    2. [x] 1953
+    3. [ ] 2009
+
+    ## I hvilke år fik Grønland henholdsvis hjemmestyre og den nuværende selvstyreordning?
+
+    1. [x] 1979 og 2009
+    2. [ ] 1948 og 1953
+    3. [ ] 1953 og 1973
+
+    ## Hvilken ret blev fastslået for det grønlandske folk med selvstyreordningen?
+
+    1. [ ] Ret til automatisk medlemskab af EU
+    2. [ ] Ret til at overtage den danske grundlov
+    3. [x] Ret til fuld selvstændighed, når folket selv ønsker det
+
+    ## Hvilken dag er Grønlands nationaldag?
+
+    1. [ ] 25. april
+    2. [x] 21. juni
+    3. [ ] 29. juli
+
+    ## Hvilket symbol findes på Grønlands røde og hvide flag?
+
+    1. [x] En cirkel, der symboliserer den opadgående sol
+    2. [ ] Et blåt kors
+    3. [ ] Tre gule kroner
+
+    ## Hvad er Inatsisartut og Naalakkersuisut i Grønland?
+
+    1. [ ] To kommuner i Grønland
+    2. [ ] To grønlandske politiske partier
+    3. [x] Landstinget og landsstyret
+
+    ## Hvordan bidrager Danmark til finansieringen af Grønlands selvstyre?
+
+    1. [ ] Ved at betale alle udgifter til selvstyret
+    2. [x] Med et årligt økonomisk tilskud
+    3. [ ] Ved alene at betale for turisme
+
+    ## Hvilken grønlandsk eksportindtægt er vigtigst?
+
+    1. [x] Fiskeri, især rejer
+    2. [ ] Olie fra Nordsøen
+    3. [ ] Uld og fårekød
+
+    ## Hvornår meldte Grønland sig ud af EF, nu EU?
+
+    1. [ ] 1973
+    2. [ ] 2009
+    3. [x] 1985
+
+    ## Hvad er Hans Lynge især kendt for?
+
+    1. [ ] Romanen Barbara og færøsk malerkunst
+    2. [x] Grønlandsk billedkunst, litteratur og romanen Den usynliges vilje
+    3. [ ] Digtsamlingen Sort Okidé
+
+    ## Hvilken forfatter modtog Nordisk Råds Litteraturpris i 2021 for Blomsterdalen?
+
+    1. [x] Niviaq Korneliussen
+    2. [ ] Hans Lynge
+    3. [ ] Jørgen-Frantz Jacobsen
+
+    ## Hvor ligger Færøerne?
+
+    1. [ ] I Østersøen mellem Danmark og Polen
+    2. [ ] I Middelhavet mellem Italien og Grækenland
+    3. [x] I Atlanterhavet mellem Skotland, Island og Norge
+
+    ## Hvor mange indbyggere har Færøerne omtrent ifølge teksten?
+
+    1. [ ] 550.000
+    2. [x] 55.000
+    3. [ ] 5,5 millioner
+
+    ## Hvad hedder Færøernes hovedstad og største by?
+
+    1. [x] Tórshavn
+    2. [ ] Nuuk
+    3. [ ] Reykjavik
+
+    ## Hvordan blev Færøerne knyttet til Danmark i middelalderen?
+
+    1. [ ] Øerne blev erobret af Danmark i 1849
+    2. [ ] De blev overdraget af Storbritannien i 1945
+    3. [x] De kom med Norge ind i unionen med Danmark i 1380
+
+    ## Hvilket erhverv blev Færøernes vigtigste fra slutningen af 1800-tallet?
+
+    1. [ ] Kulminedrift
+    2. [x] Fiskeri, især torskefiskeri
+    3. [ ] Turisme
+
+    ## Hvilket sprog blev Færøernes hovedsprog?
+
+    1. [x] Færøsk
+    2. [ ] Dansk
+    3. [ ] Norsk
+
+    ## Hvem besatte Færøerne under 2. Verdenskrig?
+
+    1. [ ] Tyskland
+    2. [ ] USA
+    3. [x] Storbritannien
+
+    ## Hvornår fik Færøerne hjemmestyre ved lov?
+
+    1. [ ] 1849
+    2. [x] 1948
+    3. [ ] 1973
+
+    ## Hvilke institutioner består Færøernes hjemmestyre af?
+
+    1. [x] Lagtinget og et landsstyre
+    2. [ ] Inatsisartut og Naalakkersuisut
+    3. [ ] Folketinget og kirkeministeriet
+
+    ## Hvorfor står Færøerne uden for EU?
+
+    1. [ ] Danmark krævede, at øerne meldte sig ud
+    2. [ ] Færøerne blev aldrig en del af rigsfællesskabet
+    3. [x] Færøerne valgte at stå udenfor, da Danmark blev medlem i 1973
+
+    ## Hvad vedtog Lagtinget i 2025 om abort ifølge teksten?
+
+    1. [ ] At forbyde abort i alle tilfælde
+    2. [x] At indføre fri abort til den 12. graviditetsuge
+    3. [ ] At bevare lovgivningen helt uændret
+
+    ## Hvilken roman skrev Jørgen-Frantz Jacobsen?
+
+    1. [x] Barbara
+    2. [ ] De fortabte spillemænd
+    3. [ ] Blomsterdalen
+
+    ## Hvilken færøsk forfatter skrev De fortabte spillemænd?
+
+    1. [ ] Jørgen-Frantz Jacobsen
+    2. [ ] Hans Lynge
+    3. [x] William Heinesen
+
+    ## Hvilket værk modtog Vónbjørt Vang Nordisk Råds Litteraturpris for i 2025?
+
+    1. [ ] Barbara
+    2. [x] Digtsamlingen Sort Okidé
+    3. [ ] De fortabte spillemænd
+
+    ## Hvilket symbol har Færøernes flag, Merkið?
+
+    1. [x] Et kors i farverne hvidt, blåt og rødt
+    2. [ ] En rød og hvid cirkel
+    3. [ ] Et grønt træ på hvid baggrund
+
+    ## Hvornår er Færøernes nationaldag?
+
+    1. [ ] 21. juni
+    2. [ ] 5. juni
+    3. [x] 29. juli

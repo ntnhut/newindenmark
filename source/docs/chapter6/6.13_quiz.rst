@@ -1,7 +1,7 @@
-Quiz til 6.13
-==========================================
+Quiz til 6.13 Familie og familieliv
+===================================
 
-
+Der er 18 spørgsmål i quizzen.
 
 .. quizdown::
 
@@ -9,38 +9,20 @@ Quiz til 6.13
     primary_color: orange
     secondary_color: lightgray
     text_color: black
-    shuffle_questions: true
+    shuffle_questions: false
     ---
-
-    ## Hvilken samlivsform var tidligere den mest almindelige familietype?
-
-    1. [x] En gift mand og kvinde med deres børn
-    2. [ ] En gruppe venner uden børn
-    3. [ ] Enlige voksne, der bor hver for sig
 
     ## Hvilke familietyper findes i Danmark i dag?
 
-    1. [ ] Kun gifte par med børn
-    2. [x] Blandt andet ugifte par, par af samme køn og enlige med eller uden børn
-    3. [ ] Kun enlige forældre
+    1. [ ] Gifte par med børn, men ikke ugifte par eller enlige
+    2. [x] Gifte og ugifte par, par af samme køn og enlige
+    3. [ ] Gifte og ugifte par, men ikke par af samme køn
 
-    ## Hvilken samlivsform er stadig den mest almindelige blandt par?
+    ## Hvordan har ægteskabsmønstret ændret sig ifølge teksten?
 
-    1. [x] Ægteskab mellem mand og kvinde
-    2. [ ] Partnerskab uden fælles bopæl
-    3. [ ] Ægteskab mellem personer af samme køn
-
-    ## Hvor stor en andel af alle samboende par var i 2026 en gift mand og kvinde?
-
-    1. [ ] 31 procent
-    2. [ ] 55 procent
-    3. [x] 73 procent
-
-    ## Hvordan ændrede andelen af gifte 30-årige kvinder sig fra 1970 til 2026?
-
-    1. [x] Den faldt fra 88 procent til 31 procent
-    2. [ ] Den steg fra 31 procent til 88 procent
-    3. [ ] Den faldt fra 73 procent til 55 procent
+    1. [x] Færre gifter sig, og de gifter sig typisk senere
+    2. [ ] Flere gifter sig, og de gifter sig typisk tidligere
+    3. [ ] Næsten alle bliver gift, før de fylder 20 år
 
     ## Har ugifte samlevende automatisk samme juridiske og økonomiske forpligtelser som ægtepar?
 
@@ -48,29 +30,11 @@ Quiz til 6.13
     2. [ ] Ja, hvis de har fælles adresse
     3. [x] Nej
 
-    ## Indtil hvilket år kunne seksuelle relationer mellem personer af samme køn straffes?
-
-    1. [x] 1933
-    2. [ ] 1981
-    3. [ ] 1989
-
-    ## Hvornår blev homoseksualitet fjernet fra Sundhedsstyrelsens liste over psykiske sygdomme?
-
-    1. [ ] 1933
-    2. [x] 1981
-    3. [ ] 2012
-
     ## Hvornår indførte Danmark registreret partnerskab for personer af samme køn?
 
     1. [ ] 1981
     2. [x] 1989
     3. [ ] 2001
-
-    ## Hvilket land var først i verden til at indføre registreret partnerskab for par af samme køn?
-
-    1. [x] Danmark
-    2. [ ] Holland
-    3. [ ] Sverige
 
     ## Hvornår fik personer af samme køn mulighed for at indgå ægteskab i Danmark?
 
@@ -78,23 +42,11 @@ Quiz til 6.13
     2. [ ] 1989
     3. [ ] 2026
 
-    ## Siden hvornår har personer af samme køn kunnet adoptere sammen i Danmark?
+    ## Kan to personer af samme køn adoptere sammen ifølge teksten?
 
-    1. [ ] 1981
-    2. [ ] 2001
-    3. [x] 2010
-
-    ## Hvor stor en andel af voksne levede som enlige i 2024 ifølge teksten?
-
-    1. [x] 55 procent
-    2. [ ] 31 procent
-    3. [ ] 73 procent
-
-    ## Hvilke forhold nævnes som forklaringer på, at flere voksne lever alene?
-
-    1. [ ] Færre skilsmisser og færre ældre
-    2. [x] Flere skilsmisser og flere ældre, hvis ægtefælle er død
-    3. [ ] Flere registrerede partnerskaber og færre enlige
+    1. [ ] Nej, kun par af forskelligt køn må adoptere
+    2. [ ] Kun hvis de bor uden for Danmark
+    3. [x] Ja, det har været muligt siden 2010
 
     ## Hvilke rettigheder har mænd og kvinder ifølge teksten?
 
@@ -104,21 +56,27 @@ Quiz til 6.13
 
     ## Hvad er myndighedsalderen i Danmark?
 
-    1. [ ] 13 år
-    2. [x] 18 år
+    1. [x] 18 år
+    2. [ ] 13 år
     3. [ ] 21 år
 
-    ## Hvad gælder som udgangspunkt for børn under 13 år?
+    ## Hvad siger teksten om forældres ret til at slå deres børn?
 
-    1. [ ] De må frit arbejde uden for hjemmet
-    2. [x] De må ikke arbejde uden for hjemmet
-    3. [ ] De er myndige, hvis forældrene giver tilladelse
+    1. [ ] Forældre må slå børn, hvis skolen giver tilladelse
+    2. [ ] Forældre bestemmer selv, om vold skal indgå i opdragelsen
+    3. [x] Forældre må ikke slå deres børn
 
     ## Hvad kan myndighederne gøre, hvis et barn udsættes for vold eller behandles dårligt?
 
     1. [ ] Lade barnet indgå ægteskab før det fylder 18 år
-    2. [ ] Overdrage forældremyndigheden til Folketinget
-    3. [x] Tvangsfjerne barnet og anbringe det hos en anden familie
+    2. [x] Tvangsfjerne barnet og anbringe det hos en anden familie
+    3. [ ] Overdrage forældremyndigheden til Folketinget
+
+    ## Hvem bestemmer, hvordan en person på 18 år vil leve og med hvem?
+
+    1. [x] Personen selv
+    2. [ ] Personens forældre
+    3. [ ] Personens religiøse leder
 
     ## Kan forældre tvinge deres barn til at indgå ægteskab?
 
@@ -128,36 +86,36 @@ Quiz til 6.13
 
     ## Hvilke grundlæggende betingelser for at indgå ægteskab nævner teksten?
 
-    1. [x] Begge skal have lovligt ophold, være fyldt 18 år og gifte sig frivilligt
-    2. [ ] Begge skal være danske statsborgere og eje en fælles bolig
+    1. [ ] Begge skal være danske statsborgere og eje en fælles bolig
+    2. [x] Begge skal have lovligt ophold, være fyldt 18 år og gifte sig frivilligt
     3. [ ] Begge skal have forældrenes samtykke uanset alder
 
     ## Hvad har en ægtefælle ret til, hvis kun den ene ønsker skilsmisse, og der ikke er særlige forhold?
 
-    1. [ ] Skilsmisse straks uden separation
-    2. [x] Seks måneders separation og derefter skilsmisse
+    1. [x] Seks måneders separation og derefter skilsmisse
+    2. [ ] Skilsmisse straks uden separation
     3. [ ] Separation uden mulighed for senere skilsmisse
 
     ## Hvad gælder, hvis begge ægtefæller er enige om at blive skilt?
 
-    1. [x] De kan få skilsmisse straks
-    2. [ ] De skal altid vente seks måneder
-    3. [ ] De skal først have tilladelse fra Folketinget
+    1. [ ] De skal altid vente seks måneder
+    2. [ ] De skal først have tilladelse fra Folketinget
+    3. [x] De kan få skilsmisse straks
 
     ## Hvornår kan en ægtefælle få skilsmisse straks, selv om parret ikke er enige?
 
     1. [ ] Når ægtefællerne har boet sammen i ét år
-    2. [ ] Når den ene ønsker at flytte til en anden kommune
-    3. [x] Når der foreligger særlige forhold som utroskab eller vold
+    2. [x] Når der foreligger særlige forhold som utroskab eller vold
+    3. [ ] Når den ene ønsker at flytte til en anden kommune
 
     ## Hvad gælder som udgangspunkt for forældremyndigheden efter en skilsmisse?
 
-    1. [ ] Den overgår automatisk til kommunen
-    2. [x] Forældrene fortsætter med at have fælles forældremyndighed
+    1. [x] Forældrene fortsætter med at have fælles forældremyndighed
+    2. [ ] Den overgår automatisk til kommunen
     3. [ ] Den tilfalder altid den forælder, der tjener mest
 
     ## Hvem afgør spørgsmålet, hvis en forælder ønsker forældremyndigheden alene?
 
     1. [ ] Folketinget
-    2. [x] Retten
-    3. [ ] Barnets skole
+    2. [ ] Barnets skole
+    3. [x] Retten

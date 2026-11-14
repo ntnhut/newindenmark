@@ -1,0 +1,97 @@
+Quiz til 6.7 Danmark og Norden
+==============================
+
+Der er 14 spørgsmål i quizzen.
+
+.. quizdown::
+
+    ---
+    primary_color: orange
+    secondary_color: lightgray
+    text_color: black
+    shuffle_questions: false
+    ---
+
+    ## Hvilke fem lande regnes som de nordiske lande?
+
+    1. [ ] Danmark, Tyskland, Norge, Finland og Island
+    2. [x] Danmark, Sverige, Norge, Finland og Island
+    3. [ ] Danmark, Sverige, Polen, Finland og Island
+
+    ## Hvad er et synligt symbol på det nordiske fællesskab?
+
+    1. [x] At alle fem nordiske landes flag har et kors
+    2. [ ] At alle landene bruger samme farver i deres flag
+    3. [ ] At alle landene har samme nationalsang
+
+    ## Hvilket nordisk land har den største befolkning?
+
+    1. [ ] Danmark
+    2. [ ] Finland
+    3. [x] Sverige
+
+    ## Hvilket nordisk land har den mindste befolkning?
+
+    1. [ ] Norge
+    2. [x] Island
+    3. [ ] Finland
+
+    ## Hvilken union samlede Norden politisk i slutningen af middelalderen?
+
+    1. [x] Kalmarunionen
+    2. [ ] Den Europæiske Union
+    3. [ ] Warszawapagten
+
+    ## Hvorfor kan danskere, svenskere og nordmænd forholdsvis let forstå hinandens sprog?
+
+    1. [ ] Landene har indført ét fælles officielt sprog
+    2. [ ] Alle tre sprog har udviklet sig fra finsk
+    3. [x] Sprogene er nært beslægtede og har bevaret mange fællestræk
+
+    ## Hvilke to sprog er officielle i Finland?
+
+    1. [ ] Finsk og dansk
+    2. [x] Finsk og svensk
+    3. [ ] Finsk og norsk
+
+    ## Hvilken trosretning blev dominerende i Norden efter reformationen?
+
+    1. [x] Den protestantiske, evangelisk-lutherske tro
+    2. [ ] Den ortodokse tro
+    3. [ ] Den katolske tro
+
+    ## Hvad kendetegner den nordiske velfærdsmodel?
+
+    1. [ ] Velfærd betales kun af den enkelte bruger
+    2. [ ] Staten tilbyder kun uddannelse til offentligt ansatte
+    3. [x] Velfærdsydelser finansieres i fællesskab gennem skatter og afgifter
+
+    ## Hvilke nordiske lande står uden for EU ifølge teksten?
+
+    1. [ ] Finland og Sverige
+    2. [x] Norge og Island
+    3. [ ] Danmark og Finland
+
+    ## Hvilke nordiske lande blev NATO-medlemmer i henholdsvis 2023 og 2024?
+
+    1. [x] Finland og Sverige
+    2. [ ] Norge og Island
+    3. [ ] Danmark og Norge
+
+    ## Hvem består Nordisk Råd af?
+
+    1. [ ] Ministre fra de nationale regeringer
+    2. [ ] Dommere fra de nordiske højesteretter
+    3. [x] Politikere fra de nationale parlamenter
+
+    ## Hvilken opgave har Nordisk Ministerråd?
+
+    1. [ ] Det består af dommere fra de nordiske landes højesteretter
+    2. [x] Det samler ministre fra landenes regeringer om nordisk samarbejde
+    3. [ ] Det fastsætter fælles skatter for alle nordiske borgere
+
+    ## Hvilke selvstyrende områder deltager i det officielle nordiske samarbejde?
+
+    1. [x] Grønland, Færøerne og Ålandsøerne
+    2. [ ] Bornholm, Gotland og Fyn
+    3. [ ] Grønland, Island og Svalbard

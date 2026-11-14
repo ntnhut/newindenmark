@@ -1,8 +1,0 @@
-Quizzer til 6.12
-================
-
-.. toctree::
-   :maxdepth: 1
-
-   6.12a_uddannelse_quiz
-   6.12b_praksis_og_reformer_quiz
